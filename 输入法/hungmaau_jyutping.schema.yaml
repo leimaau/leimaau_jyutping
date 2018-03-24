@@ -80,7 +80,7 @@ speller:
     - "derive/^(.*)<$/$1,/"
 
 translator:
-  dictionary: hungmaau_jyutping
+  dictionary: leimaau_jyutping
   spelling_hints: 9
   preedit_format:
     - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
