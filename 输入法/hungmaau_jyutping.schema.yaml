@@ -78,6 +78,9 @@ speller:
     - "derive/^(.*)-$/$1:/"
     - "derive/^(.*)-$/$1;/"
     - "derive/^(.*)<$/$1,/"
+    
+menu:
+  page_size: 9
 
 translator:
   dictionary: leimaau_jyutping
