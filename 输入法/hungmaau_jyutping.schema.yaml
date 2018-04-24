@@ -4,7 +4,7 @@
 schema:
   schema_id: hungmaau_jyutping
   name: "熊貓粵拼"
-  version: "1" #20180324
+  version: "20180424"
   author:
     - LeiMaau
   description: |
@@ -69,6 +69,7 @@ speller:
     - xform/˨/xx/
     - derive/([aeioumngptk])(qq?|vv?|xx?)/$1/
     - derive/aa/r/
+    - derive/aa$/a/
     - derive/jyu/yu/
     - derive/jyu/ju/
     - derive/j([aeiour])/y$1/

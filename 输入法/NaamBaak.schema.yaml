@@ -1,0 +1,126 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: NaamBaak
+  name: 南寧白話
+  version: "20180423"
+  author:
+    - LeiMaau
+  description: |
+    採用『香港語言學會粵語拼音方案』
+    聲調輸入 q平 v上 x去 （雙擊爲陽調）
+  dependencies:
+    - luna_pinyin
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: zh_simp
+    reset: 1
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: ["。，", "．，"]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - derive/([123456])//         # 忽略声调
+    - derive/^([aeiou])/q$1/      # 增加 q 表示喉塞
+    - xform/1/q/
+    - xform/4/qq/
+    - xform/2/v/
+    - xform/5/vv/
+    - xform/3/x/
+    - xform/6/xx/
+    - derive/^(z|c|s)y/$1z/       # 容錯	(zcs)y -> (zcs)z
+    - derive/^(z|c|s)y/$1ii/      # 容錯	(zcs)y -> (zcs)ii
+    - derive/^jy?([aeiou])/y$1/   # 容錯 j -> y
+    - derive/^jyu/ju/             # 容錯 jyu -> ju
+    - derive/aa/r/                # 容錯 aa -> r
+    - derive/oe(ng|k)$/eo$1/      # 容錯 oe(ng|k) -> eo(ng|k)
+    - derive/a([nt])$/oe$1/       # 容錯 a(nt) -> oe(nt)
+    - derive/aa$/a/               # 容錯 aa -> a
+    - derive/yu/v/                # 廣州式 yu -> v
+    - derive/(.*)p$/$1b/          # 廣州式
+    - derive/(.*)t$/$1d/          # 廣州式
+    - derive/(.*)k$/$1g/          # 廣州式
+    - derive/^(g|k)w/$1u/         # 廣州式
+    - derive/aau$/ao/             # 廣州式 aau -> ao
+    - derive/^sl/s/               # 模糊 sl -> s
+    - derive/^(g|k)o/$1wo/        # 模糊 (gk)o -> (gk)wo
+    - derive/ui$/eoi/          	  # 模糊 ui -> eoi
+    - derive/yu$/eoi/          	  # 模糊 yu -> eoi
+    - derive/an$/eon/          	  # 模糊 an -> eon
+    - derive/at$/eot/          	  # 模糊 at -> eot
+    - derive/i$/ei/          	    # 模糊 i -> ei
+    - derive/u$/ou/          	    # 模糊 u -> ou
+    - derive/^dik/d/          	  # 模糊 dik -> d
+
+menu:
+  page_size: 9
+
+translator:
+  dictionary: NaamBaak
+  spelling_hints: 9
+  preedit_format:
+    - xform/qq/⁴/
+    - xform/([aeioumngptk])q/$1¹/
+    - xform/([aeioumngptk])vv/$1⁵/
+    - xform/([aeioumngptk])v/$1²/
+    - xform/xx/⁶/
+    - xform/x/³/
+  comment_format:
+
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: "'"
+  tips: 〔北京官話〕
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
+    - xform/([nl])ue/$1üe/
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
+    reverse_lookup: "`[a-z]*'?$"
+
+simplifier:
+  option_name: zh_simp

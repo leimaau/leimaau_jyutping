@@ -4,7 +4,7 @@
 schema:
   schema_id: leimaau_jyutping
   name: "狸貓粵拼"
-  version: "1" #20171118
+  version: "20180424"
   author:
     - LeiMaau
   description: |
@@ -78,6 +78,7 @@ speller:
     - xform/˨/xx/
     - derive/([aeioumngptk])(qq?|vv?|xx?)/$1/
     - derive/aa/r/
+    - derive/aa$/a/
     - derive/jyu/yu/
     - derive/jyu/ju/
     - derive/j([aeiour])/y$1/
