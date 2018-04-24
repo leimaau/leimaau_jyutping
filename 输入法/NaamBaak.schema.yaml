@@ -53,6 +53,7 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
+    - abbrev/^([a-z]).+$/$1/
     - derive/([123456])//         # 忽略声调
     - derive/^([aeiou])/q$1/      # 增加 q 表示喉塞
     - xform/1/q/
@@ -69,6 +70,7 @@ speller:
     - derive/oe(ng|k)$/eo$1/      # 容錯 oe(ng|k) -> eo(ng|k)
     - derive/a([nt])$/oe$1/       # 容錯 a(nt) -> oe(nt)
     - derive/aa$/a/               # 容錯 aa -> a
+    - derive/yut/ut/              # 容錯 yut -> ut
     - derive/yu/v/                # 廣州式 yu -> v
     - derive/(.*)p$/$1b/          # 廣州式
     - derive/(.*)t$/$1d/          # 廣州式
