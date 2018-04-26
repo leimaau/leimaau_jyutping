@@ -12,7 +12,7 @@
 
 ---
 name: NaamBaak
-version: "20180423"
+version: "20180427"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -31129,48 +31129,57 @@ game	gem1
 21三體綜合症	ji6 jat1 saam1 tai2 zung3 hap6 zing3
 3C	saam1 si1
 AA制	aa zai3
-AA制	ai1 ai1 zai3
-AB制	ai1 b zai3
-A咖	a gaa3
-A圈兒	ai1 hyun1 ji4
-A片	a pin3
+AA制	ei1 ei1 zai3
+AB制	ab zai3
+A咖	ei1 gaa3
+A圈兒	ei1 hyun1 ji4
+A片	ei1 pin3
 BB機	bi1 bi1 gi1
-B型超聲	b jing4 ciu1 sing1
+B超	bi1 ciu1
+B型超聲	bi1 jing4 ciu1 sing1
+CIB	cib
 CIB	si1 aai1 bi1
-C盤	c pun4
+C盤	cpun4
+C盤	si1 pun4
+DNA	dna
 DNA鑒定	dna gaam3 ding6
 E仔	ji1 zai2
 G弦褲	zyu1 jin4 fu3
-G點	g dim2
+G點	zyu1 dim2
+IP	ip
 IP	aai1 pi1
-K仔	kai1 zai2
-K他命	kai1 taa1 ming6
-K房	kai1 fong2
-K書	kai1 syu1
-K歌	kai1 go1
-K粉	kai1 fan2
-M巾	m gan1
-O.T.	au1 ti1
-OK	au1 kai1
-OK繃	au1 kai1 bang1
-OK鏡	au1 kai1 geng3
-O型腿	au1 jing4 tui2
-O記	au1 gi3
+K仔	kei1 zai2
+K他命	kei1 taa1 ming6
+K房	kei1 fong2
+K書	kei1 syu1
+K歌	kei1 go1
+K粉	kei1 fan2
+M巾	em1 gan1
+O.T.	ou1 ti1
+OK	ou1 kei1
+OK繃	ou1 kei1 bang1
+OK鏡	ou1 kei1 geng3
+O型腿	ou1 jing4 tui2
+O記	ou1 gi3
+PC	pc
 PC	pi1 si1
 PTU	pi1 ti1 jiu1
-P圖	p tu4
-P民	p man4
+P圖	pi1 tu4
+P民	pi1 man4
 T字帳	ti1 zi6 zoeng3
 T字褲	ti1 zi6 fu3
 T恤	ti1 sat1
 T裇	ti1 sat1
+USB	usb
 USB手指	usb sau2 zi2
 USB記憶棒	usb gi3 jik1 bong6
-U凸內褲	u dat6 nui6 fu3
-U型枕	u jing4 zam2
-U形轉彎	u jing4 zyun3 waan1
-U盤	u pun4
-V溝	v gau1
+U凸內褲	ju1 dat6 nui6 fu3
+U型枕	ju1 jing4 zam2
+U形轉彎	ju1 jing4 zyun3 waan1
+U盤	upun2
+U盤	ju1 pun4
+V溝	wi1 gau1
+X光	xgwong1
 X光	ik1 si4 gong1
 book	buk1
 book位	buk1 wai6
@@ -32297,8 +32306,8 @@ van仔	wen1 zai2
 丈母娘
 丈量
 三C	saam1 si1
-三P	saam1 p
-三T	saam1 t
+三P	saam1 pi1
+三T	saam1 ti1
 三七
 三七二十一
 三七仔
@@ -39618,7 +39627,7 @@ van仔	wen1 zai2
 侄仔
 侄婦
 侄心抱
-來M	lai4 m
+來M	lai4 em
 來不及
 來不得
 來世
@@ -41965,8 +41974,8 @@ van仔	wen1 zai2
 傷風
 傷風感冒
 傷風敗俗
-傻B	so4 b
-傻X	so4 x
+傻B	so4 bi1
+傻X	so4 caa1
 傻不愣登
 傻乎乎
 傻事
@@ -44498,7 +44507,7 @@ van仔	wen1 zai2
 冇品
 冇問題
 冇啖好食
-冇啲挐褦
+冇啲𠸎褦
 冇嘢
 冇嘢到
 冇嘢呀嘛
@@ -44538,9 +44547,9 @@ van仔	wen1 zai2
 冇心裝載
 冇所謂
 冇手尾
-冇挐冇褦
-冇挐耕
-冇挐褦
+冇𠸎冇褦
+冇𠸎耕
+冇𠸎褦
 冇掩雞籠
 冇揸拿
 冇搭霎
@@ -47922,7 +47931,7 @@ van仔	wen1 zai2
 勒逼
 勒馬
 勒龐
-動L	dung6 l
+動L	dung6 el1
 動不動
 動之以情
 動亂
@@ -54316,8 +54325,8 @@ van仔	wen1 zai2
 哄瞞
 哄笑
 哄騙
-哆啦A夢	do1 laa1 a mung6
-哆啦A夢	do1 laa1 ai1 mung6
+哆啦A夢	do1 laa1 amung6
+哆啦A夢	do1 laa1 ei1 mung6
 哆嗦
 哆囉美遠
 哆囉美遠族
@@ -54859,7 +54868,6 @@ van仔	wen1 zai2
 唔抵得諗
 唔抵得頸
 唔拘
-唔挐耕
 唔捨得
 唔掂
 唔掂諗到掂為止
@@ -60688,7 +60696,7 @@ van仔	wen1 zai2
 夥計
 夥記
 夥頤
-大V	daai6 v
+大V	daai6 wi1
 大一
 大一些
 大一統
@@ -70331,7 +70339,7 @@ van仔	wen1 zai2
 巴格達
 巴楚
 巴楚縣
-巴比Q	baa1 bi2 q
+巴比Q	baa1 bi2 kiu1
 巴比倫
 巴比妥
 巴比通
@@ -80580,8 +80588,8 @@ van仔	wen1 zai2
 挎兜兒
 挎包
 挎斗
-挐挐褦褦
-挐褦
+𠸎𠸎褦褦
+𠸎褦
 挑三揀四
 挑三窩四
 挑刺
@@ -89032,7 +89040,7 @@ van仔	wen1 zai2
 有才幹
 有找
 有把炮
-有挐褦
+有𠸎褦
 有排
 有排等
 有揸手
@@ -91239,7 +91247,7 @@ van仔	wen1 zai2
 柬埔寨
 柬埔寨人民黨
 柬帖
-柯P	o1 p
+柯P	o1 pi1
 柯佬
 柯坪
 柯坪縣
@@ -103555,7 +103563,7 @@ van仔	wen1 zai2
 無所適從
 無技可施
 無把握
-無拏拏
+無𠸎𠸎
 無拘
 無拘束
 無拘無束
@@ -105227,7 +105235,7 @@ van仔	wen1 zai2
 牙齒矯正器
 牙齦
 牙齦炎
-牛B	ngau4 b
+牛B	ngau4 bi1
 牛一
 牛丸
 牛乳餅
@@ -109071,7 +109079,7 @@ van仔	wen1 zai2
 異端
 異端者
 異端邪說
-異維A酸	ji6 wai4 ai1 syun1
+異維A酸	ji6 wai4 ei1 syun1
 異義
 異能
 異腈
@@ -131340,7 +131348,7 @@ van仔	wen1 zai2
 補養
 補體
 補𤶸
-裝B	zong1 b
+裝B	zong1 bi1
 裝住嘢
 裝作
 裝佯
@@ -146444,7 +146452,7 @@ van仔	wen1 zai2
 阻難
 阻雨
 阻頭阻勢
-阿Q正傳	aa3 q zing3 zyun6
+阿Q正傳	aa3 kiu1 zing3 zyun6
 阿sir	aa3 sir
 阿三
 阿丹
@@ -157182,8 +157190,8 @@ van仔	wen1 zai2
 鼾聲
 鼾聲如雷
 鼾鼾
-齊B小短裙	cai4 b siu2 dyun2 kwan4
-齊B短裙	cai4 b dyun2 kwan4
+齊B小短裙	cai4 bi1 siu2 dyun2 kwan4
+齊B短裙	cai4 bi1 dyun2 kwan4
 齊一
 齊人之福
 齊備
@@ -157636,4 +157644,451 @@ van仔	wen1 zai2
 愛奇藝
 嗶哩嗶哩
 知乎
-B站	b zaam6
+B站	bzaam6
+B站	bi1 zaam6
+觀察者網
+糾正	dau2 zing3
+等下	dang2 haa5
+RIME	rime
+QQ	kiu1 kiu1
+QQ	qq
+WIFI	wifi
+WIFI	waai faai
+
+
+# 英文读音式
+A	ei
+B	bi
+C	si
+D	di
+E	ji
+F	ef
+G	zyu
+H	eicyu
+I	aai
+J	zei
+K	kei
+L	el
+M	em
+N	en
+O	ou
+P	pi
+Q	kiu
+R	aa
+S	es
+T	ti
+U	ju
+V	wi
+W	daaplju
+X	eks
+Y	waai
+Z	jisik
+Z	jet
+
+#数字
+0	ling4
+1	jat1
+2	ji6
+3	saam1
+4	sei3
+5	ng5
+6	luk6
+7	cat1
+8	baat3
+9	gau2
+
+#日語五十音
+あ	xwa
+い	xwi
+う	xwu
+え	xwe
+お	xwo
+ぁ	xwa
+ぃ	xwi
+ぅ	xwu
+ぇ	xwe
+ぉ	xwo
+か	xwka
+き	xwki
+く	xwku
+け	xwke
+こ	xwko
+さ	xwsa
+し	xwshi
+し	xwsi
+す	xwsu
+せ	xwse
+そ	xwso
+た	xwta
+ち	xwchi
+ち	xwti
+つ	xwtsu
+つ	xwtu
+て	xwte
+と	xwto
+な	xwna
+に	xwni
+ぬ	xwnu
+ね	xwne
+の	xwno
+は	xwha
+ひ	xwhi
+ふ	xwfu
+ふ	xwhu
+へ	xwhe
+ほ	xwho
+ま	xwma
+み	xwmi
+む	xwmu
+め	xwme
+も	xwmo
+や	xwya
+ゆ	xwyu
+よ	xwyo
+ゃ	xwya
+ゅ	xwyu
+ょ	xwyo
+ら	xwra
+り	xwri
+る	xwru
+れ	xwre
+ろ	xwro
+わ	xwwa
+ゐ	xwwi
+ゔ	xwwu
+ゑ	xwwe
+を	xwwo
+ん	xwn
+っ	xwq
+
+が	xwga
+ぎ	xwgi
+ぐ	xwgu
+げ	xwge
+ご	xwgo
+ざ	xwza
+じ	xwji
+じ	xwzi
+ず	xwzu
+ぜ	xwze
+ぞ	xwzo
+だ	xwda
+ぢ	xwdji
+ぢ	xwdi
+づ	xwdzu
+づ	xwdu
+で	xwde
+ど	xwdo
+ば	xwba
+び	xwbi
+ぶ	xwbu
+べ	xwbe
+ぼ	xwbo
+ぱ	xwpa
+ぴ	xwpi
+ぷ	xwpu
+ぺ	xwpe
+ぽ	xwpo
+きゃ	xwkya
+きゅ	xwkyu
+きょ	xwkyo
+ぎゃ	xwgya
+ぎゅ	xwgyu
+ぎょ	xwgyo
+しゃ	xwsya
+しゅ	xwsyu
+しょ	xwsyo
+しゃ	xwsha
+しゅ	xwshu
+しょ	xwsho
+じゃ	xwja
+じゅ	xwju
+じょ	xwjo
+じゃ	xwzya
+じゅ	xwzyu
+じょ	xwzyo
+ちゃ	xwcha
+ちゅ	xwchu
+ちょ	xwcho
+ちゃ	xwtya
+ちゅ	xwtyu
+ちょ	xwtyo
+ぢゃ	xwdya
+ぢゅ	xwdyu
+ぢょ	xwdyo
+ぢゃ	xwdha
+ぢゅ	xwdhu
+ぢょ	xwdho
+ちゃ	xwnya
+にゅ	xwnyu
+にょ	xwnyo
+ひゃ	xwhya
+ひゅ	xwhyu
+ひょ	xwhyo
+びゃ	xwbya
+びゅ	xwbyu
+びょ	xwbyo
+ぴゃ	xwpya
+ぴゅ	xwpyu
+ぴょ	xwpyo
+みゃ	xwmya
+みゅ	xwmyu
+みょ	xwmyo
+りゃ	xwrya
+りゅ	xwryu
+りょ	xwryo
+
+
+
+ア	xwa
+イ	xwi
+ウ	xwu
+エ	xwe
+オ	xwo
+ァ	xwa
+ィ	xwi
+ゥ	xwu
+ェ	xwe
+ォ	xwo
+カ	xwka
+キ	xwki
+ク	xwku
+ケ	xwke
+コ	xwko
+サ	xwsa
+シ	xwshi
+シ	xwsi
+ス	xwsu
+セ	xwse
+ソ	xwso
+タ	xwta
+チ	xwchi
+チ	xwti
+ツ	xwtsu
+ツ	xwtu
+テ	xwte
+ト	xwto
+ナ	xwna
+ニ	xwni
+ヌ	xwnu
+ネ	xwne
+ノ	xwno
+ハ	xwha
+ヒ	xwhi
+フ	xwfu
+フ	xwhu
+ヘ	xwhe
+ホ	xwho
+マ	xwma
+ミ	xwmi
+ム	xwmu
+メ	xwme
+モ	xwmo
+ヤ	xwya
+ユ	xwyu
+ヨ	xwyo
+ャ	xwya
+ュ	xwyu
+ョ	xwyo
+ラ	xwra
+リ	xwri
+ル	xwru
+レ	xwre
+ロ	xwro
+ワ	xwwa
+ヰ	xwwi
+ヴ	xwwu
+ヱ	xwwe
+ヲ	xwwo
+ン	xwn
+ッ	xwq
+ー	xwx
+ガ	xwga
+ギ	xwgi
+グ	xwgu
+ゲ	xwge
+ゴ	xwgo
+ザ	xwza
+ジ	xwji
+ジ	xwzi
+ズ	xwzu
+ゼ	xwze
+ゾ	xwzo
+ダ	xwda
+ヂ	xwdji
+ヂ	xwdi
+ヅ	xwdzu
+ヅ	xwdu
+デ	xwde
+ド	xwdo
+バ	xwba
+ビ	xwbi
+ブ	xwbu
+ベ	xwbe
+ボ	xwbo
+パ	xwpa
+ピ	xwpi
+プ	xwpu
+ペ	xwpe
+ポ	xwpo
+キャ	xwkya
+キュ	xwkyu
+キョ	xwkyo
+ギャ	xwgya
+ギュ	xwgyu
+ギョ	xwgyo
+シャ	xwsya
+シュ	xwsyu
+ショ	xwsyo
+シャ	xwsha
+シュ	xwshu
+ショ	xwsho
+ジャ	xwja
+ジュ	xwju
+ジョ	xwjo
+ジャ	xwzya
+ジュ	xwzyu
+ジョ	xwzyo
+チャ	xwcha
+チュ	xwchu
+チョ	xwcho
+チャ	xwtya
+チュ	xwtyu
+チョ	xwtyo
+ヂャ	xwdya
+ヂュ	xwdyu
+ヂョ	xwdyo
+ヂャ	xwdha
+ヂュ	xwdhu
+ヂョ	xwdho
+ニャ	xwnya
+ニュ	xwnyu
+ニョ	xwnyo
+ヒャ	xwhya
+ヒュ	xwhyu
+ヒョ	xwhyo
+ビャ	xwbya
+ビュ	xwbyu
+ビョ	xwbyo
+ピャ	xwpya
+ピュ	xwpyu
+ピョ	xwpyo
+ミャ	xwmya
+ミュ	xwmyu
+ミョ	xwmyo
+リャ	xwrya
+リュ	xwryu
+リョ	xwryo
+ヴャ	xwvya
+ヴュ	xwvyu
+ヴョ	xwvyo
+ファ	xwhua
+フィ	xwhui
+フ	xwhu
+フェ	xwhue
+フォ	xwhuo
+ファ	xwfa
+フィ	xwfi
+フ	xwfu
+フェ	xwfe
+フォ	xwfo
+ワ	xwwa
+ウィ	xwwi
+ウ	xwwu
+ウェ	xwwe
+ウォ	xwwo
+ツァ	xwtsa
+ツィ	xwtsi
+ツ	xwtsu
+ツェ	xwtse
+ツォ	xwtso
+ツァ	xwtsua
+ツィ	xwtsui
+ツ	xwtsuu
+ツェ	xwtsue
+ツォ	xwtsuo
+ヴァ	xwva
+ヴィ	xwvi
+ヴ	xwvu
+ヴェ	xwve
+ヴォ	xwvo
+テャ	xwtea
+ティ	xwtei
+テュ	xwteu
+テェ	xwtee
+テョ	xwteo
+デャ	xwdea
+ディ	xwdei
+デュ	xwdeu
+デェ	xwdee
+デョ	xwdeo
+テャ	xwta
+ティ	xwti
+テュ	xwtu
+テェ	xwte
+テョ	xwto
+デャ	xwda
+ディ	xwdi
+デュ	xwdu
+デェ	xwde
+デョ	xwdo
+トァ	xwtoa
+トィ	xwtoi
+トゥ	xwtou
+トェ	xwtoe
+トォ	xwtoo
+ドァ	xwdoa
+ドィ	xwdoi
+ドゥ	xwdou
+ドェ	xwdoe
+ドォ	xwdoo
+トァ	xwtwa
+トィ	xwtwi
+トゥ	xwtwu
+トェ	xwtwe
+トォ	xwtwo
+ドァ	xwdwa
+ドィ	xwdwi
+ドゥ	xwdwu
+ドェ	xwdwe
+ドォ	xwdwo
+シャ	xwsha
+シ	xwshi
+シュ	xwshu
+シェ	xwshe
+ショ	xwsho
+ジャ	xwzha
+ジ	xwzhi
+ジュ	xwzhu
+ジェ	xwzhe
+ジョ	xwzho
+ジャ	xwja
+ジ	xwji
+ジュ	xwju
+ジェ	xwje
+ジョ	xwjo
+チャ	xwcha
+チ	xwchi
+チュ	xwchu
+チェ	xwche
+チョ	xwcho
+クァ	xwkwa
+クィ	xwkwi
+クゥ	xwkwu
+クェ	xwkwe
+クォ	xwkwo
+グァ	xwgwa
+グィ	xwgwi
+グゥ	xwgwu
+グェ	xwgwe
+グォ	xwgwo
+クァ	xwkua
+クィ	xwkui
+クゥ	xwkuu
+クェ	xwkue
+クォ	xwkuo
+グァ	xwgua
+グィ	xwgui
+グゥ	xwguu
+グェ	xwgue
+グォ	xwguo
