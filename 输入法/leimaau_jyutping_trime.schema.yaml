@@ -3,8 +3,8 @@
 # 用于同文输入法，放入手机的rime文件夹后要改文件名，去掉"_trime"
 
 schema:
-  schema_id: gammou_jyutping
-  name: "金毛粵拼"
+  schema_id: leimaau_jyutping
+  name: "貍貓粵拼"
   version: "20180427"
   author:
     - LeiMaau
@@ -109,7 +109,7 @@ menu:
   page_size: 9
 
 translator:
-  dictionary: gammou_jyutping
+  dictionary: leimaau_jyutping
   spelling_hints: 9
   preedit_format:
     - xform/([aeioumngptk])qq/$1⁴/
