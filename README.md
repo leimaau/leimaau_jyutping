@@ -1,8 +1,8 @@
 # 狸貓粵拼、熊貓粵拼、南寧白話輸入法
 
- **leimaau_jyutping**即狸貓粵拼——廣州音標準，帶聲調，只有簡體轉換，[`J]反查粵拼，[`I]反查IPA，[`Z]反查中古音。
+ **leimaau_jyutping**即狸貓粵拼——廣州音標準，帶聲調，只有簡體轉換，[\`J]反查粵拼，[\`I]反查IPA，[\`Z]反查中古音。
 
- **hungmaau_jyutping**即熊貓粤拼——廣州音標準，帶聲調，提供傳統繁體、大陸簡體、臺灣繁體、香港繁體和日本字體轉換。
+ **hungmaau_jyutping**即熊貓粤拼——廣州音標準，帶聲調，提供傳統繁體、大陸簡體、臺灣繁體、香港繁體和日本字體轉換，輸入框的內容自動轉換爲IPA。
 
 字彙部分綜合收錄了《統一碼組織統漢字庫unihan》、《粵語審音配詞字庫》和《香港增補字符集》的字形和讀音。
 
