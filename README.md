@@ -1,8 +1,8 @@
 # 狸貓粵拼、熊貓粵拼、南寧白話輸入法
 
- **leimaau_jyutping**即狸貓粵拼——廣州音標準，帶聲調，只有簡體轉換，[\`J]反查粵拼，[\`I]反查IPA，[\`Z]反查中古音。
+ **leimaau_jyutping**即狸貓粵拼——廣州音標準，兼容南寧音，帶聲調，聲調輸入 q平 v上 x去 （雙擊爲陽調），提供多種字體轉換方案。
 
- **hungmaau_jyutping**即熊貓粤拼——廣州音標準，帶聲調，提供傳統繁體、大陸簡體、臺灣繁體、香港繁體和日本字體轉換，輸入框的內容自動轉換爲IPA。
+ **hungmaau_jyutping**即熊貓粤拼——同上，但是提示讀音轉換爲IPA，而且提供多種反查方案，[\`J]反查粵拼，[\`I]反查IPA，[\`Z]反查中古音，[`N]反查南寧白話。
 
 字彙部分綜合收錄了《統一碼組織統漢字庫unihan》、《粵語審音配詞字庫》和《香港增補字符集》的字形和讀音。
 
@@ -12,19 +12,24 @@
 
 **注意：**
 
-安卓機的同文輸入法中opencc的位置在：rime\opencc
+1.安卓機：使用「同文輸入法」
 
-PC的小狼毫輸入法中opencc的位置在：程序文件夾\data\opencc
+除了hungmaau_jyutping.schema.yaml其他都可以使用
 
-leimaau_jyutping_trime.schema.yaml專用於同文輸入法，放入手機rime文件夾後要修改文件名，刪除_trime，並搭配字典文件leimaau_jyutping.dict.yaml使用即可。
+將.yaml和对应的.dict文件以及fonts文件夾放入手機的rime文件中
 
-fonts文件夾小狼毫與同文皆可使用，PC上安裝字體，手機上把fonts文件夾放入rime文件中。
+opencc的文件覆蓋rime\opencc的文件
 
-essay.txt爲八股文。
+如果rime文件夾中沒有essay.txt（八股文）可以添加，有的話就不需要添加了
+
+2.PC：使用「小狼毫輸入法」
+
+將.yaml和对应的.dict文件入小狼毫的「用戶文件夾」中，並安裝fonts文件夾中的字體到windows中
+
+opencc的文件覆蓋小狼毫的「程序文件夾\data\opencc」
+
+小狼毫已經有自帶的essay.txt，不需要覆蓋
 
 具體使用方法見官方網站：[RIME | 中州韻輸入法引擎(主页)](http://rime.im/)
-
-
-
 
 

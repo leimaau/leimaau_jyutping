@@ -64,8 +64,6 @@ speller:
     - derive/^(z|c|s)y$/$1z/      # 模糊	(zcs)y -> (zcs)z
     - derive/^(z|c|s)y$/$1ii/     # 模糊	(zcs)y -> (zcs)ii
     - derive/^jy?([aeiou])/y$1/   # 模糊 j -> y
-    - derive/^j/nj/               # 模糊 j -> nj
-    - derive/^j/ny/               # 模糊 j -> ny
     - derive/^jyu/yu/             # 容錯 jyu -> yu
     - derive/^jyu/ju/             # 容錯 jyu -> ju
     - derive/aa/r/                # 容錯 aa -> r
@@ -95,15 +93,15 @@ speller:
     - derive/e(m|n|ng|k)$/i$1/    # 模糊 e(m|n|ng|k) -> i(m|n|ng|k)
     - derive/aa([mnuptk])$/e$1/   # 模糊 aa(mnuptk) -> e(mnuptk)
     - derive/e([mnuptk])$/aa$1/   # 模糊 e(mnuptk) -> aa(mnuptk)
-    - derive/aa(m|n|u|p|t|k|ng)$/a$1/   # 模糊 aa(m|n|u|p|t|k|ng) -> a(m|n|u|p|t|k|ng)
-    - derive/a(m|n|u|p|t|k|ng)$/aa$1/   # 模糊 a(m|n|u|p|t|k|ng) -> aa(m|n|u|p|t|k|ng)
+    - derive/aa(i|m|n|u|p|t|k|ng)$/a$1/   # 模糊 aa(i|m|n|u|p|t|k|ng) -> a(i|m|n|u|p|t|k|ng)
+    - derive/a(i|m|n|u|p|t|k|ng)$/aa$1/   # 模糊 a(i|m|n|u|p|t|k|ng) -> aa(i|m|n|u|p|t|k|ng)
     - derive/kei$/ke/             # 模糊 kei -> ke
     - derive/ai$/ei/              # 模糊 ai -> ei
     - derive/ei$/ai/              # 模糊 ei -> ai
     - derive/a(m|p)$/o$1/         # 模糊 a(m|p) -> o(m|p)
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([gk]w).+$/$1/      # 聲母簡拼
-    - abbrev/^([n][yj]).+$/$1/    # 聲母簡拼
+    - abbrev/^([s][l]).+$/$1/     # 聲母簡拼
 
 menu:
   page_size: 9
