@@ -16,7 +16,7 @@ schema:
   dependencies:
     - luna_pinyin
     - zyenpheng
-    - NaamBaak
+    - naamning_jyutping
 
 switches:
   - name: ascii_mode
@@ -540,7 +540,7 @@ zyenpheng_reverse_lookup:
 
 naambaak_reverse_lookup:
   tags: [ naambaak_lookup ]
-  dictionary: NaamBaak
+  dictionary: naamning_jyutping
 #  overwrite_comment: true  # 覆蓋其他提示
   comment_format:
     - xform/ /\｜/

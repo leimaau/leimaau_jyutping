@@ -1,7 +1,7 @@
 # Rime dictionary
 # encoding: utf-8
 #
-# NaamBaak - 南寧白話
+# naamning_jyutping - 南寧白話
 #
 # Author - LeiMaau
 #
@@ -11,7 +11,7 @@
 #
 
 ---
-name: NaamBaak
+name: naamning_jyutping
 version: "20180427"
 sort: by_weight
 use_preset_vocabulary: true

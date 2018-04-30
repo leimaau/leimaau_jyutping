@@ -8,11 +8,11 @@
 
 詞彙部分綜合收錄了cc-cedict-canto、cc-canto和《開放粵語詞典》的詞彙，並經過修正。
 
-**NaamBaak**即南寧白話輸入法——綜合收錄了《廣西南寧白話研究》同音字彙、《廣西漢語方言研究》和《南寧白話同音字彙》的字形和讀音，上述資料之外的字音從《統一碼組織統漢字庫unihan》、《粵語審音配詞字庫》和《香港增補字符集》中推導而出，按照新派讀法，詞彙部分收錄了《廣西南寧白話研究》的詞彙以及上述資料的詞彙。
+ **naamning_jyutping**即南寧白話輸入法——綜合收錄了《廣西南寧白話研究》同音字彙、《廣西漢語方言研究》和《南寧白話同音字彙》的字形和讀音，上述資料之外的字音從《統一碼組織統漢字庫unihan》、《粵語審音配詞字庫》和《香港增補字符集》中推導而出，按照新派讀法，詞彙部分收錄了《廣西南寧白話研究》的詞彙以及上述資料的詞彙。
 
 **注意：**
 
-1.安卓機：使用「同文輸入法」
+**1.安卓機：使用「同文輸入法」**
 
 除了hungmaau_jyutping.schema.yaml其他都可以使用
 
@@ -22,7 +22,7 @@ opencc的文件覆蓋rime\opencc的文件
 
 如果rime文件夾中沒有essay.txt（八股文）可以添加，有的話就不需要添加了
 
-2.PC：使用「小狼毫輸入法」
+**2.PC：使用「小狼毫輸入法」**
 
 將.yaml和对应的.dict文件入小狼毫的「用戶文件夾」中，並安裝fonts文件夾中的字體到windows中
 

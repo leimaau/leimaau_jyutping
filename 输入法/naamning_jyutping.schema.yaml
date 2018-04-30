@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: NaamBaak
+  schema_id: naamning_jyutping
   name: 南寧白話
   version: "20180427"
   author:
@@ -107,7 +107,7 @@ menu:
   page_size: 9
 
 translator:
-  dictionary: NaamBaak
+  dictionary: naamning_jyutping
   spelling_hints: 9
   preedit_format:
     - xform/([aeioumngptk])qq/$1⁴/
