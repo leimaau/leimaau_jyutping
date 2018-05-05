@@ -1,5 +1,7 @@
 # 狸貓粵拼、熊貓粵拼、南寧白話輸入法
 
+關於南寧白話的基礎知識參見：[南寧白話小冊子](https://leimaau.gitbooks.io/nnbh/content/)
+
  **leimaau_jyutping**即狸貓粵拼——廣州音標準，兼容南寧音，帶聲調，聲調輸入 q平 v上 x去 （雙擊爲陽調），提供多種字體轉換方案。
 
  **hungmaau_jyutping**即熊貓粤拼——同上，但是提示讀音轉換爲IPA，而且提供多種反查方案，[\`J]反查粵拼，[\`I]反查IPA，[\`Z]反查中古音，[`N]反查南寧白話。
