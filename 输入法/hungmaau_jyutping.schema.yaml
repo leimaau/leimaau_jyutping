@@ -138,23 +138,16 @@ translator:
   dictionary: leimaau_jyutping
   spelling_hints: 9
   preedit_format:
-    - xform/([aeioumngptk])qq/$1⁴/
-    - xform/([aeioumngptk])q/$1¹/
-    - xform/([aeioumngptk])vv/$1⁵/
-    - xform/([aeioumngptk])v/$1²/
-    - xform/([aeioumngptk])xx/$1⁶/
-    - xform/([aeioumngptk])x/$1³/
-  comment_format:
     - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
-    - xform/([ptk])6/$1˨/	熱jiːt̚˨
-    - xform/([ptk])3/$1˧/	咽jiːt̚˧
-    - xform/([ptk])1/$1˥/	一jɐt̚
-    - xform/4/˨˩/	而jiː˨˩
-    - xform/1/˥˥/	倚jiː˥˥
-    - xform/5/˩˧/	以jiː˩˧
-    - xform/2/˧˥/	倚jiː˧˥
-    - xform/6/˨˨/	二jiː˨˨
-    - xform/3/˧˧/	以jiː˧˧
+    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
+    - xform/([ptk])x/$1˧/	咽jiːt̚˧
+    - xform/([ptk])q/$1˥/	一jɐt̚
+    - xform/qq/˨˩/	而jiː˨˩
+    - xform/q/˥˥/	倚jiː˥˥
+    - xform/vv/˩˧/	以jiː˩˧
+    - xform/v/˧˥/	倚jiː˧˥
+    - xform/xx/˨˨/	二jiː˨˨
+    - xform/x/˧˧/	以jiː˧˧
     - xform/([PTK])$/$1]$2/	入jɐp̚
     - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/	用jʊŋ
     - xform/(^|[ '])(jy|[jy])u([t])/$1jYː$3]/	月jyːt̚
