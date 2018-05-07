@@ -102,9 +102,6 @@ speller:
     - derive/aa$/a/               # 容錯 aa -> a
     - derive/oe(ng|k)$/eo$1/      # 容錯 oe(ng|k) -> eo(ng|k)
     - derive/eo([int])$/oe$1/     # 容錯 eo(int) -> oe(int)
-    - derive/(.*)p$/$1b/          # 廣州式
-    - derive/(.*)t$/$1d/          # 廣州式
-    - derive/(.*)k$/$1g/          # 廣州式
     - derive/^(g|k)w/$1u/         # 廣州式
     - derive/aau$/ao/             # 廣州式 aau -> ao
     - derive/yu/y/                # 教院式 jyu -> jy，yu -> y
@@ -121,10 +118,8 @@ speller:
     - derive/i(m|n|ng|k)$/e$1/    # 模糊 i(m|n|ng|k) -> e(m|n|ng|k)
     - derive/e(m|n|ng|k)$/i$1/    # 模糊 e(m|n|ng|k) -> i(m|n|ng|k)
     - derive/aa([mnuptk])$/e$1/   # 模糊 aa(mnuptk) -> e(mnuptk)
-    - derive/aa(i|m|n|u|p|t|k|ng)$/a$1/   # 模糊 aa(i|m|n|u|p|t|k|ng) -> a(i|m|n|u|p|t|k|ng)
-    - derive/a(i|m|n|u|p|t|k|ng)$/aa$1/   # 模糊 a(i|m|n|u|p|t|k|ng) -> aa(i|m|n|u|p|t|k|ng)
-    - derive/kei$/ke/             # 模糊 kei -> ke
-    - derive/ai$/ei/              # 模糊 ai -> ei
+    - derive/aa(i|p|t|k|ng)$/a$1/ # 模糊 aa(i|p|t|k|ng) -> a(i|p|t|k|ng)
+    - derive/a(i|p|t|k|ng)$/aa$1/ # 模糊 a(i|p|t|k|ng) -> aa(i|p|t|k|ng)
     - derive/ei$/ai/              # 模糊 ei -> ai
     - derive/a(m|p)$/o$1/         # 模糊 a(m|p) -> o(m|p)
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
