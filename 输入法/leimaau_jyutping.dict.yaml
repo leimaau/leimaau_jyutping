@@ -13263,6 +13263,7 @@ use_preset_vocabulary: true
 扱	kap1
 扲	ngam4
 扳	paan1
+扳	baan2
 扴	git3
 扵	jyu1
 扶	fu4
@@ -23483,7 +23484,8 @@ use_preset_vocabulary: true
 蠿	zyut3
 血	hyut3
 衁	fong1
-衂	nuk6.luk6
+衂	nuk6
+衂	luk6
 衃	pui1
 衄	nuk6
 衅	jan3
@@ -161010,9 +161012,25 @@ van仔	weng1 zai2
 # 增補新詞
 可汗	hak1 hon4
 等下	dang2 haa5
+糾偏	dau2 pin1
+糾合	dau2 hap6
+糾察	dau2 caat3
+糾察人員	dau2 caat3 jan4 jyun4
+糾察隊	dau2 caat3 deoi6
+糾彈	dau2 taan4
 糾正	dau2 zing3
+糾眾	dau2 zung3
+糾紛	dau2 fan1
+糾結	dau2 git3
+糾結點	dau2 git3 dim2
+糾纏	dau2 cin4
+糾纏不清	dau2 cin4 bat1 cing1
+糾葛	dau2 got3
+糾錯	dau2 co3
+糾集	dau2 zaap6
 傳奇	zyun6 kei4
 屋簷	uk1 sim4
+屋檐	uk1 sim4
 對峙	deoi3 si6
 不斷	bat1 dyun6
 乒乓	ping1 pong1
@@ -161023,9 +161041,64 @@ van仔	weng1 zai2
 雕刻	tiu1 hak1
 雕刻品	tiu1 hak1 ban2
 雕刻家	tiu1 hak1 gaa1
+垃雜	laap6 zaap6
+垃垃雜雜	laap6 laap6 zaap6 zaap6
+狗屎垃雜	gau2 si2 laap6 zaap6
+基因擴大	gei1 jan1 kwong3 daai6
+彩擴	coi2 kwong3
+擴充	kwong3 cung1
+擴大	kwong3 daai6
+擴展	kwong3 zin2
+擴展塢	kwong3 zin2 wu2
+擴建	kwong3 gin3
+擴張	kwong3 zoeng1
+擴散	kwong3 saan3
+擴散周知	kwong3 saan3 zau1 zi1
+擴編	kwong3 pin1
+擴軍	kwong3 gwan1
+擴闊	kwong3 fut3
+擴音	kwong3 jam1
+擴音喇叭	kwong3 jam1 laa3 baa1
+擴音器	kwong3 jam1 hei3
+彩擴	coi2 kwok3
+擴充	kwok3 cung1
+擴印	kwok3 jan3
+擴及	kwok3 kap6
+擴增	kwok3 zang1
+擴增實境	kwok3 zang1 sat6 ging2
+擴大再生產	kwok3 daai6 zoi3 sang1 caan2
+擴大化	kwok3 daai6 faa3
+擴孔	kwok3 hung2
+擴展	kwok3 zin2
+擴展塢	kwok3 zin2 wu2
+擴建	kwok3 gin3
+擴張	kwok3 zoeng1
+擴散周知	kwok3 saan3 zau1 zi1
+擴版	kwok3 baan2
+擴編	kwok3 pin1
+擴胸器	kwok3 hung1 hei3
+擴軍	kwok3 gwan1
+擴音機	kwok3 jam1 gei1
+核不擴散	hat6 bat1 kwok3 saan3
+核擴散	hat6 kwok3 saan3
+氣體擴散	hei3 tai2 kwok3 saan3
+海底擴張	hoi2 dai2 kwok3 zoeng1
+海底擴張說	hoi2 dai2 kwok3 zoeng1 syut3
+不擴散核武器條約	bat1 kwok3 saan3 hat6 mou5 hei3 tiu4 joek3
+可擴展標記語言	ho2 kwok3 zin2 biu1 gei3 jyu5 jin4
+內六角扳手	noi6 luk6 gok3 baan2 sau2
+呆扳手	ngoi4 baan2 sau2
+套筒扳手	tou3 tung2 baan2 sau2
+手扳葫蘆	sau2 baan2 wu4 lou4
+活動扳手	wut6 dung6 baan2 sau2
+管扳手	gun2 baan2 sau2
+扳子	baan2 zi2
+扳手	baan2 sau2
+扳鉗	baan2 kim4
 百度雲
 愛奇藝
 嗶哩嗶哩
+彈幕
 網易雲音樂
 知乎
 觀察者網
