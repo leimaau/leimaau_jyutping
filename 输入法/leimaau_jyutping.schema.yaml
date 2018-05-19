@@ -90,10 +90,6 @@ speller:
     - derive/eoi$/eoy/            # 教院式 eoi <-> eoy
     - derive/^(g|k)wo/$1o/        # 模糊 (gk)wo -> (gk)o
     - derive/eo([int])$/u$1/      # 模糊 eo(int) -> u(int)
-    - derive/eo([it])$/yu$1/      # 模糊 eo(it) -> yu(it)
-    - derive/eo([nt])$/a$1/       # 模糊 eo(nt) -> a(nt)
-    - derive/eoi$/yui/            # 模糊 eoi -> yui
-    - derive/eoi$/yu/             # 模糊 eoi -> yu
     - derive/([bpmfdtnlgkhzcs])ei$/$1i/         # 模糊 ei -> i
     - derive/ou$/u/          	    # 模糊 ou -> u
     - derive/([dtnl])iu$/$1eu/    # 模糊 (dtnl)iu -> (dtnl)eu
@@ -102,7 +98,6 @@ speller:
     - derive/aa([mnuptk])$/e$1/   # 模糊 aa(mnuptk) -> e(mnuptk)
     - derive/aa(i|p|t|k|ng)$/a$1/ # 模糊 aa(i|p|t|k|ng) -> a(i|p|t|k|ng)
     - derive/a(i|p|t|k|ng)$/aa$1/ # 模糊 a(i|p|t|k|ng) -> aa(i|p|t|k|ng)
-    - derive/ei$/ai/              # 模糊 ei -> ai
     - derive/a(m|p)$/o$1/         # 模糊 a(m|p) -> o(m|p)
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([gk]w).+$/$1/      # 聲母簡拼
