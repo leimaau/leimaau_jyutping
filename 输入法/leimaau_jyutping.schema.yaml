@@ -96,8 +96,8 @@ speller:
     - derive/i(m|n|ng|k)$/e$1/    # 模糊 i(m|n|ng|k) -> e(m|n|ng|k)
     - derive/e(m|n|ng|k)$/i$1/    # 模糊 e(m|n|ng|k) -> i(m|n|ng|k)
     - derive/aa([mnuptk])$/e$1/   # 模糊 aa(mnuptk) -> e(mnuptk)
-    - derive/aa(i|p|t|k|ng)$/a$1/ # 模糊 aa(i|p|t|k|ng) -> a(i|p|t|k|ng)
-    - derive/a(i|p|t|k|ng)$/aa$1/ # 模糊 a(i|p|t|k|ng) -> aa(i|p|t|k|ng)
+    - derive/aa(p|t|k|ng)$/a$1/   # 模糊 aa(p|t|k|ng) -> a(p|t|k|ng)
+    - derive/a(p|t|k|ng)$/aa$1/   # 模糊 a(p|t|k|ng) -> aa(p|t|k|ng)
     - derive/a(m|p)$/o$1/         # 模糊 a(m|p) -> o(m|p)
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([gk]w).+$/$1/      # 聲母簡拼
