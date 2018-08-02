@@ -61,8 +61,7 @@ speller:
     - xform/5/vv/
     - xform/3/x/
     - xform/6/xx/
-    - derive/^(z|c|s)y$/$1z/      # 模糊	(zcs)y -> (zcs)z
-    - derive/^(z|c|s)y$/$1ii/     # 模糊	(zcs)y -> (zcs)ii
+    - derive/^(z|c|s)y$/$1z/      # 模糊 (zcs)y -> (zcs)z
     - derive/^jy?([aeiou])/y$1/   # 模糊 j -> y
     - derive/^jyu/yu/             # 容錯 jyu -> yu
     - derive/^jyu/ju/             # 容錯 jyu -> ju
@@ -145,7 +144,7 @@ translator:
     - xform/ik/ɪK]/	式sɪk̚
     - xform/i([pt])/Iː$1]/	結kiːt̚
     - xform/eo/ɵ/	去hɵy
-    - xform/a/ɐ/	粒lɐp̚
+    - xform/a/ɐ/	粒nɐp̚
     - xform/ei/EI/	欸ei
     - xform/i/Iː/	是siː
     - xform/e([ptk])/ɛː$1]/	壢lɛːk̚
