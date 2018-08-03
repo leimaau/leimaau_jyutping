@@ -4,7 +4,7 @@
 schema:
   schema_id: naamning_jyutping
   name: 南寧白話
-  version: "20180427"
+  version: "20180802"
   author:
     - LeiMaau
   description: |
@@ -82,8 +82,6 @@ speller:
     - derive/yut/ut/              # 容錯 yut -> ut
     - derive/i$/ei/          	  # 模糊 i -> ei
     - derive/u$/ou/          	  # 模糊 u -> ou
-    - derive/aa(p|t|k|ng)$/a$1/   # 模糊 aa(p|t|k|ng) -> a(p|t|k|ng)
-    - derive/a(p|t|k|ng)$/aa$1/   # 模糊 a(p|t|k|ng) -> aa(p|t|k|ng)
     - derive/a(m|p)$/o$1/         # 模糊 a(m|p) -> o(m|p)
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([gk]w).+$/$1/      # 聲母簡拼
