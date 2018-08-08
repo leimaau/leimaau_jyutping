@@ -6,44 +6,28 @@
 
 **hungmaau_jyutping**即「熊貓粤拼」——同上，但是提示讀音轉換爲IPA，而且提供多種反查方案，[\`J]反查粵拼，[\`I]反查IPA，[\`Z]反查中古音，[`N]反查南寧白話。
 
-字音部分綜合收錄了《統一碼組織統漢字庫unihan》、《粵語審音配詞字庫》和《香港增補字符集》的字形和讀音。
-
-詞彙部分綜合收錄了cc-cedict-canto、cc-canto和《開放粵語詞典》的詞彙，並經過修正。
+字音部分綜合收錄了《統一碼組織統漢字庫unihan》、《粵語審音配詞字庫》和《香港增補字符集》的字形和讀音。詞彙部分綜合收錄了cc-cedict-canto、cc-canto和《開放粵語詞典》的詞彙，並經過修正。
 
 **naamning_jyutping**即「南寧白話輸入方案」——字音部分綜合收錄了1994年謝建猷《南寧白話同音字彙》、1997年楊煥典《南寧話音檔》（漢語多功能字庫網站）、2007年謝建猷《廣西漢語方言研究》（小學堂網站）和2008年林亦《廣西南寧白話研究》的字形和讀音，新老派讀音皆收，有音無字的音節以方型符帶粵拼作佔位符。
 
-**注意：**
+## 安裝及使用方法
 
-**1.安卓機：使用「同文輸入法」**
+可以參看本項目的[wiki文檔](https://github.com/leimaau/myself_jyutping/wiki)，對RIME輸入法的安裝及使用作了簡單介紹。
 
-除了hungmaau_jyutping.schema.yaml只能用於PC，其他的在安卓機都可以使用
+![](https://www.byvoid.com/upload/wp/2012/03/rime.png)
 
-將.yaml和对应的.dict文件以及fonts文件夾放入手機的rime文件中
+![](https://www.byvoid.com/upload/wp/2012/03/rime08.png)
 
-opencc的文件覆蓋rime\opencc的文件
+## 本站主要鏈接
 
-如果rime文件夾中沒有essay.txt（八股文）可以添加，有的話就不需要添加了
+[南寧白話小冊子](https://leimaau.github.io/book/) 
 
-**2.PC：使用「小狼毫輸入法」**
+[南寧白話小冊子（備用地址）](https://leimaau.gitbooks.io/nnbh/content/) 
 
-將.yaml和对应的.dict文件入小狼毫的「用戶文件夾」中，並安裝fonts文件夾中的字體到windows中
+[南寧白話輸入方案](https://github.com/leimaau/myself_jyutping) 
 
-opencc的文件覆蓋小狼毫的「程序文件夾\data\opencc」
+[南寧白話字詞典](https://github.com/leimaau/NaamBaakDict) 
 
-小狼毫已經有自帶的essay.txt，不需要覆蓋
-
-具體使用方法見官方網站：[RIME | 中州韻輸入法引擎(主页)](http://rime.im/)
-
-## 本站主要链接
-
-[南宁白话小册子](https://leimaau.github.io/book/) 
-
-[南宁白话小册子（备用地址）](https://leimaau.gitbooks.io/nnbh/content/) 
-
-[南宁白话输入方案](https://github.com/leimaau/myself_jyutping) 
-
-[南宁白话字词典](https://github.com/leimaau/NaamBaakDict) 
-
-[南宁白话读音资料文本档](https://github.com/leimaau/bookCollection) 
+[南寧白話讀音資料文本檔](https://github.com/leimaau/bookCollection) 
 
 
