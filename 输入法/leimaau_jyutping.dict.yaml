@@ -506,7 +506,7 @@ use_preset_vocabulary: true
 㔥	baai6
 㱙	baai6
 迫	baak1
-北	baak1
+北	baak1	0%
 㤳	baak1
 㼣	baak3
 𤤿	baak3
@@ -1579,7 +1579,7 @@ use_preset_vocabulary: true
 旁	bong6
 䧛	bong6
 傍	bong6
-並	bong6
+並	bong6	0%
 塝	bong6
 埲	bong6
 鎊	bong6
@@ -2922,7 +2922,7 @@ use_preset_vocabulary: true
 沮	ceoi1
 娶	ceoi2
 㪜	ceoi2
-且	ceoi2
+且	ceoi2	3%
 取	ceoi2
 揣	ceoi2
 璀	ceoi2
@@ -4307,7 +4307,7 @@ use_preset_vocabulary: true
 㜖	cou4
 嘈	cou4
 傮	cou4	3%
-且	cou4
+且	cou4	3%
 槽	cou4
 晠	cou4
 曹	cou4
@@ -5934,8 +5934,8 @@ use_preset_vocabulary: true
 蓧	diu6
 鑃	diu6
 窕	diu6
-丢	diu6
-丟	diu6
+丢	diu6	0%
+丟	diu6	0%
 藋	diu6
 䂭	diu6
 铫	diu6
@@ -7049,7 +7049,7 @@ use_preset_vocabulary: true
 缶	fau2
 𠳝	fau2
 𧶏	fau2
-不	fau2
+不	fau2	0%
 鴀	fau2
 殕	fau2
 掊	fau2
@@ -7398,7 +7398,7 @@ use_preset_vocabulary: true
 䔰	fu1
 怤	fu1
 惡	fu1
-戲	fu1
+戲	fu1	0%
 挎	fu1
 夫	fu1
 姇	fu1
@@ -9118,7 +9118,7 @@ use_preset_vocabulary: true
 鸄	gik1
 艻	gik1
 茍	gik1
-苟	gik1
+苟	gik1	3%
 蕀	gik1
 㦘	gik1
 墼	gik1
@@ -9864,7 +9864,7 @@ use_preset_vocabulary: true
 㼋	gu1
 嫴	gu1
 孤	gu1
-家	gu1	3%
+家	gu1	0%
 姑	gu1
 呱	gu1
 咕	gu1
@@ -9898,7 +9898,7 @@ use_preset_vocabulary: true
 䗄	gu2
 䀇	gu2
 䀦	gu2
-果	gu2
+果	gu2	0%
 夃	gu2
 嘏	gu2
 古	gu2
@@ -10301,7 +10301,7 @@ use_preset_vocabulary: true
 卝	gwaan3
 貫	gwaan3	3%
 惯	gwaan3
-串	gwaan3
+串	gwaan3	0%
 擐	gwaan3
 掼	gwaan3
 摜	gwaan3
@@ -12580,7 +12580,7 @@ use_preset_vocabulary: true
 頇	hon1
 咹	hon1
 刊	hon1
-看	hon1
+看	hon1	5%
 捍	hon2
 扞	hon2
 㸁	hon2
@@ -12784,7 +12784,7 @@ use_preset_vocabulary: true
 䢽	hong6
 䣈	hong6
 䐟	hong6
-汗	hong6
+汗	hong6	0%
 沆	hong6
 桁	hong6
 項	hong6
@@ -14138,7 +14138,7 @@ use_preset_vocabulary: true
 亿	jik1
 嗌	jik1
 億	jik1
-壹	jik1	3%
+壹	jik1	0%
 憶	jik1
 抑	jik1
 忆	jik1
@@ -15561,7 +15561,7 @@ use_preset_vocabulary: true
 噳	jyu5
 圄	jyu5
 圉	jyu5
-以	jyu5
+以	jyu5	0%
 俁	jyu5
 峿	jyu5
 庾	jyu5
@@ -15944,7 +15944,7 @@ use_preset_vocabulary: true
 跀	jyut6
 踅	jyut6
 軏	jyut6
-說	jyut6
+說	jyut6	0%
 鳦	jyut6
 鴥	jyut6
 驈	jyut6
@@ -18840,7 +18840,7 @@ use_preset_vocabulary: true
 蝷	lik6
 芀	lik6
 苈	lik6
-令	lim1
+令	lim1	0%
 舐	lim2
 䭑	lim4
 䥥	lim4
@@ -21032,7 +21032,7 @@ use_preset_vocabulary: true
 名	meng2
 名	meng4
 命	meng6
-乜	mi1
+乜	mi1	0%
 眯	mi1
 瞇	mi1
 㵋	mik6
@@ -29959,7 +29959,7 @@ use_preset_vocabulary: true
 餛	wan4
 餫	wan4
 顽	wan4
-雈	wan4
+雈	wan4	3%
 雲	wan4
 鼲	wan4
 秐	wan4
@@ -31819,7 +31819,7 @@ use_preset_vocabulary: true
 僧	zang1
 䨯	zang1
 䱢	zang1
-丁	zang1
+丁	zang1	0%
 鬙	zang1
 𢛵	zang2
 𤺧	zang2
@@ -33640,7 +33640,7 @@ use_preset_vocabulary: true
 靚	zing6
 靜	zing6
 阱	zing6
-鄭	zing6
+鄭	zing6	3%
 請	zing6
 凈	zing6
 凊	zing6
@@ -34079,7 +34079,7 @@ use_preset_vocabulary: true
 䛫	zoeng1
 䬬	zoeng1
 䱀	zoeng1
-且	zoeng1
+且	zoeng1	0%
 㒕	zoeng1
 璋	zoeng1
 章	zoeng1
@@ -34247,7 +34247,7 @@ use_preset_vocabulary: true
 迮	zok3
 㑅	zok3
 作	zok3
-乍	zok3
+乍	zok3	0%
 飵	zok3
 鷟	zok3
 柞	zok3
@@ -164359,6 +164359,7 @@ van仔	weng1 zai2
 
 
 # 增補新詞
+啊嘛	aa1 maa3
 可汗	hak1 hon4
 等下	dang2 haa5
 糾偏	dau2 pin1
@@ -164454,6 +164455,7 @@ van仔	weng1 zai2
 情非得已
 審音
 粵語審音配詞字庫
+漢語多功能字庫
 B站	bzaam6
 B站	bi1 zaam6
 RIME	rime
