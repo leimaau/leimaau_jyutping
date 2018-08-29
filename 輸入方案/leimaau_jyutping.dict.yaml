@@ -3,7 +3,7 @@
 #
 # leimaau_jyutping - 狸貓粵拼/熊猫粤拼共用
 #
-# Author - LeiMaau
+# Author - LeiMaau<https://leimaau.github.io/book/>
 #
 # 字彙部分綜合收錄了《統一碼組織統漢字庫unihan》、《粵語審音配詞字庫》、《香港增補字符集》、2004年《廣州話正音字典》和1992年《常用字廣州話讀音表》的字形和讀音
 # 詞彙部分綜合收錄了cc-cedict-canto、cc-canto和《開放粵語詞典》的詞彙，並經過修正
@@ -11205,7 +11205,7 @@ use_preset_vocabulary: true
 𩼣	gwo3	
 过	gwo3	
 過	gwo3	
-和	gwo3	3%
+和	gwo3	0%
 㗻	gwo3	
 㳀	gwo3	
 鐹	gwo3	0%
@@ -176025,6 +176025,7 @@ Y	waai
 Z	jisik
 Z	jet
 
+
 # 數字
 0	ling4
 1	jat1
@@ -176037,10 +176038,32 @@ Z	jet
 8	baat3
 9	gau2
 
+
 # 顏文字
 o((>ω< ))o 	aa	10000
 o(≧口≦)o 	aa	10000
-╮(￣▽￣")╭ 	aai	10000
+Σ( ° △ °|||)︴	aa	10000
+w(ﾟДﾟ)w 	aa	10000
+⊙▂⊙ 	aa	10000
+⊙0⊙ 	aa	10000
+⊙ω⊙  	aa	10000
+⊙﹏⊙ 	aa	10000
+⊙△⊙ 	aa	10000
+⊙▽⊙ 	aa	10000
+●▂● 	aa	10000
+●0● 	aa	10000
+●ω● 	aa	10000
+●﹏● 	aa	10000
+●△● 	aa	10000
+●▽● 	aa	10000
+╯▂╰ 	aai	10000
+╯0╰ 	aai	10000
+╯＾╰ 	aai	10000
+╯ω╰ 	aai	10000
+╯﹏╰ 	aai	10000
+╯△╰ 	aai	10000
+╯▽╰ 	aai	10000
+x__x, 唉..... 	aai	10000
 (￣y▽,￣)╭ 哎喲喲…… 	aai jo	10000
 安安啦~~~ o(*￣▽￣*)ブ 	on on	10000
 ヾ(≧O≦)〃嗷~ 	aau	10000
@@ -176167,7 +176190,7 @@ fufu~ ^u^ 	fu fu	10000
 ( σ'ω')σ 	gou zong	10000
 (′д｀σ)σ [告狀] 	gou zong	10000
 o(>O<;; )σ 	gou zong	10000
-╰(￣▽￣)╭ 跟你說厚~ 	gan nei syut	10000
+╰(￣▽￣)╭ 跟你說吼~ 	gan nei syut	10000
 ┳G┻┳F┳┻W┫ 	gfw	10000
 <(￣︶￣)↗[GO!] 	go	10000
 <(￣OO,￣)/[GO!] 	go	10000
@@ -176221,6 +176244,7 @@ http:// 	http	10000
 Σ(っ °Д °;)っ 	ging	10000
 Σ(｀д′*ノ)ノ 	ging	10000
 Σ( ° △ °|||)︴ 	ging	10000
+(⊙ˍ⊙) 	ging	10000
 ┗|*｀0′*|┛ 	gei juk	10000
 o(′益`)o 	gau git	10000
 ( -'`-; ) 	gau git	10000
@@ -176248,7 +176272,7 @@ n(*≧▽≦*)n 	ho oi	10000
 [傷心](；′⌒`) 	soeng sam	10000
 (PД`q。)·。'゜冰天雪地掩面淚奔…… 	leoi ban	10000
 （ ￣ー￣）[冷笑] 	laang siu	10000
-(*/ω＼*)[臉紅掩面] 	lim hung	10000
+(*/ω＼*) 	lim hung	10000
 (*￣^￣(*￣^￣(*￣^￣)[列隊] 	lit deoi	10000
 o(￣ˇ￣)o 	mun zuk	10000
 o(*￣︶￣*)o 	mun zuk	10000
@@ -176386,7 +176410,7 @@ o( >﹏<。)┛ 	tau hong	10000
 0＾）吞！ 	tan	10000
 ヽ(゜▽゜　)－C<(/;◇;)/~[拖走] 	to zau	10000
 (￣┰￣*) 	tou sit tau	10000
-(PД`q。)·。'゜ 	waa	10000
+⊙0⊙ 	waa	10000
 [挖鼻屎] (*￣rǒ￣) 	waat bei si	10000
 哇卡卡卡卡卡……o((≧▽≦o) 太好笑了！！ 	waa kkk	10000
 <(￣▽￣)/ 	waa kkk	10000
@@ -176431,7 +176455,7 @@ p(#￣▽￣#)o 	sau	10000
 (*￣︶￣)y 	je	10000
 ^_^)y 	je	10000
 (-@y@) [扶眼鏡] 	ngaan geng	10000
-(*/ω＼*)[臉紅掩面] 	jim min	10000
+(*/ω＼*) 	jim min	10000
 ━┳━　━┳━ 	ngaan san	10000
 Yes,sir! <(￣O￣)/ 	yes sir	10000
 (￣ム￣) [鷹鉤鼻] 	jing ngau bei	10000
@@ -176510,14 +176534,14 @@ French Kiss! (*￣(￣　*) 	fk	10000
 早安~~~ o(*￣▽￣*)ブ 	zou on	10000
 (╯▽╰ ) 好香~~ 	hoeng	10000
 [享受](╯▽╰ ) 	hoeng sau	10000
-[無奈]╮(╯-╰)╭ 	mou noi	10000
+╮(╯▽╰)╭ 	mou noi	10000
 [祕密] (一-一) 	bei mat	10000
 [毛毛蟲](· ·)nnn 	mou mou cung	10000
 French Kiss!(*￣(￣　*) 	kiss	10000
 凸(艹皿艹 ) 	cou	10000
 (⊙x⊙;) 	bai zeoi	10000
 W(￣_￣)W 	zaa	10000
-[愣住](°ー°〃) 	ling zyu	10000
+(°ー°〃) 	ling zyu	10000
 ””\\(￣ー￣) (￣ー￣)//””[鼓掌] 	gu zoeng	10000
 [鼓掌]└(￣ ￣└)(┘￣ ￣)┘[鼓掌] 	gu zoeng	10000
 m( =∩王∩= )m 	lou fu	10000

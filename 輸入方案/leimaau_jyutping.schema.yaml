@@ -4,13 +4,15 @@
 schema:
   schema_id: leimaau_jyutping
   name: "貍貓粵拼"
-  version: "20180428"
+  version: "20180828"
   author:
-    - LeiMaau
+    - LeiMaau<https://leimaau.github.io/book/>
   description: |
     採用『香港語言學會粵語拼音方案』
     聲調輸入 q平 v上 x去 （雙擊爲陽調）
     提供多種字體轉換方案
+    提示讀音爲粵語拼音
+    提供一種反查方案，[`]反查廣州話
   dependencies:
     - luna_pinyin
 
@@ -20,6 +22,8 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
   - options: [zh_simp2, zh_simp, zh_trad, zh_hk, zh_tw, zh_jp ]
     reset: 1
     states:
@@ -29,8 +33,13 @@ switches:
       - 字形 → 香港
       - 字形 → 臺灣
       - 字形 → 日本
-  - name: ascii_punct
-    states: [ 。，, ．， ]
+  - name: emoji_cn
+    reset: 0
+    states: [ 〇, 😊 ]
+  - name: cn_english
+    reset: 0
+    states: [ 不轉換, 漢英轉換 ]
+
 
 engine:
   processors:
@@ -59,6 +68,8 @@ engine:
     - simplifier@zh_hk
     - simplifier@zh_tw
     - simplifier@zh_jp
+    - simplifier@emoji_cn
+    - simplifier@cn_english
     - uniquifier
 
 speller:
@@ -114,10 +125,15 @@ reverse_lookup:
   dictionary: luna_pinyin
   prefix: "`"
   suffix: "'"
-  tips: 〔反查〕
+  tips: 〔反查廣州話〕
+  closing_tips: 〔反查廣州話〕
   preedit_format:
     - xform/([nljqxy])v/$1ü/
     - xform/([nl])ue/$1üe/
+  comment_format:
+    - xform/ /\｜/
+    - xform/^/（粵拼：〔/
+    - xform/$/〕）/
 
 punctuator:
   import_preset: symbols
@@ -161,4 +177,14 @@ zh_tw:
 zh_jp:
   option_name: zh_jp
   opencc_config: t2jp.json
+  tips: all
+  
+emoji_cn:
+  opencc_config: emoji.json
+  option_name: emoji_cn
+  tips: all
+  
+cn_english:
+  opencc_config: cn_english.json
+  option_name: cn_english
   tips: all
