@@ -17,13 +17,6 @@ schema:
     - luna_pinyin
 
 switches:
-  - name: ascii_mode
-    reset: 0
-    states: [ 中文, 西文 ]
-  - name: full_shape
-    states: [ 半角, 全角 ]
-  - name: ascii_punct
-    states: [ 。，, ．， ]
   - options: [zh_simp2, zh_simp, zh_trad, zh_hk, zh_tw, zh_jp ]
     reset: 1
     states:
@@ -39,6 +32,13 @@ switches:
   - name: cn_english
     reset: 0
     states: [ 不轉換, 漢英轉換 ]
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
 
 
 engine:
