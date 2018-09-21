@@ -111,7 +111,6 @@ speller:
     - derive/ui$/eoi/          	  # 模糊 ui -> eoi
     - derive/yu$/eoi/          	  # 模糊 yu -> eoi
     - derive/an$/un/              # 容錯 an -> un
-    - derive/yut/ut/              # 容錯 yut -> ut
     - derive/^(g|k)w/$1u/         # 廣州式
     - derive/aau$/ao/             # 廣州式 aau -> ao
     - derive/eoi$/eoy/            # 教院式 eoi <-> eoy
@@ -551,7 +550,7 @@ gzw_reverse_lookup:
 #  overwrite_comment: true  # 覆蓋其他提示
   comment_format:
     - xform/ /\｜/
-    - xform/^/（粵拼：〔/
+    - xform/^/（廣州話：〔/
     - xform/$/〕）/
       
 

@@ -132,9 +132,9 @@ reverse_lookup:
     - xform/([nl])ue/$1üe/
   comment_format:
     - xform/ /\｜/
-    - xform/^/（粵拼：〔/
-    - xform/$/〕）/
-
+    - xform/^/〔/
+    - xform/$/〕/
+    
 punctuator:
   import_preset: symbols
 

@@ -257,7 +257,7 @@ jyutping_reverse_lookup:
 #  overwrite_comment: true  # 覆蓋其他提示
   comment_format:
     - xform/ /\｜/
-    - xform/^/（粵拼：〔/
+    - xform/^/（廣州話：〔/
     - xform/$/〕）/
 
 
