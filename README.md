@@ -1,6 +1,6 @@
 # 我的粵拼方案
 
-本站若是下載緩慢或下載出錯，可以嘗試[這裏](https://coding.net/u/LeiMaau/p/myself_jyutping/git)。
+本站若是下載緩慢或下載出錯，可以嘗試[這裏](https://dev.tencent.com/u/LeiMaau/p/myself_jyutping/git)。
 
 ## 說明
 
@@ -22,7 +22,7 @@
 
 文件名爲「**naamning_jyutping_concise**」，即「南寧白話輸入方案簡潔版」——去掉過多的功能，使得輸入更純粹，只提供繁簡字體轉換方案，只提供一種反查方案，[`]反查南寧白話，沒有emjo，沒有漢英轉換，提示音不轉換爲IPA。
 
-上述兩份南寧白話輸入方案字音部分根據1994年謝建猷《南寧白話同音字彙》、1997年楊煥典《南寧話音檔》（漢語多功能字庫網站）、2007年謝建猷《廣西漢語方言研究》（小學堂網站）和2008年林亦《廣西南寧白話研究》的字形和讀音進行了審音。
+上述兩份南寧白話輸入方案字音部分根據1994年謝建猷《南寧白話同音字彙》、1997年楊煥典《南寧話音檔》（漢語多功能字庫網站）、1998年廣西地方誌編纂委員會《廣西通誌（漢語方言誌）》、2007年謝建猷《廣西漢語方言研究》（小學堂網站）和2008年林亦《廣西南寧白話研究》的字形和讀音進行了審音。
 
 ### 狸貓拼音
 
