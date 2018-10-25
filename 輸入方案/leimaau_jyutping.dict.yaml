@@ -7289,7 +7289,7 @@ use_preset_vocabulary: true
 寣	fat1	0%
 匢	fat1	
 咈	fat1	0%
-唿	fat1	0%
+唿	fat1	
 啒	fat1	0%
 囫	fat1	
 圣	fat1	
@@ -8244,7 +8244,6 @@ use_preset_vocabulary: true
 𢔓	fung6	
 奉	fung6	
 賵	fung6	
-唿	fut1	
 阔	fut3	
 蛞	fut3	
 闊	fut3	
@@ -23549,7 +23548,7 @@ use_preset_vocabulary: true
 䳡	ngaan3	
 颜	ngaan4	
 顏	ngaan4	
-研	ngaan4	0%
+研	ngaan4	3%
 揅	ngaan4	0%
 楌	ngaan4	
 䴦	ngaan4	
@@ -23864,7 +23863,6 @@ use_preset_vocabulary: true
 珢	ngan4	
 狺	ngan4	
 狋	ngan4	0%
-研	ngan4	3%
 檭	ngan4	
 嚚	ngan4	
 唅	ngan4	0%
@@ -152520,7 +152518,7 @@ van仔	weng1 zai2
 鋤草	co4 cou2
 鋤頭	co4 tau4
 鋥亮	caang6 loeng6
-鋥亮	鋥loeng6
+鋥亮	caang3 loeng6
 鋦子	guk6 zi2
 鋪位	pou3 wai2
 鋪保	pou3 bou2

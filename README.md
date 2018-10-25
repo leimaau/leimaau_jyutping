@@ -1,5 +1,7 @@
 # 我的粵拼方案
 
+本站若是下載緩慢或下載出錯，可以嘗試[這裏](https://coding.net/u/LeiMaau/p/myself_jyutping/git)。
+
 ## 說明
 
 ### 狸貓粵拼
@@ -16,7 +18,7 @@
 
 文件名爲「**naamning_jyutping**」，即「南寧白話輸入方案」——南寧音標準，提供多種字體轉換方案，提示讀音轉換爲IPA（國際音標），提供多種反查方案，[\`N]反查南寧白話，[\`I]反查南寧白話IPA，[\`Z]反查中古音，[\`G]反查廣州話，提供emjo和漢英轉換。
 
-### 南寧白話輸入方案（簡）
+### 南寧白話輸入方案（簡潔版）
 
 文件名爲「**naamning_jyutping_concise**」，即「南寧白話輸入方案簡潔版」——去掉過多的功能，使得輸入更純粹，只提供繁簡字體轉換方案，只提供一種反查方案，[`]反查南寧白話，沒有emjo，沒有漢英轉換，提示音不轉換爲IPA。
 
