@@ -4,7 +4,7 @@
 schema:
   schema_id: naamning_jyutping
   name: "南寧白話"
-  version: "20180828"
+  version: "20181119"
   author:
     - LeiMaau<https://leimaau.github.io/book/>
   description: |
@@ -152,55 +152,55 @@ translator:
     - xform/y([aeior])/j$1/	一yat/jɐt̚/
     - xform/(aa|r)([iu])/Aː\U$2/	嗎maː
     - xform/a([iu])/ɐ\U$1/	米mɐi
-    - xform/(aa|r)([ptk])/Aː\U$2]/	握aːk̚
-    - xform/a([ptk])/ɐ\U$1]/	呃ɐk̚
+    - xform/(aa|r)([ptk])/Aː\U$2]/	aːk̚
+    - xform/a([ptk])/ɐ\U$1]/	握ɐk̚
     - xform/(aa|r)/Aː/	嗎maː
     - xform/b/P/	吧paː
     - xform/c/T͡ʃH/	差tʃʰaː
     - xform/d/T/	打taː
     - xform/eu/ɛːU/	掉tɛːu
-    - xform/eoi/ɵY/	水sɵy
+    - xform/eoi/ɵY/	水sɵy（廣州）
     - xform/oei/ɵY/	容錯
     - xform/oe([ptk])/œː$1]/	約jœːk̚
     - xform/oe(ng)/œː$1/	容錯
     - xform/oe([t])/ɵ$1]/	容錯
     - xform/oe([n])/ɵ$1/	容錯
-    - xform/oe/œː/	張tsœːŋ
-    - xform/oi/ɔːI/	蓋kʰɔːi
+    - xform/oe/œː/	張tʃœːŋ
+    - xform/oi/ɔːI/	愛ɔːi
     - xform/eo(ng)/œːŋ/	容錯
     - xform/eo([k])/œː$1]/	容錯
-    - xform/eo([t])/ɵ$1]/	率sɵt̚
-    - xform/eon/ɵn/	信sɵn
-    - xform/ou/OU/	無mou
+    - xform/eo([t])/ɵ$1]/	率sɵt̚（廣州）
+    - xform/eon/ɵn/	信sɵn（廣州）
+    - xform/ou/OU/	無mou（廣州）
     - xform/u([k])/ʊ$1]/	六lʊk̚
     - xform/ui/UːI/	回wuːi
-    - xform/iu/IːU/	小siːu
-    - xform/i(ng)/ɪN/	名mɪŋ
+    - xform/iu/IːU/	要jiːu
+    - xform/i(ng)/ɪN/	鳴mɪŋ
     - xform/ik/ɪK]/	式sɪk̚
     - xform/i([pt])/Iː$1]/	結kiːt̚
-    - xform/eo/ɵ/	去hɵy
+    - xform/eo/ɵ/	去hɵy（廣州）
     - xform/a/ɐ/	粒nɐp̚
-    - xform/ei/EI/	欸ei
+    - xform/ei/EI/	欸ei（廣州）
     - xform/i/Iː/	是siː
-    - xform/e([ptk])/ɛː$1]/	壢lɛːk̚
-    - xform/e/ɛː/	寫sɛː
+    - xform/e([ptk])/ɛː$1]/	癧lɛːk̚
+    - xform/e/ɛː/	寫ɬɛː
     - xform/o([ptk])/ɔː$1]/	莫mɔːk̚
     - xform/u([pt])/Uː$1]/	活wuːt̚
     - xform/u(ng)/ʊN/	動tʊŋ
-    - xform/o/ɔː/	錯tsʰɔː
+    - xform/o/ɔː/	錯tʃʰɔː
     - xform/u/Uː/	故kuː
     - xform/ng/N/	我ŋɔː
-    - xform/n/n/	你nei
+    - xform/n/n/	你niː
     - xform/kw/KWH/	群kʷʰɐn
     - xform/gw/KW/	均kʷɐn
     - xform/g/K/	急kɐp̚
     - xform/(^|[ '])([ptk])/$1$2H/	噴pʰɐn
     - xform/w/w/	雲wɐn
     - xform/j/j/	人jɐn
-    - xform/m/m/	美mei
-    - xform/l/l/	裏lei
-    - xform/s/ʃ/	死sei
-    - xform/z/T͡ʃ/	這t͡ʃɛː
+    - xform/m/m/	尾mi
+    - xform/l/l/	里li
+    - xform/s/ʃ/	审ʃɐm
+    - xform/z/T͡ʃ/	這tʃɛː
     - xform/em/ɛːM/
     - xform/en/ɛːN/
     - xform/T͡ʃy/T͡sɿ/
