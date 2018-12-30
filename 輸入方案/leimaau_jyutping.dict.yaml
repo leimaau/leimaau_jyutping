@@ -1303,7 +1303,7 @@ use_preset_vocabulary: true
 便	bin6	
 閞	bin6	
 屏	bing1	3%
-并	bing1	
+并	bing1	1%
 掤	bing1	
 乒	bing1	3%
 㓈	bing1	
@@ -1359,11 +1359,11 @@ use_preset_vocabulary: true
 棅	bing3	
 迸	bing3	
 㓈	bing3	
-並	bing3	
+並	bing3	3%
 併	bing3	
 䈂	bing3	
 摒	bing3	
-并	bing3	
+并	bing3	3%
 幷	bing3	0%
 庰	bing3	
 怲	bing3	
@@ -5039,7 +5039,7 @@ use_preset_vocabulary: true
 𢸶	cyut3	
 𠾼	cyut4	
 𠾼	cyut6	
-打	daa1	
+打	daa1	3%
 咑	daa1	
 打	daa2	
 䐎	daai1	
@@ -5646,6 +5646,7 @@ use_preset_vocabulary: true
 斗	dau2	
 豆	dau2	3%
 赳	dau2	
+纠	dau2	
 蚪	dau2	
 唗	dau2	0%
 抖	dau2	
@@ -10783,7 +10784,7 @@ use_preset_vocabulary: true
 捖	gwaat3	0%
 趏	gwaat3	
 刮	gwaat3	
-括	gwaat3	0%
+括	gwaat3	
 劀	gwaat3	
 䴜	gwaat3	
 颳	gwaat3	
@@ -11057,7 +11058,6 @@ use_preset_vocabulary: true
 餶	gwat1	
 骨	gwat1	
 㓉	gwat3	
-括	gwat3	
 㑹	gwat3	
 㻕	gwat6	
 㭾	gwat6	
@@ -11748,7 +11748,7 @@ use_preset_vocabulary: true
 冾	haap6	0%
 俠	haap6	
 匧	haap6	
-匣	haap6	3%
+匣	haap6	
 䕣	haap6	
 侠	haap6	
 䱑	haap6	
@@ -12155,7 +12155,6 @@ use_preset_vocabulary: true
 盖	hap1	
 瞌	hap1	3%
 葢	hap1	
-嗑	hap3	
 䶗	hap3	0%
 铪	hap6	
 閤	hap6	
@@ -12177,10 +12176,9 @@ use_preset_vocabulary: true
 劐	hap6	
 侠	hap6	
 䢔	hap6	
-匣	hap6	
 合	hap6	
 俠	hap6	
-嗑	hap6	3%
+嗑	hap6	
 噈	hap6	
 廅	hap6	
 姶	hap6	
@@ -12216,7 +12214,7 @@ use_preset_vocabulary: true
 乞	hat1	
 䎢	hat1	
 釳	hat1	
-迄	hat1	0%
+迄	hat1	3%
 恄	hat1	
 犵	hat1	
 忔	hat1	0%
@@ -23896,7 +23894,6 @@ use_preset_vocabulary: true
 圾	ngap6	0%
 岋	ngap6	0%
 扤	ngat1	
-迄	ngat3	
 仡	ngat6	
 圪	ngat6	3%
 啮	ngat6	
@@ -23913,7 +23910,7 @@ use_preset_vocabulary: true
 矻	ngat6	3%
 耴	ngat6	
 疙	ngat6	3%
-迄	ngat6	3%
+迄	ngat6	
 訖	ngat6	
 讫	ngat6	
 齀	ngat6	
@@ -30797,7 +30794,7 @@ use_preset_vocabulary: true
 瘣	waai6	
 䇋	waai6	
 壞	waai6	
-坏	waai6	0%
+坏	waai6	
 恚	waai6	0%
 㥜	waai6	
 㦣	waai6	

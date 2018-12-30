@@ -2,19 +2,19 @@
 # encoding: utf-8
 
 schema:
-  schema_id: naamning_jyutping_concise
-  name: "南寧白話(簡)"
-  version: "20180802"
+  schema_id: naamning_jyutping_IPA
+  name: "南寧白話(IPA)"
+  version: "20181230"
   author:
     - LeiMaau<https://leimaau.github.io/book/>
   description: |
     採用『香港語言學會粵語拼音方案』
     聲調輸入 q平 v上 x去 （雙擊爲陽調）
-    提供繁簡字體轉換方案
-    這是南寧白話輸入方案的簡潔版，輸入更純粹，去掉過多的功能
+    提供繁簡字體轉換方案，提示音轉換爲IPA（國際音標）
     提供一種反查方案，[`]反查南寧白話
   dependencies:
     - luna_pinyin
+    - leimaau_jyutping
 
 switches:
   - name: ascii_mode
@@ -96,12 +96,85 @@ translator:
   dictionary: naamning_jyutping
   spelling_hints: 9
   preedit_format:
-    - xform/([aeioumngptk])qq/$1⁴/
-    - xform/([aeioumngptk])q/$1¹/
-    - xform/([aeioumngptk])vv/$1⁵/
-    - xform/([aeioumngptk])v/$1²/
-    - xform/([aeioumngptk])xx/$1⁶/
-    - xform/([aeioumngptk])x/$1³/
+    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
+    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
+    - xform/([ptk])x/$1˧/	咽jiːt̚˧
+    - xform/([ptk])q/$1˥/	一jɐt̚
+    - xform/qq/˨˩/	而jiː˨˩
+    - xform/q/˥˥/	倚jiː˥˥
+    - xform/vv/˨˦/	以jiː˨˦
+    - xform/v/˧˥/	倚jiː˧˥
+    - xform/xx/˨˨/	二jiː˨˨
+    - xform/x/˧˧/	以jiː˧˧
+    - xform/sl/ɬ/
+    - xform/([PTK])$/$1]$2/	入jɐp̚
+    - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/	用jʊŋ
+    - xform/(^|[ '])(jy|[jy])u([t])/$1jYː$3]/	月jyːt̚
+    - xform/([dtlgkhzcsj])yu([t])/$1Yː$2]/	奪tyːt̚
+    - xform/(^|[ '])([jy])u([k])/$1jʊ$3]/	玉jʊk̚
+    - xform/(^|[ '])(jy|[jy])u/$1jYː/	元jyːn
+    - xform/yu/Yː/	嫩nyːn
+    - xform/y([aeior])/j$1/	一yat/jɐt̚/
+    - xform/(aa|r)([iu])/Aː\U$2/	嗎maː
+    - xform/a([iu])/ɐ\U$1/	米mɐi
+    - xform/(aa|r)([ptk])/Aː\U$2]/	aːk̚
+    - xform/a([ptk])/ɐ\U$1]/	握ɐk̚
+    - xform/(aa|r)/Aː/	嗎maː
+    - xform/b/P/	吧paː
+    - xform/c/T͡ʃH/	差tʃʰaː
+    - xform/d/T/	打taː
+    - xform/eu/ɛːU/	掉tɛːu
+    - xform/eoi/ɵY/	水sɵy（廣州）
+    - xform/oei/ɵY/	容錯
+    - xform/oe([ptk])/œː$1]/	約jœːk̚
+    - xform/oe(ng)/œː$1/	容錯
+    - xform/oe([t])/ɵ$1]/	容錯
+    - xform/oe([n])/ɵ$1/	容錯
+    - xform/oe/œː/	張tʃœːŋ
+    - xform/oi/ɔːI/	愛ɔːi
+    - xform/eo(ng)/œːŋ/	容錯
+    - xform/eo([k])/œː$1]/	容錯
+    - xform/eo([t])/ɵ$1]/	率sɵt̚（廣州）
+    - xform/eon/ɵn/	信sɵn（廣州）
+    - xform/ou/OU/	無mou（廣州）
+    - xform/u([k])/ʊ$1]/	六lʊk̚
+    - xform/ui/UːI/	回wuːi
+    - xform/iu/IːU/	要jiːu
+    - xform/i(ng)/ɪN/	鳴mɪŋ
+    - xform/ik/ɪK]/	式sɪk̚
+    - xform/i([pt])/Iː$1]/	結kiːt̚
+    - xform/eo/ɵ/	去hɵy（廣州）
+    - xform/a/ɐ/	粒nɐp̚
+    - xform/ei/EI/	欸ei（廣州）
+    - xform/i/Iː/	是siː
+    - xform/e([ptk])/ɛː$1]/	癧lɛːk̚
+    - xform/e/ɛː/	寫ɬɛː
+    - xform/o([ptk])/ɔː$1]/	莫mɔːk̚
+    - xform/u([pt])/Uː$1]/	活wuːt̚
+    - xform/u(ng)/ʊN/	動tʊŋ
+    - xform/o/ɔː/	錯tʃʰɔː
+    - xform/u/Uː/	故kuː
+    - xform/ng/N/	我ŋɔː
+    - xform/n/n/	你niː
+    - xform/kw/KWH/	群kʷʰɐn
+    - xform/gw/KW/	均kʷɐn
+    - xform/g/K/	急kɐp̚
+    - xform/(^|[ '])([ptk])/$1$2H/	噴pʰɐn
+    - xform/w/w/	雲wɐn
+    - xform/j/j/	人jɐn
+    - xform/m/m/	尾mi
+    - xform/l/l/	里li
+    - xform/s/ʃ/	审ʃɐm
+    - xform/z/T͡ʃ/	這tʃɛː
+    - xform/em/ɛːM/
+    - xform/en/ɛːN/
+    - xform/T͡ʃy/T͡sɿ/
+    - xform/T͡ʃHy/T͡sHɿ/
+    - xform/ʃy/sɿ/
+    - xform/T͡ʃT͡ʃ/T͡sɿ/
+    - xform/T͡ʃHT͡ʃ/T͡sHɿ/
+    - xform/ʃT͡ʃ/sɿ/
+    - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊYː]|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊyː̚|"
 
 
 reverse_lookup:
