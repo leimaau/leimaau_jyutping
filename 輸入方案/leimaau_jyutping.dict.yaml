@@ -423,7 +423,6 @@ use_preset_vocabulary: true
 噏	ap1	0%
 罨	ap1	
 洽	ap1	0%
-啞	at1	3%
 扤	at1	0%
 䯉	at3	
 䯧	at3	0%
@@ -5299,7 +5298,7 @@ use_preset_vocabulary: true
 龘	daap6	
 龖	daap6	
 𤦊	daap6	
-蹋	daap6	3%
+蹋	daap6	
 踏	daap6	
 錔	daap6	
 遝	daap6	
@@ -5980,7 +5979,6 @@ use_preset_vocabulary: true
 碘	din2	
 錪	din2	0%
 蕇	din2	
-靦	din2	
 瑱	din3	0%
 殿	din3	0%
 墊	din3	
@@ -8868,7 +8866,6 @@ use_preset_vocabulary: true
 鈙	gam6	0%
 笒	gam6	
 扲	gam6	
-撢	gam6	
 搇	gam6	0%
 揿	gam6	
 噤	gam6	0%
@@ -14062,7 +14059,6 @@ use_preset_vocabulary: true
 粌	jan5	
 纼	jan5	
 縯	jan5	0%
-飪	jan5	
 刃	jan6	
 匁	jan6	
 仞	jan6	
@@ -23832,6 +23828,7 @@ use_preset_vocabulary: true
 雸	ngam4	
 㒄	ngam4	
 㺂	ngam4	
+撢	ngam4	
 喑	ngam6	3%
 唅	ngam6	0%
 贋	ngam6	0%
@@ -26596,7 +26593,6 @@ use_preset_vocabulary: true
 婶	sam2	
 嬸	sam2	
 槮	sam2	
-沁	sam2	3%
 沈	sam2	
 淰	sam2	3%
 渖	sam2	
@@ -26816,7 +26812,6 @@ use_preset_vocabulary: true
 馊	sau1	
 馐	sau1	
 騪	sau1	0%
-鞘	sau1	3%
 鎀	sau1	
 鎪	sau1	
 锼	sau1	
@@ -29359,7 +29354,6 @@ use_preset_vocabulary: true
 闒	taap3	3%
 闟	taap3	0%
 阘	taap3	
-蹋	taap6	
 誻	taap6	0%
 撻	taat1	3%
 㣵	taat3	
@@ -29503,7 +29497,6 @@ use_preset_vocabulary: true
 氹	tam3	0%
 𧨾	tam3	
 氹	tam4	0%
-湛	tam4	3%
 䶨	tam4	
 䉡	tam4	
 䃲	tam4	
@@ -29787,7 +29780,7 @@ use_preset_vocabulary: true
 倎	tin2	0%
 㙉	tin2	
 錪	tin2	
-靦	tin2	3%
+靦	tin2	
 腼	tin2	0%
 覥	tin2	
 賟	tin2	
