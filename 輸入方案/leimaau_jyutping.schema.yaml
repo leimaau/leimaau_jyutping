@@ -4,7 +4,7 @@
 schema:
   schema_id: leimaau_jyutping
   name: "貍貓粵拼"
-  version: "20180828"
+  version: "20190219"
   author:
     - LeiMaau<https://leimaau.github.io/book/>
   description: |
