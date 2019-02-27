@@ -6,7 +6,7 @@ schema:
   name: "貍貓粵拼"
   version: "20190219"
   author:
-    - LeiMaau<https://leimaau.github.io/book/>
+    - LeiMaau<leimaau@qq.com>
   description: |
     採用『香港語言學會粵語拼音方案』
     聲調輸入 q平 v上 x去 （雙擊爲陽調）
