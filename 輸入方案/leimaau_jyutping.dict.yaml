@@ -11,7 +11,7 @@
 
 ---
 name: leimaau_jyutping
-version: "20190219"
+version: "20190314"
 sort: by_weight	#original
 use_preset_vocabulary: true
 ...
@@ -36784,7 +36784,7 @@ use_preset_vocabulary: true
 一一映射	jat1 jat1 jing2 se6
 一丁不識	jat1 ding1 bat1 sik1
 一丁點	jat1 ding1 dim2
-一下	jat1 haa6
+一下	jat1 haa5
 一下兒	jat1 haa5 ji4
 一下子	jat1 haa6 zi2
 一不做二不休	jat1 bat1 zou6 ji6 bat1 jau1
@@ -36935,7 +36935,6 @@ use_preset_vocabulary: true
 一吐為快	jat1 tou3 wai4 faai3
 一向	jat1 hoeng3
 一向都	jat1 hoeng3 dou1
-一吓	jat1 haa5
 一周	jat1 zau1
 一味	jat1 mei6
 一呼百應	jat1 fu1 baak3 jing3
@@ -41451,7 +41450,7 @@ use_preset_vocabulary: true
 乜人	me1 jan4
 乜嘢	mat1 je5
 乜嘢時間	mat1 je5 si4 gaan1
-乜嘢環境？	mat1 je5 waan4 ging2
+乜嘢環境	mat1 je5 waan4 ging2
 乜嘢話	mat1 je5 waa2
 乜因由	mat1 jan1 jau4
 乜斜	me1 ce4
@@ -44420,11 +44419,11 @@ use_preset_vocabulary: true
 伯都	baak3 dou1
 伯里克利	baak3 lei5 hak1 lei6
 伯顏	baak3 ngaan4
-估估吓	gu2 gu2 haa2
+估估下	gu2 gu2 haa2
 估值	gu2 zik6
 估價	gu2 gaa3
 估到	gu2 dou2
-估吓	gu2 haa5
+估下	gu2 haa5
 估唔到	gu2 m4 dou2
 估啱	gu2 ngaam1
 估堆兒	gu2 deoi1 ji4
@@ -45105,8 +45104,8 @@ use_preset_vocabulary: true
 你自己嘅	nei5 zi6 gei2 ge3
 你話點就點	nei5 waa6 dim2 zau6 dim2
 你諗你	nei5 nam2 nei5
-你講咩嘢話？	nei5 gong2 me1 je5 waa2
-你講嘢呀？	nei5 gong2 je5 aa4
+你講咩嘢話	nei5 gong2 me1 je5 waa2
+你講嘢呀	nei5 gong2 je5 aa4
 你貴姓	nei5 gwai3 sing3
 你走你的陽關道，我過我的獨木橋	nei5 zau2 nei5 dik1 joeng4 gwaan1 dou6 ngo5 gwo3 ngo5 dik1 duk6 muk6 kiu4
 你追我趕	nei5 zeoi1 ngo5 gon2
@@ -45211,7 +45210,7 @@ use_preset_vocabulary: true
 使命	si3 ming6
 使命感	si3 ming6 gam2
 使唔使	sai2 m4 sai2
-使唔使…呀？	sai2 m4 sai2 aa3
+使唔使…呀	sai2 m4 sai2 aa3
 使唔晒	sai2 m4 saai3
 使喚	sai2 wun6
 使喚	si2 wun6
@@ -45645,11 +45644,11 @@ use_preset_vocabulary: true
 係人都唔	hai6 jan4 dou1 m4
 係人都知	hai6 jan4 dou1 zi1
 係你先至好講呀	hai6 nei5 sin1 zi3 hou2 gong2 aa3
-係吖！	hai6 aa1
+係吖	hai6 aa1
 係呀	hai6 aa3
 係咁大	hai6 gam3 daai6
 係咁意	hai6 gam2 ji3
-係咩？	hai6 me1
+係咩	hai6 me1
 係咪	hai6 mai6
 係咪…先	hai6 mai6 sin1
 係咪先	hai6 mai6 sin1
@@ -45665,7 +45664,6 @@ use_preset_vocabulary: true
 係威係勢	hai6 wai1 hai6 sai3
 係就係	hai6 zau6 hai6
 係數	hai6 sou3
-係衙？	hai6 aa4
 係要	hai6 jiu3
 係路	hai6 lou6
 促使	cuk1 si2
@@ -46481,7 +46479,7 @@ use_preset_vocabulary: true
 出千	ceot1 cin1
 出去	ceot1 heoi3
 出去蒲	ceot1 heoi3 pou4
-出去行吓	ceot1 heoi3 haang4 haa5
+出去行下	ceot1 heoi3 haang4 haa5
 出口	ceot1 hau2
 出口商	ceot1 hau2 soeng1
 出口商品	ceot1 hau2 soeng1 ban2
@@ -48304,7 +48302,7 @@ use_preset_vocabulary: true
 傾倒	king1 dou2
 傾偈	king1 gai2
 傾側	king1 zak1
-傾傾吓	king1 king1 haa5
+傾傾下	king1 king1 haa5
 傾公事	king1 gung1 si6
 傾出	king1 ceot1
 傾力	king1 lik6
@@ -48317,8 +48315,8 @@ use_preset_vocabulary: true
 傾向	king1 hoeng3
 傾向性	king1 hoeng3 sing3
 傾向於	king1 hoeng3 jyu1
-傾吓	king1 haa5
-傾吓傾吓	king1 haa5 king1 haa5
+傾下	king1 haa5
+傾下傾下	king1 haa5 king1 haa5
 傾听	king1 ting1
 傾唔埋	king1 m4 maai4
 傾唔埋欄	king1 m4 maai4 laan4
@@ -52371,7 +52369,7 @@ use_preset_vocabulary: true
 到時	dou3 si4
 到時候	dou3 si4 hau6
 到時到候	dou3 si4 dou3 hau6
-到時睇吓點先	dou3 si4 tai2 haa5 dim2 sin1
+到時睇下點先	dou3 si4 tai2 haa5 dim2 sin1
 到會	dou3 wui6
 到期	dou3 kei4
 到期收益率	dou3 kei4 sau1 jik1 leot2
@@ -55179,7 +55177,7 @@ use_preset_vocabulary: true
 匹馬力	pat1 maa5 lik6
 匾額	bin2 ngaak6
 匿入房	nei1 jap6 fong2
-匿去邊度？	nei1 heoi3 bin1 dou6
+匿去邊度	nei1 heoi3 bin1 dou6
 匿名	nik1 ming4
 匿名信	nik1 ming4 seon3
 匿埋	nei1 maai4
@@ -58276,7 +58274,7 @@ use_preset_vocabulary: true
 合埋	gaap3 maai4
 合埋	hap6 maai4
 合埋一齊去	gaap3 maai4 jat1 cai4 heoi3
-合埋有幾多？	gaap3 maai4 jau5 gei2 do1
+合埋有幾多	gaap3 maai4 jau5 gei2 do1
 合夥	hap6 fo2
 合夥人	hap6 fo2 jan4
 合奏	hap6 zau3
@@ -58594,7 +58592,7 @@ use_preset_vocabulary: true
 吊骨	diu3 gwat1
 吊高嚟賣	diu3 gou1 lei4 maai6
 吊鹽水	diu3 jim4 seoi2
-同…斟吓	tung4 zam1 haa5
+同…斟下	tung4 zam1 haa5
 同一	tung4 jat1
 同一個世界，同一個夢想	tung4 jat1 go3 sai3 gaai3 tung4 jat1 go3 mung6 soeng2
 同一個鼻哥窿出氣	tung4 jat1 go3 bei6 go1 lung1 ceot1 hei3
@@ -59051,7 +59049,6 @@ use_preset_vocabulary: true
 向陽區	hoeng3 joeng4 keoi1
 向陽花	hoeng3 joeng4 faa1
 向隅	hoeng3 jyu4
-吓吓	haa5 haa5
 吔吔烏	jaa4 jaa4 wu1
 吔吔聲	jaa1 jaa1 seng1
 吔屎	jaa1 si2
@@ -59574,7 +59571,7 @@ use_preset_vocabulary: true
 呢勻	nei4 wan4
 呢勻	ni1 wan4
 呢可	ne1 ho2
-呢吓	nei1 haa2
+呢下	nei1 haa5
 呢味嘢	ni1 mei6 je5
 呢啲	ni1 di1
 呢啲嘢	ni1 di1 je5
@@ -60024,7 +60021,7 @@ use_preset_vocabulary: true
 噉又唔同	gam2 jau6 m4 tung4
 噉又得	gam2 jau6 dak1
 噉又點	gam2 jau6 dim2
-噉又點呀？	gam2 jau6 dim2 aa3
+噉又點呀	gam2 jau6 dim2 aa3
 噉唔係	gam2 m4 hai6
 噉就	gam2 zau6
 噉就啱	gam2 zau6 ngaam1
@@ -60663,16 +60660,16 @@ use_preset_vocabulary: true
 咨客	zi1 haak3
 咨文	zi1 man4
 咨詢	zi1 seon1
-咩事呀？	me1 si6 aa3
+咩事呀	me1 si6 aa3
 咩咋	mei1 zaa3
 咩咩	me1 me1
 咩嘢	me1 je5
-咩嘢環境呀？	me1 je5 waan4 ging2
+咩嘢環境呀	me1 je5 waan4 ging2
 咩意思	me1 ji3 si3
 咩料	me1 liu2
-咩環境呀？	me1 waan4 ging2
+咩環境呀	me1 waan4 ging2
 咩話	me1 waa2
-咩話？	me1 waa2
+咩話	me1 waa2
 咩都唔驚	me1 dou1 m4 geng1
 咪仙	mai1 sin1
 咪住	mai5 zyu6
@@ -61604,7 +61601,7 @@ use_preset_vocabulary: true
 唔鹹唔淡	m4 haam4 m4 taam5
 唔黐家	m4 ci1 gaa1
 唔𠸎耕	m4 naa1 gaang1
-唞吓	tau2 haa5
+唞下	tau2 haa5
 唞啖氣	tau2 daam6 hei3
 唞大氣	tau2 daai6 hei3
 唞工	tau2 gung1
@@ -62661,7 +62658,7 @@ use_preset_vocabulary: true
 嗚嗚	wu1 wu1
 嗜好	si3 hou3
 嗜慾	si3 juk6
-噉都得嘅？	gam2 dou1 dak1 ge3
+噉都得嘅	gam2 dou1 dak1 ge3
 噉頭	gam2 tau2
 噍吹波膠	ziu6 ceoi1 bo1 gaau1
 噍完鬆	ziu6 jyun4 sung1
@@ -65095,7 +65092,7 @@ use_preset_vocabulary: true
 執到都喊三聲	zap1 dou3 dou1 haam3 saam1 sing1
 執勤	zap1 kan4
 執包袱	zap1 baau1 fuk6
-執吓張床	zap1 haa5 zoeng1 cong4
+執下張床	zap1 haa5 zoeng1 cong4
 執嘢	zap1 je5
 執地	zap1 dei6
 執委會	zap1 wai2 wui2
@@ -67514,7 +67511,7 @@ use_preset_vocabulary: true
 好吃	hou2 hek3
 好吃懶做	hou3 hek3 laan5 zou6
 好合	hou2 gaap3
-好吖！	hou2 aa1
+好吖	hou2 aa1
 好呀	hou2 aa3
 好味	hou2 mei6
 好命	hou2 meng6
@@ -75039,7 +75036,7 @@ use_preset_vocabulary: true
 就假	zau6 gaa2
 就假嘅	zau6 gaa2 ge3
 就勢	zau6 sai3
-就吓佢	zau6 haa5 keoi5
+就下佢	zau6 haa5 keoi5
 就噉啦	zau6 gam2 laa1
 就嚟	zau6 lei4
 就地	zau6 dei6
@@ -81036,7 +81033,7 @@ use_preset_vocabulary: true
 快可立	faai3 ho2 laap6
 快啲	faai3 di1
 快啲	faai3 dit1
-快啲啦！	faai3 di1 laa1
+快啲啦	faai3 di1 laa1
 快啲行喇	faai3 di1 haang4 laa3
 快嘴	faai3 zeoi2
 快報	faai3 bou3
@@ -83271,7 +83268,7 @@ use_preset_vocabulary: true
 懵佬	mung2 lou2
 懵到上心口	mung2 dou3 soeng5 sam1 hau2
 懵口懵面	mung2 hau2 mung2 min6
-懵吓懵吓	mung2 haa5 mung2 haa5
+懵下懵下	mung2 haa5 mung2 haa5
 懵懂	mung2 dung2
 懵懂	mung5 dung2
 懵懵懂懂	mung5 mung5 dung2 dung2
@@ -85642,7 +85639,7 @@ use_preset_vocabulary: true
 把家	baa2 gaa1
 把尿	baa2 niu6
 把屁	baa2 pei3
-把屁咩！	baa2 pei3 me1
+把屁咩	baa2 pei3 me1
 把屎	baa2 si2
 把幾火	baa2 gei2 fo2
 把式	baa2 sik1
@@ -89161,7 +89158,7 @@ use_preset_vocabulary: true
 搏出位	bok3 ceot1 wai6
 搏到盡	bok3 dou3 zeon6
 搏動	bok3 dung6
-搏吓彩	bok3 haa5 coi2
+搏下彩	bok3 haa5 coi2
 搏命	bok3 meng6
 搏命噉走	bok3 meng6 gam2 zau2
 搏唔過	bok3 m4 gwo3
@@ -92463,7 +92460,7 @@ use_preset_vocabulary: true
 斜體字	ce4 tai2 zi6
 斟出	zam1 ceot1
 斟出嚟	zam1 ceot1 lei4
-斟吓	zam1 haa5
+斟下	zam1 haa5
 斟唔掂	zam1 m4 dim6
 斟掂	zam1 dim6
 斟水	zam1 seoi2
@@ -92505,8 +92502,8 @@ use_preset_vocabulary: true
 斬倉	zaam2 cong1
 斬傷	zaam2 soeng1
 斬到一頸血	zaam2 dou3 jat1 geng2 hyut3
-斬吓眼	zaam2 haa5 ngaan5
-斬吓眼就…	zaam2 haa5 ngaan5 zau6
+斬下眼	zaam2 haa5 ngaan5
+斬下眼就…	zaam2 haa5 ngaan5 zau6
 斬料	zaam2 liu2
 斬新	zaam2 san1
 斬斷	zaam2 tyun5
@@ -110292,9 +110289,6 @@ use_preset_vocabulary: true
 烙印	lok3 jan3
 烙鐵	lok3 tit3
 烙餅	lok3 beng2
-烚吓烚吓	saap6 haa5 saap6 haa5
-烚熟狗頭	hap6 suk6 gau2 tau4
-烚蛋	hap6 daan2
 烜赫	hyun2 haak1
 烜赫一時	hyun2 haak1 jat1 si4
 烝民	zing1 man4
@@ -111231,7 +111225,8 @@ use_preset_vocabulary: true
 煞車	saat3 ce1
 煞風景	saat3 fung1 ging2
 煞食	saat3 sik6
-煠熟狗頭	zaa3 suk6 gau2 tau4
+煠熟狗頭	saap6 suk6 gau2 tau4
+煠下煠下	saap6 haa5 saap6 haa5
 煠蛋	saap6 daan2
 煢煢孑立	king4 king4 kit3 laap6
 煤儲量	mui4 cyu5 loeng6
@@ -117276,7 +117271,7 @@ use_preset_vocabulary: true
 發動機	faat3 dung6 gei1
 發包	faat3 baau1
 發卡	faat3 kaat1
-發吓姣氣	faat3 haa5 haau4 hei3
+發下姣氣	faat3 haa5 haau4 hei3
 發吽哣	faat3 hung1 dau6
 發吽哣	faat3 ngau6 dau6
 發吽豆	faat3 ngau6 dau6
@@ -120166,11 +120161,10 @@ use_preset_vocabulary: true
 睇到	tai2 dou3
 睇勻	tai2 wan4
 睇化	tai2 faa3
-睇吓	tai2 haa3
-睇吓	tai2 haa5
-睇吓先	tai2 haa5 sin1
-睇吓咧	tai2 haa5 le4
-睇吓點	tai2 haa5 dim2
+睇下	tai2 haa5
+睇下先	tai2 haa5 sin1
+睇下咧	tai2 haa5 le4
+睇下點	tai2 haa5 dim2
 睇唔入眼	tai2 m4 jap6 ngaan5
 睇唔出嚟	tai2 m4 ceot1 lei4
 睇唔切	tai2 m4 cit3
@@ -123974,7 +123968,7 @@ use_preset_vocabulary: true
 等到	dang2 dou3
 等到頸都長	dang2 dou3 geng2 dou1 coeng4
 等同	dang2 tung4
-等吓	dang2 haa5
+等下	dang2 haa5
 等周	dang2 zau1
 等周不等式	dang2 zau1 bat1 dang2 sik1
 等咗好耐	dang2 zo2 hou2 noi6
@@ -123989,7 +123983,7 @@ use_preset_vocabulary: true
 等式	dang2 sik1
 等待	dang2 doi6
 等我嚟	dang2 ngo5 lei4
-等我睇吓	dang2 ngo5 tai2 haa5
+等我睇下	dang2 ngo5 tai2 haa5
 等效百萬噸當量	dang2 haau6 baak3 maan6 deon1 dong1 loeng6
 等於	dang2 jyu1
 等於零	dang2 jyu1 ling4
@@ -133181,7 +133175,7 @@ use_preset_vocabulary: true
 舀水	jiu5 seoi2
 舀湯	jiu5 tong1
 舂個頭埋去	zung1 go3 tau4 maai4 heoi3
-舂吓舂吓	zung1 haa5 zung1 haa5
+舂下舂下	zung1 haa5 zung1 haa5
 舂杵	zung1 cyu2
 舂牆	zung1 coeng4
 舂瘟雞	zung1 wan1 gai1
@@ -137107,7 +137101,7 @@ use_preset_vocabulary: true
 蛇仔	se4 zai2
 蛇匪	se4 fei2
 蛇口	se4 hau2
-蛇吓先	se4 haa5 sin1
+蛇下先	se4 haa5 sin1
 蛇咗去隔籬	se4 zo2 heoi3 gaak3 lei4
 蛇喱眼	se4 lei1 ngaan5
 蛇喱眼	se4 lei2 ngaan5
@@ -137976,8 +137970,8 @@ use_preset_vocabulary: true
 行勻全國	haang4 wan4 cyun4 gwok3
 行千里路，讀萬卷書	haang4 cin1 lei5 lou6 duk6 maan6 gyun2 syu1
 行古惑	haang4 gu2 waak6
-行吓	haang4 haa5
-行吓公司	haang4 haa5 gung1 si1
+行下	haang4 haa5
+行下公司	haang4 haa5 gung1 si1
 行咇	haang4 bit1
 行唐	hang4 tong4
 行唐縣	hang4 tong4 jyun6
@@ -140403,8 +140397,8 @@ use_preset_vocabulary: true
 計劃生育	gai3 waak6 sang1 juk6
 計劃目標	gai3 waak6 muk6 biu1
 計劃經濟	gai3 waak6 ging1 zai3
-計吓	gai3 haa5
-計吓條數	gai3 haa5 tiu4 sou3
+計下	gai3 haa5
+計下條數	gai3 haa5 tiu4 sou3
 計唔掂	gai3 m4 dim6
 計唔清	gai3 m4 cing1
 計埋	gai3 maai4
@@ -140915,7 +140909,7 @@ use_preset_vocabulary: true
 試劑	si3 zai1
 試卷	si3 gyun2
 試吃品	si3 hek3 ban2
-試吓	si3 haa5
+試下	si3 haa5
 試味	si3 mei6
 試味道	si3 mei6 dou6
 試問	si3 man6
@@ -141945,8 +141939,8 @@ use_preset_vocabulary: true
 講古	gong2 gu2
 講古仔	gong2 gu2 zai2
 講史	gong2 si2
-講吓笑	gong2 haa5 siu3
-講吓笑啫！	gong2 haa5 siu3 ze1
+講下笑	gong2 haa5 siu3
+講下笑啫	gong2 haa5 siu3 ze1
 講咁易咩	gong2 gam3 ji6 me1
 講和	gong2 wo4
 講咩	gong2 me1
@@ -150607,7 +150601,7 @@ use_preset_vocabulary: true
 醜八怪	cau2 baat3 gwaai3
 醜劇	cau2 kek6
 醜化	cau2 faa3
-醜吓佢	cau2 haa5 keoi5
+醜下佢	cau2 haa5 keoi5
 醜婦終須見家翁	cau2 fu5 zung1 seoi1 gin3 gaa1 jung1
 醜小鴨	cau2 siu2 aap3
 醜怪	cau2 gwaai3
@@ -151573,7 +151567,7 @@ use_preset_vocabulary: true
 關二哥	gwaan1 ji6 go1
 關人	gwaan1 jan4
 關人鬼事	gwaan1 jan4 gwai2 si6
-關人！	gwaan1 jan4
+關人	gwaan1 jan4
 關係	gwaan1 hai6
 關係代名詞	gwaan1 hai6 doi6 ming4 ci4
 關係到	gwaan1 hai6 dou3
@@ -160431,7 +160425,7 @@ use_preset_vocabulary: true
 飽暖思淫慾	baau2 nyun5 si1 jam4 juk6
 飽暖思淫欲，飢寒起盜心	baau2 nyun5 si1 jam4 juk6 gei1 hon4 hei2 dou6 sam1
 飽死	baau2 sei2
-飽死我啦！	baau2 sei2 ngo5 laa3
+飽死我啦	baau2 sei2 ngo5 laa3
 飽死荷蘭豆	baau2 sei2 ho4 laan1 dau6
 飽滿	baau2 mun5
 飽漢不知餓漢飢	baau2 hon3 bat1 zi1 ngo6 hon3 gei1
@@ -165717,7 +165711,6 @@ use_preset_vocabulary: true
 # 增補新詞
 啊嘛	aa1 maa3
 可汗	hak1 hon4
-等下	dang2 haa5
 蝕底	sit6 dai2
 鋤大弟	co4 daai6 di2
 垃雜	laap6 zaap6
@@ -165808,6 +165801,7 @@ use_preset_vocabulary: true
 弼馬溫
 百度雲
 愛奇藝
+高德地圖
 嗶哩嗶哩
 彈幕
 網易雲音樂
@@ -165827,50 +165821,49 @@ A站	azaam6
 A站	ei1 zaam6
 RIME	rime
 QQ	kiu1 kiu1
-QQ	qq
 WIFI	wifi
 WIFI	waai faai
 
 
 # 英文讀音式
-A	ei
-B	bi
-C	si
-D	di
-E	ji
-F	ef
-G	zyu
-H	eicyu
-I	aai
-J	zei
-K	kei
-L	el
-M	em
-N	en
-O	ou
-P	pi
-Q	kiu
-R	aa
-S	es
-T	ti
-U	ju
-V	wi
-W	daaplju
-X	eks
-Y	waai
-Z	jisik
-Z	jet
+#A	ei
+#B	bi
+#C	si
+#D	di
+#E	ji
+#F	ef
+#G	zyu
+#H	eicyu
+#I	aai
+#J	zei
+#K	kei
+#L	el
+#M	em
+#N	en
+#O	ou
+#P	pi
+#Q	kiu
+#R	aa
+#S	es
+#T	ti
+#U	ju
+#V	wi
+#W	daaplju
+#X	eks
+#Y	waai
+#Z	jisik
+#Z	jet
 
 
 # 數字
-0	ling4
-1	jat1
-2	ji6
-3	saam1
-4	sei3
-5	ng5
-6	luk6
-7	cat1
-8	baat3
-9	gau2
+#0	ling4
+#1	jat1
+#2	ji6
+#3	saam1
+#4	sei3
+#5	ng5
+#6	luk6
+#7	cat1
+#8	baat3
+#9	gau2
 
