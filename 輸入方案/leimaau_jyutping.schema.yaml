@@ -4,7 +4,7 @@
 schema:
   schema_id: leimaau_jyutping
   name: "貍貓粵拼"
-  version: "20190219"
+  version: "2019.04.13"
   author:
     - LeiMaau<leimaau@qq.com>
   description: |
@@ -29,9 +29,6 @@ switches:
   - name: emoji_cn
     reset: 0
     states: [ 〇, 😊 ]
-  - name: cn_english
-    reset: 0
-    states: [ 不轉換, 漢英轉換 ]
   - name: ascii_mode
     reset: 0
     states: [ 中文, 西文 ]
@@ -69,7 +66,6 @@ engine:
     - simplifier@zh_tw
     - simplifier@zh_jp
     - simplifier@emoji_cn
-    - simplifier@cn_english
     - uniquifier
 
 speller:
@@ -84,25 +80,20 @@ speller:
     - xform/5/vv/
     - xform/3/x/
     - xform/6/xx/
-    - derive/^(z|c|s)i$/$1z/      # 模糊	(zcs)i -> (zcs)z
-    - derive/^(z|c|s)i$/$1y/      # 模糊	(zcs)i -> (zcs)y
     - derive/^jy?([aeiour])/y$1/  # 容錯 j -> y
     - derive/^jyu/yu/             # 容錯 jyu -> yu
     - derive/^jyu/ju/             # 容錯 jyu -> ju
     - derive/aa/r/                # 容錯 aa -> r
     - derive/aa$/a/               # 容錯 aa -> a
+    - derive/eo([int])$/u$1/      # 容錯 eo(int) -> u(int)
     - derive/dik$/d/              # 快出「的」字
     - derive/oe(ng|k)$/eo$1/      # 容錯 oe(ng|k) -> eo(ng|k)
     - derive/eo([int])$/oe$1/     # 容錯 eo(int) -> oe(int)
-    - derive/^(g|k)w/$1u/         # 廣州式
-    - derive/aau$/ao/             # 廣州式 aau -> ao
     - derive/yu/y/                # 教院式 jyu -> jy，yu -> y
     - derive/eoi$/eoy/            # 教院式 eoi <-> eoy
-    - derive/eo([int])$/u$1/      # 模糊 eo(int) -> u(int)
-    - derive/([bpmfdtnlgkhzcs])ei$/$1i/         # 模糊 ei -> i
-    - derive/ou$/u/          	  # 模糊 ou -> u
-    - derive/e(m|n|ng|k)$/i$1/    # 模糊 e(m|n|ng|k) -> i(m|n|ng|k)
-    - derive/a(m|p)$/o$1/         # 模糊 a(m|p) -> o(m|p)
+    - derive/([bpmfdtnlgkhzc])ei$/$1i/        # 模糊 ei -> i
+    - derive/([bpmfdtnlhzcs])ou$/$1u/         # 模糊 ou -> u
+    - derive/e(ng|k)$/i$1/        # 模糊 e(ng|k) -> i(ng|k)
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([gk]w).+$/$1/      # 聲母簡拼
 
@@ -120,6 +111,77 @@ translator:
     - xform/([aeioumngptk])v/$1²/
     - xform/([aeioumngptk])xx/$1⁶/
     - xform/([aeioumngptk])x/$1³/
+#  preedit_format:   # 需要顯示IPA時替換成這段
+#    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
+#    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
+#    - xform/([ptk])x/$1˧/	咽jiːt̚˧
+#    - xform/([ptk])q/$1˥/	一jɐt̚
+#    - xform/qq/˨˩/	而jiː˨˩
+#    - xform/q/˥˥/	倚jiː˥˥
+#    - xform/vv/˩˧/	以jiː˩˧
+#    - xform/v/˧˥/	倚jiː˧˥
+#    - xform/xx/˨˨/	二jiː˨˨
+#    - xform/x/˧˧/	以jiː˧˧
+#    - xform/([PTK])$/$1]$2/	入jɐp̚
+#    - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/	用jʊŋ
+#    - xform/(^|[ '])(jy|[jy])u([t])/$1jYː$3]/	月jyːt̚
+#    - xform/([dtlgkhzcsj])yu([t])/$1Yː$2]/	奪tyːt̚
+#    - xform/(^|[ '])([jy])u([k])/$1jʊ$3]/	玉jʊk̚
+#    - xform/(^|[ '])(jy|[jy])u/$1jYː/	元jyːn
+#    - xform/yu/Yː/	嫩nyːn
+#    - xform/y([aeior])/j$1/	一yat/jɐt̚/
+#    - xform/(aa|r)([iu])/Aː\U$2/	嗎maː
+#    - xform/a([iu])/ɐ\U$1/	米mɐi
+#    - xform/(aa|r)([ptk])/Aː\U$2]/	握aːk̚
+#    - xform/a([ptk])/ɐ\U$1]/	呃ɐk̚
+#    - xform/(aa|r)/Aː/	嗎maː
+#    - xform/b/P/	吧paː
+#    - xform/c/T͡sH/	差tsʰaː
+#    - xform/d/T/	打taː
+#    - xform/eu/ɛːU/	掉tɛːu
+#    - xform/eoi/ɵY/	水sɵy
+#    - xform/oei/ɵY/	容錯
+#    - xform/oe([ptk])/œː$1]/	約jœːk̚
+#    - xform/oe(ng)/œː$1/	容錯
+#    - xform/oe([t])/ɵ$1]/	容錯
+#    - xform/oe([n])/ɵ$1/	容錯
+#    - xform/oe/œː/	張tsœːŋ
+#    - xform/oi/ɔːI/	蓋kʰɔːi
+#    - xform/eo(ng)/œːŋ/	容錯
+#    - xform/eo([k])/œː$1]/	容錯
+#    - xform/eo([t])/ɵ$1]/	率sɵt̚
+#    - xform/eon/ɵn/	信sɵn
+#    - xform/ou/OU/	無mou
+#    - xform/u([k])/ʊ$1]/	六lʊk̚
+#    - xform/ui/UːI/	回wuːi
+#    - xform/iu/IːU/	小siːu
+#    - xform/i(ng)/ɪN/	名mɪŋ
+#    - xform/ik/ɪK]/	式sɪk̚
+#    - xform/i([pt])/Iː$1]/	結kiːt̚
+#    - xform/eo/ɵ/	去hɵy
+#    - xform/a/ɐ/	粒nɐp̚
+#    - xform/ei/EI/	欸ei
+#    - xform/i/Iː/	是siː
+#    - xform/e([ptk])/ɛː$1]/	壢lɛːk̚
+#    - xform/e/ɛː/	寫sɛː
+#    - xform/o([ptk])/ɔː$1]/	莫mɔːk̚
+#    - xform/u([pt])/Uː$1]/	活wuːt̚
+#    - xform/u(ng)/ʊN/	動tʊŋ
+#    - xform/o/ɔː/	錯tsʰɔː
+#    - xform/u/Uː/	故kuː
+#    - xform/ng/N/	我ŋɔː
+#    - xform/n/n/	你nei
+#    - xform/kw/KWH/	群kʷʰɐn
+#    - xform/gw/KW/	均kʷɐn
+#    - xform/g/K/	急kɐp̚
+#    - xform/(^|[ '])([ptk])/$1$2H/	噴pʰɐn
+#    - xform/w/w/	雲wɐn
+#    - xform/j/j/	人jɐn
+#    - xform/m/m/	美mei
+#    - xform/l/l/	裏lei
+#    - xform/s/s/	死sei
+#    - xform/z/T͡s/	這t͡sɛː
+#    - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊYː]|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊyː̚|"
 
 reverse_lookup:
   dictionary: luna_pinyin
@@ -140,6 +202,14 @@ punctuator:
 
 key_binder:
   import_preset: default
+#  bindings:   # 使用小鶴同文主題時開啓
+#    - {accept: semicolon, send: 2, when: has_menu} # 分号次选
+#    - {accept:  dollar, send: 2, when: composing}
+#    - {accept: Release+dollar, send: period, when: composing}
+#    - {accept: Release+period, send: period, when: composing}
+#    - {accept: bar, send: 2, when: composing}
+#    - {accept: Release+bar, send: comma, when: composing}
+#    - {accept: Release+comma, send: comma, when: composing}
 
 recognizer:
   patterns:
@@ -163,7 +233,6 @@ zh_trad:
   opencc_config: s2t.json
   tips: all
   
-  
 zh_hk:
   option_name: zh_hk
   opencc_config: t2hk.json
@@ -182,9 +251,4 @@ zh_jp:
 emoji_cn:
   opencc_config: emoji.json
   option_name: emoji_cn
-  tips: all
-  
-cn_english:
-  opencc_config: cn_english.json
-  option_name: cn_english
   tips: all

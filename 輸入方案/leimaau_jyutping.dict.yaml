@@ -11,7 +11,7 @@
 
 ---
 name: leimaau_jyutping
-version: "20190314"
+version: "2019.04.13"
 sort: by_weight	#original
 use_preset_vocabulary: true
 ...
@@ -43729,7 +43729,7 @@ use_preset_vocabulary: true
 仙逝	sin1 sai6
 仙遊	sin1 jau4
 仙遊縣	sin1 jau4 jyun6
-仙都唔仙吓	sin1 dou1 m4 sin1 haa5
+仙都唔仙下	sin1 dou1 m4 sin1 haa5
 仙鄉	sin1 hoeng1
 仙鶴	sin1 hok6
 仟悔	cin1 fui3
@@ -47449,7 +47449,7 @@ use_preset_vocabulary: true
 做出	zou6 ceot1
 做到	zou6 dou3
 做到嘢	zou6 dou2 je5
-做到死死吓	zou6 dou3 sei2 sei2 haa2
+做到死死下	zou6 dou3 sei2 sei2 haa2
 做到氣咳	zou6 dou3 hei3 kat1
 做到金睛火眼	zou6 dou3 gam1 zing1 fo2 ngaan5
 做功	zou6 gung1
@@ -62175,7 +62175,7 @@ use_preset_vocabulary: true
 喋喋不休	dip6 dip6 bat1 jau1
 喋血	dip6 hyut3
 喎呵	wo1 ho2
-喎咗	wo5 zo2
+𢰸咗	wo5 zo2
 喐不得其正	juk1 bat1 dak1 kei4 zing3
 喐動	juk1 dung6
 喐啲	juk1 di1
@@ -62629,7 +62629,7 @@ use_preset_vocabulary: true
 嗒嗒聲	daap1 daap1 seng1
 嗒嗒聲	taap3 taap3 sing1
 嗒真	daap1 zan1
-嗒真吓	daap1 zan1 haa5
+嗒真下	daap1 zan1 haa5
 嗒真啲	daap1 zan1 di1
 嗒糖	dap1 tong4
 嗒落有味	taap3 lok6 jau5 mei6
@@ -85205,7 +85205,6 @@ use_preset_vocabulary: true
 托馬斯	tok3 maa5 si1
 扛槍	kong1 coeng1
 扛起	kong1 hei2
-扠堝	caa5 wo5
 扠𢰸	caa5 wo5
 扣上	kau3 soeng5
 扣人心弦	kau3 jan4 sam1 jin4
@@ -85459,7 +85458,7 @@ use_preset_vocabulary: true
 扼要	aak1 jiu3
 扼頸	aak1 geng2
 扽手踭	dan3 sau2 zaang1
-扽扽吓	dan3 dan3 haa5
+扽扽下	dan3 dan3 haa5
 扽氣	dan3 hei3
 扽氣	dan6 hei3
 扽監	dan3 gaam1
@@ -91849,7 +91848,7 @@ use_preset_vocabulary: true
 整損手	zing2 syun2 sau2
 整改	zing2 goi2
 整整	zing2 zing2
-整整吓	zing2 zing2 haa5
+整整下	zing2 zing2 haa5
 整整齊齊	zing2 zing2 cai4 cai4
 整數	zing2 sou3
 整數倍數	zing2 sou3 pui5 sou3
@@ -102320,8 +102319,7 @@ use_preset_vocabulary: true
 死機	sei2 gei1
 死機藍屏	sei2 gei1 laam4 ping4
 死死	sei2 sei2
-死死下	sei2 sei2 haa6
-死死吓	sei2 sei2 haa2
+死死下	sei2 sei2 haa2
 死死地氣	sei2 sei2 dei6 hei3
 死死氣	sei2 sei2 hei3
 死氣喉	sei2 hei3 hau4
@@ -109134,7 +109132,7 @@ use_preset_vocabulary: true
 激光打印機	gik1 gwong1 daa2 jan3 gei1
 激光打引機	gik1 gwong1 daa2 jan5 gei1
 激凸	gik1 dat6
-激到死死吓	gik1 dou3 sei2 sei2 haa2
+激到死死下	gik1 dou3 sei2 sei2 haa2
 激到甩肺	gik1 dou3 lat1 fai3
 激動	gik1 dung6
 激勵	gik1 lai6
@@ -116106,7 +116104,7 @@ use_preset_vocabulary: true
 畀鬧到一戙都冇	bei2 naau6 dou3 jat1 dung6 dou1 mou5
 畀鬧到一隻屐	bei2 naau6 dou3 jat1 zek3 kek6
 畀鬧到一面屁	bei2 naau6 dou3 jat1 min6 pei3
-畀鬧到死死吓	bei2 naau6 dou3 sei2 sei2 haa2
+畀鬧到死死下	bei2 naau6 dou3 sei2 sei2 haa2
 畀鬼迷	bei2 gwai2 mai4
 畋獵	tin4 lip6
 界乎	gaai3 fu4
@@ -116943,7 +116941,7 @@ use_preset_vocabulary: true
 痛入骨髓	tung3 jap6 gwat1 seoi5
 痛切	tung3 cit3
 痛到死	tung3 dou3 sei2
-痛到死死吓	tung3 dou3 sei2 sei2 haa2
+痛到死死下	tung3 dou3 sei2 sei2 haa2
 痛哭	tung3 huk1
 痛哭失聲	tung3 huk1 sat1 sing1
 痛哭流涕	tung3 huk1 lau4 tai3
@@ -117119,7 +117117,7 @@ use_preset_vocabulary: true
 癌腫	ngaam4 zung2
 癌變	ngaam4 bin3
 癐到死	gui6 dou3 sei2
-癐到死死吓	gui6 dou3 sei2 sei2 haa2
+癐到死死下	gui6 dou3 sei2 sei2 haa2
 癐拉拉	gui6 laai4 laai4
 癐晒	gui6 saai3
 癒合	jyu6 hap6
@@ -141721,7 +141719,7 @@ use_preset_vocabulary: true
 論點	leon6 dim2
 諗住	lam2 zyu6
 諗住	nam2 zyu6
-諗吓	nam2 haa5
+諗下	nam2 haa5
 諗唔到	nam2 m4 dou2
 諗唔掂	nam2 m4 dim6
 諗唔明	nam2 m4 ming4
@@ -141743,7 +141741,7 @@ use_preset_vocabulary: true
 諗計	lam2 gai3
 諗計	nam2 gai2
 諗計仔	nam2 gai2 zai2
-諗諗吓	nam2 nam2 haa5
+諗諗下	nam2 nam2 haa5
 諗通	lam2 tung1
 諗通	nam2 tung1
 諗錯隔籬	nam2 co3 gaak3 lei4
@@ -141944,7 +141942,7 @@ use_preset_vocabulary: true
 講嘢	gong2 je5
 講嘢好乸型	gong2 je5 hou2 naa2 jing4
 講嘢鬼食泥咁	gong2 je5 gwai2 sik6 nai4 gam3
-講嚟聽吓	gong2 lei4 teng1 haa5
+講嚟聽下	gong2 lei4 teng1 haa5
 講嚟講去三幅被	gong2 lai4 gong2 heoi3 saam1 fuk1 pei5
 講堂	gong2 tong4
 講壇	gong2 taan4
@@ -143528,7 +143526,7 @@ use_preset_vocabulary: true
 貢井	gung3 zeng2
 貢井區	gung3 zeng2 keoi1
 貢入	gung3 jap6
-貢吓貢吓	gung3 haa5 gung3 haa5
+貢下貢下	gung3 haa5 gung3 haa5
 貢品	gung3 ban2
 貢嘎	gung3 gaa1
 貢嘎縣	gung3 gaa1 jyun6
@@ -146795,7 +146793,7 @@ use_preset_vocabulary: true
 轆轤	luk1 lou4
 轇轕	gaau1 got3
 轉一趟	zyun3 jat1 tong3
-轉下眼	zyun2 haa6 ngaan5
+轉下眼	zyun2 haa5 ngaan5
 轉世	zyun2 sai3
 轉乘	zyun2 sing4
 轉交	zyun2 gaau1
@@ -146820,7 +146818,6 @@ use_preset_vocabulary: true
 轉向	zyun2 hoeng3
 轉向信號	zyun2 hoeng3 seon3 hou6
 轉向燈	zyun2 hoeng3 dang1
-轉吓眼	zyun2 haa5 ngaan5
 轉告	zyun2 gou3
 轉喻	zyun2 jyu6
 轉回	zyun2 wui4
@@ -147268,7 +147265,7 @@ use_preset_vocabulary: true
 迅雷	seon3 leoi4
 迅雷不及掩耳	seon3 leoi4 bat1 kap6 jim2 ji5
 迅風	seon3 fung1
-迆吓	he3 haa5
+迆下	he3 haa5
 迎來送往	jing4 loi4 sung3 wong5
 迎候	jing4 hau6
 迎刃而解	jing4 jan6 ji4 gaai2
@@ -149339,7 +149336,6 @@ use_preset_vocabulary: true
 遲交	ci4 gaau1
 遲到	ci4 dou3
 遲到好過冇到	ci4 dou3 hou2 gwo3 mou5 dou3
-遲吓	ci4 haa5
 遲啲	ci4 di1
 遲啲	ci4 dit1
 遲啲見	ci4 di1 gin3
@@ -153564,7 +153560,7 @@ use_preset_vocabulary: true
 閃鑠	sim2 soek3
 閃閃	sim2 sim2
 閃閃令	sim2 sim2 ling6
-閃閃吓	sim2 sim2 haa5
+閃閃下	sim2 sim2 haa5
 閃閃炩	sim2 sim2 ling3
 閃閃發光	sim2 sim2 faat3 gwong1
 閃閃縮縮	sim2 sim2 suk1 suk1
@@ -159006,7 +159002,7 @@ use_preset_vocabulary: true
 頂冒	ding2 mou6
 頂包	ding2 baau1
 頂名冒姓	ding2 ming4 mou6 sing3
-頂吓肚	ding2 haa5 tou5
+頂下肚	ding2 haa5 tou5
 頂呱呱	ding2 gwaa1 gwaa1
 頂唔住	ding2 m4 zyu6
 頂唔順	ding2 m4 seon6
@@ -165796,6 +165792,7 @@ use_preset_vocabulary: true
 扳手	baan2 sau2
 扳鉗	baan2 kim4
 旮旯	kaa3 laa1
+槓桿	gung3 gon1
 弼馬溫
 百度雲
 愛奇藝
