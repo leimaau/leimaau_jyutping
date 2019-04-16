@@ -1,17 +1,17 @@
 ﻿# Rime dictionary
 # encoding: utf-8
 #
-# leimaau_jyutping - 狸貓粵拼/熊猫粤拼共用
+# leimaau_jyutping - 狸貓粵拼
 #
-# Author - LeiMaau<leimaau@qq.com>
+# Author - LeiMaau <leimaau@qq.com>
 #
-# 字彙部分綜合收錄了《統一碼組織統漢字庫unihan》、《粵語審音配詞字庫》、《香港增補字符集》、2004年《廣州話正音字典》和1992年《常用字廣州話讀音表》的字形和讀音
+# 字音部分綜合收錄了《統一碼組織統漢字庫unihan》、《粵語審音配詞字庫》、《香港增補字符集》、2004年《廣州話正音字典》和1992年《常用字廣州話讀音表》的字形和讀音
 # 詞彙部分綜合收錄了cc-cedict-canto、cc-canto和《開放粵語詞典》的詞彙，並經過修正
 #
 
 ---
 name: leimaau_jyutping
-version: "2019.04.13"
+version: "2019.04.15"
 sort: by_weight	#original
 use_preset_vocabulary: true
 ...

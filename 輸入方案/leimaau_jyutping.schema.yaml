@@ -4,20 +4,21 @@
 schema:
   schema_id: leimaau_jyutping
   name: "貍貓粵拼"
-  version: "2019.04.13"
+  version: "2019.04.15"
   author:
-    - LeiMaau<leimaau@qq.com>
+    - LeiMaau <leimaau@qq.com>
   description: |
     採用『香港語言學會粵語拼音方案』
     聲調輸入 q平 v上 x去 （雙擊爲陽調）
-    提供多種字體轉換方案
-    提示讀音爲粵語拼音
-    提供一種反查方案，[`]反查廣州話
+    提供多種字體轉換方案，提示音是否爲IPA可在preedit_format處開關
+    提供兩種反查方案，[`]用漢語拼音反查廣州話，[x]用五筆畫反查廣州話
+    PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
   dependencies:
     - luna_pinyin
+    - stroke
 
 switches:
-  - options: [zh_simp2, zh_simp, zh_trad, zh_hk, zh_tw, zh_jp ]
+  - options: [zh_simp2, zh_simp, zh_trad, zh_hk, zh_tw, zh_jp]
     reset: 1
     states:
       - 字形 → 大陸〔繁體〕
@@ -37,7 +38,6 @@ switches:
   - name: ascii_punct
     states: [ 。，, ．， ]
 
-
 engine:
   processors:
     - ascii_composer
@@ -51,13 +51,16 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
+    - affix_segmentor@luna_pinyin
+    - affix_segmentor@stroke
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
     - script_translator
-    - reverse_lookup_translator
+    - script_translator@luna_pinyin
+    - table_translator@stroke
   filters:
     - simplifier@zh_simp
     - simplifier@zh_simp2
@@ -67,6 +70,7 @@ engine:
     - simplifier@zh_jp
     - simplifier@emoji_cn
     - uniquifier
+    - reverse_lookup_filter@reverse_lookup
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
@@ -103,7 +107,8 @@ menu:
 
 translator:
   dictionary: leimaau_jyutping
-  spelling_hints: 9
+  prism: leimaau_jyutping
+  spelling_hints: 5
   preedit_format:
     - xform/([aeioumngptk])qq/$1⁴/
     - xform/([aeioumngptk])q/$1¹/
@@ -183,15 +188,34 @@ translator:
 #    - xform/z/T͡s/	這t͡sɛː
 #    - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊYː]|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊyː̚|"
 
-reverse_lookup:
+luna_pinyin:
+  tag: luna_pinyin
   dictionary: luna_pinyin
-  prefix: "`"
+  enable_user_dict: false
+  prefix: '`'
   suffix: "'"
-  tips: 〔反查廣州話〕
-  closing_tips: 〔反查廣州話〕
+  tips: 〔拼音〕
+  closing_tips: 〔廣州話〕
   preedit_format:
-    - xform/([nljqxy])v/$1ü/
+    - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+stroke:
+  tag: stroke
+  dictionary: stroke
+  enable_user_dict: false
+  prefix: 'x'
+  suffix: "'"
+  tips: 〔筆畫〕
+  closing_tips: 〔廣州話〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+
+reverse_lookup:
+  tags:  [luna_pinyin, stroke]
+  overwrite_comment: true
+  dictionary: leimaau_jyutping
   comment_format:
     - xform/ /\｜/
     - xform/^/〔/
@@ -203,8 +227,8 @@ punctuator:
 key_binder:
   import_preset: default
 #  bindings:   # 使用小鶴同文主題時開啓
-#    - {accept: semicolon, send: 2, when: has_menu} # 分号次选
-#    - {accept:  dollar, send: 2, when: composing}
+#    - {accept: semicolon, send: 2, when: has_menu} # 分號次選
+#    - {accept: dollar, send: 2, when: composing}
 #    - {accept: Release+dollar, send: period, when: composing}
 #    - {accept: Release+period, send: period, when: composing}
 #    - {accept: bar, send: 2, when: composing}
@@ -212,11 +236,13 @@ key_binder:
 #    - {accept: Release+comma, send: comma, when: composing}
 
 recognizer:
+  import_preset: default
   patterns:
     email: "^[a-z][-_.0-9a-z]*@.*$"
     uppercase: "^[A-Z][-_+.'0-9A-Za-z]*$"
     url: "^(www[.]|https?:|ftp:|mailto:).*$"
-    reverse_lookup: "`[a-z]*;?$"
+    luna_pinyin: "`[a-z]*'?$"
+    stroke: "x[hspnz]*'?$"
 
 zh_simp:
   option_name: zh_simp
