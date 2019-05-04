@@ -11,9 +11,11 @@
 
 ---
 name: leimaau_jyutping
-version: "2019.04.15"
+version: "2019.05.03"
 sort: by_weight	#original
 use_preset_vocabulary: true
+max_phrase_length: 7
+min_phrase_weight: 100
 ...
 
 丫	aa1	
@@ -2319,7 +2321,6 @@ use_preset_vocabulary: true
 䚱	caan1	
 㺗	caan1	
 䀼	caan1	
-殘	caan1	0%
 铲	caan2	
 㯆	caan2	
 䪾	caan2	
@@ -7507,7 +7508,7 @@ use_preset_vocabulary: true
 剕	fei6	
 狒	fei6	3%
 𠱥	fik1	
-捹	fing3	
+捹	fing3	3%
 捹	fing6	
 𢞵	fit1	
 𢝵	fit1	
@@ -15282,8 +15283,7 @@ use_preset_vocabulary: true
 呎	jing1 cek3	3%
 吋	jing1 cyun3	3%
 啢	jing1 loeng2	
-𠺖	jing1 mau5	
-𠺖	jing1mau5	0%
+𠺖	jing1 mau5	3%
 旲	jing2	
 映	jing2	
 影	jing2	
@@ -19624,7 +19624,7 @@ use_preset_vocabulary: true
 栗	leot2	3%
 率	leot2	3%
 㖀	leot3	
-壘	leot4	3%
+壘	leoi4	3%
 霱	leot6	
 驈	leot6	0%
 葎	leot6	
@@ -36778,7 +36778,7 @@ use_preset_vocabulary: true
 佊	pe5
 𫵱	cat6
 
-# 粵語詞彙
+# 基本詞彙
 一一	jat1 jat1
 一一對應	jat1 jat1 deoi3 jing3
 一一映射	jat1 jat1 jing2 se6
@@ -37157,7 +37157,7 @@ use_preset_vocabulary: true
 一拍即合	jat1 paak3 zik1 hap6
 一拍行	jat1 paak3 hong2
 一招半式	jat1 ziu1 bun3 sik1
-一拮就穿	jat1 gat1 zau6 cyun1
+一㓤就穿	jat1 gat1 zau6 cyun1
 一掃而光	jat1 sou3 ji4 gwong1
 一掃而空	jat1 sou3 ji4 hung1
 一排	jat1 paai4
@@ -61596,7 +61596,6 @@ use_preset_vocabulary: true
 唔食力	m4 sik6 lik6
 唔食羊肉一身臊	m4 sik6 joeng4 juk6 jat1 san1 sou1
 唔食雜	m4 sik6 zaap6
-唔駛客氣	m4 sai2 haak3 hei3
 唔高興	m4 gou1 hing3
 唔鹹唔淡	m4 haam4 m4 taam5
 唔黐家	m4 ci1 gaa1
@@ -63092,7 +63091,6 @@ use_preset_vocabulary: true
 四方木	sei3 fong1 muk6
 四方步	sei3 fong1 bou6
 四方竹	sei3 fong1 zuk1
-四方緙	sei3 fong1 kwaak1
 四方臉	sei3 fong1 lim5
 四方臺	sei3 fong1 toi4
 四方臺區	sei3 fong1 toi4 keoi1
@@ -77745,7 +77743,6 @@ use_preset_vocabulary: true
 從頭到尾	cung4 tau4 dou3 mei5
 從頭到腳	cung4 tau4 dou3 goek3
 從頭開始	cung4 tau4 hoi1 ci2
-從頭開始	cung4 tau4 hoi1 ci5
 御史	jyu6 si2
 御宅族	jyu6 zaak6 zuk6
 御寶	jyu6 bou2
@@ -79388,7 +79385,6 @@ use_preset_vocabulary: true
 引頸就戮	jan5 geng2 zau6 luk6
 引體向上	jan5 tai2 hoeng3 soeng6
 引鬼上門	jan5 gwai2 soeng5 mun4
-弗到漏油	fat1 dou3 lau6 jau4
 弗到漏油	fit1 dou3 lau6 jau4
 弗吉尼亞	fat1 gat1 nei4 aa3
 弗吉尼亞州	fat1 gat1 nei4 aa3 zau1
@@ -86784,12 +86780,12 @@ use_preset_vocabulary: true
 拭目以待	sik1 muk6 ji5 doi6
 拭目傾耳	sik1 muk6 king1 ji5
 拭除	sik1 ceoi4
-拮傷	gat1 soeng1
-拮出血	gat1 ceot1 hyut3
+㓤傷	gat1 soeng1
+㓤出血	gat1 ceot1 hyut3
 拮据	git3 geoi1
-拮肉	gat1 juk6
-拮親	gat1 can1
-拮親手	gat1 can1 sau2
+㓤肉	gat1 juk6
+㓤親	gat1 can1
+㓤親手	gat1 can1 sau2
 拯救	cing2 gau3
 拯救大兵瑞恩	cing2 gau3 daai6 bing1 seoi6 jan1
 拯溺	cing2 nik6
@@ -96187,7 +96183,7 @@ use_preset_vocabulary: true
 有錢有閑	jau5 cin2 jau5 haan4
 有錢能使鬼推磨	jau5 cin2 nang4 sai2 gwai2 teoi1 mo4
 有錢能使鬼推磨	jau5 cin4 nang4 si2 gwai2 teoi1 mo4
-有錢駛得鬼推磨	jau5 cin2 sai2 dak1 gwai2 teoi1 mo4
+有錢使得鬼推磨	jau5 cin2 sai2 dak1 gwai2 teoi1 mo4
 有鑑於	jau5 gaam3 jyu1
 有鑑於此	jau5 gaam3 jyu1 ci2
 有鑒於此	jau5 gaam3 jyu1 ci2
@@ -134174,8 +134170,9 @@ use_preset_vocabulary: true
 花雕	faa1 diu1
 花雞	faa1 gai1
 花露水	faa1 lou6 seoi2
-花靚	faa1 leng1
-花靚仔	faa1 leng3 zai2
+花僆	faa1 leng1
+花僆仔	faa1 leng1 zai2
+花僆女	faa1 leng1 neoi2
 花面貓	faa1 min6 maau1
 花頭	faa1 tau4
 花頭鸚鵡	faa1 tau4 jing1 mou5
@@ -151890,7 +151887,7 @@ use_preset_vocabulary: true
 針刺麻醉	zam1 ci3 maa4 zeoi3
 針劑	zam1 zai1
 針劑瓶	zam1 zai1 ping4
-針唔拮到肉唔知痛	zam1 m4 gat1 dou3 juk6 m4 zi1 tung3
+針唔㓤到肉唔知痛	zam1 m4 gat1 dou3 juk6 m4 zi1 tung3
 針嘜	zam1 mak1
 針孔	zam1 hung2
 針孔攝影機	zam1 hung2 sip3 jing2 gei1
@@ -158274,7 +158271,6 @@ use_preset_vocabulary: true
 靖邊	zing6 bin1
 靖邊縣	zing6 bin1 jyun6
 靖難之役	zing6 naan6 zi1 jik6
-靚仔	leng1 zai2
 靚仔	leng3 zai2
 靚仔有型	leng3 zai2 jau5 jing4
 靚到暈	leng3 dou3 wan4
@@ -165629,8 +165625,8 @@ use_preset_vocabulary: true
 㷫過焫雞	hing3 gwo3 naat3 gai1
 㹴犬	gang1 hyun2
 㺢㹢狓	fok3 gaa1 pei4
-䀹住	gap6 zyu6
-䀹住佢	gap6 zyu6 keoi5
+𥄫住	gap6 zyu6
+𥄫住佢	gap6 zyu6 keoi5
 䁪下眼	zaam2 haa5 ngaan5
 䁪下眼就…	zaam2 haa5 ngaan5 zau6
 䁪眉䁪眼	zaam2 mei4 zaam2 ngaan5
@@ -165655,7 +165651,7 @@ use_preset_vocabulary: true
 𡃁妹	leng1 mui1
 𡃁模	leng1 mou4
 𢆡罅	nin1 laa3
-𢫕頭	fing6 tau2
+𢫕頭	wing6 tau2
 𢯎痕	ngaau1 han4
 𢱑子	waa2 zi2
 𢱕一拳	dap6 jat1 kyun4

@@ -4,37 +4,41 @@
 schema:
   schema_id: leimaau_jyutping
   name: "貍貓粵拼"
-  version: "2019.04.15"
+  version: "2019.05.03"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
     採用『香港語言學會粵語拼音方案』
     聲調輸入 q平 v上 x去 （雙擊爲陽調）
-    提供多種字體轉換方案，提示音是否爲IPA可在preedit_format處開關
+    提供多種字形轉換方案，可根據需要自行開啓，提示音轉爲IPA可在preedit_format處開啓
     提供兩種反查方案，[`]用漢語拼音反查廣州話，[x]用五筆畫反查廣州話
     PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
+    項目主頁 https://github.com/leimaau/leimaau_jyutping
   dependencies:
     - luna_pinyin
     - stroke
 
 switches:
-  - options: [zh_simp2, zh_simp, zh_trad, zh_hk, zh_tw, zh_jp]
-    reset: 1
-    states:
-      - 字形 → 大陸〔繁體〕
-      - 字形 → 大陸
-      - 字形 → 傳統
-      - 字形 → 香港
-      - 字形 → 臺灣
-      - 字形 → 日本
-  - name: emoji_cn
-    reset: 0
-    states: [ 〇, 😊 ]
+#  - options: [zh_simp2, zh_simp, zh_trad, zh_hk, zh_tw, zh_jp]  # 多種字形轉換方案，根據需要自行開啓
+#    reset: 1
+#    states:
+#      - 字形 → 大陸〔繁體〕
+#      - 字形 → 大陸
+#      - 字形 → 傳統
+#      - 字形 → 香港
+#      - 字形 → 臺灣
+#      - 字形 → 日本
+#  - name: emoji_cn    # emoji根據需要自行開啓
+#    reset: 0
+#    states: [ 〇, 😊 ]
   - name: ascii_mode
     reset: 0
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: zh_simp  # 若開啓多字形此段可註釋
+    reset: 1
+    states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
 
@@ -63,12 +67,12 @@ engine:
     - table_translator@stroke
   filters:
     - simplifier@zh_simp
-    - simplifier@zh_simp2
-    - simplifier@zh_trad
-    - simplifier@zh_hk
-    - simplifier@zh_tw
-    - simplifier@zh_jp
-    - simplifier@emoji_cn
+#    - simplifier@zh_simp2  # 多字形濾鏡，根據需要自行開啓
+#    - simplifier@zh_trad
+#    - simplifier@zh_hk
+#    - simplifier@zh_tw
+#    - simplifier@zh_jp
+#    - simplifier@emoji_cn  # emoji濾鏡，根據需要自行開啓
     - uniquifier
     - reverse_lookup_filter@reverse_lookup
 
@@ -103,12 +107,12 @@ speller:
 
 menu:
   alternative_select_keys: "123456789"
-  page_size: 9
+  page_size: 7  # 候選詞數
 
 translator:
   dictionary: leimaau_jyutping
   prism: leimaau_jyutping
-  spelling_hints: 5
+  spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
   preedit_format:
     - xform/([aeioumngptk])qq/$1⁴/
     - xform/([aeioumngptk])q/$1¹/
@@ -116,7 +120,7 @@ translator:
     - xform/([aeioumngptk])v/$1²/
     - xform/([aeioumngptk])xx/$1⁶/
     - xform/([aeioumngptk])x/$1³/
-#  preedit_format:   # 需要顯示IPA時替換成這段
+#  preedit_format:   # 需要顯示IPA時preedit_format替換成這段
 #    - xform/(^|[ '])(m|ng)+$/$1$2̩$3/	唔m̩ 五ŋ̩
 #    - xform/([ptk])xx/$1˨/	熱jiːt̚˨
 #    - xform/([ptk])x/$1˧/	咽jiːt̚˧
@@ -188,11 +192,11 @@ translator:
 #    - xform/z/T͡s/	這t͡sɛː
 #    - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊYː]|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊyː̚|"
 
-luna_pinyin:
+luna_pinyin:    # 拼音反查
   tag: luna_pinyin
   dictionary: luna_pinyin
   enable_user_dict: false
-  prefix: '`'
+  prefix: "`"
   suffix: "'"
   tips: 〔拼音〕
   closing_tips: 〔廣州話〕
@@ -201,11 +205,11 @@ luna_pinyin:
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
 
-stroke:
+stroke:    # 五筆畫反查，h,s,p,n,z 代表橫、豎、撇、捺、折
   tag: stroke
   dictionary: stroke
   enable_user_dict: false
-  prefix: 'x'
+  prefix: "x"
   suffix: "'"
   tips: 〔筆畫〕
   closing_tips: 〔廣州話〕
@@ -220,7 +224,7 @@ reverse_lookup:
     - xform/ /\｜/
     - xform/^/〔/
     - xform/$/〕/
-    
+
 punctuator:
   import_preset: symbols
 
@@ -238,9 +242,7 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    email: "^[a-z][-_.0-9a-z]*@.*$"
-    uppercase: "^[A-Z][-_+.'0-9A-Za-z]*$"
-    url: "^(www[.]|https?:|ftp:|mailto:).*$"
+    punct: "^/([0-9]0?|[a-z]+)$"
     luna_pinyin: "`[a-z]*'?$"
     stroke: "x[hspnz]*'?$"
 
@@ -248,33 +250,33 @@ zh_simp:
   option_name: zh_simp
   opencc_config: t2s.json
   tips: none
-  
-zh_simp2:
-  option_name: zh_simp2
-  opencc_config: t2s.json
-  tips: all
-  
-zh_trad:
-  option_name: zh_trad
-  opencc_config: s2t.json
-  tips: all
-  
-zh_hk:
-  option_name: zh_hk
-  opencc_config: t2hk.json
-  tips: all
-  
-zh_tw:
-  option_name: zh_tw
-  opencc_config: t2tw.json
-  tips: all
-  
-zh_jp:
-  option_name: zh_jp
-  opencc_config: t2jp.json
-  tips: all
-  
-emoji_cn:
-  opencc_config: emoji.json
-  option_name: emoji_cn
-  tips: all
+
+#zh_simp2:  # 多字形根據需要自行開啓
+#  option_name: zh_simp2
+#  opencc_config: t2s.json
+#  tips: all
+
+#zh_trad:
+#  option_name: zh_trad
+#  opencc_config: s2t.json
+#  tips: all
+
+#zh_hk:
+#  option_name: zh_hk
+#  opencc_config: t2hk.json
+#  tips: all
+
+#zh_tw:
+#  option_name: zh_tw
+#  opencc_config: t2tw.json
+#  tips: all
+
+#zh_jp:
+#  option_name: zh_jp
+#  opencc_config: t2jp.json
+#  tips: all
+
+#emoji_cn:  # emoji根據需要自行開啓
+#  opencc_config: emoji.json
+#  option_name: emoji_cn
+#  tips: all
