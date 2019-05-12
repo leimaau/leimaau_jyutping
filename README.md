@@ -1,6 +1,6 @@
 # 貍貓粵拼
 
-![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/leimaau_jyutping.svg) ![GitHub repo size](https://img.shields.io/github/repo-size/leimaau/leimaau_jyutping.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/leimaau_jyutping.svg) ![GitHub](https://img.shields.io/github/license/leimaau/leimaau_jyutping.svg)
 
 > * 採用『香港語言學會粵語拼音方案』
 > * 聲調輸入 q平 v上 x去 （雙擊爲陽調）
