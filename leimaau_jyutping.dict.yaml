@@ -12,10 +12,8 @@
 ---
 name: leimaau_jyutping
 version: "2019.05.03"
-sort: by_weight	#original
+sort: by_weight	# original
 use_preset_vocabulary: true
-max_phrase_length: 7
-min_phrase_weight: 100
 ...
 
 丫	aa1	
@@ -18105,7 +18103,6 @@ min_phrase_weight: 100
 眭	kwai4	0%
 睽	kwai4	
 犪	kwai4	
-檇	kwai4	
 觿	kwai5	0%
 楑	kwai5	0%
 湀	kwai5	
@@ -33740,7 +33737,7 @@ min_phrase_weight: 100
 惴	zeoi3	
 夎	zeoi3	0%
 沮	zeoi3	
-檇	zeoi3	3%
+檇	zeoi3	
 欈	zeoi3	0%
 晬	zeoi3	
 最	zeoi3	
@@ -129538,7 +129535,7 @@ min_phrase_weight: 100
 耙地	paa4 dei6
 耙子	paa4 zi2
 耙耳朵	paa4 ji5 do2
-耥耙	tong2 paa3
+耥耙	tong2 paa4
 耦合	ngau5 hap6
 耦園	ngau5 jyun4
 耦居	ngau5 geoi1
@@ -146417,7 +146414,6 @@ min_phrase_weight: 100
 軼聞	jat6 man4
 輂輦	guk1 lin5
 較佳	gaau3 gaai1
-較剪	gaau3 zin2
 較勁	gaau3 ging6
 較勁兒	gaau3 ging6 ji4
 較味	gaau3 mei6
@@ -165785,7 +165781,8 @@ min_phrase_weight: 100
 旮旯	kaa3 laa1
 槓桿	gung3 gon1
 譅氣	saap3 hei3
-弼馬溫
+㤿憸	jim1 zim1
+钂鈀	tong2 paa4
 百度雲
 愛奇藝
 高德地圖
