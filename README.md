@@ -8,4 +8,6 @@
 > * 提供兩種反查方案，[`]用漢語拼音反查廣州話，[x]用五筆畫反查廣州話
 > * PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
 
+配方： ? **leimaau/leimaau_jyutping**
+
 這裏存放我設計的「貍貓粵拼」以及輸入方案的配置。
