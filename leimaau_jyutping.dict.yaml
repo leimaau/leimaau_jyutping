@@ -37842,7 +37842,7 @@ use_preset_vocabulary: true
 七孔流血	cat1 hung2 lau4 hyut3
 七孔生煙	cat1 hung2 sang1 jin1
 七尺之驅	cat1 cek3 zi1 keoi1
-七層架構	cat1 cang4 gaa3 gau3
+七層架構	cat1 cang4 gaa3 kau3
 七巧板	cat1 haau2 baan2
 七帶石斑魚	cat1 daai2 sek6 baan1 jyu2
 七平八穩	cat1 ping4 baat3 wan2
@@ -43807,7 +43807,7 @@ use_preset_vocabulary: true
 代詞	doi6 ci4
 代課	doi6 fo3
 代謝	doi6 ze6
-代購	doi6 gau3
+代購	doi6 kau3
 代辦	doi6 baan6
 代辦所	doi6 baan6 so2
 代銷	doi6 siu1
@@ -45181,7 +45181,7 @@ use_preset_vocabulary: true
 併發症	bing3 faat3 zing3
 併系羣	bing3 hai6 kwan4
 併紗	bing3 saa1
-併購	bing3 gau3
+併購	bing3 kau3
 併集	bing3 zaap6
 佼佼	gaau2 gaau2
 佼佼者	gaau2 gaau2 ze2
@@ -48554,7 +48554,7 @@ use_preset_vocabulary: true
 償還	soeng4 waan4
 優伶	jau1 ling4
 優先	jau1 sin1
-優先承購權	jau1 sin1 sing4 gau3 kyun4
+優先承購權	jau1 sin1 sing4 kau3 kyun4
 優先權	jau1 sin1 kyun4
 優先發展	jau1 sin1 faat3 zin2
 優先股	jau1 sin1 gu2
@@ -50591,7 +50591,7 @@ use_preset_vocabulary: true
 典質	din2 zat1
 典雅	din2 ngaa5
 兼且	gim1 ce2
-兼並與收購	gim1 bing6 jyu5 sau1 gau3
+兼並與收購	gim1 bing6 jyu5 sau1 kau3
 兼任	gim1 jam6
 兼併	gim1 bing3
 兼備	gim1 bei6
@@ -51625,7 +51625,6 @@ use_preset_vocabulary: true
 分子生物學	fan1 zi2 sang1 mat6 hok6
 分子篩	fan1 zi2 sai1
 分子結構	fan1 zi2 git3 kau3
-分子結構	fan6 zi2 git3 gau3
 分子論	fan1 zi2 leon6
 分子運動	fan1 zi2 wan6 dung6
 分子遺傳學	fan1 zi2 wai4 cyun4 hok6
@@ -63328,7 +63327,7 @@ use_preset_vocabulary: true
 回訪	wui4 fong2
 回話	wui4 waa6
 回請	wui4 ceng2
-回購	wui4 gau3
+回購	wui4 kau3
 回跌	wui4 dit3
 回路	wui4 lou6
 回車	wui4 ce1
@@ -64131,7 +64130,6 @@ use_preset_vocabulary: true
 團聚	tyun4 zeoi6
 團花	tyun4 faa1
 團費	tyun4 fai3
-團購	tyun4 gau3
 團購	tyun4 kau3
 團長	tyun4 zoeng2
 團隊	tyun4 deoi2
@@ -71563,7 +71561,7 @@ use_preset_vocabulary: true
 孰能無過	suk6 nang4 mou4 gwo3
 孰能生巧	suk6 nang4 sang1 haau2
 孱弱	saan4 joek6
-孱頭	saan4 tau4
+孱頭	caan3 tau4
 孳乳	zi1 jyu5
 孳孳	zi1 zi1
 孳息	zi1 sik1
@@ -72412,7 +72410,7 @@ use_preset_vocabulary: true
 定論	ding6 leon6
 定讞	ding6 jin6
 定貨	ding6 fo3
-定購	ding6 gau3
+定購	ding6 kau3
 定過擡油	ding6 gwo3 toi4 jau4
 定遠	ding6 jyun5
 定遠營	ding6 jyun5 jing4
@@ -74359,7 +74357,7 @@ use_preset_vocabulary: true
 導語	dou6 jyu5
 導論	dou6 leon4
 導讀	dou6 duk6
-導購	dou6 gau3
+導購	dou6 kau3
 導輪	dou6 leon4
 導遊	dou6 jau4
 導電	dou6 din6
@@ -85406,7 +85404,7 @@ use_preset_vocabulary: true
 批郤導窾	pai1 gwik1 dou6 fun2
 批量	pai1 loeng6
 批量生產	pai1 loeng6 sang1 caan2
-批量購買	pai1 loeng6 gau3 maai5
+批量購買	pai1 loeng6 kau3 maai5
 批閱	pai1 jyut6
 批頭	pai1 tau4
 批頰	pai1 haap3
@@ -86927,11 +86925,14 @@ use_preset_vocabulary: true
 撐拒	caang3 keoi5
 撐持	caang1 ci4
 撐杆	caang1 gon1
-撐枱腳	caang1 toi4 goek3
 撐枱腳	caang3 toi2 goek3
+撐檯腳	caang3 toi2 goek3
+𨅝枱腳	caang3 toi2 goek3
+𨅝檯腳	caang3 toi2 goek3
+牚枱腳	caang3 toi2 goek3
+牚檯腳	caang3 toi2 goek3
 撐桿跳	caang1 gon1 tiu3
 撐桿跳高	caang1 gon1 tiu3 gou1
-撐檯腳	caang3 toi2 goek3
 撐死	caang1 sei2
 撐死膽大的，餓死膽小的	caang3 sei2 daam2 daai6 dik1 ngo6 sei2 daam2 siu2 dik1
 撐破	caang1 po3
@@ -86941,7 +86942,7 @@ use_preset_vocabulary: true
 撐船	caang1 syun4
 撐艇	caang1 teng5
 撐艇仔	caang1 teng5 zai2
-撐門面	caang3 mun4 min6
+撐門面	caang1 mun4 min6
 撒丁島	saat3 ding1 dou2
 撒丫子	saat3 aa1 zi2
 撒但	saat3 daan6
@@ -89811,7 +89812,7 @@ use_preset_vocabulary: true
 擇日子	zaak6 jat6 zi2
 擇菜	zaak6 coi3
 擇食	zaak6 sik6
-擉背脊	duk1 bui3 zek3
+厾背脊	duk1 bui3 zek3
 擊中	gik1 zung3
 擊倒	gik1 dou2
 擊傷	gik1 soeng1
@@ -90811,7 +90812,7 @@ use_preset_vocabulary: true
 收費員	sau1 fai3 jyun4
 收費站	sau1 fai3 zaam6
 收購	sau1 kau3
-收購要約	sau1 gau3 jiu3 joek3
+收購要約	sau1 kau3 jiu3 joek3
 收起	sau1 hei2
 收遮	sau1 ze1
 收針	sau1 zam1
@@ -94591,7 +94592,6 @@ use_preset_vocabulary: true
 昧旦	mui6 daan3
 昧死	mui6 sei2
 昧水	mei6 seoi2
-昧水	mui6 seoi2
 昧水舂牆	mei6 seoi2 zung1 coeng4
 昧沒	mui6 mut6
 昧良心	mui6 loeng4 sam1
@@ -97226,7 +97226,7 @@ use_preset_vocabulary: true
 束身	cuk1 san1
 束身內衣	cuk1 san1 noi6 ji1
 束髮	cuk1 faat3
-杠杆收購	gong3 gon1 sau1 gau3
+杠杆收購	gong3 gon1 sau1 kau3
 杧果	mong1 gwo2
 杭丁頓舞蹈症	hong4 ding1 deon6 mou5 dou6 zing3
 杭州	hong4 zau1
@@ -105812,7 +105812,7 @@ use_preset_vocabulary: true
 派給工作	paai3 kap1 gung1 zok3
 派翠西亞	paai3 ceoi3 sai1 aa3
 派街坊	paai3 gaai1 fong1
-派購	paai3 gau3
+派購	paai3 kau3
 派送	paai3 sung3
 派遣	paai3 hin2
 派遺	paai3 wai4
@@ -112183,7 +112183,7 @@ use_preset_vocabulary: true
 爭議	zaang1 ji5
 爭議	zang1 ji5
 爭議性	zang1 ji5 sing3
-爭購	zang1 gau3
+爭購	zang1 kau3
 爭辯	zang1 bin6
 爭鋒	zang1 fung1
 爭長論短	zang1 coeng4 leon6 dyun2
@@ -112811,7 +112811,7 @@ use_preset_vocabulary: true
 特效藥	dak6 haau6 joek6
 特敏福	dak6 man5 fuk1
 特斯拉	dak6 si1 laai1
-特易購	dak6 ji6 gau3
+特易購	dak6 ji6 kau3
 特有	dak6 jau5
 特權	dak6 kyun4
 特權份子	dak6 kyun4 fan6 zi2
@@ -115914,7 +115914,7 @@ use_preset_vocabulary: true
 申請表	san1 cing2 biu2
 申論	san1 leon6
 申謝	san1 ze6
-申購	san1 gau3
+申購	san1 kau3
 申辦	san1 baan6
 申辯	san1 bin6
 申述	san1 seot6
@@ -121214,7 +121214,7 @@ use_preset_vocabulary: true
 硬掙	ngaang6 zang1
 硬掙	ngaang6 zeng6
 硬推	ngaang6 teoi1
-硬撐	ngaang6 caang1
+硬撐	ngaang6 caang3
 硬是	ngaang6 si6
 硬晒舦	ngaang6 saai3 taai5
 硬晒軚	ngaang6 saai3 taai3
@@ -123502,7 +123502,7 @@ use_preset_vocabulary: true
 競租	ging6 zou1
 競答	ging6 daap3
 競艷	ging6 jim6
-競購	ging6 gau3
+競購	ging6 kau3
 競賽	ging6 coi3
 競賽者	ging6 coi3 ze2
 競走	ging6 zau2
@@ -126583,9 +126583,9 @@ use_preset_vocabulary: true
 統計表	tung2 gai3 biu2
 統讀	tung2 duk6
 統貨	tung2 fo3
-統購	tung2 gau3
-統購派購	tung2 gau3 paai3 gau3
-統購統銷	tung2 gau3 tung2 siu1
+統購	tung2 kau3
+統購派購	tung2 kau3 paai3 kau3
+統購統銷	tung2 kau3 tung2 siu1
 統轄	tung2 hat6
 統通	tung2 tung1
 統配	tung2 pui3
@@ -127075,7 +127075,7 @@ use_preset_vocabulary: true
 網襪	mong5 mat6
 網誌	mong5 zi3
 網語	mong5 jyu5
-網購	mong5 gau3
+網購	mong5 kau3
 網路	mong5 lou6
 網路作業系統	mong5 lou6 zok3 jip6 hai6 tung2
 網路平台	mong5 lou6 ping4 toi4
@@ -136895,7 +136895,6 @@ use_preset_vocabulary: true
 虛有其表	heoi1 jau5 kei4 biu2
 虛榮	heoi1 wing4
 虛榮心	heoi1 wing4 sam1
-虛構	heoi1 gau3
 虛構	heoi1 kau3
 虛構小說	heoi1 kau3 siu2 syut3
 虛歲	heoi1 seoi3
@@ -140310,7 +140309,7 @@ use_preset_vocabulary: true
 訂貨	deng6 fo3
 訂費	deng6 fai3
 訂購	deng6 kau3
-訂購者	deng6 gau3 ze2
+訂購者	deng6 kau3 ze2
 訂金	deng6 gam1
 訂閱	deng6 jyut6
 訂閱	ding3 jyut6
@@ -142390,7 +142389,7 @@ use_preset_vocabulary: true
 追訴時效	zeoi1 sou3 si4 haau6
 追詢	zeoi1 seon1
 追認	zeoi1 jing6
-追購	zeoi1 gau3
+追購	zeoi1 kau3
 追贈	zeoi1 zang6
 追贓	zeoi1 zong1
 追趕	zeoi1 gon2
@@ -144369,25 +144368,25 @@ use_preset_vocabulary: true
 賺頭	zaan6 tau4
 賺頭蝕尾	zaan6 tau4 sik6 mei5
 購入	kau3 jap6
-購得	gau3 dak1
-購書券	gau3 syu1 hyun3
+購得	kau3 dak1
+購書券	kau3 syu1 hyun3
 購物	kau3 mat6
 購物中心	kau3 mat6 zung1 sam1
 購物公園站	kau3 mat6 gung1 jyun4 zaam6
-購物券	gau3 mat6 hyun3
+購物券	kau3 mat6 hyun3
 購物單	kau3 mat6 daan1
-購物大廈	gau3 mat6 daai6 haa6
-購物廣場	gau3 mat6 gwong2 coeng4
-購物手推車	gau3 mat6 sau2 teoi1 ce1
-購物袋	gau3 mat6 doi2
-購物車	gau3 mat6 ce1
+購物大廈	kau3 mat6 daai6 haa6
+購物廣場	kau3 mat6 gwong2 coeng4
+購物手推車	kau3 mat6 sau2 teoi1 ce1
+購物袋	kau3 mat6 doi2
+購物車	kau3 mat6 ce1
 購票	kau3 piu3
 購置	kau3 zi3
 購貨	kau3 fo3
 購買	kau3 maai5
 購買力	kau3 maai5 lik6
 購買慾	kau3 maai5 juk6
-購買者	gau3 maai5 ze2
+購買者	kau3 maai5 ze2
 購銷	kau3 siu1
 賽事	coi3 si6
 賽先生	coi3 sin1 saang1
@@ -145001,9 +145000,9 @@ use_preset_vocabulary: true
 超額	ciu1 ngaak6
 超額利潤	ciu1 ngaak2 lei6 jeon6
 超額完成	ciu1 ngaak6 jyun4 sing4
-超額訂購	ciu1 ngaak2 deng6 gau3
+超額訂購	ciu1 ngaak2 deng6 kau3
 超額認	ciu1 ngaak2 jing6
-超額認購	ciu1 ngaak2 jing6 gau3
+超額認購	ciu1 ngaak2 jing6 kau3
 超額配	ciu1 ngaak2 pui3
 超額配股權	ciu1 ngaak2 pui3 gu2 kyun4
 超高速	ciu1 gou1 cuk1
@@ -165814,12 +165813,11 @@ use_preset_vocabulary: true
 看着辦	hon3 zoek6 baan6
 睡不着	seoi6 bat1 zoek6
 睡着	seoi6 zoek6
-瞓唔着	fan3 m4 zoek3
 瞓唔着	fan3 m4 zoek6
-瞓唔着覺	fan3 m4 zoek3 gaau3
-瞓着	fan3 zoek3
-瞓着咗	fan3 zoek3 zo2
-瞓着覺	fan3 zoek3 gaau3
+瞓唔着覺	fan3 m4 zoek6 gaau3
+瞓着	fan3 zoek6
+瞓着咗	fan3 zoek6 zo2
+瞓着覺	fan3 zoek6 gaau3
 瞧着辦	ciu4 zoek6 baan6
 石末沉着病	sek6 mut6 cam4 zoek6 beng6
 硬着頭皮	ngaang6 zoek6 tau4 pei4
