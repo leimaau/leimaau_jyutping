@@ -4,19 +4,20 @@
 schema:
   schema_id: leimaau_jyutping
   name: "貍貓粵拼"
-  version: "2019.05.03"
+  version: "2019.10.21"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
     採用『香港語言學會粵語拼音方案』
     聲調輸入 q平 v上 x去 （雙擊爲陽調）
     提供多種字形轉換和提示音轉爲IPA，可根據需要自行開啓
-    提供兩種反查方案，[`]用漢語拼音反查廣州話，[x]用五筆畫反查廣州話
+    提供兩種反查方案，[`]用漢語拼音反查，[x]用五筆畫反查，[v]用倉頡五代反查
     PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
     項目主頁 https://github.com/leimaau/leimaau_jyutping
   dependencies:
     - luna_pinyin
     - stroke
+    - cangjie5
 
 switches:
 #  - options: [zh_simp2, zh_simp, zh_trad, zh_hk, zh_tw, zh_jp]  # 多種字形轉換方案，根據需要自行開啓
@@ -57,6 +58,7 @@ engine:
     - matcher
     - affix_segmentor@luna_pinyin
     - affix_segmentor@stroke
+    - affix_segmentor@cangjie5
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -65,6 +67,7 @@ engine:
     - script_translator
     - script_translator@luna_pinyin
     - table_translator@stroke
+    - table_translator@cangjie5
   filters:
     - simplifier@zh_simp
 #    - simplifier@zh_simp2  # 多字形濾鏡，根據需要自行開啓
@@ -113,7 +116,7 @@ translator:
   dictionary: leimaau_jyutping
   prism: leimaau_jyutping
   spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
-  preedit_format:
+  preedit_format:    # 需要顯示IPA時這段要被替換掉
     - xform/([aeioumngptk])qq/$1⁴/
     - xform/([aeioumngptk])q/$1¹/
     - xform/([aeioumngptk])vv/$1⁵/
@@ -197,9 +200,8 @@ luna_pinyin:    # 拼音反查
   dictionary: luna_pinyin
   enable_user_dict: false
   prefix: "`"
-  suffix: "'"
+  suffix: ";"
   tips: 〔拼音〕
-  closing_tips: 〔廣州話〕
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
@@ -210,14 +212,29 @@ stroke:    # 五筆畫反查，h,s,p,n,z 代表橫、豎、撇、捺、折
   dictionary: stroke
   enable_user_dict: false
   prefix: "x"
-  suffix: "'"
+  suffix: ";"
   tips: 〔筆畫〕
-  closing_tips: 〔廣州話〕
   preedit_format:
     - xlit/hspnz/一丨丿丶乙/
 
+cangjie5:    # 倉頡五代反查
+  tag: cangjie5
+  dictionary: cangjie5
+  enable_user_dict: false
+  prefix: "v"
+  suffix: ";"
+  tips: 〔倉頡五代〕
+  preedit_format:
+    - 'xform/^([a-z]*)$/$1\t（\U$1\E）/'
+    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+  comment_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+    - "^yyy.*$"
+
 reverse_lookup:
-  tags:  [luna_pinyin, stroke]
+  tags:  [luna_pinyin, stroke, cangjie5]
   overwrite_comment: true
   dictionary: leimaau_jyutping
   comment_format:
@@ -245,6 +262,7 @@ recognizer:
     punct: "^/([0-9]0?|[a-z]+)$"
     luna_pinyin: "`[a-z]*'?$"
     stroke: "x[hspnz]*'?$"
+    cangjie5: "v[a-z]*'?$"
 
 zh_simp:
   option_name: zh_simp

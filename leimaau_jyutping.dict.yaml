@@ -5,13 +5,13 @@
 #
 # Author - LeiMaau <leimaau@qq.com>
 #
-# 字音部分綜合收錄了《統一碼組織統漢字庫unihan》、《粵語審音配詞字庫》、《香港增補字符集》、2004年《廣州話正音字典》和1992年《常用字廣州話讀音表》的字形和讀音
-# 詞彙部分綜合收錄了cc-cedict-canto、cc-canto和《開放粵語詞典》的詞彙，並經過修正
+# 字音部分收錄《統一碼組織統漢字庫unihan》、《粵語審音配詞字庫》、《香港增補字符集》、2004年《廣州話正音字典》和1992年《常用字廣州話讀音表》的字形和讀音
+# 詞彙部分收錄cc-cedict-canto、cc-canto、LSHK粵拼詞表和《開放粵語詞典》的詞彙，並經過修正
 #
 
 ---
 name: leimaau_jyutping
-version: "2019.05.03"
+version: "2019.10.21"
 sort: by_weight	# original
 use_preset_vocabulary: true
 ...
@@ -6563,7 +6563,7 @@ use_preset_vocabulary: true
 突	duk1	
 㧻	duk1	
 㞘	duk1	
-毒	duk1	
+毒	duk1	3%
 剢	duk1	
 厾	duk1	
 叾	duk1	
@@ -11339,7 +11339,7 @@ use_preset_vocabulary: true
 睊	gyun1	0%
 裐	gyun1	
 蠲	gyun1	
-身	gyun1	
+身	gyun1	3%
 娟	gyun1	
 䩰	gyun1	
 䣺	gyun1	
@@ -23832,7 +23832,7 @@ use_preset_vocabulary: true
 银	ngan2	
 銀	ngan2	0%
 贗	ngan3	0%
-赝	ngan3	
+赝	ngan3	0%
 贋	ngan3	0%
 印	ngan3	0%
 䟴	ngan3	0%
@@ -26742,10 +26742,10 @@ use_preset_vocabulary: true
 蹭	sang3	
 䜛	sang6	
 濇	sap1	
-濕	sap1	
+溼	sap1	
 譅	sap1	
 涩	sap1	
-溼	sap1	
+濕	sap1	
 咂	sap1	0%
 澀	sap1	3%
 湿	sap1	
@@ -36926,7 +36926,7 @@ use_preset_vocabulary: true
 一句	jat1 geoi3
 一句話	jat1 geoi3 waa6
 一句話都唔聲	jat1 geoi3 waa2 dou1 m4 seng1
-一句講晒	jat1 geoi3 gong2 saai3
+一句講嗮	jat1 geoi3 gong2 saai3
 一句鐘	jat1 geoi3 zung1
 一同	jat1 tung4
 一吐爲快	jat1 tou3 wai4 faai3
@@ -37004,9 +37004,9 @@ use_preset_vocabulary: true
 一大早兒	jat1 daai6 zou2 ji4
 一天	jat1 tin1
 一天一個樣	jat1 tin1 jat1 go3 joeng2
-一天光晒	jat1 tin1 gwong1 saai3
+一天光嗮	jat1 tin1 gwong1 saai3
 一天到晚	jat1 tin1 dou3 maan5
-一天都光晒	jat1 tin1 dou1 gwong1 saai3
+一天都光嗮	jat1 tin1 dou1 gwong1 saai3
 一夫	jat1 fu1
 一夫一妻	jat1 fu1 jat1 cai1
 一夫一妻制	jat1 fu1 jat1 cai1 zai3
@@ -37184,6 +37184,7 @@ use_preset_vocabulary: true
 一於係噉啦	jat1 jyu1 hai6 gam2 laa3
 一於唔	jat1 jyu1 m4
 一於唔制	jat1 jyu1 m4 zai3
+一於唔䎺	jat1 jyu1 m4 zai3
 一於唔畀佢去	jat1 jyu1 m4 bei2 keoi5 heoi3
 一於噉話啦	jat1 jyu1 gam2 waa6 laa3
 一旁	jat1 pong4
@@ -37388,7 +37389,7 @@ use_preset_vocabulary: true
 一眼	jat1 ngaan5
 一眼望去	jat1 ngaan5 mong6 heoi3
 一眼看穿	jat1 ngaan5 hon3 cyun1
-一眼睇晒	jat1 ngaan5 tai2 saai3
+一眼睇嗮	jat1 ngaan5 tai2 saai3
 一眼關七	jat1 ngaan5 gwaan1 cat1
 一衆	jat1 zung3
 一督就穿	jat1 duk1 zau6 cyun1
@@ -37418,7 +37419,7 @@ use_preset_vocabulary: true
 一站式	jat1 zaam6 sik1
 一端	jat1 dyun1
 一竹篙打一船人	jat1 zuk1 gou1 daa2 jat1 syun4 jan4
-一竹篙打晒一船人	jat1 zuk1 gou1 daa2 saai3 jat1 syun4 jan4
+一竹篙打嗮一船人	jat1 zuk1 gou1 daa2 saai3 jat1 syun4 jan4
 一竹篙打死一船人	jat1 zuk1 gou1 daa2 sei2 jat1 syun4 jan4
 一竹篙揇咗一船人	jat1 zuk1 gou1 naam5 zo2 jat1 syun4 jan4
 一竹篙揇沉一船人	jat1 zuk1 gou1 naam5 cam4 jat1 syun4 jan4
@@ -37512,6 +37513,7 @@ use_preset_vocabulary: true
 一般來講	jat1 bun1 loi4 gong2
 一般原則	jat1 bun1 jyun4 zak1
 一般嘅	jat1 bun1 ge3
+一般來講	jat1 bun1 lai4 gong2
 一般嚟講	jat1 bun1 lei4 gong2
 一般常識	jat1 bun1 soeng4 sik1
 一般性	jat1 bun1 sing3
@@ -38484,6 +38486,7 @@ use_preset_vocabulary: true
 上呼吸道感染	soeng6 fu1 kap1 dou6 gam2 jim5
 上品	soeng6 ban2
 上唇	soeng6 seon4
+上來	soeng5 lai2
 上嚟	soeng5 lai2
 上回	soeng6 wui4
 上址	soeng6 zi2
@@ -40251,7 +40254,7 @@ use_preset_vocabulary: true
 丟棄	diu1 hei3
 丟烏紗帽	diu1 wu1 saa1 mou2
 丟生	diu1 sang1
-丟生晒	diu1 saang1 saai3
+丟生嗮	diu1 saang1 saai3
 丟疏	diu1 so1
 丟疏咗	diu1 so1 zo2
 丟眉丟眼	diu1 mei4 diu1 ngaan5
@@ -41711,7 +41714,7 @@ use_preset_vocabulary: true
 乾旱	gon1 hon5
 乾旱土	gon1 hon5 tou2
 乾時緊月	gon1 si4 gan2 jyut6
-乾晒塘	gon1 saai3 tong4
+乾嗮塘	gon1 saai3 tong4
 乾杯	gon1 bui1
 乾果	gon1 gwo2
 乾枯	gon1 fu1
@@ -41730,7 +41733,7 @@ use_preset_vocabulary: true
 乾渴	gon1 hot3
 乾潮	gon1 ciu4
 乾澀	gon1 gip3
-乾濕褸	gon1 sap1 lau1
+乾溼褸	gon1 sap1 lau1
 乾炒	gon1 caau2
 乾炒牛河	gon1 caau2 ngau4 ho4
 乾煸	gon1 bin1
@@ -41809,6 +41812,7 @@ use_preset_vocabulary: true
 亂噏	lyun6 ngap1
 亂噏嘢	lyun6 ngap1 je5
 亂噏廿四	lyun6 ngap1 jaa6 sei3
+亂來	lyun2 lai4
 亂嚟	lyun2 lei4
 亂套	lyun6 tou3
 亂子	lyun6 zi2
@@ -41828,9 +41832,9 @@ use_preset_vocabulary: true
 亂搞男女關係	lyun6 gaau2 naam4 neoi5 gwaan1 hai6
 亂撞	lyun6 zong6
 亂政	lyun6 zing3
-亂晒坑	lyun6 saai3 haang1
-亂晒大龍	lyun6 saai3 daai6 lung4
-亂晒籠	lyun6 saai3 lung4
+亂嗮坑	lyun6 saai3 haang1
+亂嗮大龍	lyun6 saai3 daai6 lung4
+亂嗮籠	lyun6 saai3 lung4
 亂民	lyun6 man4
 亂流	lyun6 lau4
 亂爬	lyun6 paa4
@@ -43120,6 +43124,7 @@ use_preset_vocabulary: true
 人員	jan4 jyun4
 人唔似人，鬼唔似鬼	jan4 m4 ci5 jan4 gwai2 m4 ci5 gwai2
 人喊馬嘶	jan4 haam3 maa5 sai1
+人來	jan4 lai4
 人嚟	jan4 lai4
 人困馬乏	jan4 kwan3 maa5 fat6
 人在江湖，身不由己	jan4 zoi6 gong1 wu4 san1 bat1 jau4 gei2
@@ -44125,6 +44130,7 @@ use_preset_vocabulary: true
 企圖	kei5 tou4
 企圖	kei5 tou5
 企圖心	kei5 tou4 sam1
+企埋來	kei5 maai4 lai4
 企埋嚟	kei5 maai4 lei4
 企堂	kei5 tong2
 企定	kei5 ding6
@@ -45205,7 +45211,7 @@ use_preset_vocabulary: true
 使命感	si3 ming6 gam2
 使唔使	sai2 m4 sai2
 使唔使…呀	sai2 m4 sai2 aa3
-使唔晒	sai2 m4 saai3
+使唔嗮	sai2 m4 saai3
 使喚	sai2 wun6
 使喚	si2 wun6
 使困擾	si2 kwan3 jiu2
@@ -45226,7 +45232,7 @@ use_preset_vocabulary: true
 使性子	si2 sing3 zi2
 使成	si2 sing4
 使成一體	si2 sing4 jat1 tai2
-使晒	sai2 saai3
+使嗮	sai2 saai3
 使橫手	sai2 waang4 sau2
 使滿意	si2 mun5 ji3
 使然	si2 jin4
@@ -45832,7 +45838,7 @@ use_preset_vocabulary: true
 保溫杯	bou2 wan1 bui1
 保潔	bou2 git3
 保潔箱	bou2 git3 soeng1
-保濕	bou2 sap1
+保溼	bou2 sap1
 保爾	bou2 ji5
 保爾森	bou2 ji5 sam1
 保特瓶	bou2 dak6 ping4
@@ -46492,11 +46498,15 @@ use_preset_vocabulary: true
 出啖氣	ceot1 daam6 hei3
 出喪	ceot1 song1
 出嘍子	ceot1 lau4 zi2
+出簍子	ceot1 lau5 zi2
 出嘢	ceot1 je5
+出來	ceot1 lai4
 出嚟	ceot1 lei4
-出嚟撈	ceot1 lai4 lou1
-出嚟蒲	ceot1 lai4 pou4
-出嚟行	ceot1 lai2 hang4
+出來撈	ceot1 lai4 lou1
+出嚟撈	ceot1 lei4 lou1
+出來蒲	ceot1 lai4 pou4
+出嚟蒲	ceot1 lei4 pou4
+出來行	ceot1 lai4 haang4
 出嚟行	ceot1 lei4 haang4
 出圈	ceot1 gyun6
 出圈兒	ceot1 hyun1 ji4
@@ -46551,7 +46561,7 @@ use_preset_vocabulary: true
 出操	ceot1 cou1
 出新	ceot1 san1
 出於	ceot1 jyu1
-出晒名	ceot1 saai3 meng2
+出嗮名	ceot1 saai3 meng2
 出更	ceot1 gaang1
 出更	ceot1 gang1
 出書	ceot1 syu1
@@ -46879,6 +46889,7 @@ use_preset_vocabulary: true
 倒倉	dou2 cong1
 倒像	dou2 zoeng6
 倒冧	dou2 lam3
+倒出來	dou2 ceot1 lai4
 倒出嚟	dou2 ceot1 lei4
 倒刺	dou3 ci3
 倒反	dou2 faan2
@@ -46992,7 +47003,7 @@ use_preset_vocabulary: true
 倒車	dou2 ce1
 倒車擋	dou2 ce1 dong3
 倒轉	dou2 zyun3
-倒轉頭	dou3 zyun2 tau4
+倒轉頭	dou3 zyun3 tau4
 倒退	dou3 teoi3
 倒運	dou2 wan6
 倒過兒	dou2 gwo3 ji4
@@ -47452,7 +47463,7 @@ use_preset_vocabulary: true
 做咩	zou6 me1
 做唔切	zou6 m4 cit3
 做唔到	zou6 m4 dou2
-做唔晒	zou6 m4 saai3
+做唔嗮	zou6 m4 saai3
 做嘢	zou6 je5
 做埋老襯	zou6 maai4 lou5 can3
 做壽	zou6 sau6
@@ -47968,7 +47979,7 @@ use_preset_vocabulary: true
 催生	ceoi1 saang1
 催生	ceoi1 sang1
 催生婆	ceoi1 saang1 po4
-催生晒	ceoi1 saang1 saai3
+催生嗮	ceoi1 saang1 saai3
 催生素	ceoi1 saang1 sou3
 催產	ceoi1 caan2
 催眠	ceoi1 min4
@@ -49222,9 +49233,11 @@ use_preset_vocabulary: true
 入口網	jap6 hau2 mong5
 入口頁	jap6 hau2 jip6
 入味	jap6 mei6
+入來	jap6 lai4
 入嚟	jap6 lei4
-入嚟啦	jap6 lai4 laa1
+入來啦	jap6 lai4 laa1
 入嚟啦	jap6 lei4 laa1
+入嚟啦	jap6 lai4 laa1
 入圍	jap6 wai4
 入土	jap6 tou2
 入土爲安	jap6 tou2 wai4 on1
@@ -49785,7 +49798,7 @@ use_preset_vocabulary: true
 兩當縣	loeng5 dong1 jyun6
 兩相	loeng5 soeng1
 兩相情願	loeng5 soeng1 cing4 jyun6
-兩眼濕濕	loeng5 ngaan5 sap1 sap1
+兩眼溼溼	loeng5 ngaan5 sap1 sap1
 兩睇	loeng5 tai2
 兩碼事	loeng5 maa5 si6
 兩立	loeng5 laap6
@@ -50664,6 +50677,7 @@ use_preset_vocabulary: true
 冇品	mou5 ban2
 冇問題	mou5 man6 tai4
 冇啖好食	mou5 daam6 hou2 sik6
+冇啲𪐀褦	mou5 di1 naa1 nang3
 冇啲𠸎褦	mou5 di1 naa1 nang3
 冇嘢	mou5 je5
 冇嘢到	mou5 je5 dou3
@@ -50705,8 +50719,12 @@ use_preset_vocabulary: true
 冇心裝載	mou5 sam1 zong1 zoi3
 冇所謂	mou5 so2 wai6
 冇手尾	mou5 sau2 mei5
+冇𪐀冇褦	mou5 naa1 mou5 nang3
 冇𠸎冇褦	mou5 naa1 mou5 nang3
+冇𪐀經	mou5 naa1 gaang1
+冇𪐀耕	mou5 naa1 gaang1
 冇𠸎耕	mou5 naa1 gaang1
+冇𪐀褦	mou5 naa1 nang3
 冇𠸎褦	mou5 naa1 nang3
 冇掩雞籠	mou5 jim2 gai1 lung4
 冇揸拿	mou5 zaa1 naa4
@@ -50721,11 +50739,11 @@ use_preset_vocabulary: true
 冇時冇候	mou5 si4 mou5 hau6
 冇時定	mou5 si4 ding6
 冇時間	mou5 si4 gaan1
-冇晒姣氣	mou5 saai3 haau4 hei3
-冇晒符	mou5 saai3 fu4
-冇晒符弗	mou5 saai3 fu4 fit1
-冇晒聲氣	mou5 saai3 seng1 hei3
-冇晒表情	mou5 saai3 biu2 cing4
+冇嗮姣氣	mou5 saai3 haau4 hei3
+冇嗮符	mou5 saai3 fu4
+冇嗮符弗	mou5 saai3 fu4 fit1
+冇嗮聲氣	mou5 saai3 seng1 hei3
+冇嗮表情	mou5 saai3 biu2 cing4
 冇有	mou5 jau5
 冇有怕	mou5 jau5 paa3
 冇本心	mou5 bun2 sam1
@@ -50831,7 +50849,9 @@ use_preset_vocabulary: true
 再加	zoi3 gaa1
 再加上	zoi3 gaa1 soeng5
 再加上	zoi3 gaa1 soeng6
+再來	zoi3 lai4
 再嚟	zoi3 lei4
+再來過	zoi3 lai4 gwo3
 再嚟過	zoi3 lai4 gwo3
 再嚟過	zoi3 lei4 gwo3
 再四	zoi3 sei3
@@ -51415,6 +51435,9 @@ use_preset_vocabulary: true
 出線	ceot1 sin3
 出繼	ceot1 gai3
 出缺	ceot1 kyut3
+出返來	ceot1 faan1 lai4
+出翻來	ceot1 faan1 lai4
+出返嚟	ceot1 faan1 lei4
 出翻嚟	ceot1 faan1 lei4
 出老千	ceot1 lou5 cin1
 出聲	ceot1 seng1
@@ -52070,7 +52093,8 @@ use_preset_vocabulary: true
 初升	co1 sing1
 初吻	co1 man5
 初哥	co1 go1
-初嚟甫到	co1 lai4 pou3 dou3
+初來報到	co1 lai4 bou3 dou3
+初來甫到	co1 lai4 bou6 dou3
 初嚟甫到	co1 lei4 bou6 dou3
 初夏	co1 haa6
 初夜	co1 je6
@@ -52216,7 +52240,6 @@ use_preset_vocabulary: true
 刨花	paau4 faa1
 刨花板	paau4 faa1 baan2
 刨齒	paau4 ci2
-利事	lei6 si6
 利什曼病	lei6 sam6 maan6 beng6
 利他	lei6 taa1
 利他主義	lei6 taa1 zyu2 ji6
@@ -52230,7 +52253,9 @@ use_preset_vocabulary: true
 利便	lei6 bin6
 利偉倫	lei6 wai5 leon4
 利刃	lei6 jan6
+利利市市	lei6 lei6 si6 si6
 利利是是	lei6 lei6 si6 si6
+利利事事	lei6 lei6 si6 si6
 利劍	lei6 gim3
 利勒哈默爾	lei6 lak6 haa1 mak6 ji5
 利口	lei6 hau2
@@ -52266,11 +52291,24 @@ use_preset_vocabulary: true
 利慾薰心	lei6 juk6 fan1 sam1
 利手	lei6 sau2
 利於	lei6 jyu1
+利市	lai6 si6
 利是	lai6 si6
+利事	lai6 si6
+利市	lei6 si6
 利是	lei6 si6
+利事	lei6 si6
+利市封	lai6 si6 fung1
 利是封	lai6 si6 fung1
+利事封	lai6 si6 fung1
+利市封	lei6 si6 fung1
 利是封	lei6 si6 fung1
+利事封	lei6 si6 fung1
+利市錢	lai6 si6 cin2
 利是錢	lai6 si6 cin2
+利事錢	lai6 si6 cin2
+利市錢	lei6 si6 cin2
+利是錢	lei6 si6 cin2
+利事錢	lei6 si6 cin2
 利智	lei6 zi3
 利未記	lei6 mei6 gei3
 利東街	lei6 dung1 gaai1
@@ -52335,7 +52373,7 @@ use_preset_vocabulary: true
 刮皮刀	gwaat3 pei4 dou1
 刮目相待	gwaat3 muk6 soeng1 doi6
 刮目相看	gwaat3 muk6 soeng1 hon1
-刮粗龍	gwaat3 cou1 lung4
+刮粗龍	gwaat3 cou1 lung2
 刮臉	gwaat3 lim5
 刮花	gwaat3 faa1
 刮蹭	gwaat3 sang3
@@ -52391,7 +52429,9 @@ use_preset_vocabulary: true
 制動踏板	zai3 dung6 daap6 baan2
 制勝	zai3 sing3
 制唔制	zai3 m4 zai3
+䎺唔䎺	zai3 m4 zai3
 制唔過	zai3 m4 gwo3
+䎺唔過	zai3 m4 gwo3
 制圖	zai3 tou4
 制定	zai3 ding6
 制導	zai3 dou6
@@ -52400,6 +52440,7 @@ use_preset_vocabulary: true
 制式	zai3 sik1
 制式化	zai3 sik1 faa3
 制得過	zai3 dak1 gwo3
+䎺得過	zai3 dak1 gwo3
 制成品	zai3 sing4 ban2
 制服	zai3 fuk6
 制服呢	zai3 fuk6 nei4
@@ -53531,7 +53572,7 @@ use_preset_vocabulary: true
 加溫	gaa1 wan1
 加滿	gaa1 mun5
 加演	gaa1 jin2
-加濕器	gaa1 sap1 hei3
+加溼器	gaa1 sap1 hei3
 加熱	gaa1 jit6
 加熱器	gaa1 jit6 hei3
 加爾各答	gaa1 ji5 gok3 daap3
@@ -54231,7 +54272,7 @@ use_preset_vocabulary: true
 去死	heoi3 sei2
 去氧核糖核酸	heoi3 joeng5 hat6 tong4 hat6 syun1
 去氧麻黃鹼	heoi3 joeng5 maa4 wong4 gaan2
-去濕	heoi3 sap1
+去溼	heoi3 sap1
 去火	heoi3 fo2
 去留	heoi3 lau4
 去皮	heoi3 pei4
@@ -57170,7 +57211,7 @@ use_preset_vocabulary: true
 口噏噏	hau2 ngap1 ngap1
 口器	hau2 hei3
 口嚡脷素	hau2 haai4 lei6 sou3
-口垃濕	hau2 laap6 sap1
+口垃溼	hau2 laap6 sap1
 口多多	hau2 do1 do1
 口多身賤	hau2 do1 san1 zin6
 口子	hau2 zi2
@@ -57245,8 +57286,8 @@ use_preset_vocabulary: true
 口福	hau2 fuk6
 口稱	hau2 cing1
 口窒窒	hau2 zat6 zat6
-口立濕	hau2 laap6 sap1
-口立濕	hau2 lap6 sap1
+口立溼	hau2 laap6 sap1
+口立溼	hau2 lap6 sap1
 口簧	hau2 wong4
 口簧琴	hau2 wong4 kam4
 口糧	hau2 loeng4
@@ -57721,7 +57762,7 @@ use_preset_vocabulary: true
 可惜	ho2 sik1
 可惡	ho2 wu3
 可惱	ho2 nou5
-可惱也	ho2 nou5 jaa5
+可惱也	ko1 naau1 je1
 可想像	ho2 soeng2 zoeng6
 可想然之	ho2 soeng2 jin4 zi1
 可想而知	ho2 soeng2 ji4 zi1
@@ -58320,7 +58361,7 @@ use_preset_vocabulary: true
 合於	hap6 jyu1
 合時	hap6 si4
 合時宜	hap6 si4 ji4
-合晒合尺	hap6 saai3 ho4 ce2
+合嗮合尺	hap6 saai3 ho4 ce2
 合格	hap6 gaak3
 合格證	hap6 gaak3 zing3
 合桃	hap6 tou4
@@ -58581,6 +58622,7 @@ use_preset_vocabulary: true
 吊靴鬼	diu3 hoe1 gwai2
 吊頸	diu3 geng2
 吊骨	diu3 gwat1
+吊高來賣	diu3 gou1 lai4 maai6
 吊高嚟賣	diu3 gou1 lei4 maai6
 吊鹽水	diu3 jim4 seoi2
 同…斟下	tung4 zam1 haa5
@@ -59123,6 +59165,7 @@ use_preset_vocabulary: true
 吟吟沉沉	ngam4 ngam4 cam4 cam4
 吟哦	jam4 ngo4
 吟唱	jam4 coeng3
+吟來吟去	ngam4 lai4 ngam4 heoi3
 吟嚟吟去	ngam4 lei4 ngam4 heoi3
 吟沉	ngam4 cam4
 吟詠	jam4 wing6
@@ -59336,8 +59379,8 @@ use_preset_vocabulary: true
 吸氣器	kap1 hei3 hei3
 吸氧	kap1 joeng5
 吸水	kap1 seoi2
-吸濕	kap1 sap1
-吸濕性	kap1 sap1 sing3
+吸溼	kap1 sap1
+吸溼性	kap1 sap1 sing3
 吸煙	kap1 jin1
 吸煙區	kap1 jin1 keoi1
 吸煙室	kap1 jin1 sat1
@@ -59469,7 +59512,7 @@ use_preset_vocabulary: true
 呃人	ak1 jan4
 呃人	ngaak1 jan4
 呃呃騙騙	aak1 aak1 pin3 pin3
-呃晒	ak1 saai3
+呃嗮	ak1 saai3
 呃神騙鬼	aak1 san4 pin3 gwai2
 呃秤	aak1 cing3
 呃逆	aak1 jik6
@@ -59571,6 +59614,7 @@ use_preset_vocabulary: true
 呢嗱	ne1 naa4
 呢嘢	ni1 je5
 呢子	nei4 zi2
+呢幾年來	ni1 gei2 nin4 lai4
 呢幾年嚟	ni1 gei2 nin4 lei4
 呢度	ni1 dou6
 呢排	ni1 paai2
@@ -59800,9 +59844,9 @@ use_preset_vocabulary: true
 嘈嘈閉	cou4 cou4 bai3
 嘈嘈閉閉	cou4 cou4 bai3 bai3
 嘈得滯	cou4 dak1 zai6
-嘈生晒	cou4 saang1 saai3
-嘈生曬	cou4 saang1 saai3
+嘈生嗮	cou4 saang1 saai3
 嘈耳	cou4 ji5
+嘈起上來	cou4 hei2 soeng5 lai4
 嘈起上嚟	cou4 hei2 soeng5 lei4
 嘈醒	cou4 seng2
 嘈雜	cou4 zaap6
@@ -59893,7 +59937,7 @@ use_preset_vocabulary: true
 嘟嚕	dou1 lou1
 嘟囔	dou1 nong4
 嘟著嘴	dou1 zoek6 zeoi2
-嘢埋…	je5 maai4
+嘢埋	je5 maai4
 嘢埋我	je5 maai4 ngo5
 嘢食	je5 sik6
 嘢飲	je5 jam2
@@ -60023,9 +60067,13 @@ use_preset_vocabulary: true
 噉都好	gam2 dou1 hou2
 噉都得	gam2 dou1 dak1
 大吉	daai6 gat1
-大吉利事	daai6 gat1 lei6 si6
-大吉利事講句	daai6 gat1 lei6 si6 gong2 geoi3
+大吉利市	daai6 gat1 lai6 si6
+大吉利是	daai6 gat1 lai6 si6
+大吉利事	daai6 gat1 lai6 si6
+大吉利市	daai6 gat1 lei6 si6
 大吉利是	daai6 gat1 lei6 si6
+大吉利事	daai6 gat1 lei6 si6
+大吉利是講句	daai6 gat1 lai6 si6 gong2 geoi3
 大吉大利	daai6 gat1 daai6 lei6
 大吉嶺	daai6 gat1 ling5
 大同	daai6 tung4
@@ -60458,11 +60506,12 @@ use_preset_vocabulary: true
 咁滯	gam3 zai6
 咁盞	gam3 zaan2
 咁盟塞	gam3 mang4 sak1
-咁諗	gam1 sam2
+噉諗	gam2 nam2
+咁遲先來	gam3 ci4 sin1 lai4
 咁遲先嚟	gam3 ci4 sin1 lei4
-咁高咁大	gam2 gou1 gam2 daai6
+噉高噉大	gam2 gou1 gam2 daai6
 咁高咁大	gam3 gou1 gam3 daai6
-咁鬼死…	gam3 gwai2 sei2
+咁鬼死	gam3 gwai2 sei2
 咂嘴	zaap3 zeoi2
 咂摸	zaap3 mo2
 咄咄	cyut3 cyut3
@@ -60472,6 +60521,7 @@ use_preset_vocabulary: true
 咄咄逼人	deot1 deot1 bik1 jan4
 咆哮	paau4 haau1
 咆哮如雷	paau4 haau1 jyu4 leoi4
+咇出來	bit1 ceot1 lai4
 咇出嚟	bit1 ceot1 lei4
 咋呼	zaa3 fu1
 咋咋聲	zaa4 zaa2 seng1
@@ -60644,8 +60694,10 @@ use_preset_vocabulary: true
 咧啡	le4 fe4
 咧嘴	le2 zeoi2
 咧嘴	lit6 zeoi2
-咧晒氣	le4 saai3 he3
+咧嗮氣	le4 saai3 he3
+離嗮氣	le4 saai3 he3
 咧氣	le4 he3
+離氣	le4 he3
 咧開嘴笑	lit6 hoi1 zeoi2 siu3
 咨嗟	zi1 ze1
 咨客	zi1 haak3
@@ -60746,9 +60798,6 @@ use_preset_vocabulary: true
 咸寧	haam4 ning4
 咸寧地區	haam4 ning4 dei6 keoi1
 咸寧市	haam4 ning4 si5
-咸湿佬	haam4 sap1 lou2
-咸濕公	haam4 sap1 gung1
-咸片	haam4 pin2
 咸與維新	haam4 jyu5 wai4 san1
 咸興	haam4 hing1
 咸興市	haam4 hing1 si5
@@ -61316,9 +61365,10 @@ use_preset_vocabulary: true
 唔到	m4 dou3
 唔到你	m4 dou3 nei5
 唔到你唔	m4 dou3 nei5 m4
-唔到你唔…	m4 dou3 nei5 m4
 唔制	m4 zai3
+唔䎺	m4 zai3
 唔制得過	m4 zai3 dak1 gwo3
+唔䎺得過	m4 zai3 dak1 gwo3
 唔化	m4 faa3
 唔化算	m4 faa3 syun3
 唔及得	m4 kap6 dak1
@@ -61359,7 +61409,7 @@ use_preset_vocabulary: true
 唔多唔少	m4 do1 m4 siu2
 唔多妥	m4 do1 to5
 唔夠	m4 gau3
-唔夠佢嚟	m4 gau3 keoi5 lai2
+唔夠佢來	m4 gau3 keoi5 lai4
 唔夠佢嚟	m4 gau3 keoi5 lei4
 唔夠佢打	m4 gau3 keoi5 daa2
 唔夠佢爭	m4 gau3 keoi5 zaang1
@@ -61524,6 +61574,7 @@ use_preset_vocabulary: true
 唔行得埋	m4 haang4 dak1 maai4
 唔行得開	m4 haang4 dak1 hoi1
 唔衰得	m4 seoi1 dak1
+唔衰攞來衰	m4 seoi1 lo2 lai4 seoi1
 唔衰攞嚟衰	m4 seoi1 lo2 lai4 seoi1
 唔衰攞嚟衰	m4 seoi1 lo2 lei4 seoi1
 唔製	m4 zai3
@@ -61545,7 +61596,7 @@ use_preset_vocabulary: true
 唔該	m4 goi1
 唔該借借	m4 goi1 ze3 ze3
 唔該借歪	m4 goi1 ze3 me2
-唔該晒	m4 goi1 saai3
+唔該嗮	m4 goi1 saai3
 唔認得	m4 jing6 dak1
 唔認數	m4 jing6 sou3
 唔論	m4 leon6
@@ -61588,6 +61639,8 @@ use_preset_vocabulary: true
 唔高興	m4 gou1 hing3
 唔鹹唔淡	m4 haam4 m4 taam5
 唔黐家	m4 ci1 gaa1
+唔𪐀經	m4 naa1 gaang1
+唔𪐀耕	m4 naa1 gaang1
 唔𠸎耕	m4 naa1 gaang1
 唞下	tau2 haa5
 唞啖氣	tau2 daam6 hei3
@@ -61832,7 +61885,7 @@ use_preset_vocabulary: true
 啋過你	coi1 gwo3 nei5
 啋過你把口	coi1 gwo3 nei5 baa2 hau2
 啋過你把衰口	coi1 gwo3 nei5 baa2 seoi1 hau2
-啋過你，大吉利事	coi1 gwo3 nei5 daai6 gat1 lei6 si6
+啋過你，大吉利是	coi1 gwo3 nei5 daai6 gat1 lei6 si6
 問世	man6 sai3
 問事	man6 si6
 問住	man6 zyu6
@@ -61978,7 +62031,7 @@ use_preset_vocabulary: true
 啱嘴形	ngaam1 zeoi2 jing4
 啱好	ngaam1 hou2
 啱心水	ngaam1 sam1 seoi2
-啱晒	ngaam1 saai3
+啱嗮	ngaam1 saai3
 啱牙	ngaam1 ngaa4
 啱睇	ngaam1 tai2
 啱聽	ngaam1 teng1
@@ -62169,8 +62222,8 @@ use_preset_vocabulary: true
 喐啲	juk1 di1
 喐啲就	juk1 di1 zau6
 喐喐下	juk1 juk1 haa2
-喐喐貢	juk1 juk1 gung1
 喐喐貢	juk1 juk1 gung3
+喐來喐去	juk1 lai4 juk1 heoi3
 喐嚟喐去	juk1 lai4 juk1 heoi3
 喐嚟喐去	juk1 lei4 juk1 heoi3
 喐手	juk1 sau2
@@ -62178,7 +62231,7 @@ use_preset_vocabulary: true
 喐手打人	juk1 sau2 daa2 jan4
 喐親	juk1 can1
 喐親	juk1 can3
-喐親就…	juk1 can1 zau6
+喐親就	juk1 can1 zau6
 喐身	juk1 san1
 喐身喐勢	juk1 san1 juk1 sai3
 喑啞	jam1 aa2
@@ -62577,7 +62630,7 @@ use_preset_vocabulary: true
 喺孔夫子面前賣文章	hai2 hung2 fu1 zi2 min6 cin4 maai6 man4 zoeng1
 喺屋企	hai2 nguk1 kei2
 喺度	hai2 dou6
-喺晒	hai2 saai3
+喺嗮	hai2 saai3
 喺處	hai2 syu3
 喺邊度	hai2 bin1 dou6
 喺門角落頭燒炮仗	hai2 mun4 gok3 lok1 tau2 siu1 paau3 zoeng2
@@ -62600,14 +62653,14 @@ use_preset_vocabulary: true
 嗌救命	ngaai3 gau3 meng6
 嗌數	aai3 sou3
 嗌生嗌死	aai3 saang1 aai3 sei2
-嗌生晒	aai3 saang1 saai3
+嗌生嗮	aai3 saang1 saai3
 嗌痛	ngaai3 tung3
 嗌街婆	aai3 gaai1 po2
 嗌通街	aai3 tung1 gaai1
 嗌通街	ngaai3 tung1 gaai1
 嗌霎	aai3 saap3
 嗍啖煙	sok3 daam6 jin1
-嗍晒氣	sok3 saai3 hei3
+嗍嗮氣	sok3 saai3 hei3
 嗍氣	sok3 hei3
 嗍水	sok3 seoi2
 嗍鼻	sok3 bei6
@@ -62822,22 +62875,37 @@ use_preset_vocabulary: true
 嚙齒目	jit6 ci2 muk6
 嚙齒類	jit6 ci2 leoi6
 嚙齒類	ngit6 ci2 leoi6
-嚟㗎	lai2 gaa2
+來㗎	lai4 gaa3
+嚟㗎	lei4 gaa3
+來呢度	lai4 ni1 dou6
 嚟呢度	lei4 ni1 dou6
-嚟唔切	lai2 m4 cit3
+來唔切	lai4 m4 cit3
+嚟唔切	lei4 m4 cit3
+來唔得切	lai4 m4 dak1 cit3
 嚟唔得切	lei4 m4 dak1 cit3
-嚟嘅	lai4 ge3
-嚟得切	lai2 dak1 cit3
+來嘅	lai4 ge3
+嚟嘅	lei4 ge3
+來得切	lai4 dak1 cit3
 嚟得切	lei4 dak1 cit3
+來得啱	lai4 dak1 ngaam1
 嚟得啱	lei4 dak1 ngaam1
-嚟真	lai4 zan1
+來真	lai4 zan1
+嚟真	lei4 zan1
+來神	lai4 san2
 嚟神	lei4 san2
+來緊	lai4 gan2
 嚟緊	lei4 gan2
+來自	lai4 zi6
 嚟自	lei4 zi6
+來遲	lai4 ci4
 嚟遲	lei4 ci4
+來遲咗	lai4 ci4 zo2
 嚟遲咗	lei4 ci4 zo2
 嚡嚡聲	haai4 haai2 seng1
-嚡澀澀	haai4 saap3 saap3
+嚡澀澀	haai4 sap6 sap6
+嚡澀澀	haai4 saap6 saap6
+嚡霎霎	haai4 sap6 sap6
+嚡霎霎	haai4 saap6 saap6
 嚡熠熠	haai4 saap6 saap6
 嚤佗	mo1 to4
 嚥下	jin3 haa6
@@ -63370,6 +63438,7 @@ use_preset_vocabulary: true
 因人而異	jan1 jan4 ji4 ji6
 因住	jan1 zyu6
 因住凍親	jan1 zyu6 dung3 can1
+因住來	jan1 zyu6 lai4
 因住嚟	jan1 zyu6 lei4
 因住電親	jan1 zyu6 din6 can1
 因何	jan1 ho4
@@ -64613,7 +64682,7 @@ use_preset_vocabulary: true
 均方	gwan1 fong1
 均日照	gwan1 jat6 ziu3
 均沾	gwan1 zim1
-均濕	gwan1 sap1
+均溼	gwan1 sap1
 均熱	gwan1 jit6
 均田制	gwan1 tin4 zai3
 均真	gwan1 zan1
@@ -64947,7 +65016,8 @@ use_preset_vocabulary: true
 埋口	maai4 hau2
 埋名	maai4 ming4
 埋單	maai4 daan1
-埋嚟	maai4 lai2
+埋來	maai4 lai4
+埋嚟	maai4 lai4
 埋嚟	maai4 lei4
 埋堆	maai4 deoi1
 埋天怨地	maai4 tin1 jyun3 dei6
@@ -65140,6 +65210,7 @@ use_preset_vocabulary: true
 執豆噉執	zap1 dau2 gam2 zap1
 執贏	zap1 jeng4
 執起	zap1 hei2
+執起來	zap1 hei2 lai4
 執起嚟	zap1 hei2 lei4
 執輸	zap1 syu1
 執輸行頭慘過敗家	zap1 syu1 hong4 tau4 caam2 gwo3 baai6 gaa1
@@ -65696,7 +65767,7 @@ use_preset_vocabulary: true
 塞拉利昂	coi3 laai1 lei6 ngong4
 塞拉耶佛	sak1 laai1 je4 fat6
 塞族	coi3 zuk6
-塞晒車	sak1 saai3 ce1
+塞嗮車	sak1 saai3 ce1
 塞浦路斯	coi3 pou2 lou6 si1
 塞淵	coi3 jyun1
 塞滿	sak1 mun5
@@ -66867,7 +66938,7 @@ use_preset_vocabulary: true
 多謀善斷	do1 mau4 sin6 dyun6
 多謝	do1 ze6
 多謝夾盛惠	do1 ze6 gaap3 sing6 wai6
-多謝晒	do1 ze6 saai3
+多謝嗮	do1 ze6 saai3
 多變	do1 bin3
 多財善賈	do1 coi4 sin6 gu2
 多足動物	do1 zuk1 dung6 mat6
@@ -67372,7 +67443,7 @@ use_preset_vocabulary: true
 大星芹	daai6 sing1 kan4
 大昭寺	daai6 ciu1 zi6
 大時代	daai6 si4 doi6
-大晒	daai6 saai3
+大嗮	daai6 saai3
 大智如愚	daai6 zi3 jyu4 jyu4
 大智慧	daai6 zi3 wai3
 大智若愚	daai6 zi3 joek6 jyu4
@@ -68782,11 +68853,12 @@ use_preset_vocabulary: true
 天時熱	tin1 si4 jit6
 天晴	tin1 cing4
 天曉得	tin1 hiu2 dak1
-天曚光	tin1 mong1 gwong1
+天矇光	tin1 mung1 gwong1
 天書	tin1 syu1
 天有不測風雲	tin1 jau5 bat1 caak1 fung1 wan4
-天有不測風雲	tin1 jau5 bat1 ho2 cak1 fung1 wan4
+天有不測風雲	tin1 jau5 bat1 cak1 fung1 wan4
 天有不測風雲，人有旦夕禍福	tin1 jau5 bat1 caak1 fung1 wan4 jan4 jau5 daan3 zik6 wo6 fuk1
+天有不測風雲，人有旦夕禍福	tin1 jau5 bat1 cak1 fung1 wan4 jan4 jau5 daan3 zik6 wo6 fuk1
 天朝	tin1 ciu4
 天枰座	tin1 ping4 zo6
 天柱	tin1 cyu5
@@ -68969,6 +69041,7 @@ use_preset_vocabulary: true
 天賜良緣	tin1 ci3 loeng4 jyun4
 天賦	tin1 fu3
 天趣	tin1 ceoi3
+天跌落來當被冚	tin1 dit3 lok6 lai4 dong3 pei5 kam2
 天跌落嚟當被冚	tin1 dit3 lok6 lei4 dong3 pei5 kam2
 天路歷程	tin1 lou6 lik6 cing4
 天車	tin1 ce1
@@ -69351,7 +69424,7 @@ use_preset_vocabulary: true
 失禁	sat1 gam3
 失禮	sat1 lai5
 失禮人	sat1 lai5 jan4
-失禮晒	sat1 lai5 saai3
+失禮嗮	sat1 lai5 saai3
 失禮死人	sat1 lai5 sei2 jan4
 失竊	sat1 sit3
 失笑	sat1 siu3
@@ -70010,7 +70083,7 @@ use_preset_vocabulary: true
 女童	neoi5 tung4
 女童院	neoi5 tung4 jyun2
 女管家	neoi5 gun2 gaa1
-女紅	neoi5 hung4
+女紅	neoi5 gung1
 女繼承人	neoi5 gai3 sing4 jan4
 女舍監	neoi5 se3 gaam1
 女色	neoi5 sik1
@@ -72323,6 +72396,7 @@ use_preset_vocabulary: true
 定向越野	ding6 hoeng3 jyut6 je5
 定員	ding6 jyun4
 定啲	ding6 di1
+定啲來	ding6 di1 lai4
 定啲嚟	ding6 di1 lei4
 定單	ding6 daan1
 定型	ding6 jing4
@@ -72363,8 +72437,8 @@ use_preset_vocabulary: true
 定時攝影	ding6 si4 sip3 jing2
 定時炸彈	ding6 si4 zaa3 daan2
 定時鐘	ding6 si4 zung1
-定晒形	ding6 saai3 jing4
-定曬形	ding6 saai3 jing4
+定嗮形	ding6 saai3 jing4
+定嗮型	ding6 saai3 jing4
 定期	ding6 kei4
 定期儲蓄	ding6 kei4 cyu5 cuk1
 定期存款	ding6 kei4 cyun4 fun2
@@ -73319,6 +73393,7 @@ use_preset_vocabulary: true
 實名	sat6 ming4
 實名制	sat6 ming4 zai3
 實唔係	sat6 m4 hai6
+實來	sat6 lai4
 實嚟	sat6 lei4
 實在	sat6 zoi6
 實地	sat6 dei6
@@ -73572,6 +73647,7 @@ use_preset_vocabulary: true
 寫真	se2 zan1
 寫真集	se2 zan1 zaap6
 寫給	se2 kap1
+寫落來	se2 lok6 lai4
 寫落嚟	se2 lok6 lei4
 寬亮	fun1 loeng6
 寬以待人	fun1 ji5 doi6 jan4
@@ -74184,7 +74260,9 @@ use_preset_vocabulary: true
 對心	deoi3 sam1
 對心兒	deoi3 sam1 ji4
 對應	deoi3 jing3
+對我來說	deoi3 ngo5 lai4 syut3
 對我來說	deoi3 ngo5 loi4 syut3
+對我來講	deoi3 ngo5 lai4 gong2
 對我嚟講	deoi3 ngo5 lei4 gong2
 對戰	deoi3 zin3
 對手	deoi3 sau2
@@ -74956,7 +75034,7 @@ use_preset_vocabulary: true
 尖銳	zim1 jeoi6
 尖銳化	zim1 jeoi6 faa3
 尖銳批評	zim1 jeoi6 pai1 ping4
-尖銳濕疣	zim1 jeoi6 sap1 jau2
+尖銳溼疣	zim1 jeoi6 sap1 jau2
 尖鋭	zim1 jeoi6
 尖閣列島	zim1 gok3 lit6 dou2
 尖閣諸島	zim1 gok3 zyu1 dou2
@@ -75018,6 +75096,7 @@ use_preset_vocabulary: true
 就勢	zau6 sai3
 就下佢	zau6 haa5 keoi5
 就噉啦	zau6 gam2 laa1
+就來	zau6 lai4
 就嚟	zau6 lei4
 就地	zau6 dei6
 就地取材	zau6 dei6 ceoi2 coi4
@@ -75099,7 +75178,7 @@ use_preset_vocabulary: true
 尾骨	mei5 gwat1
 尾鰭	mei5 kei4
 尾龍骨	mei5 lung4 gwat1
-尿不濕	niu6 bat1 sap1
+尿不溼	niu6 bat1 sap1
 尿嘧啶	niu6 mat6 ding6
 尿壺	niu6 wu2
 尿尿	niu6 niu6
@@ -76158,7 +76237,7 @@ use_preset_vocabulary: true
 巡邏隊	ceon4 lo4 deoi6
 巡防	ceon4 fong4
 巢咪𠵼	caau4 mi1 mang1
-巢晒皮	caau4 saai3 pei4
+巢嗮皮	caau4 saai3 pei4
 巢湖	caau4 wu4
 巢湖地區	caau4 wu4 dei6 keoi1
 巢湖市	caau4 wu4 si5
@@ -76378,6 +76457,7 @@ use_preset_vocabulary: true
 左思右想	zo2 si1 jau6 soeng2
 左手	zo2 sau2
 左手便	zo2 sau2 bin6
+左手來，右手去	zo2 sau2 lai4 jau6 sau2 heoi3
 左手嚟，右手去	zo2 sau2 lei4 jau6 sau2 heoi3
 左拉	zo2 laai1
 左揀右揀，揀個爛燈盞	zo2 gaan2 jau6 gaan2 gaan2 go3 laan6 dang1 zaan2
@@ -80211,6 +80291,7 @@ use_preset_vocabulary: true
 後味	hau6 mei6
 後唐	hau6 tong4
 後嗣	hau6 zi6
+後來	hau6 lai4
 後嚟	hau6 lai4
 後嚟	hau6 lei4
 後園	hau6 jyun4
@@ -80782,7 +80863,7 @@ use_preset_vocabulary: true
 心適	sam1 sik1
 心郁郁	sam1 juk1 juk1
 心都實	sam1 dou1 sat6
-心都涼晒	sam1 dou1 loeng4 saai3
+心都涼嗮	sam1 dou1 loeng4 saai3
 心酸	sam1 syun1
 心醉	sam1 zeoi3
 心醉神迷	sam1 zeoi3 san4 mai4
@@ -82204,6 +82285,7 @@ use_preset_vocabulary: true
 惰性	do6 sing3
 惰性氣體	do6 sing3 hei3 tai2
 惰落	do6 lok6
+惰落來	do6 lok6 lai4
 惰落嚟	do6 lok6 lei4
 惰角	do6 gok3
 惰角地方	do6 gok3 dei6 fong1
@@ -82270,6 +82352,7 @@ use_preset_vocabulary: true
 惹咗	je5 zo2
 惹嘍子	je5 lau4 zi2
 惹埋	je5 maai4
+惹埋我	je5 maai4 ngo5
 惹婁子	je5 lau4 zi2
 惹屎上身	je5 si2 soeng5 san1
 惹屎上身	je5 si2 soeng6 san1
@@ -82901,7 +82984,7 @@ use_preset_vocabulary: true
 慳時間	haan1 si4 gaan1
 慳水慳力	haan1 seoi2 haan1 lik6
 慳油	haan1 jau4
-慳濕	haan1 sap1
+慳溼	haan1 sap1
 慳番啖氣	haan1 faan1 daam6 hei3
 慳皮	haan1 pei2
 慳翻	haan1 faan1
@@ -84565,7 +84648,7 @@ use_preset_vocabulary: true
 扎魯特	zaat3 lou5 dak6
 扎魯特旗	zaat3 lou5 dak6 kei4
 扑嘢	bok1 je5
-扑濕	bok1 sap1
+扑溼	bok1 sap1
 扑瓜	bok1 gwaa1
 扑頭黨	bok1 tau4 dong2
 扒土	paa4 tou2
@@ -84824,7 +84907,7 @@ use_preset_vocabulary: true
 打擊軍事力量	daa2 gik1 gwan1 si6 lik6 loeng6
 打擾	daa2 jiu5
 打攪	daa2 gaau2
-打攪晒	daa2 gaau2 saai3
+打攪嗮	daa2 gaau2 saai3
 打政府工	daa2 zing3 fu2 gung1
 打救	daa2 gau3
 打敗	daa2 baai6
@@ -84839,8 +84922,8 @@ use_preset_vocabulary: true
 打昂	daa2 ngong5
 打昂瞓	daa2 ngong5 fan3
 打春	daa2 ceon1
-打晒纈	daa2 saai3 lit3
-打晒色	daa2 saai3 sik1
+打嗮纈	daa2 saai3 lit3
+打嗮色	daa2 saai3 sik1
 打更	daa2 gaang1
 打更	daa2 gang1
 打杈	daa2 caa3
@@ -84857,6 +84940,7 @@ use_preset_vocabulary: true
 打機	daa2 gei1
 打機室	daa2 gei1 sat1
 打橫	daa2 waang4
+打橫來	daa2 waang4 lai4
 打橫嚟	daa2 waang4 lei4
 打橫寫	daa2 waang4
 打橫放	daa2 waang4
@@ -85250,8 +85334,8 @@ use_preset_vocabulary: true
 扮好人	baan6 hou2 jan4
 扮家家酒	baan3 gaa1 gaa1 zau2
 扮得意	baan6 dak1 ji3
-扮晒嘢	baan6 saai3 je5
-扮晒蟹	baan6 saai3 haai5
+扮嗮嘢	baan6 saai3 je5
+扮嗮蟹	baan6 saai3 haai5
 扮演	baan6 jin2
 扮煮飯仔	baan3 zyu2 faan6 zai2
 扮相	baan3 soeng3
@@ -85277,7 +85361,7 @@ use_preset_vocabulary: true
 扯平	ce2 ping4
 扯後腿	ce2 hau6 teoi2
 扯旗	ce2 kei4
-扯晒火	ce2 saai3 fo2
+扯嗮火	ce2 saai3 fo2
 扯氣	ce2 hei3
 扯淡	ce2 taam5
 扯火	ce2 fo2
@@ -86172,7 +86256,7 @@ use_preset_vocabulary: true
 抽油	cau1 jau4
 抽油煙機	cau1 jau4 jin1 gei1
 抽泣	cau1 jap1
-抽濕機	cau1 sap1 gei1
+抽溼機	cau1 sap1 gei1
 抽煙	cau1 jin1
 抽獎	cau1 zoeng2
 抽球	cau1 kau4
@@ -86432,7 +86516,7 @@ use_preset_vocabulary: true
 拉馬特甘	laai1 maa5 dak6 gam1
 拉高	laai1 gou1
 拉魯	laai1 lou5
-拉魯濕地國家自然保護區	laai1 lou5 sap1 dei6 gwok3 gaa1 zi6 jin4 bou2 wu6 keoi1
+拉魯溼地國家自然保護區	laai1 lou5 sap1 dei6 gwok3 gaa1 zi6 jin4 bou2 wu6 keoi1
 拉麪	laai1 min6
 拉黑	laai1 hak1
 拉齊奧	laai1 cai4 ou3
@@ -86537,11 +86621,14 @@ use_preset_vocabulary: true
 拎住	ning1 zyu6
 拎出	ning1 ceot1
 拎出去	ning1 ceot1 heoi3
+拎出來	ning1 ceot1 lai4
 拎出嚟	ning1 ceot1 lei4
 拎包	ling1 baau1
 拎包黨	ling1 baau1 dong2
+拎返去	ning1 faan1 heoi3
 拎翻去	ning1 faan1 heoi3
-拎翻屋企	ning1 faan1 nguk1 kei2
+拎返屋企	ning1 faan1 uk1 kei2
+拎翻屋企	ning1 faan1 uk1 kei2
 拎走	ling1 zau2
 拎起	ling1 hei2
 拐子	gwaai2 zi2
@@ -87226,6 +87313,7 @@ use_preset_vocabulary: true
 撲向	pok3 hoeng3
 撲哧	pok3 ci1
 撲嘢	bok1 je5
+撲來撲去	pok3 lai4 pok3 heoi3
 撲嚟撲去	pok3 lei4 pok3 heoi3
 撲心撲命	pok3 sam1 pok3 meng6
 撲扇	pok3 sin3
@@ -87454,7 +87542,9 @@ use_preset_vocabulary: true
 挎兜兒	kwaa3 dau1 ji4
 挎包	kwaa3 baau1
 挎斗	kwaa3 dau2
+𪐀𪐀褦褦	naa1 naa1 nang3 nang3
 𠸎𠸎褦褦	naa1 naa1 nang3 nang3
+𪐀褦	naa1 nang3
 𠸎褦	naa1 nang3
 挑三揀四	tiu1 saam1 gaan2 sei3
 挑三窩四	tiu1 saam1 wo1 sei3
@@ -87899,6 +87989,7 @@ use_preset_vocabulary: true
 掂量	dim1 loeng6
 掃地	sou3 dei6
 掃地出門	sou3 dei6 ceot1 mun4
+掃埋來	sou3 maai4 lai4
 掃埋嚟	sou3 maai4 lei4
 掃墓	sou3 mou6
 掃射	sou3 se6
@@ -88163,7 +88254,7 @@ use_preset_vocabulary: true
 掙得	zang1 dak1
 掙扎	zang1 zaat3
 掙揣	zang1 cyun2
-掙滿晒	zaang6 mun5 saai3
+掙滿嗮	zaang6 mun5 saai3
 掙脫	zang1 tyut3
 掙錢	zaang6 cin2
 掛住	gwaa3 zyu6
@@ -88851,10 +88942,11 @@ use_preset_vocabulary: true
 插鎖	caap3 so2
 插隊	caap3 deoi2
 插頭	caap3 tau4
+揗來揗去	tan4 lai4 tan4 heoi3
 揗嚟揗去	tan4 lei4 tan4 heoi3
 揗揗震	tan4 tan2 zan3
 揗揗震	tan4 tan4 zan3
-揗晒雞	tan4 saai3 gai1
+揗嗮雞	tan4 saai3 gai1
 揗雞	tan4 gai1
 揘畢	waang4 bat1
 揚中	joeng4 zung1
@@ -89141,9 +89233,9 @@ use_preset_vocabulary: true
 搏拉	bok3 laai1
 搏拊	bok3 fu2
 搏擊	bok3 gik1
-搏晒命	bok3 saai3 meng6
-搏晒老命	bok3 saai3 lou5 meng6
-搏晒老命噉	bok3 saai3 lou5 meng6 gam2
+搏嗮命	bok3 saai3 meng6
+搏嗮老命	bok3 saai3 lou5 meng6
+搏嗮老命噉	bok3 saai3 lou5 meng6 gam2
 搏殺	bok3 saat3
 搏炒	bok3 caau2
 搏盡	bok3 zeon6
@@ -89293,6 +89385,7 @@ use_preset_vocabulary: true
 搦住	nik1 zyu6
 搦唔喐	nik1 m4 juk1
 搦戰	nik1 zin3
+搦過來	nik1 gwo3 lai4
 搦過嚟	nik1 gwo3 lei4
 搪塞	tong4 sak1
 搪瓷	tong4 ci4
@@ -89425,6 +89518,7 @@ use_preset_vocabulary: true
 搵位坐	wan2 wai2 co5
 搵兩餐	wan2 loeng5 caan1
 搵出	wan2 ceot1
+搵出來	wan2 ceot1 lai4
 搵出嚟	wan2 ceot1 lei4
 搵刀切	wan2 dou1 cit3
 搵到	wan2 dou2
@@ -89433,8 +89527,11 @@ use_preset_vocabulary: true
 搵唔到	wan2 m4 dou2
 搵唔翻	wan2 m4 faan1
 搵嘢做	wan2 je5 zou6
+搵來攪嘅	wan2 lai4 gaau2 ge3
 搵嚟攪嘅	wan2 lei4 gaau2 ge3
+搵來講	wan2 lai4 gong2
 搵嚟講	wan2 lei4 gong2
+搵來辛苦	wan2 lai4 san1 fu2
 搵嚟辛苦	wan2 lei4 san1 fu2
 搵山草藥	wan2 saan1 cou2 joek6
 搵工	wan2 gung1
@@ -89749,7 +89846,10 @@ use_preset_vocabulary: true
 撈鬆	laau4 sung1
 撈魚	lau4 jyu4
 撈麪	lou1 min6
+撍出來	cim4 ceot1 lai4
 撍出嚟	cim4 ceot1 lei4
+撏出來	cim4 ceot1 lai4
+撏出嚟	cim4 ceot1 lei4
 撻住對鞋	taat3 zyu6 deoi3 haai4
 撻嘢	taat1 je5
 撻定	taat3 deng6
@@ -89979,7 +90079,11 @@ use_preset_vocabulary: true
 擘開兩隻腳	maak3 hoi1 loeng5 zek3 goek3
 擘面	maak3 min6
 擘髀	maak3 bei2
+擙唔到	ou1 m4 dou2
 擙唔到	ngou1 m4 dou2
+擙落來	ou1 lok6 lai4
+擙落嚟	ou1 lok6 lei4
+擙落來	ngou1 lok6 lai4
 擙落嚟	ngou1 lok6 lei4
 據估計	geoi3 gu2 gai3
 據信	geoi3 seon3
@@ -90068,7 +90172,7 @@ use_preset_vocabulary: true
 擦掠	caat3 loek6
 擦損	caat3 syun2
 擦擦筆	caat3 caat3 bat1
-擦晒	caat3 saai3
+擦嗮	caat3 saai3
 擦棒球	caat3 paang5 kau4
 擦槍走火	caat3 coeng1 zau2 fo2
 擦油	caat3 jau4
@@ -90118,15 +90222,15 @@ use_preset_vocabulary: true
 擯棄	ban3 hei3
 擯除	ban3 ceoi4
 擰成一股繩	ning6 sing4 jat1 gu2 sing4
-擰晒頭	ning6 saai3 tau2
+擰嗮頭	ning6 saai3 tau2
 擰歪面	ning6 me2 min6
 擰緊	ning6 gan2
 擰螺絲	ning6 lo4 si1
 擰轉	ning4 zyun3
 擰轉	ning6 zyun3
 擰轉身	ning6 zyun3 san1
-擰轉頭	ning6 zyun2 tau4
 擰轉頭	ning6 zyun3 tau4
+擰過身來	ning6 gwo3 san1 lai4
 擰過身嚟	ning6 gwo3 san1 lei4
 擰開	ning6 hoi1
 擰頭	ning4 tau4
@@ -90173,12 +90277,12 @@ use_preset_vocabulary: true
 擴音機	kwong3 jam1 gei1
 擷取	kit3 ceoi2
 擸一眼	laap3 jat1 ngaan5
-擸光晒	laap3 gwong1 saai3
+擸光嗮	laap3 gwong1 saai3
 擸嘢	laap3 je5
 擸埋	laap3 maai4
 擸平嘢	laap3 peng4 je5
 擸擸炩	laap3 laap3 ling3
-擸晒網頂	laap3 saai3 mong5 deng2
+擸嗮網頂	laap3 saai3 mong5 deng2
 擸炩	laap3 ling3
 擸炩	laap3 ling6
 擸網頂	laap3 mong5 deng2
@@ -90190,6 +90294,7 @@ use_preset_vocabulary: true
 擺佈	baai2 bou3
 擺供	baai2 gung3
 擺出	baai2 ceot1
+擺出來	lo2 ceot1 lai4
 擺出嚟	lo2 ceot1 lei4
 擺列	baai2 lit6
 擺到明	baai2 dou3 ming4
@@ -90420,8 +90525,13 @@ use_preset_vocabulary: true
 攝像頭	sip3 zoeng6 tau4
 攝入	sip3 jap6
 攝入去	sip3 jap6 heoi3
+攝入來	sip3 jap6 lai4
 攝入嚟	sip3 jap6 lei4
 攝入量	sip3 jap6 loeng6
+𤗈入	sip3 jap6
+𤗈入去	sip3 jap6 heoi3
+𤗈入來	sip3 jap6 lai4
+𤗈入嚟	sip3 jap6 lei4
 攝取	sip3 ceoi2
 攝嚫	sip3 can3
 攝影	sip3 jing2
@@ -90456,33 +90566,48 @@ use_preset_vocabulary: true
 攞到	lo2 dou2
 攞命	lo2 meng6
 攞唔定主意	lo2 m4 ding6 zyu2 ji3
+攞來	lo2 lai4
 攞嚟	lo2 lei4
+攞來搞	lo2 lai4 gaau2
 攞嚟搞	lo2 lei4 gaau2
+攞來攪嘅	lo2 lai4 gaau2 ge3
 攞嚟攪嘅	lo2 lei4 gaau2 ge3
+攞來睇睇	lo2 lai4 tai2 tai2
 攞嚟睇睇	lo2 lei4 tai2 tai2
+攞來衰	lo2 lai4 seoi1
 攞嚟衰	lo2 lei4 seoi1
+攞來講	lo2 lai4 gong2
 攞嚟講	lo2 lei4 gong2
+攞來講嘅啫	lo2 lai4 gong2 ge3 ze1
 攞嚟講嘅啫	lo2 lei4 gong2 ge3 ze1
+攞來賤	lo2 lai4 zin6
 攞嚟賤	lo2 lei4 zin6
+攞來辛苦	lo2 lai4 san1 fu2
 攞嚟辛苦	lo2 lei4 san1 fu2
 攞彩	lo2 coi2
 攞意頭	lo1 ji3 tau4
-攞晒彩	lo2 saai3 coi2
-攞晒翻去	lo2 saai3 faan1 heoi3
+攞嗮彩	lo2 saai3 coi2
+攞嗮返去	lo2 saai3 faan1 heoi3
 攞景	lo2 ging2
 攞獎	lo2 zoeng2
 攞着數	lo2 zoek6 sou3
 攞籌	lo2 cau2
 攞籌	lo2 cau4
+攞返	lo2 faan1
+攞返公道	lo2 faan1 gung1 dou6
+攞返去	lo2 faan1 heoi3
 攞翻	lo2 faan1
 攞翻公道	lo2 faan1 gung1 dou6
 攞翻去	lo2 faan1 heoi3
 攞膽	lo1 daam2
+攞苦來辛	lo2 fu2 lai4 san1
 攞苦嚟辛	lo2 fu2 lei4 san1
+攞落來	lo2 lok6 lai4
 攞落嚟	lo2 lok6 lei4
 攞走	lo2 zau2
 攞起	lo2 hei2
 攞車	lo2 ce1
+攞過來	lo2 gwo3 lai4
 攞過嚟	lo2 gwo3 lei4
 攞錢	lo2 cin2
 攢簇	cyun4 cuk1
@@ -90552,7 +90677,7 @@ use_preset_vocabulary: true
 攪是攪非	gaau2 si6 gaau2 fei1
 攪混	gaau2 wan6
 攪珠	gaau2 zyu1
-攪生晒	gaau2 saang1 saai3
+攪生嗮	gaau2 saang1 saai3
 攪瘀	gaau2 jyu2
 攪笑	gaau2 siu3
 攪腸痧	gaau2 coeng4 saa1
@@ -90568,7 +90693,7 @@ use_preset_vocabulary: true
 攬住	laam2 zyu6
 攬住一齊死	laam5 zyu6 jat1 cai4 sei2
 攬到實	laam2 dou3 sat6
-攬到實晒	laam2 dou3 sat6 saai3
+攬到實嗮	laam2 dou3 sat6 saai3
 攬實	laam2 sat6
 攬實	laam5 sat6
 攬枕	laam2 zam2
@@ -91131,7 +91256,7 @@ use_preset_vocabulary: true
 放養	fong3 joeng5
 放馬	fong3 maa5
 放馬後炮	fong3 maa5 hau6 paau3
-放馬過來	fong3 maa5 gwo3 lei4
+放馬過來	fong3 maa5 gwo3 lai4
 放馬過嚟	fong3 maa5 gwo3 lei4
 放高利貸	fong3 gou1 lei6 taai3
 放鬆	fong3 sung1
@@ -91794,6 +91919,7 @@ use_preset_vocabulary: true
 整倍數	zing2 pui5 sou3
 整備	zing2 bei6
 整傷	zing2 soeng1
+整出來	zing2 ceot1 lai4
 整出嚟	zing2 ceot1 lei4
 整古	zing2 gu2
 整古做怪	zing2 gu2 zou6 gwaai3
@@ -91850,7 +91976,7 @@ use_preset_vocabulary: true
 整蠱做怪	zing2 gu2 zou6 gwaai3
 整蠱弄怪	zing2 gu2 lung6 gwaai3
 整衰	zing2 seoi1
-整衰晒	zing2 seoi1 saai3
+整衰嗮	zing2 seoi1 saai3
 整裝	zing2 zong1
 整裝待發	zing2 zong1 doi6 faat3
 整親	zing2 can1
@@ -92428,6 +92554,7 @@ use_preset_vocabulary: true
 斜體	ce4 tai2
 斜體字	ce4 tai2 zi6
 斟出	zam1 ceot1
+斟出來	zam1 ceot1 lai4
 斟出嚟	zam1 ceot1 lei4
 斟下	zam1 haa5
 斟唔掂	zam1 m4 dim6
@@ -92623,7 +92750,8 @@ use_preset_vocabulary: true
 新唐書	san1 tong4 syu1
 新喀里多尼亞	san1 haak3 lei5 do1 nei4 aa3
 新嘢	san1 je5
-新嚟新豬肉	san1 lai2 san1 zyu1 juk6
+新來新豬肉	san1 lai4 san1 zyu1 juk6
+新嚟新豬肉	san1 lei4 san1 zyu1 juk6
 新四軍	san1 sei3 gwan1
 新園	san1 jyun4
 新園鄉	san1 jyun4 hoeng1
@@ -93951,6 +94079,9 @@ use_preset_vocabulary: true
 早勃	zou2 but6
 早動手，早收穫	zou2 dung6 sau2 zou2 sau1 wok6
 早唞	zou2 tau2
+早啲返來	zou2 di1 faan1 lai4
+早啲翻來	zou2 di1 faan1 lai4
+早啲返嚟	zou2 di1 faan1 lei4
 早啲翻嚟	zou2 di1 faan1 lei4
 早在	zou2 zoi6
 早報	zou2 bou3
@@ -94822,13 +94953,13 @@ use_preset_vocabulary: true
 晏覺	ngaan3 gaau3
 晏駕	aan3 gaa3
 晒冷	saai3 laang5
-晒命	saai3 ming6
+晒命	saai3 meng6
 晒士	saai1 si2
-晒士	saai3 si6
 晒料	saai3 liu2
 晒月光	saai3 jyut6 gwong1
 晒相	saai3 soeng2
 晒馬	saai3 maa5
+晒馬檻	saai3 maa5 laam5
 晚上	maan5 soeng6
 晚上好	maan5 soeng6 hou2
 晚世	maan5 sai3
@@ -95136,7 +95267,7 @@ use_preset_vocabulary: true
 暈場	wan6 coeng4
 暈影	wan6 jing2
 暈得一陣陣	wan4 dak1 jat1 zan6 zan6
-暈晒大浪	wan4 saai3 daai6 long6
+暈嗮大浪	wan4 saai3 daai6 long6
 暈暈地	wan4 wan2 dei2
 暈染	wan4 jim5
 暈機	wan4 gei1
@@ -95906,6 +96037,7 @@ use_preset_vocabulary: true
 有才幹	jau5 coi4 gon3
 有找	jau5 zaau2
 有把炮	jau5 baa2 paau3
+有𪐀褦	jau5 naa1 nang3
 有𠸎褦	jau5 naa1 nang3
 有排	jau5 paai4
 有排等	jau5 paai4 dang2
@@ -98683,7 +98815,7 @@ use_preset_vocabulary: true
 正旦	zing3 daan2
 正是	zing3 si6
 正是如此	zing3 si6 jyu4 ci2
-正晒	zeng3 saai3
+正嗮	zeng3 saai3
 正書	zing3 syu1
 正月	zing1 jyut6
 正月初一	zing1 jyut6 co1 jat1
@@ -99114,7 +99246,7 @@ use_preset_vocabulary: true
 條條框框	tiu4 tiu4 kwaang1 kwaang1
 條款	tiu4 fun2
 條氣唔順	tiu4 hei3 m4 seon6
-條氣順晒	tiu4 hei3 seon6 saai3
+條氣順嗮	tiu4 hei3 seon6 saai3
 條理	tiu4 lei5
 條痕	tiu4 han4
 條目	tiu4 muk6
@@ -102234,6 +102366,7 @@ use_preset_vocabulary: true
 死咁做	sei2 gam3 zou6
 死咁咪	sei2 gam3 mai1
 死咕咕	sei2 gu1 gu1
+死咗又返生	sei2 zo2 jau6 faan1 saang1
 死咗又翻生	sei2 zo2 jau6 faan1 saang1
 死咗條心	sei2 zo2 tiu4 sam1
 死咗火	sei2 zo2 fo2
@@ -102276,7 +102409,7 @@ use_preset_vocabulary: true
 死於	sei2 jyu1
 死於安樂	sei2 jyu1 on1 lok6
 死於非命	sei2 jyu1 fei1 ming6
-死晒	sei2 saai3
+死嗮	sei2 saai3
 死有餘辜	sei2 jau5 jyu4 gu1
 死期	sei2 kei4
 死板	sei2 baan2
@@ -102612,7 +102745,7 @@ use_preset_vocabulary: true
 殼牌	hok3 paai4
 殼牌公司	hok3 paai4 gung1 si1
 殼質	hok3 zat1
-殽晒框	ngaau4 saai3 kwaang1
+殽嗮框	ngaau4 saai3 kwaang1
 殿下	din6 haa6
 殿堂	din6 tong4
 殿宇	din6 jyu5
@@ -102828,7 +102961,7 @@ use_preset_vocabulary: true
 比武	bei2 mou5
 比比皆是	bei2 bei2 gaai1 si6
 比氏鶲鶯	bei2 si6 jung1 ang1
-比濕	bei2 sap1
+比溼	bei2 sap1
 比照	bei2 ziu3
 比熱	bei2 jit6
 比爾	bei2 ji5
@@ -102867,7 +103000,7 @@ use_preset_vocabulary: true
 比重	bei2 cung5
 比量	bei2 loeng4
 比高	bei2 gou1
-毗濕奴	pei4 sap1 nou4
+毗溼奴	pei4 sap1 nou4
 毗耶娑	pei4 je4 so1
 毗連	pei4 lin4
 毗鄰	pei4 leon4
@@ -104439,7 +104572,7 @@ use_preset_vocabulary: true
 沾污	zim1 wu1
 沾沾自喜	zim1 zim1 zi6 hei2
 沾滿	zim1 mun5
-沾濕	zim1 sap1
+沾溼	zim1 sap1
 沾濡	zim1 jyu4
 沾花惹草	zim1 faa1 je5 cou2
 沾邊	zim1 bin1
@@ -105299,7 +105432,7 @@ use_preset_vocabulary: true
 泵站	bam1 zaam6
 泵車	bam1 ce1
 洄游	wui4 jau4
-洇濕	jan1 sap1
+洇溼	jan1 sap1
 洋中脊	joeng4 zung1 zek3
 洋人	joeng4 jan4
 洋剪	joeng4 zin2
@@ -105433,8 +105566,8 @@ use_preset_vocabulary: true
 洗潔精	sai2 git3 zing1
 洗澡	sai2 cou3
 洗澡間	sai2 cou3 gaan1
-洗濕個頭	sai2 sap1 go3 tau4
-洗濕咗個頭	sai2 sap1 zo2 go3 tau4
+洗溼個頭	sai2 sap1 go3 tau4
+洗溼咗個頭	sai2 sap1 zo2 go3 tau4
 洗濯	sai2 zok6
 洗煉	sai2 lin6
 洗牌	sai2 paai4
@@ -105789,7 +105922,12 @@ use_preset_vocabulary: true
 派出	paai3 ceot1
 派出所	paai3 ceot1 so2
 派別	paai3 bit6
+派利市	paai3 lai6 si6
 派利是	paai3 lai6 si6
+派利事	paai3 lai6 si6
+派利市	paai3 lei6 si6
+派利是	paai3 lei6 si6
+派利事	paai3 lei6 si6
 派力奧	paai3 lik6 ou3
 派勢	paai3 sai3
 派台歌	paai3 toi4 go1
@@ -105866,7 +106004,7 @@ use_preset_vocabulary: true
 流星趕月	lau4 sing1 gon2 jyut6
 流星雨	lau4 sing1 jyu5
 流星體	lau4 sing1 tai2
-流晒口水	lau4 saai3 hau2 seoi2
+流嗮口水	lau4 saai3 hau2 seoi2
 流暢	lau4 coeng3
 流毒	lau4 duk6
 流民	lau4 man4
@@ -105920,6 +106058,7 @@ use_preset_vocabulary: true
 流芳百世	lau4 fong1 baak3 sai3
 流落	lau4 lok6
 流落他鄉	lau4 lok6 taa1 hoeng1
+流落來	lau4 lok6 lai4
 流落嚟	lau4 lok6 lei4
 流落江湖	lau4 lok6 gong1 wu4
 流蕩	lau4 dong6
@@ -106528,7 +106667,7 @@ use_preset_vocabulary: true
 浸溫泉	zam3 wan1 cyun4
 浸漬	zam3 zi3
 浸潤	zam3 jeon6
-浸濕	zam3 sap1
+浸溼	zam3 sap1
 浸禮	zam3 lai5
 浸禮教	zam3 lai5 gaau3
 浸禮會	zam3 lai5 wui2
@@ -106823,7 +106962,7 @@ use_preset_vocabulary: true
 淋溶層	lam4 jung4 cang4
 淋漓	lam4 lei4
 淋漓盡致	lam4 lei4 zeon6 zi3
-淋濕	lam4 sap1
+淋溼	lam4 sap1
 淋瀋	lam4 sam2
 淋灕盡致	lam4 lei4 zeon6 zi3
 淋球菌	lam4 kau4 kwan2
@@ -106935,7 +107074,7 @@ use_preset_vocabulary: true
 淤青	jyu2 cing1
 淥個麪	luk6 go3 min6
 淥熟	luk6 suk6
-淥熟晒	luk6 suk6 saai3
+淥熟嗮	luk6 suk6 saai3
 淥親	luk6 can1
 淥親手指	luk6 can1 sau2 zi2
 淥魚片	luk6 jyu4 pin2
@@ -108313,7 +108452,7 @@ use_preset_vocabulary: true
 滾子軸承	gwan2 zi2 zuk6 sing4
 滾彩蛋	gwan2 coi2 daan2
 滾攪	gwan2 gaau2
-滾攪晒	gwan2 gaau2 saai3
+滾攪嗮	gwan2 gaau2 saai3
 滾水	gwan2 seoi2
 滾水淥腳	gwan2 seoi2 luk6 goek3
 滾水淥豬腸	gwan2 seoi2 luk6 zyu1 coeng2
@@ -108523,6 +108662,7 @@ use_preset_vocabulary: true
 漆雕	cat1 diu1
 漆黑	cat1 hak1
 漆黑一團	cat1 hak1 jat1 tyun4
+漏口	lau6 hau2
 漏口佬	lau6 hau2 lou2
 漏口風	lau6 hau2 fung1
 漏壺	lau6 wu2
@@ -108891,7 +109031,7 @@ use_preset_vocabulary: true
 潤滑劑	jeon6 waat6 zai1
 潤滑油	jeon6 waat6 jau4
 潤澤	jeon6 zaak6
-潤濕	jeon6 sap1
+潤溼	jeon6 sap1
 潤筆	jeon6 bat1
 潤肺	jeon6 fai3
 潤腸	jeon6 coeng2
@@ -108944,7 +109084,7 @@ use_preset_vocabulary: true
 潮流	ciu4 lau4
 潮流興	ciu4 lau4 hing1
 潮湧	ciu4 jung2
-潮濕	ciu4 sap1
+潮溼	ciu4 sap1
 潮熱	ciu4 jit6
 潮爆	ciu4 baau3
 潮男	ciu4 naam4
@@ -109179,46 +109319,45 @@ use_preset_vocabulary: true
 濉溪	seoi1 kai1
 濉溪縣	seoi1 kai1 jyun6
 濊貊	wai3 mak6
-濕凹凹	sap1 nap6 nap6
-濕到淰晒	sap1 dou3 nam6 saai3
-濕吻	sap1 man5
-濕地	sap1 dei6
-濕地公園	sap1 dei6 gung1 jyun2
-濕坺坺	sap1 pet6 pet6
-濕婆	sap1 po4
-濕巾	sap1 gan1
-濕度	sap1 dou6
-濕星	sap1 sing1
-濕星嘢	sap1 sing1 je5
-濕柴	sap1 caai4
-濕氣	sap1 hei3
-濕水	sap1 seoi2
-濕水欖核	sap1 seoi2 laam5 wat6
-濕水炮仗	sap1 seoi2 paau3 zoeng2
-濕水狗上岸	sap1 seoi2 gau2 soeng5 ngon6
-濕水雞	sap1 seoi2 gai1
-濕淥淥	sap1 luk6 luk6
-濕淰淰	sap1 nam6 nam6
-濕溫	sap1 wan1
-濕滯	sap1 zai6
-濕漉漉	sap1 luk6 luk6
-濕潤	sap1 jeon6
-濕潤劑	sap1 jeon6 zai1
-濕濕碎	sap1 sap1 seoi3
-濕濕碎碎	sap1 sap1 seoi3 seoi3
-濕熱	sap1 jit6
-濕疣	sap1 jau4
-濕疹	sap1 can2
-濕碎	sap1 seoi3
-濕立立	sap1 laap6 laap6
-濕腰	sap1 jiu1
-濕衣	sap1 ji1
-濕貨	sap1 fo3
-濕身	sap1 san1
-濕透	sap1 tau3
-濕電	sap1 din6
-濕黏	sap1 nim1
-濕𣲷𣲷	sap1 nap6 nap6
+溼到淰嗮	sap1 dou3 nam6 saai3
+溼吻	sap1 man5
+溼地	sap1 dei6
+溼地公園	sap1 dei6 gung1 jyun2
+溼坺坺	sap1 pet6 pet6
+溼婆	sap1 po4
+溼巾	sap1 gan1
+溼度	sap1 dou6
+溼星	sap1 sing1
+溼星嘢	sap1 sing1 je5
+溼柴	sap1 caai4
+溼氣	sap1 hei3
+溼水	sap1 seoi2
+溼水欖核	sap1 seoi2 laam2 wat6
+溼水炮仗	sap1 seoi2 paau3 zoeng2
+溼水狗上岸	sap1 seoi2 gau2 soeng5 ngon6
+溼水雞	sap1 seoi2 gai1
+溼淥淥	sap1 luk6 luk6
+溼淰淰	sap1 nam6 nam6
+溼溫	sap1 wan1
+溼滯	sap1 zai6
+溼漉漉	sap1 luk6 luk6
+溼潤	sap1 jeon6
+溼潤劑	sap1 jeon6 zai1
+溼溼碎	sap1 sap1 seoi3
+溼溼碎碎	sap1 sap1 seoi3 seoi3
+溼熱	sap1 jit6
+溼疣	sap1 jau4
+溼疹	sap1 can2
+溼碎	sap1 seoi3
+溼腰	sap1 jiu1
+溼衣	sap1 ji1
+溼貨	sap1 fo3
+溼身	sap1 san1
+溼透	sap1 tau3
+溼電	sap1 din6
+溼黏	sap1 nim1
+溼湆湆	sap1 nap6 nap6
+溼𣲷𣲷	sap1 nap6 nap6
 濛濛細雨	mung4 mung4 sai3 jyu5
 濟事	zai3 si6
 濟公	zai3 gung1
@@ -109249,7 +109388,7 @@ use_preset_vocabulary: true
 濡染	jyu4 jim5
 濡毫	jyu4 hou4
 濡沫涸轍	jyu4 mut6 kok3 cit3
-濡濕	jyu4 sap1
+濡溼	jyu4 sap1
 濫交	laam6 gaau1
 濫伐	laam6 fat6
 濫伐林木	laam6 fat6 sam1 lam4
@@ -111014,11 +111153,14 @@ use_preset_vocabulary: true
 焫嚫	naat3 can3
 焫親	naat3 can1
 焫雞	naat3 gai1
-焮乾	hing3 gon1
-焮烚烚	hing3 hap6 hap6
-焮熱	hing3 jit6
-焮親	hing3 can1
-焮起嚟	hing3 hei2 lei4
+㷫乾	hing3 gon1
+㷫烚烚	hing3 hap6 hap6
+㷫熱	hing3 jit6
+㷫親	hing3 can1
+㷫起來	hing3 hei2 lai4
+㷫起嚟	hing3 hei2 lei4
+㷫過火屎	hing3 gwo3 fo2 si2
+㷫過焫雞	hing3 gwo3 naat3 gai1
 焰火	jim6 fo2
 然之後	jin4 zi1 hau6
 然則	jin4 zak1
@@ -111295,7 +111437,9 @@ use_preset_vocabulary: true
 煩躁	faan4 cou3
 煩雜	faan4 zaap6
 煬金	joeng4 gam1
-煮到嚟就食	zyu2 dou3 lai2 zau6 zi6
+煮到來就食	zyu2 dou3 lai4 zau6 zi6
+煮到嚟就食	zyu2 dou3 lei4 zau6 zi6
+煮到埋來先食	zyu2 dou2 maai4 lai4 sin1 sik6
 煮到埋嚟先食	zyu2 dou2 maai4 lei4 sin1 sik6
 煮咖啡	zyu2 gaa3 fe1
 煮死	zyu2 sei2
@@ -111511,7 +111655,7 @@ use_preset_vocabulary: true
 熱函	jit6 haam4
 熱切	jit6 cit3
 熱到死	jit6 dou3 sei2
-熱到流晒汗	jit6 dou3 lau4 saai3 hon6
+熱到流嗮汗	jit6 dou3 lau4 saai3 hon6
 熱到飛起	jit6 dou3 fei1 hei2
 熱剌剌	jit6 laat6 laat6
 熱力	jit6 lik6
@@ -111760,8 +111904,13 @@ use_preset_vocabulary: true
 燒傷	siu1 soeng1
 燒冷竈	siu1 laang5 zou3
 燒利市	siu1 lai6 si6
+燒利是	siu1 lai6 si6
+燒利事	siu1 lai6 si6
+燒利市	siu1 lei6 si6
+燒利是	siu1 lei6 si6
+燒利事	siu1 lei6 si6
 燒到	siu1 dou3
-燒到…嗰疊	siu1 dou3 go2 daap6
+燒到…嗰沓	siu1 dou3 go2 daap6
 燒包	siu1 baau1
 燒味	siu1 mei2
 燒味	siu1 mei6
@@ -112947,8 +113096,8 @@ use_preset_vocabulary: true
 犂靬	lai4 gin1
 犄角	gei1 gok3
 犄角旮旯	gei1 gok3 go1 lo1
-犍爲	gin1 wai4
-犍爲縣	gin1 wai4 jyun6
+犍爲	kin4 wai4
+犍爲縣	kin4 wai4 jyun6
 犍牛	gin1 ngau4
 犍陀羅	gin1 to4 lo4
 犎牛	fung1 ngau4
@@ -112961,11 +113110,19 @@ use_preset_vocabulary: true
 犟勁	goeng6 ging6
 犟勁兒	goeng6 ging6 ji4
 犢子	duk6 zi2
-犦濕	bok1 sap1
-犦犦齋	bok1 bok1 zaai1
-犦落去	bok1 lok6 heoi3
-犦落嚟	bok1 lok6 lei4
-犦親	bok1 can1
+㩧嘢	bok1 je5
+㩧親	bok1 can1
+㩧溼	bok1 sap1
+㩧瓜	bok1 gwaa1
+㩧帽	bok1 mou2
+㩧頭黨	bok1 tau4 dong2
+㩧㩧齋	bok1 bok1 zaai1
+卜卜齋	bok1 bok1 zaai1
+㩧㩧聲	bok1 bok1 seng1
+卜卜聲	bok1 bok1 seng1
+㩧落去	bok1 lok6 heoi3
+㩧落來	bok1 lok6 lai4
+㩧佬	pok1 lou2
 犧牲	hei1 sang1
 犧牲品	hei1 saang1 ban2
 犧牲品	hei1 sang1 ban2
@@ -115280,9 +115437,9 @@ use_preset_vocabulary: true
 生日禮物	saang1 jat6 lai5 mat6
 生日蛋糕	saang1 jat6 daan6 gou1
 生日賀卡	saang1 jat6 ho6 kaat1
-生晒	saang1 saai3
-生晒草	saang1 saai3 cou2
-生晒鍟	saang1 saai3 seng3
+生嗮	saang1 saai3
+生嗮草	saang1 saai3 cou2
+生嗮鍟	saang1 saai3 seng3
 生暗瘡	saang1 am3 cong1
 生暴	saang1 bou2
 生暴	sang1 bou6
@@ -115636,6 +115793,7 @@ use_preset_vocabulary: true
 用勁	jung6 ging6
 用命	jung6 ming6
 用品	jung6 ban2
+用來	jung6 lai4
 用嚟	jung6 lei4
 用地	jung6 dei6
 用場	jung6 coeng4
@@ -116036,7 +116194,12 @@ use_preset_vocabulary: true
 畀人識穿	bei2 jan4 sik1 cyun1
 畀人飛	bei2 jan4 fei1
 畀人鬧	bei2 jan4 naau6
+畀利市	bei2 lai6 si6
 畀利是	bei2 lai6 si6
+畀利事	bei2 lai6 si6
+畀利市	bei2 lei6 si6
+畀利是	bei2 lei6 si6
+畀利事	bei2 lei6 si6
 畀問起	bei2 man6 hei2
 畀差人拉	bei2 caai1 jan4 laai1
 畀心機	bei2 sam1 gei1
@@ -116255,7 +116418,6 @@ use_preset_vocabulary: true
 番國	faan1 gwok3
 番地	faan1 dei6
 番客	faan1 haak3
-番工	faan1 gung1
 番攤	faan1 taan1
 番族	faan1 zuk6
 番書仔	faan1 syu1 zai2
@@ -116480,8 +116642,8 @@ use_preset_vocabulary: true
 當住	dong1 zyu6
 當住佢講	dong1 zyu6 keoi5 gong2
 當作	dong3 zok3
-當佢冇到	dong1 keoi4 mou5 dou3
 當佢冇到	dong3 keoi5 mou5 dou3
+當佢冇來	dong3 keoi5 mou5 lai4
 當佢冇嚟	dong3 keoi5 mou5 lei4
 當值	dong1 zik6
 當做	dong3 zou6
@@ -116972,7 +117134,7 @@ use_preset_vocabulary: true
 瘀傷	jyu2 soeng1
 瘀咗	jyu2 zo2
 瘀斑	jyu2 baan1
-瘀晒	jyu2 saai3
+瘀嗮	jyu2 saai3
 瘀滯	jyu2 zai6
 瘀皮	jyu2 pei4
 瘀血	jyu2 hyut3
@@ -117075,7 +117237,7 @@ use_preset_vocabulary: true
 癐到死	gui6 dou3 sei2
 癐到死死下	gui6 dou3 sei2 sei2 haa2
 癐拉拉	gui6 laai4 laai4
-癐晒	gui6 saai3
+癐嗮	gui6 saai3
 癒合	jyu6 hap6
 癒復	jyu6 fuk6
 癔病	ji3 beng6
@@ -117607,7 +117769,7 @@ use_preset_vocabulary: true
 白日	baak6 jat6
 白日做夢	baak6 jat6 zou6 mung6
 白日夢	baak6 jat6 mung6
-白晒晒	baak6 saai4 saai4
+白嗮嗮	baak6 saai4 saai4
 白晝	baak6 zau3
 白曉燕	baak6 hiu2 jin3
 白朗	baak6 long5
@@ -118210,8 +118372,9 @@ use_preset_vocabulary: true
 的而且確	dik1 ji4 ce2 kok3
 的色	dik1 sik1
 的話	dik1 waa6
-的起嚟	dik1 hei2 lei4
-的起心肝	dik1 hei2 sam1 gon1
+扚起來	dik1 hei2 lai4
+扚起嚟	dik1 hei2 lei4
+扚起心肝	dik1 hei2 sam1 gon1
 的里雅斯特	dik1 lei5 ngaa5 si1 dak6
 的骰	dik1 sik1
 的黎波里	dik1 lai4 bo1 lei5
@@ -118574,7 +118737,7 @@ use_preset_vocabulary: true
 盟山誓海	mang4 saan1 sai6 hoi2
 盟弟	mang4 dai6
 盟旗	mang4 kei4
-盟晒	mang4 saai3
+盟嗮	mang4 saai3
 盟書	mang4 syu1
 盟籠	mang4 lung2
 盟籠	mang4 lung4
@@ -118662,8 +118825,8 @@ use_preset_vocabulary: true
 監禁	gaam1 gam3
 監管	gaam1 gun2
 監管體制	gaam1 gun2 tai2 zai3
-監粗來	gaam3 cou1 lei4
-監粗嚟	gaam1 cou1 lai2
+監粗來	gaam3 cou1 lai4
+監粗嚟	gaam3 cou1 lei4
 監織造	gaam1 zik1 zou6
 監考	gaam1 haau2
 監聽	gaam1 ting1
@@ -118768,7 +118931,7 @@ use_preset_vocabulary: true
 相對地址	soeng1 deoi3 dei6 zi2
 相對密度	soeng1 deoi3 mat6 dou6
 相對性	soeng1 deoi3 sing3
-相對濕度	soeng1 deoi3 sap1 dou6
+相對溼度	soeng1 deoi3 sap1 dou6
 相對而坐	soeng1 deoi3 ji4 co5
 相對誤差	soeng1 deoi3 ng6 caa1
 相對論	soeng1 deoi3 leon6
@@ -119335,7 +119498,7 @@ use_preset_vocabulary: true
 眼淚水	ngaang5 leoi6 seoi2
 眼淚汪汪	ngaan5 leoi6 wong1 wong1
 眼淺	ngaan5 cin2
-眼濕濕	ngaan5 sap1 sap1
+眼溼溼	ngaan5 sap1 sap1
 眼火標	ngaan5 fo2 biu1
 眼火爆	ngaan5 fo2 baau3
 眼炎	ngaan5 jim4
@@ -120102,6 +120265,7 @@ use_preset_vocabulary: true
 睇低	tai2 dai1
 睇住	tai2 zyu6
 睇住佢頭	tai2 zyu6 keoi5 tau2
+睇住來	tai2 zyu6 lai4
 睇住嚟	tai2 zyu6 lei4
 睇佢幾好	tai2 keoi5 gei2 hou2
 睇來	tai2 lai4
@@ -120114,6 +120278,7 @@ use_preset_vocabulary: true
 睇下咧	tai2 haa5 le4
 睇下點	tai2 haa5 dim2
 睇唔入眼	tai2 m4 jap6 ngaan5
+睇唔出來	tai2 m4 ceot1 lai4
 睇唔出嚟	tai2 m4 ceot1 lei4
 睇唔切	tai2 m4 cit3
 睇唔到	tai2 m4 dou2
@@ -120125,9 +120290,9 @@ use_preset_vocabulary: true
 睇唔過眼	tai2 m4 gwo3 ngaan5
 睇唔開	tai2 m4 hoi1
 睇啱	tai2 ngaam1
-睇嚟	tai2 lai2
+睇來	tai2 lai4
 睇嚟	tai2 lei4
-睇嚟湊	tai2 lai2 cau3
+睇來湊	tai2 lai4 cau3
 睇嚟湊	tai2 lei4 cau3
 睇場	tai2 coeng4
 睇夜	tai2 je6
@@ -120176,7 +120341,9 @@ use_preset_vocabulary: true
 睇衰	tai2 seoi1
 睇見	tai2 gin3
 睇起	tai2 hei2
+睇起上來	tai2 hei2 soeng5 lai4
 睇起上嚟	tai2 hei2 soeng5 lei4
+睇起來	tai2 hei2 lai4
 睇起嚟	tai2 hei2 lei4
 睇路	tai2 lou6
 睇辦	tai2 baan2
@@ -120324,7 +120491,7 @@ use_preset_vocabulary: true
 瞑眩	ming5 jyun6
 瞓低	fan3 dai1
 瞓個靚覺	fan3 go4 leng3 gaau3
-瞓到淰晒	fan3 dou3 nam6 saai3
+瞓到淰嗮	fan3 dou3 nam6 saai3
 瞓厲頸	fan3 lai2 geng2
 瞓唔到	fan3 m4 dou2
 瞓唔著	fan3 m4 zoek3
@@ -121216,8 +121383,8 @@ use_preset_vocabulary: true
 硬推	ngaang6 teoi1
 硬撐	ngaang6 caang3
 硬是	ngaang6 si6
-硬晒舦	ngaang6 saai3 taai5
-硬晒軚	ngaang6 saai3 taai3
+硬嗮舦	ngaang6 saai3 taai5
+硬嗮軚	ngaang6 saai3 taai5
 硬朗	ngaang6 long5
 硬木	ngaang6 muk6
 硬板	ngaang6 baan2
@@ -121313,7 +121480,7 @@ use_preset_vocabulary: true
 碎料	seoi3 liu2
 碎末	seoi3 mut6
 碎步	seoi3 bou6
-碎濕濕	seoi3 sap1 sap1
+碎溼溼	seoi3 sap1 sap1
 碎片	seoi3 pin2
 碎片整理	seoi3 pin2 zing2 lei5
 碎石	seoi3 sek6
@@ -123928,6 +124095,7 @@ use_preset_vocabulary: true
 等差級數	dang2 caa1 kap1 sou3
 等式	dang2 sik1
 等待	dang2 doi6
+等我來	dang2 ngo5 lai4
 等我嚟	dang2 ngo5 lei4
 等我睇下	dang2 ngo5 tai2 haa5
 等效百萬噸當量	dang2 haau6 baak3 maan6 deon1 dong1 loeng6
@@ -124534,6 +124702,7 @@ use_preset_vocabulary: true
 籬垣	lei4 wun4
 籬笆	lei4 baa1
 籮噼	lo1 pet1
+𦣇噼	lo1 pet1
 籮底橙	lo4 dai2 caang2
 籮筐	lo4 hong1
 籲請	jyu6 cing2
@@ -125980,7 +126149,7 @@ use_preset_vocabulary: true
 紫頰直嘴太陽鳥	zi2 gaap3 zik6 zeoi2 taai3 joeng4 niu5
 紮實	zaat3 sat6
 紮寨	zaat3 zaai6
-紮晒馬	zaat3 saai3 maa5
+紮嗮馬	zaat3 saai3 maa5
 紮歐紮翁	zaat3 au1 zaat3 jung1
 紮炮	zaat3 paau3
 紮營	zaat3 jing4
@@ -126419,7 +126588,7 @@ use_preset_vocabulary: true
 絕對數字	zyut6 deoi3 sou3 zi6
 絕對溫度	zyut6 deoi3 wan1 dou6
 絕對溫標	zyut6 deoi3 wan1 biu1
-絕對濕度	zyut6 deoi3 sap1 dou6
+絕對溼度	zyut6 deoi3 sap1 dou6
 絕對觀念	zyut6 deoi3 gun1 nim6
 絕對誤差	zyut6 deoi3 ng6 caa1
 絕對連續	zyut6 deoi3 lin4 zuk6
@@ -127646,7 +127815,7 @@ use_preset_vocabulary: true
 總噸位	zung2 deon1 wai2
 總回報	zung2 wui4 bou3
 總圖	zung2 tou4
-總好過…	zung2 hou2 gwo3
+總好過	zung2 hou2 gwo3
 總局	zung2 guk6
 總工會	zung2 gung1 wui6
 總工程師	zung2 gung1 cing4 si1
@@ -128860,6 +129029,7 @@ use_preset_vocabulary: true
 翹首	kiu4 sau2
 翹首以待	kiu4 sau2 ji5 doi6
 翹鼻麻鴨	kiu4 bei6 maa4 aap3
+返企	faan1 kei2
 翻企	faan1 kei2
 翻作	faan1 zok3
 翻來覆去	faan1 loi4 fuk1 heoi3
@@ -128871,17 +129041,17 @@ use_preset_vocabulary: true
 翻動	faan1 dung6
 翻印	faan1 jan3
 翻卷	faan1 kyun4
+返去	faan1 heoi3
 翻去	faan1 heoi3
+返唔切	faan1 m4 cit3
 翻唔切	faan1 m4 cit3
 翻唱	faan1 coeng3
 翻嘴	faan1 zeoi2
-翻嚟	faan1 lai2
-翻嚟	faan1 lei4
 翻天	faan1 tin1
 翻天覆地	faan1 tin1 fuk1 dei6
 翻子拳	faan1 zi2 kyun4
 翻學	faan1 hok6
-翻屋企	faan1 nguk1 kei2
+翻屋企	faan1 uk1 kei2
 翻山越嶺	faan1 saan1 jyut6 leng5
 翻工	faan1 gung1
 翻悔	faan1 fui3
@@ -128892,12 +129062,14 @@ use_preset_vocabulary: true
 翻攪	faan1 gaau2
 翻新	faan1 san1
 翻新後	faan1 san1 hau6
-翻晒面	faan1 saai3 min6
+翻嗮面	faan1 saai3 min6
 翻本	faan1 bun2
 翻案	faan1 on3
 翻檢	faan1 gim2
 翻江倒海	faan1 gong1 dou2 hoi2
 翻沉	faan1 cam4
+返尋味	faan1 cam4 mei6
+翻尋味	faan1 cam4 mei6
 翻渣	faan1 zaa1
 翻湧	faan1 jung2
 翻滾	faan1 gwan2
@@ -128938,18 +129110,20 @@ use_preset_vocabulary: true
 翻身	faan1 san1
 翻車魚	faan1 ce1 jyu2
 翻轉	faan1 zyun3
-翻轉頭	faan1 zyun2 tau4
+返轉頭	faan1 zyun3 tau4
 翻轉頭	faan1 zyun3 tau4
 翻造	faan1 zou6
 翻遍	faan1 pin3
 翻過	faan1 gwo3
 翻過來	faan1 gwo3 loi4
+返鄉下	faan1 hoeng1 haa6
 翻鄉下	faan1 hoeng1 haa6
 翻開	faan1 hoi1
 翻閱	faan1 jyut6
 翻雲覆雨	faan1 wan4 fuk1 jyu5
 翻面	faan1 min6
 翻領	faan1 leng5
+翻頭婆	faan1 tau4 po2
 翻頭婆	faan1 tau4 po4
 翻頭嫁	faan1 tau4 gaa3
 翻風	faan1 fung1
@@ -129597,15 +129771,13 @@ use_preset_vocabulary: true
 耶魯大學	je4 lou5 daai6 hok6
 耶魯拼音	je4 lou5 ping3 jam1
 耶魯粵語拼音	je4 lou5 jyut6 jyu5 ping3 jam1
-耷低頭	daap3 dai1 tau4
 耷低頭	dap1 dai1 tau4
 耷唔切	dap1 m4 cit3
-耷尾	daap3 mei5
+耷尾	dap1 mei5
 耷尾狗	dap1 mei5 gau2
 耷拉	dap1 laai1
-耷濕	daap3 sap1
-耷濕	dap1 sap1
-耷頭佬	daap3 tau4 lou2
+耷溼	dap1 sap1
+耷頭佬	dap1 tau4 lou2
 耷頭耷腦	dap1 tau4 dap1 nou5
 耽心	daam1 sam1
 耽憂	daam1 jau1
@@ -130593,8 +130765,8 @@ use_preset_vocabulary: true
 育種	juk6 zung2
 育空	juk6 hung1
 育齡期	juk6 ling4 kei4
-肴晒頭	ngaau1 saai3 tau4
-肴痕	ngaau1 han4
+𢯎嗮頭	ngaau1 saai3 tau4
+𢯎痕	ngaau1 han4
 肺刺激性毒劑	fai3 ci3 gik1 sing3 duk6 zai1
 肺動脈	fai3 dung6 mak6
 肺心病	fai3 sam1 beng6
@@ -132612,6 +132784,7 @@ use_preset_vocabulary: true
 自己動手	zi6 gei2 dung6 sau2
 自己友	zi6 gei2 jau2
 自己工	zi6 gei2 gung1
+自己攞來衰	zi6 gei2 lo2 lai4 seoi1
 自己攞嚟衰	zi6 gei2 lo2 lei4 seoi1
 自己最知自己事	zi6 gei2 zeoi3 zi1 zi6 gei2 si6
 自己身有屎	zi6 gei2 san1 jau5 si2
@@ -133119,6 +133292,7 @@ use_preset_vocabulary: true
 舂瘟雞	zung1 wan1 gai1
 舂米公	zung1 mai5 gung1
 舂落去	zung1 lok6 heoi3
+舂落來	zung1 lok6 lai4
 舂落嚟	zung1 lok6 lei4
 舅仔	kau5 zai2
 舅仔鞋	kau5 zai2 haai4
@@ -135545,7 +135719,7 @@ use_preset_vocabulary: true
 落吧	lok6 baa1
 落單	lok6 daan1
 落嘴頭	lok6 zeoi2 tau4
-落嚟	lok6 lai4
+落來	lok6 lai4
 落嚟	lok6 lei4
 落地	lok6 dei6
 落地扇	lok6 dei6 sin3
@@ -135585,7 +135759,7 @@ use_preset_vocabulary: true
 落斜	lok6 ce3
 落於下風	lok6 jyu1 haa6 fung1
 落日	lok6 jat6
-落晒形	lok6 saai3 jing4
+落嗮形	lok6 saai3 jing4
 落更	lok6 gaang1
 落本	lok6 bun2
 落枕	lok6 zam2
@@ -135666,8 +135840,8 @@ use_preset_vocabulary: true
 落雨收柴	lok6 jyu5 sau1 caai4
 落雨溦	lok6 jyu5 mei1
 落雨溦	lok6 jyu5 mei4
-落雨濕濕	lok6 jyu5 sap1 sap1
-落雨絲濕	lok6 jyu5 si1 sap1
+落雨溼溼	lok6 jyu5 sap1 sap1
+落雨絲溼	lok6 jyu5 si1 sap1
 落雪	lok6 syut3
 落雪水	lok6 syut3 seoi2
 落雪珠	lok6 syut3 zyu1
@@ -137278,7 +137452,7 @@ use_preset_vocabulary: true
 蝄蜽	mong5 loeng5
 蝌蚪	fo1 dau2
 蝕刻	sik6 hak1
-蝕晒大本	sit6 saai3 daai6 bun2
+蝕嗮大本	sit6 saai3 daai6 bun2
 蝕本	sit6 bun2
 蝕本生意	sit6 bun2 saang1 ji3
 蝕本貨	sit6 bun2 fo3
@@ -137881,9 +138055,11 @@ use_preset_vocabulary: true
 行兇者	hang4 hung1 ze2
 行先	hang4 sin1
 行入去	haang4 jap6 heoi3
+行入來	haang4 jap6 lai4
 行入嚟	haang4 jap6 lei4
 行公司	haang4 gung1 si1
 行出去	haang4 ceot1 heoi3
+行出來	haang4 ceot1 lai4
 行出嚟	haang4 ceot1 lei4
 行出行入	haang4 ceot1 haang4 jap6
 行刑	hang4 jing4
@@ -137921,11 +138097,10 @@ use_preset_vocabulary: true
 行善不欲人知	hang4 sin6 bat1 juk6 jan4 zi1
 行囊	hang4 nong4
 行地方	haang4 dei6 fong1
-行地方	hang4 dei6 fong1
 行埋	haang4 maai4
+行埋來	haang4 maai4 lai4
 行埋嚟	haang4 maai4 lei4
 行大運	haang4 daai6 wan6
-行大運	hang4 daai6 wan6
 行好	hang4 hou2
 行孝	hang4 haau3
 行客	hang4 haak3
@@ -138044,6 +138219,7 @@ use_preset_vocabulary: true
 行經	hang4 ging1
 行署	hang4 cyu5
 行義	hang4 ji6
+行返去	haang4 faan1 heoi3
 行翻去	haang4 faan1 heoi3
 行者	haang4 ze2
 行者	hang4 ze2
@@ -138099,7 +138275,9 @@ use_preset_vocabulary: true
 行運	haang4 wan6
 行運一條龍	hang4 wan6 jat1 tiu4 lung4
 行運一條龍，失運一條蟲	hang4 wan6 jat1 tiu4 lung4 sat1 wan6 jat1 tiu4 cung4
+行過來	haang4 gwo4 lai4
 行過嚟	haang4 gwo4 lei4
+行過龍	haang4 gwo3 lung4
 行過籠	haang4 gwo3 lung4
 行遠必自邇	haang4 jyun5 bit1 zi6 ji5
 行酒令	hang4 zau2 ling6
@@ -138289,7 +138467,7 @@ use_preset_vocabulary: true
 衡山縣	hang4 saan1 jyun6
 衡平	hang4 ping4
 衡情酌理	hang4 cing4 zoek3 lei5
-衡晒	hang4 saai3
+衡嗮	hang4 saai3
 衡東	hang4 dung1
 衡東縣	hang4 dung1 jyun6
 衡水	hang4 seoi2
@@ -138482,7 +138660,7 @@ use_preset_vocabulary: true
 衰微	seoi1 mei4
 衰收尾	seoi1 sau1 mei5
 衰敗	seoi1 baai6
-衰晒	seoi1 saai3
+衰嗮	seoi1 saai3
 衰朽	seoi1 nau2
 衰格	seoi1 gaak3
 衰樣	seoi1 joeng2
@@ -138499,6 +138677,7 @@ use_preset_vocabulary: true
 衰變曲線	seoi1 bin3 kuk1 sin3
 衰變熱	seoi1 bin3 jit6
 衰變鏈	seoi1 bin3 lin2
+衰起上來有頭有路	seoi1 hei2 soeng6 lai4 jau5 tau4 jau5 lou6
 衰起上嚟有頭有路	seoi1 hei2 soeng6 lei4 jau5 tau4 jau5 lou6
 衰退	seoi1 teoi3
 衰退期	seoi1 teoi3 kei4
@@ -139588,7 +139767,6 @@ use_preset_vocabulary: true
 覆轍	fuk1 cit3
 覆述	fuk1 seot6
 覆電話	fuk1 din6 waa2
-見…	gin3
 見不得	gin3 bat1 dak1
 見不得人	gin3 bat1 dak1 jan4
 見不著	gin3 bat1 zoek6
@@ -140355,7 +140533,7 @@ use_preset_vocabulary: true
 計時測驗	gai3 si4 caak1 jim6
 計時炸彈	gai3 si4 zaa3 daan2
 計時賽	gai3 si4 coi3
-計晒	gai3 saai3
+計嗮	gai3 saai3
 計條數	gai3 tiu4 sou3
 計正	gai3 zeng3
 計正	gai3 zing3
@@ -140988,8 +141166,8 @@ use_preset_vocabulary: true
 話明	waa6 ming4
 話是	waa6 si6
 話時話	waa6 si4 waa6
-話晒	waa6 saai3
-話晒事	waa6 saai3 si6
+話嗮	waa6 saai3
+話嗮事	waa6 saai3 si6
 話本	waa6 bun2
 話柄	waa6 beng3
 話梅	waa6 mui4
@@ -141663,6 +141841,7 @@ use_preset_vocabulary: true
 諗唔明	nam2 m4 ming4
 諗唔通	nam2 m4 tung1
 諗唔過	nam2 m4 gwo3
+諗來度去	nam2 lai4 dok6 heoi3
 諗嚟度去	nam2 lei4 dok6 heoi3
 諗得過	nam2 dak1 gwo3
 諗掂	nam2 dim6
@@ -141672,8 +141851,9 @@ use_preset_vocabulary: true
 諗爛心肝	nam2 laan6 sam1 gon1
 諗真啲	nam2 zan1 di1
 諗縮數	nam2 suk1 sou3
-諗翻	lam2 faan1
+諗返	nam2 faan1
 諗翻	nam2 faan1
+諗返轉頭	nam2 faan1 zyun3 tau4
 諗翻轉頭	nam2 faan1 zyun3 tau4
 諗落	lam2 lok6
 諗計	lam2 gai3
@@ -141862,6 +142042,7 @@ use_preset_vocabulary: true
 講人事	gong2 jan4 si2
 講假	gong2 gaa2
 講價	gong2 gaa3
+講出來	gong2 ceot1 lai4
 講出嚟	gong2 ceot1 lei4
 講到	gong2 dou3
 講到天花龍鳳	gong2 dou3 tin1 faa1 lung4 fung6
@@ -141880,8 +142061,10 @@ use_preset_vocabulary: true
 講嘢	gong2 je5
 講嘢好乸型	gong2 je5 hou2 naa2 jing4
 講嘢鬼食泥咁	gong2 je5 gwai2 sik6 nai4 gam3
+講來聽下	gong2 lai4 teng1 haa5
 講嚟聽下	gong2 lei4 teng1 haa5
-講嚟講去三幅被	gong2 lai4 gong2 heoi3 saam1 fuk1 pei5
+講來講去三幅被	gong2 lai4 gong2 heoi3 saam1 fuk1 pei5
+講嚟講去三幅被	gong2 lei4 gong2 heoi3 saam1 fuk1 pei5
 講堂	gong2 tong4
 講壇	gong2 taan4
 講多錯多	gong2 do1 co3 do1
@@ -141920,7 +142103,7 @@ use_preset_vocabulary: true
 講演	gong2 jin2
 講爛口	gong2 laan6 hau2
 講理	gong2 lei5
-講生晒	gong2 saang1 saai3
+講生嗮	gong2 saang1 saai3
 講畀…聽	gong2 bei2 teng1
 講畀佢聽	gong2 bei2 keoi5 teng1
 講真	gong2 zan1
@@ -141937,7 +142120,8 @@ use_preset_vocabulary: true
 講習	gong2 zaap6
 講習會	gong2 zaap6 wui2
 講習班	gong2 zaap6 baan1
-講翻轉頭	gong2 faan1 zyun2 tau4
+講返轉頭	gong2 faan1 zyun3 tau4
+講翻轉頭	gong2 faan1 zyun3 tau4
 講耶穌	gong2 je4 sou1
 講臺	gong2 toi4
 講落去	gong2 lok6 heoi3
@@ -141951,6 +142135,7 @@ use_preset_vocabulary: true
 講說話	gong2 syut3 waa6
 講課	gong2 fo3
 講論	gong2 leon6
+講起上來	gong2 hei2 soeng5 lai4
 講起上嚟	gong2 hei2 soeng5 lei4
 講起又講	gong2 hei2 jau6 gong2
 講辭	gong2 ci4
@@ -142904,7 +143089,12 @@ use_preset_vocabulary: true
 豆丁	dau6 deng1
 豆佉	dau6 keoi1
 豆住	dau6 zyu6
-豆利是	dau6 lai6 si6
+𢭃利市	dau6 lai6 si6
+𢭃利是	dau6 lai6 si6
+𢭃利事	dau6 lai6 si6
+逗利市	dau6 lai6 si6
+逗利是	dau6 lai6 si6
+逗利事	dau6 lai6 si6
 豆奶	dau6 naai5
 豆子	dau2 zi2
 豆寇年華	dau6 kau3 nin4 waa4
@@ -143468,6 +143658,7 @@ use_preset_vocabulary: true
 貢品	gung3 ban2
 貢嘎	gung3 gaa1
 貢嘎縣	gung3 gaa1 jyun6
+貢來貢去	gung3 lai4 gung3 heoi3
 貢嚟貢去	gung3 lei4 gung3 heoi3
 貢國	gung3 gwok3
 貢士	gung3 si6
@@ -144199,7 +144390,7 @@ use_preset_vocabulary: true
 賣方	maai6 fong1
 賣方市場	maai6 fong1 si5 coeng4
 賣春	maai6 ceon1
-賣晒	maai6 saai3
+賣嗮	maai6 saai3
 賣本事	maai6 bun2 si6
 賣武	maai6 mou5
 賣淫	maai6 jam4
@@ -144653,11 +144844,13 @@ use_preset_vocabulary: true
 走光	zau2 gwong1
 走入	zau2 jap6
 走入去	zau2 jap6 heoi3
+走入來	zau2 jap6 lai4
 走入嚟	zau2 jap6 lei4
 走內線	zau2 noi6 sin3
 走冰	zau2 bing1
 走出	zau2 ceot1
 走出去	zau2 ceot1 heoi3
+走出來	zau2 ceot1 lai4
 走出嚟	zau2 ceot1 lei4
 走動	zau2 dung6
 走勢	zau2 sai3
@@ -144678,6 +144871,7 @@ use_preset_vocabulary: true
 走圓場	zau2 jyun4 coeng4
 走地盤	zau2 dei6 pun4
 走地雞	zau2 dei6 gai1
+走埋來	zau2 maai4 lai4
 走埋嚟	zau2 maai4 lei4
 走埠	zau2 fau6
 走堂	zau2 tong4
@@ -144772,6 +144966,7 @@ use_preset_vocabulary: true
 走進	zau2 zeon3
 走運	zau2 wan6
 走過	zau2 gwo3
+走過來	zau2 gwo3 lai4
 走過嚟	zau2 gwo3 lei4
 走過場	zau2 gwo3 coeng4
 走道	zau2 dou6
@@ -144812,7 +145007,7 @@ use_preset_vocabulary: true
 赴華	fu6 waa4
 赴陰曹	fu6 jam1 cou4
 赴難	fu6 naan6
-起上嚟	hei2 soeng5 lai4
+起上來	hei2 soeng5 lai4
 起上嚟	hei2 soeng5 lei4
 起五更	hei2 ng5 gaang1
 起亞	hei2 aa3
@@ -144832,7 +145027,7 @@ use_preset_vocabulary: true
 起名	hei2 meng2
 起名	hei2 ming4
 起名兒	hei2 meng2 ji4
-起嚟	hei2 lai4
+起來	hei2 lai4
 起嚟	hei2 lei4
 起因	hei2 jan1
 起士	hei2 si6
@@ -145030,7 +145225,7 @@ use_preset_vocabulary: true
 越南航空	jyut6 naam4 hong4 hung1
 越南話	jyut6 naam4 waa2
 越南語	jyut6 naam4 jyu5
-越嚟越	jyut6 lai4 jyut6
+越來越	jyut6 lai4 jyut6
 越嚟越	jyut6 lei4 jyut6
 越國	jyut6 gwok3
 越城	jyut6 sing4
@@ -145283,6 +145478,7 @@ use_preset_vocabulary: true
 跌至谷底	dit3 zi3 guk1 dai2
 跌落	dit3 lok6
 跌落去	dit3 lok6 heoi3
+跌落來	dit3 lok6 lai4
 跌落嚟	dit3 lok6 lei4
 跌落地	dit3 lok6 dei6
 跌落地下，揦翻拃沙	dit3 lok6 dei6 haa2 laa2 faan1 zaa6 saa1
@@ -145354,6 +145550,7 @@ use_preset_vocabulary: true
 跟不上	gan1 bat1 soeng5
 跟人	gan1 jan4
 跟住	gan1 zyu6
+跟住落來	gan1 zyu6 lok6 lai4
 跟住落嚟	gan1 zyu6 lok6 lei4
 跟前	gan1 cin4
 跟包	gan1 baau1
@@ -145551,6 +145748,7 @@ use_preset_vocabulary: true
 跳臺滑雪	tiu3 toi4 waat6 syut3
 跳舞	tiu3 mou5
 跳落去	tiu3 lok6 heoi3
+跳落來	tiu3 lok6 lai4
 跳落嚟	tiu3 lok6 lei4
 跳蚤	tiu3 zou2
 跳蚤市場	tiu3 zou2 si5 coeng4
@@ -145631,8 +145829,7 @@ use_preset_vocabulary: true
 踟躕不前	ci4 cyu4 bat1 cin4
 踢出局	tek3 ceot1 guk6
 踢拖	tek3 to1
-踢晒腳	tek3 saai3 goek3
-踢曬腳	tek3 saai3 goek3
+踢嗮腳	tek3 saai3 goek3
 踢毽	tek3 jin2
 踢波	tek3 bo1
 踢燕	tek3 jin2
@@ -145884,7 +146081,7 @@ use_preset_vocabulary: true
 身板兒	san1 baan2 ji4
 身歷聲	san1 lik6 seng1
 身段	san1 dyun6
-身毒	san1 duk6
+身毒	gyun1 duk1
 身水身汗	san1 seoi2 san1 hon6
 身法	san1 faat3
 身爲	san1 wai4
@@ -146579,7 +146776,7 @@ use_preset_vocabulary: true
 輪休	leon4 jau1
 輪住	leon4 zyu6
 輪住值班	leon4 zyu6 zik6 baan1
-輪住嚟	leon4 zyu6 lai4
+輪住來	leon4 zyu6 lai4
 輪住嚟	leon4 zyu6 lei4
 輪作	leon4 zok3
 輪候	leon4 hau6
@@ -146651,7 +146848,7 @@ use_preset_vocabulary: true
 輸密碼	syu1 mat6 maa5
 輸尿管	syu1 niu6 gun2
 輸掉	syu1 diu6
-輸晒	syu1 saai3
+輸嗮	syu1 saai3
 輸氧	syu1 joeng5
 輸水管	syu1 seoi2 gun2
 輸沙量	syu1 saa1 loeng6
@@ -146722,6 +146919,7 @@ use_preset_vocabulary: true
 轄地	hat6 dei6
 轅門	jyun4 mun4
 轆卡	luk1 kaat1
+轆咗落來	luk1 zo2 lok6 lai4
 轆咗落嚟	luk1 zo2 lok6 lei4
 轆咭	luk1 kat1
 轆轆	luk1 luk1
@@ -146907,6 +147105,8 @@ use_preset_vocabulary: true
 轉面無情	zyun2 min6 mou4 cing4
 轉韻	zyun2 wan5
 轉頭	zyun2 tau4
+轉頭	zyun3 tau4
+轉頭來過	zyun2 tau4 lai4 gwo3
 轉頭嚟過	zyun2 tau4 lei4 gwo3
 轉頭見	zyun2 tau4 gin3
 轉體	zyun2 tai2
@@ -146951,7 +147151,8 @@ use_preset_vocabulary: true
 辛格	san1 gaak3
 辛烷值	san1 jyun4 zik6
 辛苦	san1 fu2
-辛苦搵嚟自在食	san1 fu2 wan3 lai4 zi6 zoi6 sik6
+辛苦搵來自在食	san1 fu2 wan3 lai4 zi6 zoi6 sik6
+辛苦搵嚟自在食	san1 fu2 wan3 lei4 zi6 zoi6 sik6
 辛貝特	san1 bui3 dak6
 辛辛苦苦	san1 san1 fu2 fu2
 辛辛那提	san1 san1 naa5 tai4
@@ -147301,11 +147502,14 @@ use_preset_vocabulary: true
 近頃	gan6 king2
 近體詩	gan6 tai2 si1
 返來	faan1 lai4
+翻來	faan1 lai4
+返嚟	faan1 lai4
+翻嚟	faan1 lai4
+返嚟	faan1 lei4
+翻嚟	faan1 lei4
 返利	faan2 lei6
 返券黃牛	faan2 hyun3 wong4 ngau4
-返去	faan2 heoi3
 返去舊時嗰度	faan1 heoi3 gau6 si4 go2 dou6
-返嚟	faan2 lai2
 返回	faan2 wui4
 返國	faan2 gwok3
 返夜	faan1 je6
@@ -147314,6 +147518,7 @@ use_preset_vocabulary: true
 返屋企	faan1 uk1 kei2
 返崗	faan2 gong1
 返工	faan1 gung1
+返公司	faan1 gung1 si1
 返歸	faan2 gwai1
 返港	faan2 gong2
 返璞歸真	faan2 pok3 gwai1 zan1
@@ -147323,13 +147528,13 @@ use_preset_vocabulary: true
 返老還童	faan2 lou5 waan4 tung4
 返臺	faan2 toi4
 返航	faan2 hong4
-返轉頭	faan1 zyun3 tau4
 返還	faan2 waan4
 返還占有	faan2 waan4 zim3 jau5
 返鄉	faan2 hoeng1
 返銷糧	faan2 siu1 loeng4
 返青	faan2 cing1
 返頭婆	faan1 tau4 po2
+返頭婆	faan1 tau4 po4
 返頭嫁	faan1 tau4 gaa3
 返點	faan2 dim2
 迢迢	tiu4 tiu4
@@ -148416,12 +148621,13 @@ use_preset_vocabulary: true
 逼供信	bik1 gung1 seon3
 逼債	bik1 zaai3
 逼入去	bik1 jap6 heoi3
-逼冚晒	bik1 ham6 saai3
+逼冚嗮	bik1 ham6 saai3
 逼到埋身	bik1 dou3 maai4 san1
 逼到鬼噉	bik1 dou3 gwai2 gam2
 逼力	bik1 lik6
 逼和	bik1 wo4
 逼問	bik1 man6
+逼來逼去	bik1 lai4 bik1 heoi3
 逼嚟逼去	bik1 lei4 bik1 heoi3
 逼姦	bik1 gaan1
 逼宮	bik1 gung1
@@ -148436,7 +148642,7 @@ use_preset_vocabulary: true
 逼視	bik1 si6
 逼近	bik1 gan6
 逼迫	bik1 baak1
-逼迫	bik1 bik1
+逼過來	bik1 gwo3 lai4
 逼過嚟	bik1 gwo3 lei4
 逾垣	jyu4 wun4
 逾期	jyu4 kei4
@@ -148683,7 +148889,7 @@ use_preset_vocabulary: true
 過咗身	gwo3 zo2 san1
 過唔去	gwo3 m4 heoi3
 過問	gwo3 man6
-過嚟	gwo3 lai2
+過來	gwo3 lai4
 過嚟	gwo3 lei4
 過埠	gwo3 fau6
 過埠新娘	gwo3 fau6 san1 noeng2
@@ -148759,11 +148965,11 @@ use_preset_vocabulary: true
 過氧物酶體	gwo3 joeng5 mat6 mui4 tai2
 過氧苯甲酰	gwo3 joeng5 bun2 gaap3 sin1
 過水	gwo3 seoi2
-過水濕腳	gwo3 seoi2 sap1 goek3
+過水溼腳	gwo3 seoi2 sap1 goek3
 過江龍	gwo3 gong1 lung4
 過河卒	gwo3 ho4 zeot1
 過河拆橋	gwo3 ho4 caak3 kiu4
-過河濕腳	gwo3 ho4 sap1 goek3
+過河溼腳	gwo3 ho4 sap1 goek3
 過活	gwo3 wut6
 過海	gwo3 hoi2
 過渡	gwo3 dou6
@@ -149267,6 +149473,7 @@ use_preset_vocabulary: true
 遲啲	ci4 di1
 遲啲	ci4 dit1
 遲啲見	ci4 di1 gin3
+遲來先上岸	ci4 lai4 sin1 soeng5 ngon6
 遲嚟先上岸	ci4 lei4 sin1 soeng5 ngon6
 遲幾日	ci4 gei2 jat6
 遲延	ci4 jin4
@@ -150493,6 +150700,7 @@ use_preset_vocabulary: true
 醒世恆言	sing2 sai3 hang4 jin4
 醒你	sing2 nei5
 醒來	sing2 loi4
+醒來	sing2 lai4
 醒嚟	seng2 lei4
 醒定	sing2 ding6
 醒定啲	sing2 ding6 di1
@@ -152421,8 +152629,8 @@ use_preset_vocabulary: true
 錫山	sek3 saan1
 錫山區	sek3 saan1 keoi1
 錫拉庫薩	sek3 laai1 fu3 saat3
-錫晒	sek3 saai3
-錫晒你	sek3 saai3 nei5
+錫嗮	sek3 saai3
+錫嗮你	sek3 saai3 nei5
 錫杖	sek3 zoeng6
 錫林浩特	sek3 lam4 hou6 dak6
 錫林浩特市	sek3 lam4 hou6 dak6 si5
@@ -153597,7 +153805,8 @@ use_preset_vocabulary: true
 開味	hoi1 mei6
 開啓	hoi1 kai2
 開單	hoi1 daan1
-開嚟	hoi1 lai2
+開來	hoi1 lai4
+開嚟	hoi1 lei4
 開國	hoi1 gwok3
 開國元勛	hoi1 gwok3 jyun4 fan1
 開國元勳	hoi1 gwok3 jyun4 fan1
@@ -155305,14 +155514,14 @@ use_preset_vocabulary: true
 除惡務盡	ceoi4 ok3 mou6 zeon6
 除掉	ceoi4 diu6
 除數	ceoi4 sou3
-除晒衫	ceoi4 saai3 saam1
+除嗮衫	ceoi4 saai3 saam1
 除暴	ceoi4 bou6
 除暴安良	ceoi4 bou6 on1 loeng4
 除根	ceoi4 gan1
 除此之外	ceoi4 ci2 zi1 ngoi6
 除沾染	ceoi4 zim1 jim5
 除法	ceoi4 faat3
-除濕器	ceoi4 sap1 hei3
+除溼器	ceoi4 sap1 hei3
 除祟	ceoi4 seoi6
 除笨有精	ceoi4 ban6 jau5 zeng1
 除罪	ceoi4 zeoi6
@@ -155415,7 +155624,7 @@ use_preset_vocabulary: true
 陰涼處	jam1 loeng4 cyu3
 陰溝	jam1 kau1
 陰溝裏翻船	jam1 kau1 leoi5 faan1 syun4
-陰濕	jam1 sap1
+陰溼	jam1 sap1
 陰狠	jam1 han2
 陰狠毒辣	jam1 han2 duk6 laat6
 陰盛陽衰	jam1 sing6 joeng4 seoi1
@@ -156913,8 +157122,8 @@ use_preset_vocabulary: true
 離散	lei4 saan3
 離散性	lei4 saan3 sing3
 離散數學	lei4 saan3 sou3 hok6
-離晒罩	lei4 saai3 zaau3
-離晒譜	lei4 saai3 pou2
+離嗮罩	lei4 saai3 zaau3
+離嗮譜	lei4 saai3 pou2
 離析	lei4 sik1
 離校	lei4 haau6
 離棄	lei4 hei3
@@ -157525,7 +157734,7 @@ use_preset_vocabulary: true
 食到嗒嗒聲	sik6 dou3 daap1 daap1 seng1
 食前方丈	sik6 cing4 fong1 zoeng6
 食力	sik6 lik6
-食口立濕	sik6 hau2 lap6 sap1
+食口立溼	sik6 hau2 lap6 sap1
 食古不化	sik6 gu2 bat1 faa3
 食咗	sik6 zo2
 食咗火藥	sik6 zo2 fo2 joek6
@@ -157546,7 +157755,7 @@ use_preset_vocabulary: true
 食品衛生	sik6 ban2 wai6 sang1
 食唔切	sik6 m4 cit3
 食唔安瞓唔落	sik6 m4 on1 fan3 m4 lok6
-食唔晒	sik6 m4 saai3
+食唔嗮	sik6 m4 saai3
 食唔落	sik6 m4 lok6
 食唔飽	sik6 m4 baau2
 食嘢	sik6 je5
@@ -157588,7 +157797,7 @@ use_preset_vocabulary: true
 食晏	sik6 aan3
 食晏	sik6 ngaan3
 食晏仔	sik6 ngaan3 zai2
-食晒	sik6 saai3
+食嗮	sik6 saai3
 食晚飯	sik6 maan5 faan6
 食枉米	sik6 wong2 mai5
 食槽	sik6 cou4
@@ -157684,8 +157893,8 @@ use_preset_vocabulary: true
 食軟飯	sik6 jyun5 faan6
 食過	sik6 gwo3
 食過夜粥	sik6 gwo3 je6 zuk1
-食過翻尋味	zi6 gwo3 faan1 cam4 mei6
-食過返尋味	sik6 gwo3 faan2 cam4 mei6
+食過返尋味	sik6 gwo3 faan1 cam4 mei6
+食過翻尋味	sik6 gwo3 faan1 cam4 mei6
 食道	sik6 dou6
 食道癌	sik6 dou6 ngaam4
 食醋	sik6 cou3
@@ -158268,6 +158477,7 @@ use_preset_vocabulary: true
 靜脈點滴	zing6 mak6 dim2 dik6
 靜若寒蟬	zing6 joek6 hon4 sim4
 靜英英	zing6 jing1 jing1
+靜落來	zing6 lok6 lai4
 靜落嚟	zing6 lok6 lei4
 靜謐	zing6 mat6
 靜雞雞	zing6 gai1 gai1
@@ -159455,8 +159665,8 @@ use_preset_vocabulary: true
 頭罩	tau4 zaau3
 頭羊	tau4 joeng4
 頭耷耷	tau4 dap1 dap1
-頭耷耷眼濕濕	tau4 dap1 dap1 ngaan5 sap1 sap1
-頭耷耷，眼濕濕	tau4 dap1 dap1 ngaan5 sap1 sap1
+頭耷耷眼溼溼	tau4 dap1 dap1 ngaan5 sap1 sap1
+頭耷耷，眼溼溼	tau4 dap1 dap1 ngaan5 sap1 sap1
 頭脹	tau4 zoeng3
 頭腦	tau4 nou5
 頭腦流失	tau4 nou5 lau4 sat1
@@ -159575,6 +159785,7 @@ use_preset_vocabulary: true
 顆粒	fo2 lap1
 顆粒	fo2 nap1
 顆粒無收	fo2 lap1 mou4 sau1
+顆粒無收	fo2 nap1 mou4 sau1
 顆粒物	fo2 lap1 mat6
 顆粒狀	fo2 nap1 zong6
 題名	tai4 ming4
@@ -159689,7 +159900,7 @@ use_preset_vocabulary: true
 類精神分裂型人格違常	leoi6 zing1 san4 fan1 lit6 jing4 jan4 gaak3 wai4 soeng4
 類語辭典	leoi6 jyu5 ci4 din2
 類金屬	leoi6 gam1 suk6
-類風濕因子	leoi6 fung1 sap1 jan1 zi2
+類風溼因子	leoi6 fung1 sap1 jan1 zi2
 類鼻疽	leoi6 bei6 zeoi1
 類鼻疽單細胞	leoi6 bei6 zeoi1 daan1 sai3 baau1
 顧不上	gu3 bat1 soeng5
@@ -159712,7 +159923,8 @@ use_preset_vocabulary: true
 顧小失大	gu3 siu2 sat1 daai6
 顧左右而言他	gu3 zo2 jau6 ji4 jin4 taa1
 顧影自憐	gu3 jing2 zi6 lin4
-顧得頭嚟腳反筋	gu3 dak1 tau4 lai4 goek3 faan2 gan1
+顧得頭來腳反筋	gu3 dak1 tau4 lai4 goek3 faan2 gan1
+顧得頭嚟腳反筋	gu3 dak1 tau4 lei4 goek3 faan2 gan1
 顧忌	gu3 gei6
 顧念	gu3 nim6
 顧惜	gu3 sik1
@@ -159911,11 +160123,11 @@ use_preset_vocabulary: true
 風涼話	fung1 loeng4 waa2
 風潑	fung1 put3
 風潮	fung1 ciu4
-風濕	fung1 sap1
-風濕性關節炎	fung1 sap1 sing3 gwaan1 zit3 jim4
-風濕熱	fung1 sap1 jit6
-風濕病	fung1 sap1 beng6
-風濕關節炎	fung1 sap1 gwaan1 zit3 jim4
+風溼	fung1 sap1
+風溼性關節炎	fung1 sap1 sing3 gwaan1 zit3 jim4
+風溼熱	fung1 sap1 jit6
+風溼病	fung1 sap1 beng6
+風溼關節炎	fung1 sap1 gwaan1 zit3 jim4
 風火	fung1 fo2
 風災	fung1 zoi1
 風煙	fung1 jin1
@@ -160877,7 +161089,7 @@ use_preset_vocabulary: true
 香港海防博物館	hoeng1 gong2 hoi2 fong4 bok3 mat6 gun2
 香港浸會大學	hoeng1 gong2 zam3 wui2 daai6 hok6
 香港演藝學院	hoeng1 gong2 jin2 ngai6 hok6 jyun2
-香港濕地公園	hoeng1 gong2 sap1 dei6 gung1 jyun2
+香港溼地公園	hoeng1 gong2 sap1 dei6 gung1 jyun2
 香港牙醫學會	hoeng1 gong2 ngaa4 ji1 hok6 wui2
 香港特別行政區	hoeng1 gong2 dak6 bit6 hang4 zing3 keoi1
 香港特區	hoeng1 gong2 dak6 keoi1
@@ -161642,7 +161854,7 @@ use_preset_vocabulary: true
 騷情	sou1 cing4
 騷擾	sou1 jiu2
 騷擾客蚤	sou1 jiu5 haak3 zou2
-騷擾晒	sou1 jiu2 saai3
+騷擾嗮	sou1 jiu2 saai3
 騷攪	sou1 gaau2
 騷然	sou1 jin4
 騷話	sou1 waa6
@@ -161793,7 +162005,6 @@ use_preset_vocabulary: true
 驚歎不已	ging1 taan3 bat1 ji5
 驚歎號	ging1 taan3 hou6
 驚死	geng1 sei2
-驚死…	geng1 sei2
 驚死考唔到	geng1 sei2 haau2 m4 dou2
 驚濤	ging1 tou4
 驚濤駭浪	ging1 tou4 haai5 long6
@@ -162676,9 +162887,8 @@ use_preset_vocabulary: true
 鬼剃頭	gwai2 tai3 tau4
 鬼古	gwai2 gu2
 鬼叫	gwai2 giu3
-鬼叫你…	gwai2 giu3 nei5
+鬼叫你	gwai2 giu3 nei5
 鬼咁	gwai2 gam2
-鬼咁…	gwai2 gam3
 鬼哭狼嗥	gwai2 huk1 long4 hou4
 鬼哭狼嚎	gwai2 huk1 long4 hou4
 鬼唔知咩	gwai2 m4 zi1 me1
@@ -162714,8 +162924,7 @@ use_preset_vocabulary: true
 鬼斧神工	gwai2 fu2 san4 gung1
 鬼樓	gwai2 lau4
 鬼死	gwai2 sei2
-鬼死咁	gwai2 sei2 gam2
-鬼死咁…	gwai2 sei2 gam3
+鬼死咁	gwai2 sei2 gam3
 鬼殺咁嘈	gwai2 saat3 gam3 cou4
 鬼殺噉聲	gwai2 saat3 gam2 seng1
 鬼混	gwai2 wan6
@@ -163366,6 +163575,8 @@ use_preset_vocabulary: true
 鱗頭樹鶯	leon4 tau4 syu6 ang1
 鱘魚	cam4 jyu2
 鱘魚	cam4 jyu4
+尋返	cam4 faan1
+尋翻	cam4 faan1
 鱟魚	hau6 jyu2
 鱟魚	hau6 jyu4
 鱠魚	kui2 jyu2
@@ -163801,13 +164012,14 @@ use_preset_vocabulary: true
 鹹淡	haam4 taam5
 鹹淡水	haam4 taam5 seoi2
 鹹澀	haam4 gip3
-鹹濕	haam4 sap1
-鹹濕伯父	haam4 sap1 baak3 fu2
-鹹濕佬	haam4 sap1 lou2
-鹹濕片	haam4 sap1 pin2
-鹹濕片	haam4 sap1 pin3
-鹹濕電影	haam4 sap1 din6 jing2
-鹹濕鬼	haam4 sap1 gwai2
+鹹溼	haam4 sap1
+鹹溼伯父	haam4 sap1 baak3 fu2
+鹹溼佬	haam4 sap1 lou2
+鹹溼公	haam4 sap1 gung1
+鹹溼片	haam4 sap1 pin2
+鹹溼片	haam4 sap1 pin3
+鹹溼電影	haam4 sap1 din6 jing2
+鹹溼鬼	haam4 sap1 gwai2
 鹹煎餅	haam4 zin1 beng2
 鹹片	haam4 pin2
 鹹粒	haam4 nap1
@@ -163833,6 +164045,7 @@ use_preset_vocabulary: true
 鹹餸	haam4 sung3
 鹹魚	haam4 jyu2
 鹹魚白菜	haam4 jyu4 baak6 coi3
+鹹魚返生	haam4 jyu2 faan1 saang1
 鹹魚翻生	haam4 jyu2 faan1 saang1
 鹹魚翻身	haam4 jyu2 faan1 san1
 鹹鴨蛋	haam4 aap3 daan2
@@ -163917,7 +164130,7 @@ use_preset_vocabulary: true
 鹽鹵	jim4 lou5
 鹽鹼	jim4 gaan2
 鹽鹼地	jim4 gaan2 dei6
-鹽鹼濕地	jim4 gaan2 sap1 dei6
+鹽鹼溼地	jim4 gaan2 sap1 dei6
 鹿兒島	luk6 ji4 dou2
 鹿兒島縣	luk6 ji4 dou2 jyun6
 鹿城	luk6 sing4
@@ -164142,7 +164355,7 @@ use_preset_vocabulary: true
 麻油	maa4 jau4
 麻煩	maa4 faan4
 麻煩你	maa4 faan4 nei5
-麻煩晒	maa4 faan4 saai3
+麻煩嗮	maa4 faan4 saai3
 麻瓜	maa4 gwaa1
 麻生	maa4 sang1
 麻生太郎	maa4 sang1 taai3 long4
@@ -164971,7 +165184,7 @@ use_preset_vocabulary: true
 點亮	dim2 loeng6
 點係	dim2 hai6
 點做	dim2 zou6
-點先算…	dim2 sin1 syun3
+點先算	dim2 sin1 syun3
 點兒	dim2 ji4
 點兒背	dim2 ji4 bui3
 點兵	dim2 bing1
@@ -165201,7 +165414,8 @@ use_preset_vocabulary: true
 鼓點子	gu2 dim2 zi2
 鼓鼓	gu2 gu2
 鼓鼓囊囊	gu2 gu2 nong4 nong4
-鼠入嚟	syu2 jap6 lai4
+鼠入來	syu2 jap6 lai4
+鼠入嚟	syu2 jap6 lei4
 鼠嘢	syu2 je5
 鼠型斑疹傷寒	syu2 jing4 baan1 can2 soeng1 hon4
 鼠婦	syu2 fu5
@@ -165521,25 +165735,19 @@ use_preset_vocabulary: true
 㗎話	gaa4 waa2
 㗎頭	gaa4 tau4
 㗾㗾聲	heoi4 heoi4 seng1
-㗾哆	heoi1 do1
+㗾㗾聲	heoi4 heoi2 seng1
+㗾哆	heoi4 doe1
 㚻姦	gai1 gaan1
 㜺鬼	zaan2 gwai2
 㞎㞎	baa2 baa2
 㨃鬼	deoi2 gwai2
-㨘到立立呤	saang2 dou3 laap6 laap6 ling4
+㨘到立立呤	saang2 dou3 laap3 laap3 ling3
 㨘牛王	saang2 ngau4 wong4
 㩒住頭	gam6 zyu6 tau4
 㩒機	gam6 gei1
 㩒錢	gam6 cin2
 㩒鐘	gam6 zung1
 㩒鷓鴣	gam6 ze3 gu1
-㩧㩧齋	pok3 pok3 zaai1
-㩧佬	pok1 lou2
-㩧帽	bok1 mou2
-㩧濕	pok3 sap1
-㷫烚烚	hing3 hap6 hap6
-㷫過火屎	hing3 gwo3 fo2 si2
-㷫過焫雞	hing3 gwo3 naat3 gai1
 㹴犬	gang1 hyun2
 㺢㹢狓	fok3 gaa1 pei4
 𥄫住	gap6 zyu6
@@ -165560,6 +165768,8 @@ use_preset_vocabulary: true
 𠵼雞	mang1 gai1
 𠵿牌	pe1 paai2
 𠸎埋	naa1 maai4
+𪐀經	naa1 gaang1
+𪐀耕	naa1 gaang1
 𠸎耕	naa1 gaang1
 𠺘口	long2 hau2
 𠺘口盅	long2 hau2 zung1
@@ -165569,10 +165779,9 @@ use_preset_vocabulary: true
 𡃁模	leng1 mou4
 𢆡罅	nin1 laa3
 𢫕頭	wing6 tau2
-𢯎痕	ngaau1 han4
 𢱑子	waa2 zi2
 𢱕一拳	dap6 jat1 kyun4
-𢱕濕	dap6 sap1
+𢱕溼	dap6 sap1
 𢱕金龜	dap6 gam1 gwai1
 𢱕鐵	dap6 tit3
 𢱕骨	dap6 gwat1
@@ -165586,6 +165795,7 @@ use_preset_vocabulary: true
 𢴈傷	daat3 soeng1
 𢴈死	daat3 sei2
 𢴈生魚	daat3 saang1 jyu4
+𢴈落來	daat3 lok6 lai4
 𢴈落嚟	daat3 lok6 lei4
 𢴈落地	daat3 lok6 dei6
 𢴈落牀	daat3 lok6 cong4
@@ -165938,7 +166148,7 @@ WIFI	wifi
 WIFI	waai faai
 
 
-# 英文讀音式
+# 英文讀音
 #A	ei
 #B	bi
 #C	si
