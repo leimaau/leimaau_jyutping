@@ -71793,7 +71793,7 @@ use_preset_vocabulary: true
 孻仔拉心肝	laai1 zai2 laai1 sam1 gon1
 孻女	laai1 neoi2
 孻女	laai1 neoi5
-孻尾	laai1 mei5
+孻尾	laai1 mei1
 孻屘	laai1 mei1
 孽報	jip6 bou3
 孽子	jip6 zi2
@@ -93100,7 +93100,6 @@ use_preset_vocabulary: true
 會展中心站	wui6 zin2 zung1 sam1 zaam6
 會師	wui6 si1
 會幕	wui2 mok6
-會彈唔會唱	wui3 taan4 m4 wui3 coeng3
 會彈唔會唱	wui5 taan4 m4 wui5 coeng3
 會心	wui6 sam1
 會意	wui6 ji3
@@ -102490,7 +102489,8 @@ use_preset_vocabulary: true
 死跟	sei2 gan1
 死路	sei2 lou6
 死路一條	sei2 lou6 jat1 tiu4
-死過翻生	sei2 gwo3 faan1 sang1
+死過返生	sei2 gwo3 faan1 saang1
+死過翻生	sei2 gwo3 faan1 saang1
 死都唔眼閉	sei2 dou1 m4 ngaan5 bai3
 死都話	sei2 dou1 waa2
 死鎖	sei2 so2
@@ -113438,7 +113438,7 @@ use_preset_vocabulary: true
 猛勁兒	maang5 ging6 ji4
 猛可	maang5 ho2
 猛吃	maang5 hek3
-猛咁	maang5 gam2
+猛咁	maang5 gam3
 猛地	maang5 dei6
 猛增	maang5 zang1
 猛將	maang5 zoeng3
@@ -138941,6 +138941,8 @@ use_preset_vocabulary: true
 補種	bou2 zung3
 補空	bou2 hung1
 補粉	bou2 fan2
+補返	bou2 faan1
+補返數	bou2 faan1 sou3
 補給	bou2 kap1
 補給品	bou2 kap1 ban2
 補給站	bou2 kap1 zaam6
