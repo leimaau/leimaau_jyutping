@@ -43404,7 +43404,6 @@ use_preset_vocabulary: true
 人間蒸發	jan4 gaan1 zing1 faat3
 人際	jan4 zai3
 人際關係	jan4 zai3 gwaan1 hai6
-人際關系	jan4 zai3 gwaan1 hai6
 人非生而知之者，熟能無惑	jan4 fei1 sang1 ji4 zi1 zi1 ze2 suk6 nang4 mou4 waak6
 人非聖賢，孰能無過	jan4 fei1 sing3 jin4 suk6 nang4 mou4 gwo3
 人非草木	jan4 fei1 cou2 muk6
@@ -43412,7 +43411,6 @@ use_preset_vocabulary: true
 人面桃花	jan4 min6 tou4 faa1
 人面獸心	jan4 min6 sau3 sam1
 人頭	jan4 tau4
-人頭涌涌	jan4 tau4 jung2 jung2
 人頭湧湧	jan4 tau4 jung2 jung2
 人頭熟	jan4 tau4 suk6
 人頭獅身	jan4 tau4 si1 san1
@@ -43503,7 +43501,6 @@ use_preset_vocabulary: true
 仁者	jan4 ze2
 仁者無敵	jan4 ze2 mou4 dik6
 仁者見仁，智者見智	jan4 ze2 gin3 jan4 zi3 ze2 gin3 zi3
-仁者见仁，智者見智	jan4 ze2 gin3 jan4 zi3 ze2 gin3 zi3
 仁至義盡	jan4 zi3 ji6 zeon6
 仁術	jan4 seot6
 仁言利博	jan4 jin4 lei6 bok3
@@ -61601,7 +61598,7 @@ use_preset_vocabulary: true
 唔認數	m4 jing6 sou3
 唔論	m4 leon6
 唔識	m4 sik1
-唔識佢	m4 sik1
+唔識佢	m4 sik1 keoi5
 唔識唱歌	m4 sik1 coeng3 go1
 唔識字	m4 sik1 zi6
 唔識死	m4 sik1 sei2
@@ -74683,7 +74680,7 @@ use_preset_vocabulary: true
 小洞不堵，大洞吃苦	siu2 dung6 bat1 dou2 daai6 dung6 hek3 fu2
 小洞不堵，大洞難補	siu2 dung6 bat1 dou2 daai6 dung6 naan4 bou2
 小洞不補大洞吃苦	siu2 dung6 bat1 bou2 daai6 dung6 hek3 fu2
-小涌	siu2 jung2
+小涌	siu2 cung1
 小淘氣	siu2 tou4 hei3
 小淵	siu2 jyun1
 小淵惠三	siu2 jyun1 wai6 saam1
@@ -75843,9 +75840,7 @@ use_preset_vocabulary: true
 屹立	ngat6 laap6
 屹立不動	ngat6 laap6 bat1 dung6
 岌岌可危	kap1 kap1 ho2 ngai4
-岌岌貢	kap1 kap1 gung3
 岌嶪	kap1 jip6
-岌頭	ngap6 tau2
 岐山	kei4 saan1
 岐山縣	kei4 saan1 jyun6
 岐視	kei4 si6
@@ -87976,7 +87971,7 @@ use_preset_vocabulary: true
 掀動	hin1 dung6
 掀天揭地	hin1 tin1 kit3 dei6
 掀掉	hin1 diu6
-掀涌	hin1 jung2
+掀湧	hin1 jung2
 掀翻	hin1 faan1
 掀起	hin1 hei2
 掀開	hin1 hoi1
@@ -97554,9 +97549,9 @@ use_preset_vocabulary: true
 東海岸	dung1 hoi2 ngon6
 東海縣	dung1 hoi2 jyun6
 東海艦隊	dung1 hoi2 laam6 deoi2
-東涌	dung1 jung2
+東涌	dung1 cung1
 東涌站	dung1 cung1 zaam6
-東涌線	dung1 jung2 sin3
+東涌線	dung1 cung1 sin3
 東港	dung1 gong2
 東港區	dung1 gong2 keoi1
 東港市	dung1 gong2 si5
@@ -101717,7 +101712,7 @@ use_preset_vocabulary: true
 沒齒不忘	mut6 ci2 bat1 mong4
 沒齒難忘	mut6 ci2 naan4 mong4
 沓正	daap6 zeng3
-沓正〜點	daap6 zeng3 dim2
+沓正點	daap6 zeng3 dim2
 沓水	daap6 seoi2
 沖個靚涼	cung1 go3 leng3 loeng4
 沖刷	cung1 caat3
@@ -105177,7 +105172,7 @@ use_preset_vocabulary: true
 波洛涅斯	bo1 lok6 nip6 si1
 波浪	bo1 long6
 波濤	bo1 tou4
-波濤洶涌	bo1 tou4 hung1 jung2
+波濤洶湧	bo1 tou4 hung1 jung2
 波濤磷磷	bo1 tou4 leon4 leon4
 波濤粼粼	bo1 tou4 leon4 leon4
 波瀾	bo1 laan4
@@ -105796,10 +105791,8 @@ use_preset_vocabulary: true
 洲際飛彈	zau1 zai3 fei1 daan6
 洲頭咀	zau1 tau4 zeoi2
 洶洶	hung1 hung1
-洶涌澎湃	hung1 jung2 paang4 baai3
-洶湧	hung1 jung2
-洶湧澎湃	hung1 jung2 paang1 paai3
 洶湧澎湃	hung1 jung2 paang4 baai3
+洶湧	hung1 jung2
 洹水	wun4 seoi2
 活下	wut6 haa6
 活下去	wut6 haa6 heoi3
@@ -106824,7 +106817,6 @@ use_preset_vocabulary: true
 涉險	sip3 him2
 涉黑	sip3 hak1
 涉黑案	sip3 hak1 on3
-涌出	jung2 ceot1
 涎水	jin4 seoi2
 涎沫	jin4 mut6
 涓吉	gyun1 gat1
@@ -129186,7 +129178,6 @@ use_preset_vocabulary: true
 老半天	lou5 bun3 tin1
 老友	lou5 jau5
 老友記	lou5 jau5 gei3
-老友鬼鬼	lou5 jau2 gwai2 gwai2
 老叟	lou5 sau2
 老古板	lou5 gu2 baan2
 老君	lou5 gwan1
@@ -166949,7 +166940,6 @@ WIFI	waai faai
 好玩	hou2 wun6
 好着	hou2 zoek3
 空地	hung1 dei2
-洶涌	hung1 jung2
 空寥寥	hung1 leu1 leu1
 孔雀	hung2 zoek2
 哄動	hung3 dung6
@@ -167450,6 +167440,8 @@ WIFI	waai faai
 銀菊露	ngan4 guk1 lou6
 銀行	ngan4 hong2
 岌頭	ngap6 tau4
+岌頭	ngap6 tau2
+岌岌貢	ngap6 ngap6 gung3
 屹立	ngat6 lap6
 牛治	ngau2 zi6
 牛頓	ngau4 deon1

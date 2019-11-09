@@ -4,7 +4,7 @@
 schema:
   schema_id: leimaau_jyutping
   name: "貍貓粵拼"
-  version: "2019.10.25"
+  version: "2019.11.06"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
@@ -130,6 +130,7 @@ translator:
 #    - xform/([ptk])x/$1˧/	咽jiːt̚˧
 #    - xform/([ptk])q/$1˥/	一jɐt̚
 #    - xform/qq/˨˩/
+#    - xform/(^|[ '])q/$1ʔ/
 #    - xform/q/˥˥/
 #    - xform/vv/˩˧/
 #    - xform/v/˧˥/
