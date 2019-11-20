@@ -34,4 +34,4 @@
 
  - [OpenCC 開放中文轉換](https://github.com/BYVoid/OpenCC)
  
- - [OpenCC_Emoji](https://github.com/rime-aca/OpenCC_Emoji)
+ - [Emoji 繪文字輸入方案](https://github.com/rime/rime-emoji)

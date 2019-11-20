@@ -27003,6 +27003,7 @@ use_preset_vocabulary: true
 𡃶	sek3	
 锡	sek3	
 錫	sek3	
+惜	sek3
 硕	sek6	
 碩	sek6	
 祏	sek6	
@@ -46890,7 +46891,7 @@ use_preset_vocabulary: true
 倒出嚟	dou2 ceot1 lei4
 倒刺	dou3 ci3
 倒反	dou2 faan2
-倒吊冇滴墨水	dou3 diu3 mou5 dik1 mak6 seoi2
+倒吊冇滴墨水	dou3 diu3 mou5 dik6 mak6 seoi2
 倒吊沙煲	dou3 diu3 saa1 bou1
 倒吊荷包	dou3 diu3 ho4 baau1
 倒吊蠟燭	dou2 diu3 laap6 zuk1
@@ -50668,7 +50669,7 @@ use_preset_vocabulary: true
 冇厘神氣	mou5 lei4 san4 hei3
 冇口齒	mou5 hau2 ci2
 冇咁大個頭唔好戴咁大頂帽	mou5 gam5 daai6 go3 tau4 mou2 daai3 gam3 daai6 deng2 mou2
-冇咁好氣	mou5 gam2 hou2 hei3
+冇噉好氣	mou5 gam2 hou2 hei3
 冇咁好氣	mou5 gam3 hou2 hei3
 冇咁易	mou5 gam3 ji6
 冇品	mou5 ban2
@@ -90267,7 +90268,7 @@ use_preset_vocabulary: true
 擴音	kong3 jam1
 擴音	kwok3 jam1
 擴音喇叭	kwok3 jam1 laa3 baa1
-擴音器	kong3 jam1 hei3
+擴音器	kwong3 jam1 hei3
 擴音器	kwok3 jam1 gei1
 擴音機	kwong3 jam1 gei1
 擷取	kit3 ceoi2
@@ -90313,7 +90314,6 @@ use_preset_vocabulary: true
 擺樣子	baai2 joeng6 zi2
 擺檔	baai2 dong2
 擺檔	baai2 dong3
-擺檔口	baai2 dong2 hau2
 擺檔口	baai2 dong3 hau2
 擺款	baai2 fun2
 擺渡	baai2 dou6
@@ -93336,7 +93336,6 @@ use_preset_vocabulary: true
 有冇	jau5 mou5
 有冇搞錯	jau5 mou5 gaau2 co3
 有冇攪錯	jau5 mou5 gaau2 co3
-有冇攪錯	jau5 mou5 gaau2 cok3
 有冇聲氣	jau5 mou5 seng1 hei3
 有凸	jau5 dat6
 有出息	jau5 ceot1 sik1
@@ -103052,7 +103051,6 @@ use_preset_vocabulary: true
 毛竹	mou4 zuk1
 毛筆	mou4 bat1
 毛管	mou4 gun2
-毛管戙	mou4 gun2 dong6
 毛管戙	mou4 gun2 dung6
 毛細	mou4 sai3
 毛細孔	mou4 sai3 hung2
@@ -167332,8 +167330,8 @@ WIFI	waai faai
 冇膽匪類	mou5 daam2 fei2 leoi2
 冇定企	mou5 deng6 kei5
 冇幾多	mou5 gei2 do1
-冇幾耐	mou5 gei2 noi1
-冇幾耐	mou5 gei2 noi2
+冇幾耐	mou5 gei2 noi1	3%
+冇幾耐	mou5 gei2 noi2	3%
 冇禮	mou5 lai5
 冇咩	mou5 me1
 姥姥	mou5 mou5
