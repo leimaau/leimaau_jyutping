@@ -16,7 +16,11 @@
 	- 貍貓粵拼 - `leimaau_jyutping`
 	- 貍貓粵拼(IPA) - `leimaau_jyutping_ipa`
 
-這裏存放我設計的「貍貓粵拼」以及輸入方案的配置。小鶴同文主題包3.4安裝好後用本項目`安卓端需要文件(缺失則補)/trime.yaml`覆蓋`trime.yaml`即可。
+此處存放我設計的「貍貓粵拼」以及輸入方案的配置。
+
+## 安卓端
+
+分支[`leimaau_jyutping_android`](https://github.com/leimaau/leimaau_jyutping/tree/leimaau_jyutping_android)中存放配置同文輸入法需要的文件。若嫌手工配置麻煩，[**此處**](https://github.com/leimaau/leimaau_jyutping/releases)已通過apktool重新打包，下載安裝即可。
 
 ## 常用文件庫
 
