@@ -8,7 +8,7 @@ schema:
   author:
     - 佛振 <chen.sst@gmail.com>
     - Leo <leo9562@outlook.com>（修改为九宫格键盘）
-    - leimaau <leimaau@qq.com>（改写）
+    - LeiMaau <leimaau@qq.com>（改写）
   description: |
     Rime 預設的拼音輸入方案。
     參考以下作品而創作：

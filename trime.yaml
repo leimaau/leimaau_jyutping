@@ -3653,8 +3653,9 @@ preset_keyboards:
   eng:
     ascii_mode: 0
     author: flypy.com
-    lock: true
+    name: "英文26键"
     ascii_keyboard: letter  #指定密码键盘
+    width: 10
     height: *VJG
     horizontal_gap: *VJL
     vertical_gap: *VJH
@@ -3700,22 +3701,24 @@ preset_keyboards:
       - {click: m, long_click: ":", key_text_color: TEX, key_symbol_color: TEX, key_back_color: FFF, hilited_key_back_color: CCH}
       - {click: BackSpace, swipe_up: Candidate_switch1, key_back_color: hsb, key_text_color: hst, hilited_key_back_color: hsh, width: 15}
       # 第四行
-      - {click: Keyboard_default, long_click: K_menu, swipe_up: Menu, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 16}
-      - {click: ",", long_click: "?", width: 12, key_back_color: bdb, key_text_color: bdt, key_symbol_color: bds, hilited_key_back_color: bdh, hilited_key_text_color: hbdt}
-      - {click: space, key_text_size: 9, long_click: Mode_switch, key_back_color: zkgb, key_text_color: kgt, hilited_key_text_color: kgh, hilited_key_symbol_color: 0x00ffffff, key_symbol_color: 0x00ffffff, hilited_key_back_color: zkgh, width: 40}
-      - {click: ".", long_click: "!", width: 12, key_back_color: bdb, key_text_color: bdt, key_symbol_color: bds, hilited_key_back_color: bdh, hilited_key_text_color: hbdt}
+     #- {height: *VJM, click: Keyboard_default, composing: delimiterD1, key_symbol_offset_x: 16, long_click: K_menu, swipe_up: Schema_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 17.5} #如想设置为两个方案来回切换，可把此行首的#号删除，后面被替代行首加上#号
+     #- {height: *VJM, click: Keyboard_default, composing: delimiterD1, key_symbol_offset_x: 16, long_click: K_menu, swipe_up: IME_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 17.5} #如想设置为输入法切换键，可把此行首的#号删除，后面被替代行首加上#号
+      - {height: *VJM, click: Keyboard_default, composing: delimiterD1, key_symbol_offset_x: 17.5, long_click: K_menu, swipe_up: Menu, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 17.5} #方案选择
+      - {click: ",", label: "  ，", composing: delimiterD, key_symbol_offset_x: 16, long_click: "?", width: 17.5, key_back_color: bdb, key_text_color: bdt, key_symbol_color: bds, hilited_key_back_color: bdh, hilited_key_text_color: hbdt}
+     #- {click: space, key_text_size: 9, key_text_offset_x: 58, key_text_offset_y: 2, key_symbol_offset_x: 60, key_symbol_offset_y: 6, long_click: Mode_switch, swipe_left: Left, swipe_right: Right, key_back_color: kgb, key_text_color: kgt, key_symbol_color: kgs, hilited_key_back_color: kgh, width: 45}
+      - {click: space, key_text_size: 9, key_text_offset_x: 20, long_click: Mode_switch, swipe_left: Left, swipe_right: Right, key_back_color: zkgb, key_text_offset_y: 2, key_text_color: kgt, hilited_key_text_color: kgh, hilited_key_symbol_color: 0x00ffffff, key_symbol_color: 0x00ffffff, hilited_key_back_color: zkgh, width: 33}
+      - {click: ";", key_text_size: 9, long_click: Mode_switch, key_text_offset_y: 2, key_symbol_offset_y: 6, key_symbol_offset_x: 0, width: 12, key_back_color: ykgb, key_text_color: kgt, hilited_key_text_color: 0x00ffffff, key_symbol_color: kgs, hilited_key_back_color: ykgh}
       - {click: Return, key_symbol_offset_x: 20, long_click: Color_switch, swipe_up: Theme_settings, key_back_color: hcb, key_text_color: hct, key_symbol_color: hcs, hilited_key_back_color: hch, hilited_key_text_color: hcht, hilited_key_symbol_color: hchs, width: 20}
-    name: "英文26键"
-    width: 10
+
     
   luna_pinyin_nine:
     ascii_mode: 0
-    author: Sam <sam9562@qq.com>
+    author: Sam <sam9562@qq.com> (LeiMaau <leimaau@qq.com>改写)
     name: 朙月拼音(九鍵)
     ascii_keyboard: letter  #指定密码键盘
-    height: 48
-    horizontal_gap: 5
-    vertical_gap: 0
+    height: *VJG
+    horizontal_gap: *VJL
+    vertical_gap: *VJH
     key_hint_offset_x: 0
     key_hint_offset_y: 0
     key_press_offset_x: 2
@@ -3725,50 +3728,40 @@ preset_keyboards:
     key_text_offset_x: 0
     key_text_offset_y: 0
     width: 21
+    label_transform: uppercase #uppercase|none 中文模式下的字母标签自动大写
     keys:
     #第一行
-      - {key_back_color: 0x00, width: 100, height: 7}
-      - {click: ",", long_click: ";", width: 16}
-      #- {click: "/", label: ¹, width: 11.5, swipe_up: Up, swipe_down: Down}
+      - {click: ",", label: "，", long_click: ";", width: 16}
       - {click: 1, label: "zh/ch/sh"} 
       - {click: 2, label: abc}
       - {click: 3, label: def}
-      #- {click: "~", label: ⁴, width: 11.5, swipe_up: Up, swipe_down: Down}
       - {click: BackSpace, width: 20}
     #第二行
-      - {key_back_color: 0x00, width: 100, height: 7}
-      - {click: "。", long_click: ":", width: 16}
-      #- {click: "^", label: ², width: 11.5, swipe_up: Up, swipe_down: Down}
+      - {click: ".", label: "。", long_click: ":", width: 16}
       - {click: 4, label: ghi}
       - {click: 5, label: jkl}
       - {click: 6, label: mno}
-      #- {click: +, label: ⁵, width: 11.5, swipe_up: Up, swipe_down: Down}
       - {click: Keyboard_symbols, long_click: Menu, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
     #第三行
-      - {key_back_color: 0x00, width: 100, height: 7}
-      - {click: "?", long_click: "!", width: 16}
-      #- {click: ">", label: ³, width: 11.5, swipe_up: Up, swipe_down: Down}
+      - {click: "?", label: "?", long_click: "!", width: 16}
       - {click: 7, label: pqrs}
       - {click: 8, label: tuv}
       - {click: 9, label: wxyz}
-      #- {click: <, label: ⁶, width: 11.5, swipe_up: Up, swipe_down: Down}
       - {click: Keyboard_eng, long_click: Color_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
     #第四行
-      - {key_back_color: 0x00, width: 100, height: 7}
-      - {click: "「」{Left}", width: 16, long_click: "（）{Left}", swipe_up: "《》{Left}", swipe_down: "【】{Left}"}
+      - {click: "「」{Left}", label: "「」", long_click: "(){Left}", width: 16}
       - {click: 0, label: ng, width: 21.5}
       - {click: space, width: 41.5, swipe_left: Schema_switch, swipe_right: Schema_switch, swipe_up: Trans}
       - {click: Return, long_click: K_menu, key_back_color: hcb, key_text_color: hct, key_symbol_color: hcs, hilited_key_back_color: hch, hilited_key_text_color: hcht, hilited_key_symbol_color: hchs, width: 20, swipe_up: Up, swipe_down: Down}
-      - {key_back_color: 0x00, width: 100, height: 3}
       
   leimaau_jyutping_nine:
     ascii_mode: 0
-    author: Sam <sam9562@qq.com>
+    author: Sam <sam9562@qq.com> (LeiMaau <leimaau@qq.com>改写)
     name: 貍貓粵拼(九鍵)
     ascii_keyboard: letter  #指定密码键盘
-    height: 48
-    horizontal_gap: 5
-    vertical_gap: 0
+    height: *VJG
+    horizontal_gap: *VJL
+    vertical_gap: *VJH
     key_hint_offset_x: 0
     key_hint_offset_y: 0
     key_press_offset_x: 2
@@ -3778,48 +3771,38 @@ preset_keyboards:
     key_text_offset_x: 0
     key_text_offset_y: 0
     width: 21
+    label_transform: uppercase #uppercase|none 中文模式下的字母标签自动大写
     keys:
     #第一行
-      - {key_back_color: 0x00, width: 100, height: 7}
-      - {click: ",", long_click: ";", width: 16}
-      #- {click: "/", label: ¹, width: 11.5, swipe_up: Up, swipe_down: Down}
+      - {click: ",", label: "，", long_click: ";", width: 16}
       - {click: 1, label: "gw kw", hint: "aa"} 
       - {click: 2, label: abc}
       - {click: 3, label: def}
-      #- {click: "~", label: ⁴, width: 11.5, swipe_up: Up, swipe_down: Down}
       - {click: BackSpace, width: 20}
     #第二行
-      - {key_back_color: 0x00, width: 100, height: 7}
-      - {click: "。", long_click: ":", width: 16}
-      #- {click: "^", label: ², width: 11.5, swipe_up: Up, swipe_down: Down}
+      - {click: ".", label: "。", long_click: ":", width: 16}
       - {click: 4, label: ghi}
       - {click: 5, label: jkl}
       - {click: 6, label: mno}
-      #- {click: +, label: ⁵, width: 11.5, swipe_up: Up, swipe_down: Down}
       - {click: Keyboard_symbols, long_click: Menu, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
     #第三行
-      - {key_back_color: 0x00, width: 100, height: 7}
-      - {click: "?", long_click: "!", width: 16}
-      #- {click: ">", label: ³, width: 11.5, swipe_up: Up, swipe_down: Down}
+      - {click: "?", label: "?", long_click: "!", width: 16}
       - {click: 7, label: pqrs}
       - {click: 8, label: tuv}
       - {click: 9, label: wxyz, hint: yu}
-      #- {click: <, label: ⁶, width: 11.5, swipe_up: Up, swipe_down: Down}
       - {click: Keyboard_eng, long_click: Color_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
     #第四行
-      - {key_back_color: 0x00, width: 100, height: 7}
-      - {click: "「」{Left}", width: 16, long_click: "（）{Left}", swipe_up: "《》{Left}", swipe_down: "【】{Left}"}
+      - {click: "「」{Left}", label: "「」", long_click: "(){Left}", width: 16}
       - {click: 0, label: ng, hint: "oe eo", width: 21.5}
       - {click: space, width: 41.5, swipe_left: Schema_switch, swipe_right: Schema_switch, swipe_up: Trans}
       - {click: Return, long_click: K_menu, key_back_color: hcb, key_text_color: hct, key_symbol_color: hcs, hilited_key_back_color: hch, hilited_key_text_color: hcht, hilited_key_symbol_color: hchs, width: 20, swipe_up: Up, swipe_down: Down}
-      - {key_back_color: 0x00, width: 100, height: 3}
       
   cangjie5:
     name: 倉頡五代鍵盤
     author: 皛筱晓小笨鱼
     ascii_mode: 0
     width: 10
-    height: 55
+    height: *VJG
     keys:
     - {label: '手', long_click: '_', click: q}
     - {label: '田', long_click: '-', click: w}
@@ -3864,7 +3847,7 @@ preset_keyboards:
     author: 皛筱晓小笨鱼
     ascii_mode: 0
     width: 20
-    height: 75
+    height: *VJG
     keys:
     - {click: '?', long_click: '!'}
     - {click: h, label: '一'}
