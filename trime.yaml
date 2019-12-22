@@ -3716,86 +3716,82 @@ preset_keyboards:
     author: Sam <sam9562@qq.com> (LeiMaau <leimaau@qq.com>改写)
     name: 朙月拼音(九鍵)
     ascii_keyboard: letter  #指定密码键盘
+    width: 21
     height: *VJG
     horizontal_gap: *VJL
     vertical_gap: *VJH
-    key_hint_offset_x: 0
-    key_hint_offset_y: 0
-    key_press_offset_x: 2
-    key_press_offset_y: 2
-    key_symbol_offset_x: 0
-    key_symbol_offset_y: 0
-    key_text_offset_x: 0
-    key_text_offset_y: 0
-    width: 21
+    round_corner: *VJY
+    key_text_offset_y: *DtextY
+    key_symbol_offset_y: *DsymY
+    key_press_offset_x: 0
+    key_press_offset_y: 3
+    key_symbol_offset_x: *DsymX
     label_transform: uppercase #uppercase|none 中文模式下的字母标签自动大写
     keys:
     #第一行
-      - {click: ",", label: "，", long_click: ";", width: 16}
-      - {click: 1, label: "zh/ch/sh"} 
+      - {click: ",", label: "，", long_click: ";", width: 17}
+      - {click: 1, label: "zh ch sh"} 
       - {click: 2, label: abc}
       - {click: 3, label: def}
       - {click: BackSpace, width: 20}
     #第二行
-      - {click: ".", label: "。", long_click: ":", width: 16}
+      - {click: ".", label: "。", long_click: ":", width: 17}
       - {click: 4, label: ghi}
       - {click: 5, label: jkl}
       - {click: 6, label: mno}
       - {click: Keyboard_symbols, long_click: Menu, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
     #第三行
-      - {click: "?", label: "?", long_click: "!", width: 16}
+      - {click: "?", label: "?", long_click: "!", width: 17}
       - {click: 7, label: pqrs}
       - {click: 8, label: tuv}
       - {click: 9, label: wxyz}
       - {click: Keyboard_eng, long_click: Color_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
     #第四行
-      - {click: "「」{Left}", label: "「」", long_click: "(){Left}", width: 16}
-      - {click: 0, label: ng, width: 21.5}
-      - {click: space, width: 41.5, swipe_left: Schema_switch, swipe_right: Schema_switch, swipe_up: Trans}
-      - {click: Return, long_click: K_menu, key_back_color: hcb, key_text_color: hct, key_symbol_color: hcs, hilited_key_back_color: hch, hilited_key_text_color: hcht, hilited_key_symbol_color: hchs, width: 20, swipe_up: Up, swipe_down: Down}
+      - {click: "「」{Left}", label: "「」", long_click: "(){Left}", width: 17}
+      - {click: 0, label: ng}
+      - {click: space, width: 42}
+      - {click: Return, long_click: K_menu, key_back_color: hcb, key_text_color: hct, key_symbol_color: hcs, hilited_key_back_color: hch, hilited_key_text_color: hcht, hilited_key_symbol_color: hchs, width: 20}
       
   leimaau_jyutping_nine:
     ascii_mode: 0
     author: Sam <sam9562@qq.com> (LeiMaau <leimaau@qq.com>改写)
     name: 貍貓粵拼(九鍵)
     ascii_keyboard: letter  #指定密码键盘
+    width: 21
     height: *VJG
     horizontal_gap: *VJL
     vertical_gap: *VJH
-    key_hint_offset_x: 0
-    key_hint_offset_y: 0
-    key_press_offset_x: 2
-    key_press_offset_y: 2
-    key_symbol_offset_x: 0
-    key_symbol_offset_y: 0
-    key_text_offset_x: 0
-    key_text_offset_y: 0
-    width: 21
+    round_corner: *VJY
+    key_text_offset_y: *DtextY
+    key_symbol_offset_y: *DsymY
+    key_press_offset_x: 0
+    key_press_offset_y: 3
+    key_symbol_offset_x: *DsymX
     label_transform: uppercase #uppercase|none 中文模式下的字母标签自动大写
     keys:
     #第一行
-      - {click: ",", label: "，", long_click: ";", width: 16}
+      - {click: ",", label: "，", long_click: ";", width: 17}
       - {click: 1, label: "gw kw", hint: "aa"} 
       - {click: 2, label: abc}
       - {click: 3, label: def}
       - {click: BackSpace, width: 20}
     #第二行
-      - {click: ".", label: "。", long_click: ":", width: 16}
+      - {click: ".", label: "。", long_click: ":", width: 17}
       - {click: 4, label: ghi}
       - {click: 5, label: jkl}
       - {click: 6, label: mno}
       - {click: Keyboard_symbols, long_click: Menu, key_back_color: gnb, hilited_key_back_color: gnh, key_text_color: SHt, width: 20}
     #第三行
-      - {click: "?", label: "?", long_click: "!", width: 16}
+      - {click: "?", label: "?", long_click: "!", width: 17}
       - {click: 7, label: pqrs}
       - {click: 8, label: tuv}
       - {click: 9, label: wxyz, hint: yu}
       - {click: Keyboard_eng, long_click: Color_switch, key_back_color: szb, key_text_color: szt, key_symbol_color: szs, hilited_key_back_color: szh, width: 20}
     #第四行
-      - {click: "「」{Left}", label: "「」", long_click: "(){Left}", width: 16}
-      - {click: 0, label: ng, hint: "oe eo", width: 21.5}
-      - {click: space, width: 41.5, swipe_left: Schema_switch, swipe_right: Schema_switch, swipe_up: Trans}
-      - {click: Return, long_click: K_menu, key_back_color: hcb, key_text_color: hct, key_symbol_color: hcs, hilited_key_back_color: hch, hilited_key_text_color: hcht, hilited_key_symbol_color: hchs, width: 20, swipe_up: Up, swipe_down: Down}
+      - {click: "「」{Left}", label: "「」", long_click: "(){Left}", width: 17}
+      - {click: 0, label: ng, hint: "oe eo"}
+      - {click: space, width: 42}
+      - {click: Return, long_click: K_menu, key_back_color: hcb, key_text_color: hct, key_symbol_color: hcs, hilited_key_back_color: hch, hilited_key_text_color: hcht, hilited_key_symbol_color: hchs, width: 20}
       
   cangjie5:
     name: 倉頡五代鍵盤
@@ -3803,6 +3799,14 @@ preset_keyboards:
     ascii_mode: 0
     width: 10
     height: *VJG
+    horizontal_gap: *VJL
+    vertical_gap: *VJH
+    round_corner: *VJY
+    key_text_offset_y: *DtextY
+    key_symbol_offset_y: *DsymY
+    key_press_offset_x: 0
+    key_press_offset_y: 3
+    key_symbol_offset_x: *DsymX
     keys:
     - {label: '手', long_click: '_', click: q}
     - {label: '田', long_click: '-', click: w}
@@ -3848,6 +3852,14 @@ preset_keyboards:
     ascii_mode: 0
     width: 20
     height: *VJG
+    horizontal_gap: *VJL
+    vertical_gap: *VJH
+    round_corner: *VJY
+    key_text_offset_y: *DtextY
+    key_symbol_offset_y: *DsymY
+    key_press_offset_x: 0
+    key_press_offset_y: 3
+    key_symbol_offset_x: *DsymX
     keys:
     - {click: '?', long_click: '!'}
     - {click: h, label: '一'}
