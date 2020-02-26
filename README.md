@@ -1,3 +1,5 @@
+<div lang="yue-HK">
+
 # Rime Leimaau's Cantonese Input Scheme | 貍貓粵拼
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/leimaau_jyutping.svg) ![GitHub](https://img.shields.io/github/license/leimaau/leimaau_jyutping.svg)
@@ -26,20 +28,4 @@
 
 ![](https://s2.ax1x.com/2020/02/15/1xrKCd.jpg)
 
-## 常用文件庫
-
- - [八股文](https://github.com/rime/rime-essay)
- 
- - [簡化字八股文](https://github.com/rime/rime-essay-simp)
- 
- - [朙月拼音](https://github.com/rime/rime-luna-pinyin)
- 
- - [五筆畫輸入方案](https://github.com/rime/rime-stroke)
- 
- - [倉頡輸入方案](https://github.com/rime/rime-cangjie)
- 
- - [國際音標輸入方案](https://github.com/rime/rime-ipa)
-
- - [OpenCC 開放中文轉換](https://github.com/BYVoid/OpenCC)
- 
- - [Emoji 繪文字輸入方案](https://github.com/rime/rime-emoji)
+</div>
