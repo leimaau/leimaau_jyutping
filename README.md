@@ -1,4 +1,4 @@
-<div lang="yue-HK">
+<div lang="zh-HK">
 
 # Rime Leimaau's Cantonese Input Scheme | 貍貓粵拼
 
@@ -18,7 +18,7 @@
 	- 貍貓粵拼 - `leimaau_jyutping`
 	- 貍貓粵拼(IPA) - `leimaau_jyutping_ipa`
 
-此處存放我設計的「貍貓粵拼」以及輸入方案的配置。
+此處存放我設計的「貍貓粵拼」以及輸入方案的配置。收錄原則，爲研究方便，一切字形和讀音盡數收錄，不爲正音。
 
 ## 安卓端
 
@@ -26,6 +26,6 @@
 
 若嫌手工配置麻煩，[**此處**](https://github.com/leimaau/leimaau_jyutping/releases)已通過 apktool 重新打包，下載安裝即可。
 
-![](https://s2.ax1x.com/2020/02/15/1xrKCd.jpg)
+![](./demo/RIME-GZ.jpg)
 
 </div>
