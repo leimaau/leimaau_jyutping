@@ -1,6 +1,6 @@
 <div lang="zh-HK">
 
-# Rime Leimaau's Cantonese Input Scheme | 貍貓粵拼
+# Rime Leimaau's Cantonese Input Scheme | 狸貓粵拼
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/leimaau_jyutping.svg) ![GitHub](https://img.shields.io/github/license/leimaau/leimaau_jyutping.svg)
 
@@ -12,13 +12,13 @@
 
 配方： ℞ **leimaau/leimaau_jyutping**
 
-[Rime](https://rime.im) 貍貓粵拼
+[Rime](https://rime.im) 狸貓粵拼
 
-- 貍貓粵拼 - `leimaau/leimaau_jyutping`
-	- 貍貓粵拼 - `leimaau_jyutping`
-	- 貍貓粵拼(IPA) - `leimaau_jyutping_ipa`
+- 狸貓粵拼 - `leimaau/leimaau_jyutping`
+	- 狸貓粵拼 - `leimaau_jyutping`
+	- 狸貓粵拼(IPA) - `leimaau_jyutping_ipa`
 
-此處存放我設計的「貍貓粵拼」以及輸入方案的配置。收錄原則，爲研究方便，一切字形和讀音盡數收錄，不爲正音。
+此處存放我設計的「狸貓粵拼」以及輸入方案的配置。收錄原則，爲研究方便，一切字形和讀音盡數收錄，不爲正音正字。
 
 ## 安卓端
 

@@ -3,7 +3,7 @@
 
 schema:
   schema_id: leimaau_jyutping_ipa
-  name: "貍貓粵拼(IPA)"
+  name: "狸貓粵拼(IPA)"
   version: "2020.05.09"
   author:
     - LeiMaau <leimaau@qq.com>
