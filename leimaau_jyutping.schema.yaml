@@ -264,7 +264,6 @@ reverse_lookup:
     - xform/^/〔/
     - xform/$/〕/
 
-
 puping_to_zyenpheng:    # 普拼反查中古音
   tag: puping_to_zyenpheng
   dictionary: luna_pinyin

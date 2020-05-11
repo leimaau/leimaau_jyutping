@@ -19,6 +19,7 @@ schema:
     - stroke
     - cangjie5
     - wubi86
+    - zyenpheng
 
 switches:
   - options: [zh_simp2, zh_simp, noop, zh_trad, zh_hk, zh_tw, zh_jp]  # 多種字形轉換方案，根據需要自行開啓
@@ -262,7 +263,6 @@ reverse_lookup:
     - xform/ /\｜/
     - xform/^/〔/
     - xform/$/〕/
-
 
 puping_to_zyenpheng:    # 普拼反查中古音
   tag: puping_to_zyenpheng
