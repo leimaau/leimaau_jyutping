@@ -1,0 +1,3964 @@
+# Rime user dictionary export
+#@/db_name	jyut6ping3.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	10554
+#@/user_id	5c424b51-8e00-4084-98a9-fea6da82f980
+吖	aa1	3
+呀	aa1	3
+啊	aa1	45
+吖祥	aa1 coeng4	1
+啊貴	aa1 gwai3	1
+啊唷	aa1 jo1	1
+啊喲	aa1 jo1	1
+吖嘛	aa1 maa3	2
+啊嘛	aa1 maa3	2
+吖陶	aa1 tou4	1
+啊隻	aa1 zek3	1
+吖吱吖咗	aa1 zi1 aa1 zo2	1
+啞場	aa2 coeng4	1
+阿之阿咗	aa2 zi1 aa2 zo2	1
+亞	aa3	4
+阿	aa3	3
+亞於	aa3 jyu1	0
+阿嫲	aa3 maa4	1
+亞馬遜	aa3 maa5 seon3	1
+阿聲	aa3 seng1	1
+阿嬋	aa3 sim4	2
+阿嫂	aa3 sou2	1
+阿叔	aa3 suk1	1
+阿支阿左	aa3 zi1 aa3 zo1	4
+唉	aai1	5
+埃	aai1	1
+哎吔	aai1 jaa1	1
+嗌	aai3	5
+嗌佢	aai3 keoi5	1
+呃	aak1	4
+握	aak1	2
+呃呃𠱁𠱁	aak1 aak1 tam3 tam3	1
+晏	aan3	2
+甖	aang1	1
+鴨	aap3	1
+押	aat3	1
+凹	aau1	3
+抓來抓去	aau1 lai4 aau1 heoi2	1
+拗	aau2	1
+拗爛腳	aau2 laan6 goek3	1
+詏	aau3	1
+𠼮	ai1	1
+哎呀	ai1 jaa1	1
+哎	ai3	1
+翳	ai3	1
+暗坎	am3 kaan2	2
+暗簡	am3 kaan2	1
+扤	at1	1
+㐹	at6	1
+䢀	at6	1
+䪲	at6	5
+扤	at6	3
+疙	at6	1
+歐	au1	1
+鷗	au1	2
+巴	baa1	1
+把	baa2	7
+把我	baa2 ngo5	1
+霸氣	baa3 hei3	1
+吧	baa6	13
+伯	baak3	2
+百搭	baak3 daap3	0
+百搭果	baak3 daap3 gwo2	1
+百度	baak3 dou6	4
+百越	baak3 jyut6	1
+百越語	baak3 jyut6 jyu6	1
+白	baak6	4
+白拉拉	baak6 laai1 laai1	1
+白皚皚	baak6 ngoi2 ngoi2	2
+白晒晒	baak6 saai3 saai3	1
+白嗮嗮	baak6 saai4 saai4	1
+白話	baak6 waa2	3
+版	baan2	5
+版本	baan2 bun2	2
+辦法	baan6 faat3	2
+辦公	baan6 gung1	2
+八	baat3	3
+包	baau1	1
+包容	baau1 jung4	1
+包括	baau1 kut3	1
+爆	baau3	1
+爆炸	baau3 zaa3	1
+跛	bai1	1
+閉	bai3	1
+𡃇	bai6	1
+弊弊冇咁弊	bai6 bai6 mou5 gam3 bai6	1
+弊家伙	bai6 gaa1 fo2	2
+𡃇橋	bai6 kiu4	1
+弊喇	bai6 laa3	1
+弊嘞	bai6 laak3	1
+北	bak1	1
+北海	bak1 hoi2	2
+奔忙	ban1 mong4	1
+蹦	bang1	1
+崩牙	bang1 ngaa4	1
+不	bat1	7
+不參與	bat1 caam1 jyu5	1
+不清楚	bat1 cing1 co2	0
+不錯	bat1 co3	2
+不錯嘛	bat1 co3 maa4	1
+不存在	bat1 cyun4 zoi6	1
+不打算	bat1 daa2 syun3	1
+不大	bat1 daai6	4
+不多	bat1 do1	2
+不到	bat1 dou3	1
+不讀	bat1 duk6	1
+不分	bat1 fan1	6
+不僅	bat1 gan2	1
+不久	bat1 gau2	1
+不夠	bat1 gau3	1
+畢竟	bat1 ging2	1
+不叫	bat1 giu3	0
+不叫我	bat1 giu3 ngo5	1
+不過	bat1 gwo3	5
+不起來	bat1 hei2 loi4	0
+不去	bat1 heoi3	0
+不顯示	bat1 hin2 si6	1
+不可	bat1 ho2	0
+不可以	bat1 ho2 ji5	1
+不好	bat1 hou2	1
+不好爾	bat1 hou2 ji5	1
+不一定	bat1 jat1 ding6	2
+不一樣	bat1 jat1 joeng6	1
+不要緊	bat1 jiu3 gan2	1
+不嘍	bat1 lau1	2
+不溜	bat1 lau1	3
+不留	bat1 lau1	2
+不嬲	bat1 lau2	3
+嗶哩嗶哩	bat1 lei1 bat1 lei1	7
+不哩不哩	bat1 li1 bat1 li1	2
+不沒有	bat1 mut6 jau6	1
+不拿	bat1 naa4	1
+不能	bat1 nang4	8
+不能打	bat1 nang4 daa2	1
+不嬲	bat1 nau1	4
+不排序	bat1 paai4 zeoi6	1
+不需要	bat1 seoi1 jiu1	1
+不是	bat1 si6	10
+不是吧	bat1 si6 baa6	13
+不是的	bat1 si6 dik1	1
+不是的人	bat1 si6 dik1 jan4	1
+不是嗎	bat1 si6 maa3	1
+不少	bat1 siu2	2
+不想	bat1 soeng2	1
+不熟	bat1 suk6	0
+不宣傳	bat1 syun1 cyun4	1
+不太	bat1 taai3	2
+不會	bat1 wui5	3
+不會吧	bat1 wui5 baa6	4
+不準	bat1 zeon2	1
+不知	bat1 zi1	3
+不知道	bat1 zi1 dou6	5
+不再	bat1 zoi3	2
+不足	bat1 zuk1	1
+㨐	bau2	1
+䏽	bau6	3
+䬏	bau6	1
+啤	be1	1
+屄	bei1	2
+悲傷	bei1 soeng1	1
+俾	bei2	1
+畀	bei2	21
+比較	bei2 gaau3	2
+比較複雜	bei2 gaau3 fuk1 zaap6	1
+比如	bei2 jyu4	3
+比	bei6	4
+被	bei6	1
+鼻	bei6	2
+鼻哥	bei6 go1	1
+病原體	beng6 jyun4 tai2	1
+bilibili	bi1 li1 bi1 li4	2
+B站	bi1 zaam6	1
+啤啤	bi4 bi1	1
+啤啤仔	bi4 bi1 zai2	1
+啤哩吧啦	bi4 li1 baa4 laa4	2
+碧	bik1	1
+䟍	bin1	2
+邊	bin1	2
+邊啲	bin1 di1	1
+邊喥	bin1 dou6	2
+邊道	bin1 dou6	2
+邊份	bin1 fan6	1
+邊㗎	bin1 gaa2	1
+邊個	bin1 go3	2
+邊係	bin1 hai6	1
+邊處	bin1 syu3	1
+扁	bin2	1
+變	bin3	2
+變調	bin3 diu6	4
+變動	bin3 dung6	1
+變化	bin3 faa3	3
+變嘅	bin3 ge3	1
+變了	bin3 liu5	1
+變成	bin3 sing4	1
+變體	bin3 tai2	1
+便	bin6	1
+冰淇淋	bing1 kei4 lam2	1
+並	bing3	2
+併入	bing3 jap6	1
+並沒有	bing3 mut6 jau5	1
+並將其	bing3 zoeng1 kei4	1
+病歷表	bing6 lik6 biu2	0
+病歷表了	bing6 lik6 biu2 liu5	1
+䒑	bing6 zi6 tau4	1
+必	bit1	2
+必要	bit1 jiu3	0
+別看	bit6 hon3	1
+標點	biu1 dim2	1
+標準	biu1 zeon2	3
+表	biu2	10
+表情包	biu2 cing4 baau1	3
+表達式	biu2 daat6 sik1	2
+表示	biu2 si6	1
+波鉢	bo1 but3	1
+噃	bo3	3
+㩧嘢	bok1 je5	1
+扑嘢	bok1 je5	1
+坣	bok3	2
+壆	bok3	3
+駁骨	bok3 gwat1	1
+博客	bok3 haak3	3
+博野	bok3 je5	1
+博士	bok3 si6	1
+幫手	bong1 sau2	1
+幫助	bong1 zo6	5
+補	bou2	2
+保持	bou2 ci4	3
+補充	bou2 cung1	2
+保健	bou2 gin6	1
+保留	bou2 lau4	12
+保留啩	bou2 lau4 gwaa3	2
+報道	bou3 dou6	0
+部份	bou6 fan6	2
+部分	bou6 fan6	6
+部分字	bou6 fan6 zi6	1
+部落	bou6 lok6	1
+部落是	bou6 lok6 si6	1
+步驟	bou6 zau6	1
+杯中	bui1 zung3	1
+背後	bui3 hau6	2
+背時	bui6 si4	1
+𥣈	buk6	1
+僕人	buk6 jan4	1
+搬	bun1	4
+般	bun1	2
+本	bun2	5
+本來	bun2 loi4	6
+本站	bun2 zaam6	1
+本質	bun2 zat1	1
+本字	bun2 zi6	5
+半	bun3	1
+半看	bun3 hon1	1
+𩗴	bung6	1
+差	caa1	2
+差不多	caa1 bat1 do1	1
+差點	caa1 dim2	1
+查	caa4	2
+查到	caa4 dou3	1
+查下	caa4 haa5	1
+查詢	caa4 seon1	1
+猜	caai1	3
+猜到	caai1 dou2	1
+柴	caai4	1
+拆開	caak3 hoi1	3
+拆了	caak3 liu5	2
+拆成	caak3 sing4	3
+冊子	caak3 zi2	1
+參攷	caam1 haau2	2
+參考	caam1 haau2	1
+參與	caam1 jyu5	0
+撐起	caang1 hei2	1
+橙	caang2	1
+插蘇	caap3 sou1	1
+擦	caat3	2
+唰唰	caat3 caat3	1
+吵	caau2	1
+炒	caau2	1
+巢孟孟	caau4 maang6 maang6	1
+齊	cai4	1
+尋	cam4	1
+尋求	cam4 kau4	1
+沉重	cam4 zung6	1
+親歷	can1 lik6	0
+親歷者	can1 lik6 ze2	1
+親愛的	can1 oi3 dik1	1
+親身	can1 san1	1
+親自	can1 zi6	3
+曾經	cang4 ging1	2
+漆	cat1	1
+𨳍	cat6	5
+𫵱	cat6	1
+臭青	cau3 ceng1	1
+唓	ce1	2
+車	ce1	1
+奢侈	ce1 ci2	1
+撦大奅	ce1 daai6 paau3	1
+車軚	ce1 taai5	1
+且	ce2	1
+伬	ce2	2
+扯	ce2	1
+扯麪	ce2 min6	1
+扯嗮火	ce2 saai3 fo2	1
+斜面	ce3 min2	1
+尺	cek3	1
+赤	cek3	1
+青	ceng1	3
+青BB	ceng1 bi1 bi1	1
+青咇咇	ceng1 bi1 bi1	1
+青啤啤	ceng1 bi1 bi1	4
+青嗶嗶	ceng1 bi1 bi1	1
+青青	ceng1 ceng1	0
+吹	ceoi1	1
+取	ceoi2	2
+取個	ceoi2 go3	1
+隨便	ceoi4 bin2	1
+隨風	ceoi4 fung1	1
+隨心	ceoi4 sam1	3
+隨時	ceoi4 si4	3
+隨着	ceoi4 zoek6	1
+春	ceon1	1
+蠢	ceon2	2
+秦朝	ceon4 ciu4	1
+出	ceot1	6
+出版	ceot1 baan2	3
+出處	ceot1 cyu3	1
+出去玩	ceot1 heoi3 waan4	1
+出現	ceot1 jin6	1
+出奇	ceot1 kei4	0
+出嚟	ceot1 lai4	2
+出來	ceot1 loi4	4
+出名	ceot1 ming4	1
+出臺	ceot1 toi4	2
+黐	ci1	1
+癡线	ci1 sin3	2
+黐線	ci1 sin6	2
+此	ci2	1
+此處	ci2 cyu3	3
+始祖	ci2 zou2	1
+次	ci3	1
+詞	ci4	12
+詞表	ci4 biu2	2
+詞典	ci4 din2	20
+辭典	ci4 din2	2
+詞庫	ci4 fu3	10
+詞頻	ci4 pan4	4
+詞條	ci4 tiu4	5
+詞彙	ci4 wui6	7
+持續	ci4 zuk6	1
+似	ci5	2
+似層層	ci5 cang4 cang4	1
+似似地	ci5 ci5 dei6	1
+千祈	cin1 kei4	1
+瓩	cin1 ngaa5	2
+𥪕	cin1 sing1	1
+錢	cin2	4
+前沿	cin4 jyun4	1
+前面	cin4 min6	1
+前線	cin4 sin3	1
+前往	cin4 wong5	2
+清	cing1	1
+稱	cing1	1
+清楚	cing1 co2	1
+清代	cing1 doi6	1
+清明	cing1 ming4	1
+清末	cing1 mut6	1
+清水	cing1 seoi2	2
+請問	cing2 man6	1
+情況	cing4 fong3	1
+情緒	cing4 seoi5	1
+晴天	cing4 tin1	1
+切	cit3	2
+設定	cit3 ding6	1
+設計	cit3 gai2	1
+切開	cit3 hoi1	1
+切換	cit3 wun6	6
+設置	cit3 zi3	7
+超忙	ciu1 mong4	1
+超時	ciu1 si4	1
+朝鮮	ciu4 sin1	1
+初步	co1 bou6	1
+楚語	co2 jyu6	1
+錯	co3	1
+錯別字	co3 bit6 zi6	1
+錯音	co3 jam1	4
+錯誤	co3 ng6	9
+錯字	co3 zi6	4
+錯咗	co3 zo2	1
+鋤大弟	co4 daai6 di2	3
+灼低	coek1 dai1	1
+灼熱	coek3 jit6	1
+噱頭	coek3 tau4	1
+昌	coeng1	1
+窗外	coeng1 ngoi6	1
+唱	coeng3	3
+唱歌	coeng3 go1	1
+牆	coeng4	1
+長	coeng4	3
+長癩癩	coeng4 laai4 laai4	1
+長賴賴	coeng4 laai4 laai4	1
+長征	coeng4 zing1	1
+菜	coi3	1
+菜圃	coi3 pou2	1
+菜脯	coi3 pou2	1
+菜譜	coi3 pou2	1
+才	coi4	3
+纔有	coi4 jau5	0
+纔有了	coi4 jau5 liu5	1
+才能	coi4 nang4	1
+纔會	coi4 wui5	1
+倉庫	cong1 fu3	1
+磢	cong2	15
+牀	cong4	2
+粗細	cou1 sai3	1
+操作	cou1 zok3	0
+畜牧	cuk1 muk6	1
+涌	cung1	1
+衝刺	cung1 ci3	1
+衝突	cung1 dat6	1
+沖涼	cung1 loeng4	1
+從	cung4	4
+重	cung4	1
+重複	cung4 fuk1	3
+從俗	cung4 zuk6	1
+處	cyu2	5
+處理	cyu2 lei5	19
+竄改	cyun3 goi2	1
+傳	cyun4	1
+存	cyun4	1
+全部	cyun4 bou6	1
+全部的	cyun4 bou6 dik1	1
+傳到	cyun4 dou2	1
+傳教士	cyun4 gaau3 si6	3
+傳奇	cyun4 kei4	1
+全文	cyun4 man4	1
+全面	cyun4 min6	5
+全網	cyun4 mong5	1
+全世界	cyun4 sai3 gaai3	1
+全息	cyun4 sik1	1
+傳輸	cyun4 syu1	2
+傳統	cyun4 tung2	1
+存在	cyun4 zoi6	4
+咄	cyut3	1
+撮	cyut3	1
+咄咄	cyut3 cyut3	1
+撮要	cyut3 jiu3	1
+咑	daa1	1
+打	daa2	7
+打不開	daa2 bat1 hoi1	1
+打錯	daa2 co3	1
+打的	daa2 dik1	0
+打交	daa2 gaau1	1
+打開	daa2 hoi1	1
+打噎	daa2 ik1	2
+打噎	daa2 jik1	1
+打卡地	daa2 kaa1 dei6	1
+打爛	daa2 laan6	1
+打纈	daa2 lit3	1
+打南無	daa2 naam4 mo2	1
+打思噎	daa2 si1 ik1	1
+打算	daa2 syun3	1
+打陀螺	daa2 to4 lo4	1
+打字	daa2 zi6	3
+帶	daai3	10
+大	daai6	35
+大部份	daai6 bou6 fan6	1
+大部分	daai6 bou6 fan6	4
+大全	daai6 cyun4	1
+大笪地	daai6 daat3 dei2	1
+大多	daai6 do1	3
+大多數	daai6 do1 sou3	1
+大吃	daai6 hek3	0
+大吃歐	daai6 hek3 au1	1
+大學	daai6 hok6	1
+大乪	daai6 kek6	1
+大概	daai6 koi2	1
+大括號	daai6 kut3 hou6	1
+大喇喇	daai6 laa4 laa4	2
+大文件	daai6 man4 gin2	1
+大石砸死蟹	daai6 sek6 zaak3 sei2 haai5	1
+大石磧死蟹	daai6 sek6 zaat3 sei2 haai5	2
+大師	daai6 si1	1
+大雪	daai6 syut3	1
+擔	daam3	3
+淡	daam6	1
+啖頭啖樣	daam6 tau4 daam6 joeng6	1
+單	daan1	1
+單車	daan1 ce1	0
+單獨	daan1 duk6	5
+單子	daan1 zi2	1
+單字	daan1 zi6	9
+單字音	daan1 zi6 jam1	1
+誕生	daan3 sang1	1
+但	daan6	1
+但係	daan6 hai6	1
+但有	daan6 jau5	1
+但要	daan6 jiu1	1
+但是	daan6 si6	8
+但是一定要	daan6 si6 jat1 ding6 jiu3	1
+但作爲	daan6 zok3 wai4	1
+搭車	daap3 ce1	1
+疊	daap6	1
+踏春	daap6 ceon1	1
+笪	daat3	1
+低	dai1	4
+底	dai2	1
+抵諗	dai2 nam2	2
+抵食	dai2 sik6	1
+弟	dai6	1
+弟弟	dai6 dai6	2
+第一	dai6 jat1	2
+第一次	dai6 jat1 ci3	3
+第日	dai6 jat6	1
+第二次	dai6 ji6 ci3	3
+第二個	dai6 ji6 go3	1
+第二批	dai6 ji6 pai1	1
+第三次	dai6 saam1 ci3	2
+得	dak1	17
+得到	dak1 dou2	1
+得返	dak1 faan1	1
+得閒	dak1 haan4	3
+得好	dak1 hou2	1
+得了	dak1 liu5	1
+特別	dak6 bit6	2
+特此	dak6 ci2	1
+特殊	dak6 syu4	6
+揼	dam2	2
+沊	dam2	1
+沊沊轉	dam2 dam2 zyun2	2
+登	dang1	2
+登錄	dang1 luk6	2
+等	dang2	7
+等等	dang2 dang2	1
+等待	dang2 doi6	2
+等到	dang2 dou3	1
+等會	dang2 wui5	2
+等陣	dang2 zan6	2
+澄	dang6	1
+塌	dap1	2
+耷車	dap1 ce1	1
+揼	dap6	1
+𠳖	dap6	1
+突然	dat6 jin4	4
+兜住	dau1 zyu6	1
+豆泥	dau2 nai4	1
+鬥	dau3	1
+鬥來鬥去	dau3 lai4 dau3 heoi2	1
+竇	dau6	1
+逗	dau6	2
+𢭃	dau6	1
+豆瓣	dau6 baan6	2
+逗號	dau6 hou6	2
+逗留	dau6 lau4	1
+𢭃利是	dau6 lei6 si6	1
+豆住	dau6 zyu6	2
+哋	dei6	8
+地	dei6	2
+地道	dei6 dou6	2
+地方	dei6 fong1	5
+地球	dei6 kau4	1
+地面	dei6 min2	1
+哋名	dei6 ming4	1
+地名	dei6 ming4	1
+地鐵	dei6 tit3	4
+地圖	dei6 tou4	1
+地址	dei6 zi2	2
+掟死你	deng3 sei2 nei5	1
+堆	deoi1	1
+㨃	deoi2	1
+㨃冧	deoi2 lam3	1
+懟冧	deoi2 lam3	2
+隊冧	deoi2 lam3	1
+對	deoi3	4
+對比	deoi3 bei2	4
+兌現	deoi3 jin6	1
+對應	deoi3 jing3	10
+對於	deoi3 jyu1	2
+對立	deoi3 lap6	3
+對了	deoi3 liu5	1
+對照	deoi3 ziu3	1
+調低	deu6 dai1	3
+啲	di1	23
+啲下	di1 haa5	1
+弟弟	di4 di2	1
+的	dik1	260
+適度	dik1 dok6	1
+的起心肝	dik1 hei2 sam1 gon1	1
+的人	dik1 jan4	7
+的嘢	dik1 je5	1
+的我	dik1 ngo5	0
+的心	dik1 sam1	1
+的色	dik1 sik1	1
+菂薂	dik1 sik1	1
+的話	dik1 waa6	0
+滴	dik6	1
+點	dim2	2
+點處理	dim2 cyu2 lei5	2
+點解	dim2 gaai2	1
+點講呢	dim2 gong2 ne1	1
+玷污	dim3 wu1	1
+㼭	dim6	1
+典	din2	5
+典籍	din2 zik6	1
+電	din6	1
+電影	din6 jing2	5
+電腦	din6 nou5	2
+佃農	din6 nung4	1
+電子	din6 zi2	1
+叮咚	ding1 dung1	1
+頂窿	ding2 lung2	1
+頂籠	ding2 lung2	5
+頂櫳	ding2 lung4	2
+頂槓	ding2 lung5	2
+定	ding6	7
+定個	ding6 go3	1
+啶喺	ding6 hai2	1
+定喺	ding6 hai2	1
+定係	ding6 hai6	4
+定義	ding6 ji6	1
+跌落	dit3 lok6	0
+迭代	dit6 doi6	2
+丟架	diu1 gaa2	2
+雕塑	diu1 sou3	1
+屌	diu2	7
+𨳒𨳍	diu2 cat6	1
+屌閪	diu2 hai1	1
+屌那星	diu2 naa1 sing1	1
+屌你	diu2 nei5	1
+吊吊揈	diu4 diu2 fing6	1
+調	diu6	1
+調查	diu6 caa4	0
+多	do1	13
+多清淡	do1 cing1 taam5	1
+多得	do1 dak1	1
+多啲	do1 di1	2
+多份	do1 fan6	1
+多個	do1 go3	1
+多功能	do1 gung1 nang4	1
+多音	do1 jam1	1
+多音詞	do1 jam1 ci4	1
+多語言	do1 jyu5 jin4	1
+多問	do1 man6	1
+多少	do1 siu2	1
+多謝	do1 ze6	1
+多謝嗮	do1 ze6 saai3	1
+多種	do1 zung2	1
+躲避球	do2 bei6 kau4	1
+代	doi6	1
+待	doi6	0
+代理	doi6 lei5	1
+代碼	doi6 maa5	1
+代數	doi6 sou3	3
+度縮	dok6 suk1	2
+鐸叔	dok6 suk1	1
+當	dong1	1
+噹噹	dong1 dong1	3
+當然	dong1 jin2	3
+檔	dong2	2
+宕	dong6	1
+蕩失路	dong6 sat1 lou6	1
+都	dou1	54
+都亞於	dou1 aa3 jyu1	1
+都不是	dou1 bat1 si6	1
+都不知道	dou1 bat1 zi1 dou3	0
+都得	dou1 dak1	2
+都係	dou1 hai6	10
+都可以	dou1 ho2 ji5	12
+都好多	dou1 hou2 do1	1
+都有	dou1 jau5	6
+都要	dou1 jiu1	1
+都唔係	dou1 m4 hai6	1
+都未	dou1 mei6	0
+都冇辦法	dou1 mou5 baan6 faat3	1
+都沒有	dou1 mut6 jau5	1
+都是	dou1 si6	10
+都想	dou1 soeng2	0
+都推	dou1 teoi1	1
+都在	dou1 zoi6	0
+都在家	dou1 zoi6 gaa1	1
+到哪	dou2 naa5	1
+到	dou3	13
+道	dou3	6
+到處	dou3 cyu3	1
+到底	dou3 dai2	1
+到了	dou3 liu5	1
+到時	dou3 si4	3
+到時候	dou3 si4 hau6	1
+度	dou6	4
+導出	dou6 ceot1	1
+道士	dou6 si2	1
+Do嘢	du1 je5	2
+厾	duk1	2
+𧰵	duk1	1
+篤爆	duk1 baau3	1
+毒	duk6	1
+讀	duk6	9
+讀法	duk6 faat3	3
+讀音	duk6 jam1	1
+獨立	duk6 lap6	0
+東	dung1	7
+東方	dung1 fong1	1
+東京	dung1 ging1	1
+東西	dung1 sai1	18
+懂	dung2	3
+動物	dung6 mat6	1
+短	dyun2	1
+短短	dyun2 dyun2	1
+斷定	dyun3 ding6	1
+𡃀𫫃	e4 e1	2
+𠰲	eot1	3
+花	faa1	11
+花瓣	faa1 faan2	1
+花裙襬	faa1 kwan4 baai2	1
+花拳	faa1 kyun4	1
+花絮	faa1 seoi5	1
+化	faa3	2
+化學	faa3 hok6	1
+化學式	faa3 hok6 sik1	1
+file	faai1 lou2	1
+快	faai3	1
+快當	faai3 dong1	1
+快靚正	faai3 leng3 zeng3	1
+快樂	faai3 lok6	1
+快樂是	faai3 lok6 si6	1
+快樂是一座	faai3 lok6 si6 jat1 zo6	1
+快樂是一座城堡	faai3 lok6 si6 jat1 zo6 sing4 bou2	1
+快樂是什麼東西	faai3 lok6 si6 sam6 mo1 dung1 sai1	1
+快石	faai3 sek6	1
+快活谷	faai3 wut6 guk1	1
+𢪎	faak3	1
+翻	faan1	3
+返	faan1	4
+翻啅	faan1 coek1	1
+反屌	faan1 diu2	1
+反反	faan1 faan2	1
+番梘	faan1 gaan2	1
+翻歸	faan1 gwai1	1
+反饋	faan1 gwai3	6
+翻譯	faan1 jik6	13
+翻嚟	faan1 lai4	1
+返嚟	faan1 lai4	2
+返轉頭	faan1 zyun3 tau4	1
+反倒	faan2 dou3	1
+反而	faan2 ji4	1
+反思	faan2 si1	3
+返回	faan2 wui4	1
+反正	faan2 zing3	2
+繁忙	faan4 mong4	1
+煩惱	faan4 nou5	2
+煩死	faan4 sei2	1
+繁體	faan4 tai2	3
+繁體字	faan4 tai2 zi6	1
+法	faat3	1
+發	faat3	7
+發單	faat3 daan1	1
+發夾	faat3 gip6	2
+法國	faat3 gwok3	1
+發音	faat3 jam1	1
+發現	faat3 jin6	3
+發給你	faat3 kap1 nei5	1
+法蘭	faat3 laan4	1
+發霉	faat3 mou1	1
+發嗡風	faat3 ngap1 fung1	1
+發噏風	faat3 ngap1 fung1	1
+廢	fai3	1
+費	fai3	1
+分	fan1	7
+分別	fan1 bit6	2
+分叉	fan1 caa1	1
+分出嚟	fan1 ceot1 lai4	1
+分得	fan1 dak1	1
+分化	fan1 faa3	2
+分享	fan1 hoeng2	1
+分開	fan1 hoi1	4
+分類	fan1 leoi6	2
+分析	fan1 sik1	1
+分析起來	fan1 sik1 hei2 lai4	4
+紛紜	fan1 wan4	0
+紛紜撮要	fan1 wan4 cyut3 jiu3	1
+分韻	fan1 wan6	2
+分鐘	fan1 zung1	1
+訓	fan3	1
+瞓覺	fan3 gaau3	1
+瞓厲頸	fan3 lai2 geng2	1
+瞓戾頸	fan3 lai2 geng2	1
+瞓捩頸	fan3 lai2 geng2	2
+訓着覺	fan3 zoek3 gaau3	1
+份	fan6	4
+忽悠	fat1 jau4	1
+否則	fau2 zak1	1
+啡	fe1	2
+非	fei1	7
+非難	fei1 naan6	0
+非難事	fei1 naan6 si6	1
+非常	fei1 soeng4	1
+非中	fei1 zung1	1
+翡翠	fei2 ceoi3	1
+肥腯腯	fei4 tan4 tan4	1
+肥騰騰	fei4 tan4 tan4	1
+𠱥	fik1	1
+覅	fiu3	1
+科普	fo1 pou2	1
+伙	fo2	1
+火	fo2	4
+顆	fo2	1
+火箭	fo2 zin3	2
+課	fo3	1
+方	fong1	3
+方便	fong1 bin6	10
+方法	fong1 faat3	0
+方音	fong1 jam1	1
+方言	fong1 jin4	10
+方現學	fong1 jin6 hok6	1
+方面	fong1 min6	3
+方式	fong1 sik1	5
+訪客	fong2 haak3	1
+訪問	fong2 man6	1
+訪問量	fong2 man6 loeng6	0
+訪遍	fong2 pin3	0
+放	fong3	6
+放蕩	fong3 dong6	1
+放任	fong3 jam6	1
+放入	fong3 jap6	2
+放心	fong3 sam1	1
+呼吸	fu1 kap1	2
+乶下	fu2 haa6	1
+副	fu3	1
+庫	fu3	5
+庫元素	fu3 jyun4 sou3	1
+乎	fu4	2
+腑胵	fu4 ci3	1
+符號	fu4 hou2	2
+負責	fu6 zaak3	1
+賄賂	fui2 lou6	1
+晦	fui3	1
+複灼	fuk1 coek3	2
+覆卓	fuk1 coek3	3
+覆灼	fuk1 coek3	5
+複輔音	fuk1 fu6 jam1	1
+覆蓋	fuk1 goi3	1
+覆蓋	fuk1 koi3	1
+複雜	fuk1 zaap6	1
+款	fun2	1
+封	fung1	5
+峯	fung1	7
+風	fung1	3
+封閉	fung1 bai3	1
+縫紉	fung4 jan6	1
+鳳凰網	fung6 wong4 mong5	1
+加	gaa1	16
+噶	gaa1	3
+家	gaa1	3
+加粗	gaa1 cou1	1
+加多	gaa1 do1	1
+加多個	gaa1 do1 go3	1
+加快	gaa1 faai3	1
+家伙	gaa1 fo2	1
+嘎嘎輸	gaa1 gaa1 syu1	1
+加嘅	gaa1 ge2	1
+加個	gaa1 go3	1
+家下	gaa1 haa5	1
+加入	gaa1 jap6	7
+加入了	gaa1 jap6 liu5	1
+家叻	gaa1 lek1	1
+家裏	gaa1 leoi5	1
+加了	gaa1 liu5	1
+加落	gaa1 lok6	1
+家樂	gaa1 lok6	0
+家樂去	gaa1 lok6 heoi2	1
+加密	gaa1 mat6	2
+噶妹	gaa1 mui6	2
+加上	gaa1 soeng5	4
+家陣時	gaa1 zan6 si2	1
+加咗	gaa1 zo2	3
+假	gaa2	1
+架撐	gaa2 caang1	1
+架罉	gaa2 caang1	1
+㗎喇	gaa2 laa1	3
+㗎妹	gaa2 mui6	2
+假作	gaa2 zok3	0
+假作真	gaa2 zok3 zan1	1
+㗎	gaa3	15
+架下	gaa3 haa5	0
+架下再多	gaa3 haa5 zoi3 do1	1
+㗎嘞	gaa3 la3	1
+駕駛	gaa3 sai2	3
+㗎話	gaa3 waa6	1
+咖嗟	gaa3 ze1	2
+㗎佬	gaa4 lou2	2
+㗎文	gaa4 man2	2
+架妹	gaa4 mui1	1
+階段	gaai1 dyun6	1
+解決	gaai2 kyut3	3
+解散	gaai2 saan3	1
+解釋	gaai2 sik1	2
+戒色	gaai3 sik1	1
+戒色吧	gaai3 sik1 baa6	1
+隔	gaak3	1
+隔空	gaak3 hung1	1
+格瓦拉	gaak3 ngaa5 laai1	0
+格式	gaak3 sik1	1
+尷尬	gaam1 gaai3	1
+揀	gaan2	1
+簡介	gaan2 gaai3	1
+簡省	gaan2 saang2	2
+簡體	gaan2 tai2	6
+簡體字	gaan2 tai2 zi6	2
+簡直	gaan2 zik6	4
+夾	gaap3	1
+夾錢	gaap3 cin2	1
+夾口	gaap3 hau2	1
+夾硬	gaap3 ngaang2	1
+噶	gaat3	0
+噶給你	gaat3 kap1 nei5	1
+曱甴	gaat6 zaat2	1
+交	gaau1	1
+交不清楚	gaau1 bat1 cing1 co2	1
+交給	gaau1 kap1	0
+交給我	gaau1 kap1 ngo5	1
+郊區	gaau1 keoi1	1
+膠紙	gaau1 zi2	1
+搞	gaau2	4
+搞邊科	gaau2 bin1 fo1	1
+搞得	gaau2 dak1	0
+搞得嗮	gaau2 dak1 saai3	1
+搞掂	gaau2 dim1	2
+搞個	gaau2 go3	1
+攪腳	gaau2 goek3	1
+搞笑	gaau2 siu3	1
+搞彎	gaau2 waang1	2
+搞軭	gaau2 waang1	1
+搞涴	gaau2 wo5	1
+搞住	gaau2 zyu6	1
+較	gaau3	1
+較多	gaau3 do1	1
+較腳	gaau3 goek3	2
+教授	gaau3 sau6	1
+覺覺豬	gaau4 gaau1 zyu1	1
+雞	gai1	6
+雞取	gai1 ceoi2	1
+雞雞	gai1 gai1	1
+雞項	gai1 hong2	3
+雞𣚺	gai1 hong2	2
+雞腎	gai1 san2	1
+雞碎	gai1 seoi3	2
+雞塒	gai1 si4	1
+雞嗉	gai1 sou3	1
+雞仔	gai1 zai2	1
+雞塒	gai1 zi6	2
+計劃好	gai2 waak6 hou2	1
+計	gai3	2
+計較	gai3 gaau3	4
+計我	gai3 ngo5	1
+計數	gai3 sou3	1
+計劃	gai3 waak6	2
+繼續	gai3 zuk6	1
+甘	gam1	3
+金	gam1	2
+今次	gam1 ci3	4
+金蛋	gam1 daan2	1
+禁多	gam1 do1	1
+今日	gam1 jat6	2
+今天	gam1 tin1	11
+今天的	gam1 tin1 dik1	2
+今勻	gam1 wan4	1
+噉	gam2	52
+感	gam2	1
+感大	gam2 daai6	1
+噉多	gam2 do1	1
+噉都得	gam2 dou1 dak1	2
+噉噶	gam2 gaa1	1
+噉咖	gam2 gaa3	1
+咁解	gam2 gaai2	1
+噉解	gam2 gaai2	1
+噉嘅	gam2 ge3	1
+噉叫	gam2 giu3	1
+感覺	gam2 gok3	4
+噉係	gam2 hai6	2
+感興趣	gam2 hing3 ceoi3	2
+噉又係	gam2 jau6 hai6	1
+感應	gam2 jing3	1
+噉樣	gam2 joeng2	3
+咁啱	gam2 ngaam1	2
+敢寫	gam2 se2	1
+感召	gam2 siu6	1
+感嘆詞	gam2 taan3 ci4	1
+噉頭	gam2 tau2	1
+噉頭噉樣	gam2 tau4 gam2 joeng6	1
+錦州	gam2 zau1	1
+感謝	gam2 ze6	4
+咁	gam3	12
+咁差	gam3 caa1	1
+咁串	gam3 cyun3	1
+咁叼	gam3 diu1	1
+咁興	gam3 hing1	1
+咁慢	gam3 maan6	2
+咁耐	gam3 noi6	0
+咁耐唔見	gam3 noi6 m4 gin3	1
+禁衛軍	gam3 wai6 gwan1	0
+咁滯	gam3 zai6	1
+咁早	gam3 zou2	1
+跟	gan1	15
+根本	gan1 bun2	1
+根據	gan1 geoi3	1
+跟人	gan1 jan4	0
+跟人家	gan1 jan4 gaa1	1
+跟現在	gan1 jin6 zoi6	1
+跟你	gan1 nei5	2
+跟我	gan1 ngo5	3
+跟着	gan1 zoek6	2
+僅指	gan2 zi2	1
+近	gan6	4
+近來	gan6 lai4	1
+近來	gan6 loi2	1
+近排	gan6 paai2	1
+更	gang1	0
+更全面	gang1 cyun4 min6	1
+更大	gang1 daai6	1
+更多	gang1 do1	7
+更多字	gang1 do1 zi6	1
+更新	gang1 san1	28
+更正	gang1 zing3	1
+梗	gang2	3
+更加	gang3 gaa1	3
+及	gap6	1
+㓤親	gat1 can1	1
+吉日	gat1 jat6	1
+㓤肉	gat1 juk6	1
+㓤咗	gat1 zo2	1
+勼	gau1	1
+鳩	gau1	1
+勾通	gau1 tung1	1
+九	gau2	3
+狗	gau2	4
+九七	gau2 cat1	1
+狗唔搭叭	gau2 m4 daap3 baa1	1
+夠	gau3	0
+救亡	gau3 mong4	2
+夠種	gau3 zung2	1
+夠種	gau3 zung3	1
+嚿	gau6	1
+舊	gau6	1
+舊書	gau6 syu1	1
+嘅意思	ge2 ji3 si1	1
+嘅話	ge2 waa6	2
+嘅	ge3	108
+嘅啫	ge3 ze1	2
+嘅嗻	ge3 ze1	2
+基	gei1	1
+機	gei1	2
+畿	gei1	1
+磯	gei1	1
+諅	gei1	1
+基本	gei1 bun2	6
+幾份	gei1 fan6	2
+幾乎	gei1 fu4	1
+嘰趷	gei1 gat6	2
+幾個字	gei1 go3 zi6	1
+基佬	gei1 lou2	1
+基老	gei1 lou5	1
+幾張	gei1 zoeng1	1
+幾種	gei1 zung2	2
+幾次	gei2 ci3	0
+幾多	gei2 do1	1
+幾咁	gei2 gam2	1
+幾個	gei2 go3	1
+幾係	gei2 hai6	1
+幾何	gei2 ho2	1
+紀錄片	gei2 luk6 pin2	1
+既	gei3	1
+記得	gei3 dak1	2
+既然	gei3 jin4	1
+記錄	gei3 luk6	2
+記錄下	gei3 luk6 haa5	1
+記載	gei3 zoi3	1
+鏡	geng3	1
+舉起來	geoi2 hei2 loi4	1
+句	geoi3	1
+句號	geoi3 hou6	1
+句尾	geoi3 mei5	1
+具體	geoi6 tai2	2
+𠼻	gi1	1
+嘰訖	gi1 gat6	1
+嘰趷	gi1 gat6	1
+嘰嘰趷趷	gi1 gi1 gat6 gat6	1
+極少	gik6 siu2	1
+兼容	gim1 jung4	1
+檢查	gim2 caa4	1
+堅嘢	gin1 je5	1
+堅野	gin1 je5	1
+堅硬	gin1 ngaang6	1
+建	gin3	1
+見	gin3	3
+見到	gin3 dou2	1
+見有	gin3 jau5	1
+建議	gin3 ji5	1
+見外	gin3 ngoi2	1
+件	gin6	0
+健	gin6	1
+健康	gin6 hong1	1
+鍵盤	gin6 pun2	2
+荊棘	ging1 gik1	1
+經過	ging1 gwo3	2
+經理	ging1 lei5	1
+經濟	ging1 zai3	1
+景轟	ging2 gwang1	2
+竟然	ging2 jin4	3
+競爭	ging3 zang1	1
+結	git3	3
+結局	git3 guk6	1
+結果	git3 gwo2	7
+結果可以打出嚟	git3 gwo2 ho2 ji5 daa2 ceot1 lai4	1
+結果呢	git3 gwo2 ne1	1
+杰	git6	1
+叫	giu3	7
+叫佢	giu3 keoi5	1
+叫我	giu3 ngo5	1
+哥	go1	1
+歌	go1	1
+歌詞	go1 ci4	1
+歌曲	go1 kuk1	2
+嗰邊	go2 bin1	2
+嗰啲	go2 di1	12
+嗰道	go2 dou3	2
+嗰個	go2 go3	7
+個	go3	30
+箇	go3	1
+個別	go3 bit6	1
+個別字	go3 bit6 zi6	1
+個啲	go3 di1	1
+個人	go3 jan4	2
+個兩份	go3 loeng5 fan2	1
+個數	go3 sou2	1
+個掣	go3 zai3	1
+𢤹	goe4	1
+該行	goi1 hong4	1
+改	goi2	5
+改版	goi2 baan2	1
+改得	goi2 dak1	1
+改啲	goi2 di1	1
+改掉	goi2 diu6	1
+改返	goi2 faan1	2
+改用	goi2 jung6	1
+改了	goi2 liu5	1
+改名	goi2 ming4	1
+改成	goi2 sing4	7
+改回	goi2 wui4	1
+改進	goi2 zeon3	3
+改進下	goi2 zeon3 haa5	1
+改咗	goi2 zo2	2
+珏	gok3	2
+角	gok3	2
+各不相同	gok3 bat1 soeng1 tung4	1
+覺得	gok3 dak1	6
+各地	gok3 dei6	1
+各位	gok3 wai2	1
+各種	gok3 zung2	1
+乾脆	gon1 ceoi3	1
+乾萌萌	gon1 mang4 mang4	1
+趕不上	gon2 bat1 soeng5	2
+趕唔切	gon2 m4 cit3	2
+趕走	gon2 zau2	1
+幹啥	gon3 saa2	1
+幹什麼	gon3 sam6 mo1	2
+剛	gong1	8
+剛纔	gong1 coi4	2
+剛剛好	gong1 gong1 hou2	2
+剛好	gong1 hou2	2
+剛卡	gong1 kaa1	1
+江湖	gong1 wu4	2
+講	gong2	3
+講清楚	gong2 cing1 co2	2
+講過	gong2 gwo3	1
+講下	gong2 haa5	1
+講下啦	gong2 haa5 laa1	1
+講晒	gong2 saai3	1
+講話	gong2 waa2	1
+降低	gong3 dai1	1
+鋼琴	gong3 kam4	1
+降落	gong3 lok6	1
+螯	gong6	1
+高	gou1	2
+高德	gou1 dak1	1
+高句麗	gou1 geoi3 lai6	1
+高考	gou1 haau2	1
+高校	gou1 haau6	1
+高麗	gou1 lai6	1
+高買	gou1 maai5	1
+高邁	gou1 maai6	1
+高勾麗	gou1 ngau1 lai6	5
+高手	gou1 sau2	2
+高燒	gou1 siu1	1
+告別	gou3 bit6	1
+孤苦伶仃	gu1 fu2 ling4 ding1	1
+咕喱	gu1 lei1	2
+苦力	gu1 lei1	1
+咕哩	gu1 lei5	1
+古	gu2	2
+估計	gu2 gai3	1
+古今	gu2 gam1	2
+古音	gu2 jam1	1
+古書	gu2 syu1	1
+固定	gu3 ding6	2
+攰	gui6	2
+癐	gui6	1
+冠軍	gun1 gwan1	1
+觀望	gun1 mong6	1
+官話	gun1 waa6	2
+冠狀病毒	gun1 zong6 beng6 duk6	2
+錧	gun2	1
+工	gung1	3
+公佈	gung1 bou3	1
+工具	gung1 geoi6	1
+公寓	gung1 jyu6	1
+功能	gung1 nang4	1
+公司	gung1 si1	1
+功成身退	gung1 sing4 san1 teoi3	1
+工作	gung1 zok3	3
+公祖	gung1 zou2	1
+𫋐	gung3	1
+槓桿	gung3 gon1	2
+槓槓	gung3 gong3	1
+貢吓貢吓	gung3 haa2 gung3 haa2	1
+貢下貢下	gung3 haa5 gung3 haa5	1
+貢獻	gung3 hin3	2
+共	gung6	1
+共存	gung6 cyun4	2
+共通	gung6 tung1	1
+共同	gung6 tung4	1
+瓜	gwaa1	4
+啩	gwaa3	9
+拐	gwaai2	1
+怪	gwaai3	1
+關	gwaan1	1
+關閉	gwaan1 bai3	1
+關窗	gwaan1 coeng1	1
+關斗	gwaan1 dau3	1
+關係	gwaan1 hai6	6
+關於	gwaan1 jyu1	2
+grant-loan	gwaang1 lung1	2
+逛街	gwaang6 gaai1	1
+鬼	gwai2	1
+鬼叫	gwai2 giu3	1
+鬼馬	gwai2 maa5	1
+鬼祟	gwai2 syu2	2
+鬼鼠	gwai2 syu2	1
+桂	gwai3	1
+貴	gwai3	0
+桂林	gwai3 lam4	1
+桂南	gwai3 naam4	5
+桂平	gwai3 ping4	1
+跪地	gwai6 dei6	1
+𥕏	gwak6	1
+龜裂	gwan1 lit6	1
+轟	gwang1	2
+骨杉杉	gwat1 caam5 caam5	1
+骨髓	gwat1 seoi5	1
+掘	gwat6	1
+崛起	gwat6 hei2	1
+倔擂槌	gwat6 leoi4 ceoi4	2
+倔檑槌	gwat6 leoi4 ceoi4	3
+倔雷搥	gwat6 leoi4 ceoi4	2
+倔尾龍	gwat6 mei5 lung2	2
+掘尾龍	gwat6 mei5 lung2	1
+倔頭路	gwat6 tau4 lou6	2
+掘頭路	gwat6 tau4 lou6	1
+𪚩	gwi1	1
+𠵯	gwit1	1
+過	gwo1	15
+過去之後	gwo1 heoi2 zi1 hau6	1
+過去嗎	gwo1 heoi3 maa1	2
+過去呢	gwo1 heoi3 ne1	1
+果	gwo2	3
+果然	gwo2 jin4	1
+果然是	gwo2 jin4 si6	1
+果占	gwo2 zim1	3
+過繼	gwo3 gai3	1
+過去	gwo3 heoi3	1
+過去說	gwo3 heoi3 jyut6	1
+過於	gwo3 jyu1	1
+過來	gwo3 lai4	1
+過身	gwo3 san1	1
+國	gwok3	1
+國家	gwok3 gaa1	1
+國學	gwok3 hok6	1
+國難	gwok3 naan6	1
+國外	gwok3 ngoi6	1
+國際	gwok3 zai3	1
+光線	gwong1 sin3	1
+廣	gwong2	1
+廣東	gwong2 dung1	5
+廣府話	gwong2 fu2 waa2	2
+廣西	gwong2 sai1	13
+廣韻	gwong2 wan5	1
+廣州	gwong2 zau1	10
+廣州人	gwong2 zau1 jan4	1
+廣州話	gwong2 zau1 waa2	7
+𠵎	gwu1	1
+䏗	gwui3	1
+𥖏	gwun3	1
+捐	gyun1	1
+蜎窿蜎罅	gyun1 lung1 gyun1 laa3	1
+狷窿	gyun1 lung4	1
+哈	haa1	6
+哈哈	haa1 haa1	2
+吓喎	haa2 wo5	1
+下	haa5	21
+下一	haa5 jat1	0
+下一集	haa5 jat1 zaap6	1
+下雨	haa5 jyu5	1
+下班	haa6 baan1	1
+下次	haa6 ci3	1
+下來	haa6 loi4	1
+下山	haa6 saan1	2
+下山的我	haa6 saan1 dik1 ngo5	1
+下載	haa6 zoi3	1
+嚡熠熠	haai4 saap6 saap6	1
+孩子	haai4 zi2	1
+蟹弶	haai5 gong6	1
+蟹槓	haai5 gong6	1
+蟹螯	haai5 gong6	1
+刻不容緩	haak1 bat1 jung4 wun4	1
+嚇親	haak1 can1	1
+嚇	haak3	1
+客	haak3	3
+客家	haak3 gaa1	2
+客氣	haak3 hei3	2
+嚇佢	haak3 keoi5	1
+客戶	haak3 wu6	2
+行	haang4	1
+敲	haau1	1
+敲鐘	haau1 zung1	1
+巧	haau2	1
+考	haau2	1
+巧妙	haau2 miu6	0
+巧門	haau2 mun4	1
+閪	hai1	2
+𡚦	hai1	2
+閪嘢	hai1 je5	1
+喺	hai2	32
+喺邊	hai2 bin1	1
+喺度	hai2 dou6	1
+喺噉	hai2 gam2	1
+喺噉意	hai2 gam2 ji3	1
+喺咁	hai2 gam3	1
+喺米伽	hai2 mai5 gaa1	1
+喺米真伽	hai2 mai5 zan1 gaa1	1
+係	hai6	92
+系	hai6	1
+係啊	hai6 aa3	1
+係噉	hai6 gam2	4
+係噉先	hai6 gam2 sin1	1
+係個	hai6 go3	1
+系列	hai6 lit6	4
+係唔	hai6 m4	1
+係唔係	hai6 m4 hai6	2
+係咪	hai6 mai6	5
+係我	hai6 ngo5	1
+係時候	hai6 si4 hau6	1
+系數	hai6 sou3	1
+系統	hai6 tung2	3
+係話	hai6 waa6	1
+克	hak1	2
+刻	hak1	1
+黑	hak1	2
+乞人憎	hak1 jan4 zang1	1
+黑人僧	hak1 jan4 zang1	1
+黑麥麥	hak1 maak6 maak6	1
+黑手	hak1 sau2	1
+坎	ham1	1
+堪	ham1	3
+堪虛	ham1 heoi1	1
+砍	ham2	1
+含	ham4	2
+冚	ham6	1
+冚家	ham6 gaa1	1
+嵌套	ham6 tou3	1
+很	han2	4
+很大	han2 daai6	1
+很多	han2 do1	4
+很多東西	han2 do1 dung1 sai1	1
+很多問題	han2 do1 man6 tai4	1
+很快	han2 faai3	1
+很簡單	han2 gaan2 daan1	1
+很久	han2 gau2	1
+很難	han2 naan4	1
+很愛	han2 oi3	1
+很深	han2 sam1	1
+很小	han2 siu2	1
+很少	han2 siu2	1
+很少見	han2 siu2 gin3	1
+很重要	han2 zung6 jiu1	1
+恨	han6	1
+啃	hang2	1
+肯定	hang2 ding6	2
+行	hang4	2
+幸福	hang6 fuk1	2
+幸好	hang6 hou2	1
+杏仁	hang6 jan4	1
+磕	hap1	1
+合	hap6	1
+盍	hap6	1
+合夥	hap6 fo2	2
+合音	hap6 jam1	2
+合曬合尺	hap6 saai3 hap6 cek3	1
+合作	hap6 zok3	2
+乞	hat1	1
+乞丐	hat1 koi3	2
+覈對	hat6 deoi3	3
+核心	hat6 sam1	1
+睺	hau1	1
+口	hau2	2
+口語	hau2 jyu5	3
+口語字	hau2 jyu5 zi6	1
+口吶吶	hau2 nap6 nap6	1
+口罩	hau2 zaau3	1
+吼住	hau3 zyu6	1
+猴年馬月	hau4 nin4 maa5 jyut6	1
+厚	hau5	2
+厚沓沓	hau5 dap6 dap6	1
+厚實	hau5 sat6	1
+後	hau6	1
+後邊	hau6 bin1	4
+後來	hau6 loi4	5
+後尾	hau6 mei1	3
+後面	hau6 min6	3
+候選	hau6 syun2	1
+候選能力	hau6 syun2 nang4 lik6	1
+後退	hau6 teoi3	1
+後綴	hau6 zeoi3	1
+後續	hau6 zuk6	1
+𠺬	he2	1
+㹃	he3	1
+𠺪	he3	1
+𠾍	he3	1
+迆下	he3 haa5	1
+嘻	hei1	1
+希臘	hei1 lip6	1
+希望	hei1 mong6	1
+犧牲	hei1 sang1	1
+起	hei2	1
+喜歡	hei2 fun1	4
+起來	hei2 lai4	0
+起嚟	hei2 lai4	1
+起碼	hei2 maa5	1
+起尾注	hei2 mei5 zyu3	1
+氣氛	hei3 fan1	1
+氣球	hei3 kau4	1
+器皿	hei3 ming5	1
+吃	hek3	3
+吃飽	hek3 baau2	1
+吃飯	hek3 faan6	2
+噓	heoi1	1
+圩	heoi1	2
+墟冚	heoi1 ham6	2
+虛僞	heoi1 ngai6	1
+去	heoi2	12
+去除	heoi2 ceoi4	2
+去咗	heoi2 zo2	2
+去咗邊	heoi2 zo2 bin1	1
+去重	heoi3 cung4	1
+去掉	heoi3 diu6	5
+去嗎	heoi3 maa1	0
+去呢	heoi3 ne1	0
+去玩	heoi3 waan4	1
+𠺪	hi1	1
+欠	him3	1
+軒	hin1	1
+牽手	hin1 sau2	1
+牽涉	hin1 sip3	1
+繾綣	hin2 hyun3	1
+顯示	hin2 si6	2
+兄弟	hing1 dai6	1
+興和	hing1 wo4	1
+㷫烚烚	hing3 hap6 hap6	1
+慶烚烚	hing3 hap6 hap6	1
+慶興含含	hing4 hing1 ham4 ham4	1
+竅門	hiu3 mun4	1
+可	ho2	2
+可有	ho2 jau5	1
+可以	ho2 ji3	66
+可以啊	ho2 ji3 aa1	2
+可以的	ho2 ji3 dik1	5
+可以啩	ho2 ji3 gwaa3	1
+可以了	ho2 ji3 liu5	4
+可以打	ho2 ji5 daa2	0
+可以係	ho2 ji5 hai6	1
+可以用	ho2 ji5 jung6	0
+可以用嗎	ho2 ji5 jung6 maa1	1
+可以嗎	ho2 ji5 maa1	4
+可以使用	ho2 ji5 sai2 jung6	0
+可以使用了	ho2 ji5 sai2 jung6 liu5	1
+可用	ho2 jung6	1
+可留	ho2 lau4	1
+可唔可以	ho2 m4 ho2 ji3	2
+可能	ho2 nang4	24
+可愛	ho2 oi3	2
+可失去	ho2 sat1 heoi3	1
+香港	hoeng1 gong2	8
+响道	hoeng2 dou6	1
+響度	hoeng2 dou6	1
+向	hoeng3	0
+開	hoi1	2
+開車	hoi1 ce1	2
+開始	hoi1 ci2	3
+開檔	hoi1 dong3	1
+開發者	hoi1 faat3 ze2	1
+開放	hoi1 fong3	2
+開開心心	hoi1 hoi1 sam1 sam1	1
+開源	hoi1 jyun4	2
+開了	hoi1 liu5	1
+開會	hoi1 wui2	2
+海邊	hoi2 bin1	1
+海洋公園	hoi2 joeng4 gung1 jyun2	1
+海珠橋	hoi2 zyu1 kiu4	1
+貉	hok6	1
+學校	hok6 haau6	3
+學歷	hok6 lik6	1
+學生	hok6 saang1	1
+學術	hok6 seot6	3
+學術界	hok6 seot6 gaai3	1
+學識	hok6 sik1	1
+學堂	hok6 tong2	1
+學者	hok6 ze2	3
+看	hon1	9
+看得	hon1 dak1	1
+看下	hon1 haa5	1
+看越音	hon1 jyut6 jam1	1
+看劇	hon1 kek6	1
+刊	hon2	1
+漢	hon3	8
+看不懂	hon3 bat1 dung2	2
+看點	hon3 dim2	1
+漢典網	hon3 din2 mong5	1
+看到	hon3 dou3	3
+看懂	hon3 dung2	3
+看風使舵	hon3 fung1 sai2 to4	1
+看過	hon3 gwo3	2
+看起來	hon3 hei2 loi4	2
+看看	hon3 hon3	3
+看樣子	hon3 joeng6 zi2	1
+漢語	hon3 jyu5	10
+漢字	hon3 zi6	10
+漢字音	hon3 zi6 jam1	1
+漢族	hon3 zuk6	3
+寒冷	hon4 laang5	1
+康	hong1	1
+康熙	hong1 hei1	3
+康熙字典	hong1 hei1 zi6 din2	1
+行雞	hong4 gai1	2
+項羽	hong6 jyu5	1
+喝彩	hot3 coi2	1
+䫘	hot6	1
+好	hou2	24
+好啊	hou2 aa3	1
+好吧	hou2 baa6	3
+好出奇咩	hou2 ceot1 kei4 me1	1
+好似	hou2 ci5	1
+好彩	hou2 coi2	1
+好處	hou2 cyu3	1
+好啲	hou2 di1	1
+好屌	hou2 diu2	1
+好多	hou2 do1	1
+好快當	hou2 faai3 dong1	1
+好返	hou2 faan1	1
+好搞笑	hou2 gaau2 siu3	1
+好久	hou2 gau2	1
+好高	hou2 gou1	1
+好看	hou2 hon3	7
+好好	hou2 hou2	4
+好好多	hou2 hou2 do1	1
+好容易	hou2 jung4 ji6	1
+好了	hou2 liu5	1
+好忙	hou2 mong4	1
+好無	hou2 mou4	1
+好冇	hou2 mou5	1
+好難	hou2 naan4	1
+好辛苦	hou2 san1 fu2	1
+好少人	hou2 siu2 jan4	1
+好笑	hou2 siu3	1
+好想	hou2 soeng2	0
+好想砂磨	hou2 soeng2 saa1 mo4	1
+好熟	hou2 suk6	1
+好聽	hou2 teng1	1
+好玩	hou2 waan2	1
+好像	hou2 zoeng6	7
+好重要	hou2 zung6 jiu3	1
+壕	hou4	1
+號	hou4	1
+號麻煩	hou4 maa4 faan4	1
+號線	hou4 sin3	1
+哭	huk1	2
+哭紅了	huk1 hung4 liu5	2
+空白	hung1 baak6	1
+空格	hung1 gaak3	1
+空氣	hung1 hei3	1
+控制	hung3 zai3	2
+紅	hung4	3
+洪大	hung4 daai6	1
+紅了	hung4 liu5	0
+圈外人	hyun1 ngoi6 jan4	1
+血液	hyut3 jik6	0
+血液裏	hyut3 jik6 leoi5	2
+齧	it6	1
+吔	jaa1	2
+也	jaa5	9
+也不是	jaa5 bat1 si6	0
+也不是可以	jaa5 bat1 si6 ho2 ji3	1
+也行	jaa5 hang4	3
+也許	jaa5 heoi2	1
+也可以	jaa5 ho2 ji5	3
+也有	jaa5 jau5	1
+也沒有	jaa5 mut6 jau5	2
+也是	jaa5 si6	8
+也想	jaa5 soeng2	1
+也添在	jaa5 tim1 zoi6	1
+廿	jaa6	1
+廿幾	jaa6 gei1	1
+廿幾歲	jaa6 gei1 seoi3	1
+廿四個	jaa6 sei3 go3	1
+喫	jaak3	2
+喫屎	jaak3 si2	1
+㕭	jaau1	1
+𠯋	jai5	1
+陰	jam1	1
+音	jam1	23
+音檔	jam1 dong2	1
+音高	jam1 gou1	1
+音譯	jam1 jik6	3
+陰霾	jam1 maai4	3
+音樂	jam1 ngok6	1
+陰濕	jam1 sap1	1
+音位	jam1 wai6	2
+陰質	jam1 zat1	1
+陰騭	jam1 zat1	1
+音質	jam1 zat1	1
+陰騭嘢	jam1 zat1 je5	1
+欽州	jam1 zau1	2
+音值	jam1 zik6	1
+飲馬	jam2 maa5	1
+飲酒	jam2 zau2	1
+恁	jam6	1
+因	jan1	3
+恩	jan1	2
+恩怨	jan1 jyun3	1
+因爲	jan1 wai6	7
+印	jan3	1
+印刷	jan3 caat3	1
+人	jan4	22
+仁	jan4	2
+人哋	jan4 dei6	3
+人家	jan4 gaa1	4
+人工	jan4 gung1	2
+人兒	jan4 ji4	1
+人民日報	jan4 man4 jat6 bou3	1
+人未還	jan4 mei6 waan4	1
+人聲	jan4 seng1	1
+人爲	jan4 wai4	5
+癮嚟	jan5 lai4	1
+翕	jap1	1
+入	jap6	2
+入嚟	jap6 lai4	1
+入聲	jap6 seng1	2
+一唔係	jat m4 hai6	1
+一	jat1	10
+一併	jat1 bing3	1
+一並	jat1 bing6	1
+一部分	jat1 bou6 fan6	1
+一般	jat1 bun1	3
+一般人	jat1 bun1 jan4	1
+一切	jat1 cai3	1
+一抽一掕	jat1 cau1 jat1 ling4	2
+一次	jat1 ci3	2
+一次性	jat1 ci3 sing3	1
+一詞	jat1 ci4	1
+一大堆	jat1 daai6 deoi1	1
+一大段	jat1 daai6 dyun6	1
+一堆	jat1 deoi1	4
+一點	jat1 dim2	1
+一定	jat1 ding6	1
+一定要	jat1 ding6 jiu3	1
+一朵	jat1 do2	1
+一道	jat1 dou6	2
+一份	jat1 fan6	9
+一句講晒	jat1 gau1 gong2 saai3	1
+一句	jat1 geoi3	1
+一句話	jat1 geoi3 waa6	1
+一見	jat1 gin3	2
+一個	jat1 go3	10
+一個人	jat1 go3 jan1	2
+一個字	jat1 go3 zi6	1
+一圈圈	jat1 gyun6 gyun6	2
+一下	jat1 haa5	2
+一係	jat1 hai6	0
+一係列	jat1 hai6 lit6	1
+一起	jat1 hei2	1
+一樣	jat1 joeng6	3
+一騎絕	jat1 ke4 zyut2	1
+一類	jat1 leoi6	1
+一摞	jat1 lo3	1
+一蚊	jat1 man1	1
+一文	jat1 man4	1
+一排	jat1 paai4	0
+一批	jat1 pai1	1
+一篇	jat1 pin1	1
+一棵	jat1 po1	1
+一身	jat1 san1	1
+一些	jat1 se1	2
+一聲	jat1 seng1	1
+一歲	jat1 seoi3	1
+一天	jat1 tin1	1
+一鑊繑起	jat1 wok6 kiu5 hei2	1
+一戶	jat1 wu6	1
+一陣	jat1 zan2	1
+一陣間	jat1 zan2 gaan1	3
+一隻	jat1 zek3	1
+一精簡	jat1 zing1 gaan2	1
+一張張	jat1 zoeng1 zoeng1	1
+一種	jat1 zung2	1
+日	jat6	6
+日本	jat6 bun2	3
+日本人	jat6 bun2 jan4	5
+日化	jat6 faa3	0
+日化兩個	jat6 faa3 loeng5 go3	1
+日語	jat6 jyu5	4
+日理萬機	jat6 lei5 maan6 gei1	1
+日文	jat6 man2	4
+日聲	jat6 seng1	1
+優酷	jau1 huk6	14
+休息	jau1 sik1	1
+油門	jau2 mun4	1
+由	jau4	2
+油漆	jau4 cat1	1
+郵電	jau4 din6	2
+郵件	jau4 gin2	2
+遊戲	jau4 hei3	2
+猶疑	jau4 ji4	1
+油亮	jau4 loeng6	1
+郵碼	jau4 maa5	0
+游泳	jau4 wing6	2
+悠哉	jau4 zoi1	1
+有	jau5	53
+有啲	jau5 di1	5
+有的	jau5 dik1	1
+有點	jau5 dim2	3
+有道	jau5 dou6	10
+誘導	jau5 dou6	0
+有道翻譯	jau5 dou6 faan1 jik6	9
+誘導翻譯	jau5 dou6 faan1 jik6	1
+有毒	jau5 duk6	0
+有毒翻譯	jau5 duk6 faan1 jik6	1
+有歌詞	jau5 go1 ci4	1
+有個	jau5 go3	5
+有個問題	jau5 go3 man6 tai4	1
+有限	jau5 haan6	2
+有音	jau5 jam1	2
+有人	jau5 jan4	2
+有咩	jau5 me1	1
+有哶用	jau5 me1 jung6	1
+有冇人	jau5 mou5 jan4	2
+有沒有	jau5 mut6 jau5	3
+有啥	jau5 saa2	1
+有什麼	jau5 sam6 mo1	1
+有些	jau5 se1	3
+有需要	jau5 seoi1 jiu3	1
+有時候	jau5 si4 hau6	1
+有作	jau5 zok3	1
+又	jau6	9
+又不	jau6 bat1	0
+又不看	jau6 bat1 hon1	2
+又存在	jau6 cyun4 zoi6	1
+又㕭	jau6 jaau1	1
+又有	jau6 jau5	1
+又唔係	jau6 m4 hai6	1
+又呢又嚕	jau6 ni1 jau6 lou3	1
+又作	jau6 zok3	1
+耶魯	je4 lou5	1
+嘢	je5	4
+惹笑	je5 siu3	1
+贏	jeng4	1
+潤我	jeon6 ngo5	1
+伊	ji1	2
+咿家	ji1 gaa1	3
+醫學	ji1 hok6	1
+咿㕭	ji1 jaau1	3
+咿挹	ji1 jap1	1
+咿咿喐喐	ji1 ji1 juk1 juk1	2
+依然	ji1 jin4	1
+咿喐	ji1 juk1	1
+咿郁	ji1 juk1	1
+伊撈七	ji1 laau4 cat1	1
+意見	ji3 gin3	2
+意義	ji3 ji6	1
+意外	ji3 ngoi6	1
+意思	ji3 si1	14
+意思嗎	ji3 si1 maa1	1
+兒	ji4	2
+疑	ji4	1
+而且	ji4 ce2	2
+而非	ji4 fei1	1
+而家	ji4 gaa1	5
+而係	ji4 hai6	1
+而已	ji4 ji5	2
+而已哦哦	ji4 ji5 ngo4 ngo4	2
+爾	ji5	5
+以前	ji5 cin4	4
+已經	ji5 ging1	12
+已經有	ji5 ging1 jau5	1
+以後	ji5 hau6	5
+擬音	ji5 jam1	3
+以上	ji5 soeng6	1
+以爲	ji5 wai4	2
+以致	ji5 zi3	1
+二	ji6	2
+異讀	ji6 duk6	2
+異形	ji6 jing4	2
+異體	ji6 tai2	1
+異體字	ji6 tai2 zi6	7
+二維碼	ji6 wai4 maa5	1
+益	jik1	2
+亦	jik6	5
+俺	jim3	1
+嚴	jim4	1
+嚴格	jim4 gaak3	2
+菸廠	jin1 cong2	1
+煙花	jin1 faa1	1
+煙韌	jin1 ngan6	1
+演變	jin2 bin3	1
+燕子	jin3 zi2	1
+言	jin4	1
+研究	jin4 gau3	8
+研究結果	jin4 gau3 git3 gwo2	1
+然後	jin4 hau6	1
+研討會	jin4 tou2 wui2	1
+現代	jin6 doi6	5
+現學	jin6 hok6	0
+現在	jin6 zoi6	17
+現在的	jin6 zoi6 dik1	1
+現在使用	jin6 zoi6 sai2 jung6	1
+現在是	jin6 zoi6 si6	3
+現在是最好的時候了	jin6 zoi6 si6 zeoi3 hou2 dik1 si4 hau6 liu5	1
+應	jing1	3
+應待漢語	jing1 doi6 hon3 jyu5	1
+應該	jing1 goi1	53
+應該嘅	jing1 goi1 ge3	1
+應該係	jing1 goi1 hai6	1
+英語	jing1 jyu5	1
+英文	jing1 man2	9
+英文翻譯	jing1 man2 faan1 jik6	1
+鸚鵡	jing1 mou5	1
+英年	jing1 nin4	1
+櫻桃	jing1 tou4	1
+英華	jing1 waa4	1
+影	jing2	1
+影響	jing2 hoeng2	1
+應用	jing3 jung6	1
+應用禁衛軍	jing3 jung6 gam3 wai6 gwan1	1
+營	jing4	1
+形成	jing4 sing4	1
+認領	jing6 leng5	1
+認爲	jing6 wai4	2
+葉	jip6	1
+頁碼	jip6 maa5	6
+頁面	jip6 min2	1
+熱烈	jit6 lit6	1
+熱鬧	jit6 naau6	1
+熱心	jit6 sam1	1
+要	jiu1	17
+要啊	jiu1 aa1	1
+要不要	jiu1 bat1 jiu1	1
+妖怪	jiu1 gwaai3	1
+腰龜	jiu1 gwai1	2
+要求	jiu1 kau4	1
+要諗	jiu1 nam2	1
+要他	jiu1 taa1	1
+要他的	jiu1 taa1 dik1	1
+要永遠	jiu1 wing5 jyun5	1
+妖精	jiu1 zing1	1
+妖精	jiu2 zing1	1
+要不	jiu3 bat1	1
+要不然	jiu3 bat1 jin4	1
+要有	jiu3 jau5	1
+要死	jiu3 sei2	1
+搖擺	jiu4 baai2	1
+遙遠	jiu4 jyun5	1
+喲	jo1	1
+約定	joek3 ding6	1
+若是	joek6 si6	1
+楊	joeng4	2
+陽	joeng4	2
+陽平	joeng4 ping4	1
+養雞	joeng5 gai1	1
+養過	joeng5 gwo1	3
+樣	joeng6	1
+讓	joeng6	1
+樣式	joeng6 sik1	1
+樣子	joeng6 zi2	1
+喐	juk1	3
+郁吓	juk1 haa2	2
+郁下	juk1 haa5	2
+喐喐貢	juk1 juk1 gung3	2
+郁郁貢	juk1 juk1 gung3	1
+喐手	juk1 sau2	2
+肉隨砧板上	juk6 ceoi4 zam1 baan2 soeng6	2
+湧	jung2	2
+冗語	jung2 jyu5	1
+擁抱	jung2 pou5	2
+融合	jung4 hap6	1
+容易	jung4 ji6	3
+用	jung6	12
+用詞	jung6 ci4	2
+用得	jung6 dak1	3
+用法	jung6 faat3	1
+用過	jung6 gwo3	1
+用英語	jung6 jing1 jyu5	1
+用於	jung6 jyu1	1
+用語	jung6 jyu5	2
+用來	jung6 loi4	1
+用戶	jung6 wu6	1
+用字	jung6 zi6	1
+於	jyu1	9
+魚	jyu4	2
+如此	jyu4 ci2	2
+魚翅	jyu4 ci3	1
+如今	jyu4 gam1	1
+如果	jyu4 gwo2	9
+如何	jyu4 ho4	1
+與	jyu5	1
+語氣	jyu5 hei3	1
+語音	jyu5 jam1	1
+語言	jyu5 jin4	2
+語言學	jyu5 jin4 hok6	1
+語料	jyu5 liu2	3
+雨蛙	jyu5 waa1	1
+語	jyu6	1
+預備性	jyu6 bei6 sing3	1
+遇到	jyu6 dou2	4
+院	jyun2	1
+元	jyun4	1
+原	jyun4	1
+完畢	jyun4 bat1	2
+原本	jyun4 bun2	1
+原始	jyun4 ci2	1
+完全	jyun4 cyun4	3
+完全沒有	jyun4 cyun4 mut6 jau5	1
+完全使用了	jyun4 cyun4 sai2 jung6 liu5	1
+圓揼朵	jyun4 dam4 doe2	1
+圓氹朵	jyun4 dam4 doe4	1
+原調	jyun4 diu6	1
+緣分	jyun4 fan6	2
+原來	jyun4 loi4	9
+元塱	jyun4 long5	1
+元朗	jyun4 long5	1
+原文	jyun4 man4	3
+完美	jyun4 mei5	1
+原先	jyun4 sin1	1
+完成	jyun4 sing4	4
+元素	jyun4 sou3	0
+遠	jyun5	2
+遠程	jyun5 cing4	1
+遠近	jyun5 gan6	2
+月	jyut6	3
+粵	jyut6	1
+說	jyut6	0
+越	jyut6	4
+月北	jyut6 bak1	1
+粵典	jyut6 din2	1
+說典籍	jyut6 din2 zik6	1
+粵語	jyut6 jyu5	28
+越語	jyut6 jyu5	1
+月亮	jyut6 loeng6	1
+粵拼	jyut6 ping3	3
+越秀	jyut6 sau3	1
+卡	kaa1	4
+咖	kaa1	1
+卡片	kaa1 pin3	2
+卡罅	kaa3 laa1	1
+坎坎糊	kaan2 kaan2 wu2	1
+靠近	kaau3 gan6	1
+靠人	kaau3 jan4	1
+溪水	kai1 seoi2	2
+啓於	kai2 jyu1	1
+冚	kam2	2
+琴	kam4	0
+琴青青	kam4 ceng1 ceng1	1
+擒騎	kam4 ke4	1
+妗母	kam5 mou2	1
+近	kan5	1
+鯁	kang2	1
+級	kap1	1
+給	kap1	3
+給你	kap1 nei5	0
+卡片	kat1 pin2	1
+購置	kau3 zi3	1
+茄喱啡	ke1 le1 fe1	1
+騎樓	ke4 lau2	1
+騎咧	ke4 le1	1
+奇離	ke4 le4	3
+騎呢拐	ke4 le4 gwaai2	2
+暨大	kei3 daai6	1
+其	kei4	0
+奇	kei4	1
+其不起來	kei4 bat1 hei2 loi4	1
+奇妙	kei4 miu6	1
+奇妙的東西	kei4 miu6 dik1 dung1 sai1	1
+奇葩	kei4 paa1	1
+其實	kei4 sat6	8
+其實呢	kei4 sat6 ne1	1
+其他	kei4 taa1	15
+其他三份	kei4 taa1 saam1 fan6	1
+區	keoi1	0
+區別	keoi1 bit6	2
+區分	keoi1 fan1	2
+佢	keoi5	14
+佢哋	keoi5 dei6	7
+佢都	keoi5 dou1	1
+佢話	keoi5 waa6	1
+𠵇𠺫	keu4 leu1	2
+缼	kik1	1
+𠽤嚦𡃈嘞	kik1 lik1 kaak1 laak1	1
+傾	king1	1
+傾向	king1 hoeng3	1
+傾訴	king1 sou3	1
+𥈲	kip1	2
+揭	kit3	1
+轎	kiu2	1
+竅	kiu3	3
+繑起	kiu5 hei2	1
+可惱也	ko1 naau1 je1	1
+卻	koek3	1
+強	koeng4	1
+強行	koeng5 hang4	1
+強求	koeng5 kau4	0
+概況	koi3 fong3	1
+概念	koi3 nim6	1
+毃	kok3	1
+確定	kok3 ding6	2
+確定好	kok3 ding6 hou2	1
+確實	kok3 sat6	4
+狂	kong4	1
+誇	kwaa1	3
+掛	kwaa3	1
+跨	kwaa3	2
+𡁸	kwaak1	1
+𡃈	kwaak1	1
+規律	kwai1 leot6	1
+規劃	kwai1 waak6	1
+困難	kwan3 naan4	1
+羣	kwan4	2
+裙襬	kwan4 baai2	0
+羣裏面	kwan4 leoi5 min6	1
+㚚	kwang1	1
+隙	kwik1	8
+隟	kwik1	2
+擴充	kwok3 cung1	9
+擴充	kwong3 cung1	2
+權限	kyun4 haan6	1
+權威	kyun4 wai1	2
+權威性	kyun4 wai1 sing3	1
+蕨	kyut3	1
+缺點	kyut3 dim2	2
+缺個	kyut3 go3	1
+了	la3	2
+嘞	la3	15
+嘞啩	la3 gwaa3	1
+啦	laa1	6
+揦	laa2	1
+揦返拃沙	laa2 faan1 zaa6 saa1	1
+揦手唔成勢	laa2 sau2 m4 sing4 sai3	1
+揦鮓	laa2 zaa2	1
+喇	laa3	11
+啦啦聲	laa4 laa2 seng1	1
+啦啦林	laa4 laa4 lam4	1
+拿拿淋	laa4 laa4 lam4	1
+嗱喳	laa5 zaa2	1
+揦苴	laa5 zaa2	1
+藞䕢	laa5 zaa2	5
+拉拉	laai1 laai1	0
+殀殀哂哂	laai4 laai4 saai4 saai4	1
+賴	laai6	1
+瀨粉	laai6 fan2	1
+瀨尿	laai6 niu6	1
+嘞	laak3	3
+攬炒	laam2 caau2	2
+杬角	laam5 gok3	1
+欄式	laan4 sik1	1
+懶	laan5	1
+懶得	laan5 dak1	2
+懶音	laan5 jam1	4
+爛	laan6	0
+爛單車	laan6 daan1 ce1	1
+唥	laang1	3
+冷衫	laang1 saam1	1
+冷	laang5	1
+蠟青	laap6 cing1	1
+摎攪	laau2 gaau6	1
+戾手	lai2 sau2	2
+來	lai4	2
+嚟	lai4	9
+嚟得	lai4 dak1	1
+來㗎	lai4 gaa3	1
+嚟緊頭	lai4 gan2 tau2	1
+來嘅	lai4 ge3	1
+來個	lai4 go3	1
+嚟講	lai4 gong2	1
+黎野	lai4 je5	1
+嚟料	lai4 liu2	1
+來料	lai4 liu6	1
+嚟睇	lai4 tai2	1
+例	lai6	2
+捩	lai6	1
+厲害	lai6 hoi6	6
+例如	lai6 jyu4	6
+例如個	lai6 jyu4 go3	1
+甩咳	lak1 kak1	2
+嘞	lak3	1
+冧	lam1	2
+冧人	lam1 jan4	1
+林野	lam4 je5	1
+林亦	lam4 jik6	1
+臨時	lam4 si4	1
+凜抌	lam5 dam2	1
+lunch	lan1 cyu2	1
+撚	lan2	2
+𠹌	lan2	1
+𡳞	lan2	1
+𨶙	lan2	2
+𠹹	lan4	1
+立	lap6	2
+立人	lap6 jan4	1
+甩	lat1	3
+摟	lau1	4
+褸	lau1	2
+樓䏽	lau4 bau6	2
+劉邦	lau4 bong1	2
+流程	lau4 cing4	1
+流野	lau4 je5	2
+留意	lau4 ji3	2
+留言	lau4 jin4	4
+留言過來	lau4 jin4 gwo3 lai4	1
+瀏覽器	lau4 laam5 hei3	2
+流水	lau4 seoi2	1
+流域	lau4 wik6	1
+留住	lau4 zyu6	1
+柳州	lau5 zau1	0
+柳州人	lau5 zau1 jan4	1
+漏	lau6	2
+漏口	lau6 hau2	1
+漏夜	lau6 je6	1
+呢	le1	1
+咧	le4	1
+離氣	le4 he3	2
+𠻗𠺪	le4 he3	1
+䟩	le5	1
+離別	lei4 bit6	1
+狸貓	lei4 maau1	8
+㛋	lei5	1
+妳	lei5	3
+理	lei5	4
+裏邊	lei5 bin6	1
+理解成	lei5 gaai2 sing4	1
+李煜	lei5 juk1	1
+利	lei6	1
+利益	lei6 jik1	3
+利是	lei6 si6	1
+叻馬	lek1 maa5	1
+僆	leng1	1
+僆琼	leng1 keng1	2
+僆妹	leng1 mui1	1
+僆妹	leng1 mui6	1
+靚	leng3	1
+靈擎	leng4 keng4	8
+裏	leoi5	3
+裏面	leoi5 min6	2
+類似	leoi6 ci5	1
+類型	leoi6 jing4	2
+累死	leoi6 sei2	2
+論文	leon6 man2	9
+𠺫	leu1	1
+哩	li1	1
+哩啦	li1 laa1	1
+哩囉	li1 lo4	1
+叻㗎	lik1 gaa2	1
+歷史	lik6 si2	3
+廉	lim4	1
+燫	lim4	1
+覝	lim4	1
+連	lin4	1
+連針	lin4 zam1	1
+鏈接	lin4 zip3	7
+拎	ling1	2
+靈魂	ling4 wan4	1
+能械	ling6 haai6	1
+另一	ling6 jat1	0
+另一點	ling6 jat1 dim2	1
+另一個	ling6 jat1 go3	1
+另一種	ling6 jat1 zung2	1
+另外	ling6 ngoi6	3
+列	lit6	1
+列有	lit6 jau5	2
+𠮩𠹌	liu1 lang1	1
+聊	liu4	1
+了	liu5	108
+瞭解	liu5 gaai2	4
+瞭解過	liu5 gaai2 gwo1	1
+了嗎	liu5 maa1	2
+囉柚	lo1 jau2	1
+籮柚	lo1 jau2	2
+蘿柚	lo1 jau2	1
+籮噼	lo1 pet1	1
+𦣇噼	lo1 pet1	1
+囉唆	lo1 so1	2
+攞	lo2	2
+攞出	lo2 ceot1	0
+攞出嚟	lo2 ceot1 lai4	1
+裸睡	lo2 seoi6	1
+囉	lo4	5
+羅經	lo4 gaang1	1
+羅馬	lo4 maa5	0
+羅馬音	lo4 maa5 jam1	1
+羅嗦	lo4 so1	2
+羅梭	lo4 so1	1
+𠼱	loe1	1
+𦧲	loe1	2
+兩日	loeng2 jat6	1
+兩種	loeng2 zung2	2
+梁	loeng4	1
+良	loeng4	1
+量	loeng4	1
+梁祝	loeng4 zuk1	1
+兩	loeng5	1
+兩讀	loeng5 duk6	1
+兩份	loeng5 fan2	2
+兩個	loeng5 go3	1
+兩個人	loeng5 go3 jan4	1
+兩江	loeng5 gong1	1
+兩音	loeng5 jam1	2
+兩粵	loeng5 jyut6	2
+兩者	loeng5 ze2	2
+亮	loeng6	1
+量詞	loeng6 ci4	1
+踉蹡	loeng6 coeng1	1
+踉蹌	loeng6 coeng3	1
+來	loi4	11
+來源	loi4 jyun4	7
+淶源	loi4 jyun4	1
+樂	lok6	1
+洛	lok6	3
+落	lok6	5
+樂趣	lok6 ceoi3	1
+落去	lok6 heoi3	1
+落紅	lok6 hung4	1
+落嚟	lok6 lai4	1
+落雪	lok6 syut3	1
+啷	long1	1
+𠺘口	long2 hau2	1
+郎	long4	2
+浪口	long4 hau2	1
+浪口洗面	long4 hau2 sai2 min6	1
+㙟	long5	1
+塱	long5	3
+朗	long5	2
+㙟東	long5 dung1	1
+埌東	long5 dung1	1
+朗東	long5 dung1	2
+㚂	long6	1
+埌	long6	1
+浪費	long6 fai3	0
+浪費的人	long6 fai3 dik1 jan4	1
+嚕	lou1	4
+撈	lou1	1
+撈嘢	lou1 je5	1
+老	lou5	4
+老襯	lou5 can3	1
+老竇	lou5 dau6	3
+老地方	lou5 dei6 fong1	1
+老友	lou5 jau5	1
+老嘢	lou5 je5	1
+老禽騎	lou5 kam4 ke4	2
+老齧齧	lou5 ngaat6 ngaat6	1
+老派	lou5 paai1	0
+老派音	lou5 paai1 jam1	1
+老師	lou5 si1	1
+老城區	lou5 sing4 keoi1	0
+老城區人	lou5 sing4 keoi1 jan4	1
+老運	lou5 wan6	1
+碌	luk1	1
+碌𨳍	luk1 cat6	1
+淥親	luk6 can1	1
+淥親手指	luk6 can1 sau2 zi2	1
+錄入	luk6 jap6	1
+蘢蔥	lung4 cung1	1
+聾蟲	lung4 cung4	1
+亂咁	lyun2 gam3	1
+聯繫	lyun4 hai6	4
+亂七八糟	lyun6 cat1 baat3 zou1	3
+亂立立	lyun6 lap6 lap6	1
+亂嗮龍	lyun6 saai3 lung4	1
+䫓	m4	3
+䮏	m4	2
+唔	m4	19
+嘸	m4	1
+唔保留	m4 bou2 lau4	1
+唔拆	m4 caak3	1
+唔清楚	m4 cing1 co2	2
+唔搭八	m4 daap3 baat3	1
+唔嘚	m4 dak1	1
+唔得切	m4 dak1 cit3	1
+䫓等會	m4 dang2 wui5	1
+唔多	m4 do1	2
+唔到	m4 dou2	1
+唔訪遍	m4 fong2 pin3	1
+唔夠	m4 gau3	3
+唔夠包容	m4 gau3 baau1 jung4	1
+唔見	m4 gin3	0
+唔個處理	m4 go3 cyu2 lei5	1
+唔該嗮	m4 goi1 saai3	1
+唔喺	m4 hai2	5
+唔係	m4 hai6	10
+唔係呀話	m4 hai6 aa3 waa2	1
+唔係好好	m4 hai6 hou2 hou2	1
+唔可以	m4 ho2 ji5	2
+唔可能	m4 ho2 nang4	1
+唔好	m4 hou2	10
+唔好意思	m4 hou2 ji3 si1	1
+唔一定	m4 jat1 ding6	1
+䫓強求	m4 koeng5 kau4	1
+唔留	m4 lau4	4
+唔撈	m4 lou1	1
+唔難	m4 naan4	1
+唔能	m4 nang4	1
+唔刪	m4 saan1	2
+唔使	m4 sai2	3
+唔使啦	m4 sai2 laa1	1
+唔收	m4 sau1	2
+唔信	m4 seon3	1
+唔成	m4 sing4	1
+唔少	m4 siu2	1
+唔想	m4 soeng2	1
+唔選	m4 syun2	0
+唔會	m4 wui2	2
+唔䎺	m4 zai3	5
+唔制	m4 zai3	1
+唔知	m4 zi1	9
+唔做嘢	m4 zou6 je5	1
+嗎	maa1	28
+媽叉	maa1 caa1	1
+孖叉	maa1 caa1	1
+螞蝗	maa1 wong4	1
+嘛	maa4	3
+麻	maa4	2
+麻查	maa4 caa4	3
+麻煩	maa4 faan4	0
+麻將	maa4 zoeng3	1
+碼錶	maa5 biu1	1
+碼表	maa5 biu2	19
+馬累	maa5 leoi5	0
+碼頭	maa5 tau4	1
+螞蟥	maa5 wong4	1
+馬扎	maa5 zaat3	2
+罵死	maa6 sei2	1
+埋	maai4	2
+買不起	maai5 bat1 hei2	1
+賣	maai6	4
+慢下手	maan2 haa5 sau2	1
+晚	maan5	1
+晚清	maan5 cing1	1
+晚讀	maan5 duk6	1
+晚修	maan5 sau1	1
+晚些	maan5 se1	1
+晚睡	maan5 seoi6	1
+晚上	maan5 soeng6	1
+慢	maan6	2
+萬	maan6	1
+萬詞	maan6 ci4	1
+萬里	maan6 lei5	1
+慢慢	maan6 maan2	2
+掹瘕	maang1 haa1	1
+抹布	maat3 bou3	1
+貓	maau1	4
+貓兒	maau1 ji4	1
+貓貓	maau1 maau1	1
+咪	mai1	13
+咪住	mai1 zyu6	1
+迷惑	mai4 waak6	1
+咪	mai5	2
+米	mai5	1
+咪嚤	mai5 mo1	1
+蚊瞓	man1 fan3	1
+抆	man2	3
+文本	man4 bun2	1
+文本檔	man4 bun2 dong2	1
+文檔	man4 dong2	1
+文化	man4 faa3	1
+文化志	man4 faa3 zi3	1
+文革	man4 gaak3	1
+文件	man4 gin2	8
+文獻	man4 hin3	5
+文學	man4 hok6	1
+文字	man4 zi6	8
+文章	man4 zoeng1	2
+民族	man4 zuk6	2
+憫	man5	1
+文	man6	1
+問下	man6 haa5	4
+問佢	man6 keoi5	1
+問你	man6 nei5	1
+問題	man6 tai4	25
+問題都	man6 tai4 dou1	1
+問題很多	man6 tai4 han2 do1	1
+問題相當的多	man6 tai4 soeng1 dong1 dik1 do1	1
+掹瘕	mang1 haa1	1
+萌	mang4	4
+乜	mat1	2
+乜東東	mat1 dung1 dung1	1
+乜嘢	mat1 je5	1
+乜嚟嘎	mat1 lai4 gaa1	1
+乜你	mat1 nei5	1
+襪	mat6	1
+密碼	mat6 maa5	2
+牟利	mau4 lei6	1
+某些	mau5 se1	1
+茂利	mau6 lei2	1
+茂里	mau6 lei2	1
+咩	me1	12
+咩嘢	me1 je5	1
+咩問題	me1 man6 tai4	1
+咩時候	me1 si4 hau6	1
+微	mei4	1
+微博	mei4 bok3	1
+微信	mei4 seon3	3
+美國	mei5 gwok3	1
+未	mei6	4
+未必	mei6 bit1	0
+未必一個	mei6 bit1 jat1 go3	1
+味道	mei6 dou6	0
+未見	mei6 gin3	1
+未空	mei6 hung3	1
+未有	mei6 jau5	1
+寐水	mei6 seoi2	1
+未還	mei6 waan4	0
+未知	mei6 zi1	2
+名	meng2	3
+命	meng6	1
+咪嚒	mi1 mo1	2
+咪摩	mi1 mo1	3
+面板	min6 baan2	2
+面對	min6 deoi3	1
+麪條	min6 tiu4	1
+名	ming4	1
+明	ming4	2
+明白	ming4 baak6	1
+名詞	ming4 ci4	1
+明朝	ming4 ciu4	2
+明朝體	ming4 ciu4 tai2	1
+名單	ming4 daan1	2
+名氣	ming4 hei3	1
+明顯	ming4 hin2	3
+名言	ming4 jin4	1
+朙月	ming4 jyut6	3
+名名	ming4 meng2	1
+明天	ming4 tin1	1
+皿	ming5	1
+命名	ming6 ming4	1
+命運	ming6 wan6	2
+嚤	mo1	1
+麼	mo1	1
+摸	mo2	2
+磨	mo4	1
+莫	mok6	1
+幕後	mok6 hau6	1
+芒果	mong1 gwo2	7
+亡	mong4	1
+忘	mong4	2
+忙	mong4	3
+忙得	mong4 dak1	2
+忘記	mong4 gei3	1
+忙死了	mong4 sei2 liu5	1
+妄	mong5	2
+網	mong5	4
+網絡	mong5 lok3	5
+網民	mong5 man4	1
+網盤	mong5 pun4	1
+網上	mong5 soeng6	3
+網站	mong5 zaam6	2
+唔好喐	mou2 juk1	2
+無	mou4	4
+模板	mou4 baan2	1
+無錯	mou4 co3	1
+無法	mou4 faat3	3
+無啦啦	mou4 laa1 laa1	1
+無聊	mou4 liu4	1
+無物	mou4 mat6	0
+毛皮	mou4 pei4	1
+無需	mou4 seoi1	1
+無事	mou4 si6	1
+無償	mou4 soeng4	0
+無字	mou4 zi6	1
+冇	mou5	32
+母	mou5	2
+冇啊	mou5 aa1	1
+冇辦法	mou5 baan6 faat3	1
+冇必要	mou5 bit1 jiu1	1
+冇郵碼	mou5 jau4 maa5	1
+冇有	mou5 jau5	1
+冇嘢	mou5 je5	1
+冇問題	mou5 man6 tai4	1
+冇那麼多	mou5 naa5 mo1 do1	1
+舞臺	mou5 toi4	5
+墓園	mou6 jyun4	1
+玫瑰	mui4 gwai3	0
+玫瑰向	mui4 gwai3 hoeng3	1
+玫瑰味道	mui4 gwai3 mei6 dou6	1
+每次	mui5 ci3	1
+每過	mui5 gwo3	1
+每一個	mui5 jat1 go3	2
+目	muk6	1
+目標	muk6 biu1	1
+目前	muk6 cin4	2
+們	mun4	3
+矇查查	mung4 caa4 caa4	1
+矇査査	mung4 caa4 caa4	1
+蒙查查	mung4 caa4 caa4	1
+夢	mung6	1
+夢想	mung6 soeng2	2
+沒	mut6	15
+沒辦法	mut6 baan6 faat3	1
+沒有	mut6 jau6	29
+沒有不可打的字	mut6 jau6 bat1 ho2 daa2 dik1 zi6	1
+沒有不能打	mut6 jau6 bat1 nang4 daa2	2
+沒有不能打的	mut6 jau6 bat1 nang4 daa2 dik1	1
+沒有那個	mut6 jau6 naa5 go3	1
+沒有什麼東西	mut6 jau6 sam6 mo1 dung1 sai1	1
+沒留意	mut6 lau4 ji3	1
+沒說	mut6 syut3	1
+沒聽過	mut6 teng1 gwo3	1
+沒怎麼	mut6 zam2 mo1	1
+那	naa1	9
+𠸎	naa1	1
+那好	naa1 hou2	1
+哪能	naa1 nang4	1
+那純淨	naa1 seon4 zing6	1
+那還好	naa1 waan4 hou2	1
+那這樣	naa1 ze3 joeng6	1
+俹簁	naa2 sai1	2
+哪	naa4	3
+拿	naa4	1
+拿來	naa4 loi4	2
+那不	naa5 bat1	0
+那不收	naa5 bat1 sau1	1
+那邊	naa5 bin1	5
+那份	naa5 fan6	1
+那個	naa5 go3	5
+哪一個	naa5 jat1 go3	1
+哪有	naa5 jau5	2
+哪裏	naa5 leoi5	1
+那裏	naa5 leoi5	1
+那麼多	naa5 mo1 do1	0
+那麼多的東西	naa5 mo1 do1 dik1 dung1 sai1	1
+那我	naa5 ngo5	5
+那些	naa5 se1	1
+那是	naa5 si6	1
+那就	naa5 zau6	1
+那種	naa5 zung2	1
+喃	naam4	1
+南腔北調	naam4 hong1 bak1 diu6	1
+南無	naam4 mo2	0
+南寧	naam4 ning4	23
+南寧市	naam4 ning4 si5	1
+南寧話	naam4 ning4 waa6	1
+難	naan4	2
+難得	naan4 dak1	2
+難能	naan4 nang4	1
+難找	naan4 zaau2	1
+焫雞	naat3 gai1	1
+泥來	nai4 loi4	3
+𥻚	nam1	1
+惗	nam2	1
+諗	nam2	13
+諗過	nam2 gwo3	1
+諗下	nam2 haa5	1
+稔	nam5	1
+撚	nan2	1
+褦	nang3	1
+能	nang4	12
+能不能	nang4 bat1 nang4	1
+能夠	nang4 gau3	4
+能夠的	nang4 gau3 dik1	1
+能夠使用	nang4 gau3 sai2 jung6	1
+能解	nang4 haai6	1
+能力	nang4 lik6	3
+粒	nap1	6
+粒聲唔出	nap1 seng1 m4 ceot1	1
+𣲷	nap6	4
+𣲷懦	nap6 no6	1
+𥹉懦	nap6 no6	2
+嬲	nau1	2
+呢	ne1	8
+呢	nei1	2
+呢班	nei1 baan1	1
+呢道	nei1 dou6	1
+呢幾次	nei1 gei2 ci3	1
+呢呢	nei4 ne1	1
+你	nei5	29
+妳	nei5	2
+你不去	nei5 bat1 heoi3	1
+你不是	nei5 bat1 si6	1
+你哋	nei5 dei6	4
+你都有	nei5 dou1 jau5	1
+你嘅	nei5 ge3	2
+你個	nei5 go3	1
+你管	nei5 gun2	1
+你可以	nei5 ho2 ji5	1
+你看	nei5 hon3	0
+你看看	nei5 hon3 hon1	1
+你好	nei5 hou2	1
+你有	nei5 jau5	3
+你有沒有	nei5 jau5 mut6 jau6	1
+你要	nei5 jiu1	3
+你嚟	nei5 lai4	1
+你老尾	nei5 lou5 mei5	1
+你媽	nei5 maa1	1
+你冇	nei5 mou5	1
+你們	nei5 mun4	3
+你們要	nei5 mun4 jiu1	1
+你那	nei5 naa5	3
+你那邊	nei5 naa5 bin1	1
+你諗	nei5 nam2	1
+你啱先	nei5 ngaam1 sin1	1
+你內心的	nei5 noi6 sam1 dik1	1
+你睇	nei5 tai2	1
+你睇都未	nei5 tai2 dou1 mei6	1
+你睇下	nei5 tai2 haa5	1
+你提到	nei5 tai4 dou2	1
+你會	nei5 wui5	1
+你怎麼	nei5 zam2 mo1	1
+你就是	nei5 zau6 si6	2
+你在	nei5 zoi6	1
+女	neoi5	2
+女孩	neoi5 haai4	1
+嗯	ng2	1
+嗯嗯	ng2 ng2	1
+吳	ng4	6
+吳語	ng4 jyu5	1
+午	ng5	1
+五個字	ng5 go3 zi6	1
+五一	ng5 jat1	2
+誤會	ng6 wui6	2
+誤作	ng6 zok3	1
+阿啱	ngaa2 ngaam1	1
+牙	ngaa4	1
+牙刷	ngaa4 caat2	1
+牙擦	ngaa4 caat3	1
+牙齒	ngaa4 ci2	1
+伢伢仔	ngaa4 ngaa1 zai2	1
+掗埞	ngaa6 deng6	1
+掗拃	ngaa6 zaa6	1
+捱飢抵餓	ngaai4 gei1 dai2 ngo6	1
+捱饑抵餓	ngaai4 gei1 dai2 ngo6	1
+捱夜	ngaai4 je2	1
+眲	ngaak1	2
+呃鬼食豆腐	ngaak1 gwai2 sik6 dau6 fu6	1
+額𥕏𥕏	ngaak6 gwak6 gwak6	1
+啱	ngaam1	12
+啱好	ngaam1 hou2	2
+啱牙	ngaam1 ngaa4	1
+啱啱	ngaam1 ngaam1	6
+啱先	ngaam1 sin1	1
+晏晝	ngaan3 zau3	1
+眼瞓	ngaan5 fan3	1
+眼甘甘	ngaan5 gam1 gam1	1
+眼金金	ngaan5 gam1 gam1	1
+眼矇矇	ngaan5 mung1 mung1	1
+眼睛	ngaan5 zing1	1
+硬	ngaang6	1
+硬邦邦	ngaang6 bong1 bong1	1
+硬𥕏𥕏	ngaang6 gwak6 gwak6	1
+㳌	ngaap3	1
+擪	ngaap3	1
+堨	ngaat3	2
+扤	ngaat6	1
+𢯎嗮頭	ngaau1 saai3 tau4	1
+拗爛腳	ngaau3 laan6 goek3	1
+咬	ngaau5	1
+㙠	ngai1	1
+𠼮	ngai1	3
+噅求	ngai1 kau4	1
+眲	ngak1	2
+奀	ngan1	2
+䟴	ngan3	3
+䟴腳	ngan3 goek3	1
+䟴䟴腳	ngan3 ngan3 goek3	1
+印印腳	ngan3 ngan3 goek3	1
+銀	ngan4	1
+噏	ngap1	4
+噏風	ngap1 fung1	1
+勾	ngau1	2
+鏂	ngau1	2
+牛巴	ngau4 baa1	7
+牛頓	ngau4 deon1	1
+牛一	ngau4 jat1	1
+牛王	ngau4 wong4	1
+牛雜	ngau4 zaap6	1
+𡃀𡃀	nge4 nge1	1
+哦哦	ngo4 ngo4	0
+我	ngo5	124
+我不	ngo5 bat1	0
+我不查	ngo5 bat1 caa4	1
+我不熟	ngo5 bat1 suk6	1
+我突然	ngo5 dat6 jin4	1
+我哋	ngo5 dei6	9
+我啲	ngo5 di1	1
+我都	ngo5 dou1	9
+我都不知道	ngo5 dou1 bat1 zi1 dou3	1
+我都係	ngo5 dou1 hai6	2
+我都可以睇	ngo5 dou1 ho2 ji5 tai2	1
+我都沒有	ngo5 dou1 mut6 jau5	1
+我都是	ngo5 dou1 si6	1
+我都想	ngo5 dou1 soeng2	1
+我感覺	ngo5 gam2 gok3	1
+我更	ngo5 gang1	1
+我角	ngo5 gok3	1
+我覺得	ngo5 gok3 dak1	2
+我係咪	ngo5 hai6 mai6	1
+我也	ngo5 jaa5	13
+我也不知道	ngo5 jaa5 bat1 zi1 dou6	1
+我也發現	ngo5 jaa5 faat3 jin6	1
+我也是	ngo5 jaa5 si6	1
+我有	ngo5 jau5	3
+我以前	ngo5 ji5 cin4	1
+我以爲	ngo5 ji5 wai4	2
+我現在	ngo5 jin6 zoi6	1
+我要	ngo5 jiu1	2
+我用	ngo5 jung6	1
+我如果	ngo5 jyu4 gwo2	1
+我唔清楚	ngo5 m4 cing1 co2	1
+我唔算	ngo5 m4 syun3	1
+我問	ngo5 man6	1
+我們	ngo5 mun4	8
+我們的	ngo5 mun4 dik1	1
+我們亦	ngo5 mun4 jik6	1
+我們是	ngo5 mun4 si6	2
+我沒有	ngo5 mut6 jau5	1
+我先	ngo5 sin1	1
+我所	ngo5 so2	1
+我想	ngo5 soeng2	1
+我想了	ngo5 soeng2 liu5	1
+我睇	ngo5 tai2	1
+我懷疑	ngo5 waai4 ji4	1
+我還是	ngo5 waan4 si6	1
+我還在	ngo5 waan4 zoi6	1
+我就	ngo5 zau6	5
+我就是	ngo5 zau6 si6	1
+我就知道	ngo5 zau6 zi1 dou3	1
+我這	ngo5 ze3	1
+我知道	ngo5 zi1 dou6	1
+我只	ngo5 zi2	0
+我衹	ngo5 zi2	1
+我衹係	ngo5 zi2 hai6	1
+我只能	ngo5 zi2 nang4	1
+我只是	ngo5 zi2 si6	1
+我自己	ngo5 zi6 gei2	3
+外	ngoi6	2
+外底	ngoi6 dai2	3
+外公	ngoi6 gung1	1
+外國	ngoi6 gwok3	2
+外文	ngoi6 man2	5
+外面	ngoi6 min6	1
+外網	ngoi6 mong5	1
+外母	ngoi6 mou2	1
+岳	ngok6	1
+岳陽	ngok6 joeng4	1
+戇𨳊𨳊	ngong6 gau1 gau1	1
+傲嬌	ngou6 giu1	1
+呢	ni1	6
+呢次	ni1 ci3	1
+呢啲	ni1 di1	1
+呢嚿	ni1 gau6	1
+呢個	ni1 go3	4
+呢一排	ni1 jat1 paai4	1
+呢囉	ni1 lo4	1
+呢兩個	ni1 loeng5 go3	1
+呢隻	ni1 zek3	1
+抳	ni4	3
+搦	nik1	1
+念頭	nim6 tau4	1
+脌	nin1	3
+𢆡	nin1	2
+𢆡姑	nin1 gu1	1
+年	nin4	8
+年代	nin4 doi6	1
+年老	nin4 lou5	1
+寧	ning4	2
+擰	ning4	1
+寧夏	ning4 haa6	1
+寧願	ning4 jyun2	2
+鳥	niu5	1
+脲	niu6	1
+尿尿	niu6 niu6	1
+內	noi6	1
+內部	noi6 bou6	2
+內容	noi6 jung4	4
+內蒙	noi6 mung4	1
+內心	noi6 sam1	3
+囊括	nong4 kut3	0
+囊括一切	nong4 kut3 jat1 cai3	1
+鬞	nung4	1
+鬞出來	nung4 ceot1 loi4	1
+弄	nung6	3
+痾蛋	o1 daan2	1
+屙啡啡	o1 fe4 fe2	1
+屙㗻	o1 go6	1
+哦	o2	25
+嚄	o2	1
+哦哦	o2 o2	2
+娭姐	oi1 ze2	1
+愛	oi3	4
+愛情	oi3 cing4	3
+愛情公寓	oi3 cing4 gung1 jyu6	3
+愛𠱥	oi3 fik1	1
+愛過	oi3 gwo1	1
+愛好	oi3 hou3	1
+愛奇藝	oi3 kei4 ngai6	3
+愛上	oi3 soeng6	2
+愛上你	oi3 soeng6 nei5	2
+愛他	oi3 taa1	1
+惡意	ok3 ji3	1
+安	on1	1
+安排	on1 paai4	1
+按	on3	1
+案	on3	1
+按理	on3 lei5	2
+按照	on3 ziu3	3
+奧	ou3	1
+澳門	ou3 mun2	1
+怕	paa3	1
+袙	paa3	1
+爬蟲	paa4 cung4	1
+爬山	paa4 saan1	1
+派	paai3	2
+排	paai4	2
+排除	paai4 ceoi4	3
+排序	paai4 zeoi6	5
+拍	paak3	2
+拍拍手	paak3 paak3 sau2	1
+𨭌唥	paang1 laang1	1
+澎湃	paang4 baai3	2
+泡	paau1	5
+跑	paau2	1
+跑去	paau2 heoi3	1
+跑來	paau2 loi4	1
+跑面	paau2 min6	1
+炮仗	paau3 zoeng2	1
+炮竹	paau3 zuk1	1
+頻率	pan4 leot2	2
+朋友	pang4 jau5	2
+披	pei1	2
+皮	pei4	1
+噼噼	pet1 pet1	1
+pat	pet6	1
+篇	pin1	1
+編寫	pin1 se2	1
+片過	pin2 gwo3	1
+片	pin3	3
+遍佈	pin3 bou3	1
+片面	pin3 min6	1
+拼音	ping1 jam1	3
+砰拎棒冷	ping1 ling1 paang1 laang1	1
+乒乒乓乓	ping1 ping1 pong1 pong1	1
+拼音	ping3 jam1	2
+拼命	ping3 ming6	1
+平	ping4	1
+平話	ping4 waa6	9
+飄	piu1	1
+漂泊	piu1 bok6	1
+朴	piu4	2
+破譯	po3 jik6	5
+朴槿惠	pok3 gan2 wai6	1
+鋪	pou1	1
+普通	pou2 tung1	0
+普通通話	pou2 tung1 tung1 waa6	1
+普通話	pou2 tung1 waa2	7
+鋪	pou3	1
+袍	pou4	1
+徘徊	pui4 wui4	1
+陪住	pui4 zyu6	1
+仆街	puk1 gaai1	2
+仆咗	puk1 zo2	1
+判斷	pun3 dyun3	3
+卅	saa1 aa6	1
+沙煲	saa1 bou1	2
+砂煲	saa1 bou1	1
+沙蟲	saa1 cung2	1
+紗羅	saa1 lo4	1
+沙面	saa1 min2	1
+砂磨	saa1 mo4	2
+沙井	saa1 zeng2	2
+啥	saa2	2
+洒	saa2	1
+啥撲	saa2 pok3	1
+沙哩弄銃	saa4 li1 lung6 cung3	2
+哂	saai3	1
+嗮	saai3	18
+曬	saai3	1
+索	saak3	1
+三	saam1	1
+三份	saam1 fan6	4
+三成	saam1 sing4	1
+三種	saam1 zung2	3
+刪	saan1	2
+山	saan1	1
+刪除	saan1 ceoi4	3
+刪掉	saan1 diu6	1
+刪去	saan1 heoi3	1
+山旮旯	saan1 kaa1 laa1	1
+山旯旮	saan1 kaa1 laa1	1
+刪咗	saan1 zo2	1
+生	saang1	1
+㨘	saang2	6
+䚇	saang2	1
+省	saang2	1
+㨘鏡	saang2 geng3	3
+省略	saang2 loek6	1
+省略號	saang2 loek6 hou6	3
+霎氣	saap3 hei3	1
+𤆣	saap6	2
+捎	saau1	1
+鞘過	saau1 gwo1	1
+稍	saau2	1
+稍後	saau2 hau6	1
+西	sai1	1
+西鄉塘	sai1 hoeng1 tong4	1
+西樓	sai1 lau4	1
+使	sai2	4
+洗澡	sai2 cou3	1
+使得	sai2 dak1	1
+使用	sai2 jung6	15
+使用了	sai2 jung6 liu5	1
+使用嗎	sai2 jung6 maa1	1
+使唔使	sai2 m4 sai2	1
+洗面	sai2 min6	1
+洗身	sai2 san1	1
+細	sai3	2
+世界	sai3 gaai3	2
+世間	sai3 gaan1	1
+細路	sai3 lou6	1
+細ngai1	sai3 ngai1	1
+細藝	sai3 ngai6	1
+世事	sai3 si6	0
+世事無償	sai3 si6 mou4 soeng4	1
+細節	sai3 zit3	3
+細節中	sai3 zit3 zung1	2
+塞	sak1	2
+心動	sam1 dung6	0
+心動的	sam1 dung6 dik1	1
+心急	sam1 gap1	1
+深海	sam1 hoi2	0
+深海裏	sam1 hoi2 leoi5	1
+心也	sam1 jaa5	1
+深淵	sam1 jyun1	1
+新抱	sam1 pou5	1
+深圳	sam1 zan3	1
+心醉	sam1 zeoi3	1
+糝	sam2	1
+沈澱	sam2 din6	1
+審定	sam2 ding6	2
+滲透	sam3 tau3	1
+什麼	sam6 mo1	26
+什麼讀咁啱	sam6 mo1 duk6 gam2 ngaam1	1
+什麼東西	sam6 mo1 dung1 sai1	21
+什麼東西可以	sam6 mo1 dung1 sai1 ho2 ji3	1
+什麼樣	sam6 mo1 joeng6	1
+什麼排東西	sam6 mo1 paai4 dung1 sai1	1
+什麼字	sam6 mo1 zi6	1
+甚至	sam6 zi3	2
+新	san1	4
+身	san1	1
+辛	san1	1
+新版	san1 baan2	1
+辛苦	san1 fu2	1
+辛苦嗮	san1 fu2 saai3	1
+新疆佬	san1 goeng1 lou2	1
+身㷫	san1 hing3	1
+新型	san1 jing4	2
+新嚟	san1 lai4	0
+新嚟報道	san1 lai4 bou3 dou6	1
+神了	san1 liu5	1
+新浪	san1 long4	1
+新抱	san1 pou5	1
+新臺	san1 toi4	1
+新華字典	san1 waa4 zi6 din2	1
+神憎鬼厭	san2 zang1 gwai2 jim3	1
+神奇	san4 kei4	2
+神台	san4 toi2	1
+神枱	san4 toi4	1
+生	sang1	1
+生僻	sang1 pik1	0
+生僻字	sang1 pik1 zi6	2
+濕腯腯	sap1 det6 det6	1
+十拿九穩	sap6 naa4 baat3 wan2	1
+失去	sat1 heoi3	1
+失魂	sat1 wan4	2
+實用	sat6 jung6	2
+實屬	sat6 suk6	1
+實穩	sat6 wan2	1
+收	sau1	2
+修訂	sau1 ding3	2
+收到	sau1 dou2	1
+修復	sau1 fuk6	21
+修復咗	sau1 fuk6 zo2	1
+搜狗	sau1 gau2	23
+修改	sau1 goi2	4
+收過	sau1 gwo3	1
+收錄	sau1 luk6	3
+收成	sau1 sing4	1
+收集	sau1 zaap6	1
+修正	sau1 zing3	7
+手	sau2	3
+首	sau2	1
+手鈪	sau2 aak2	1
+手鏡	sau2 geng3	1
+手銬	sau2 kaau3	1
+手裏	sau2 leoi5	0
+手裏邊	sau2 leoi5 bin1	1
+搜索	sau2 sok3	3
+手肘	sau2 zau2	1
+瘦蜢蜢	sau3 maang2 maang2	1
+授權	sau6 kyun4	2
+受傷	sau6 soeng1	1
+些	se1	2
+寫	se2	6
+寫錯	se2 co3	1
+寫低	se2 dai1	1
+寫得	se2 dak1	1
+寫代碼	se2 doi6 maa5	1
+寫個	se2 go3	1
+寫入	se2 jap6	1
+寫來	se2 lai4	1
+寫寫	se2 se2	1
+寫詩	se2 si1	1
+寫成	se2 sing4	2
+蛇	se4	1
+蛇吓先	se4 haa2 sin1	1
+蛇下	se4 haa5	1
+社科	se5 fo1	1
+社會	se5 wui2	1
+死	sei2	2
+死嘞	sei2 laak3	1
+死了	sei2 liu5	0
+卌	sei3 aa6	1
+四川	sei3 cyun1	1
+四份	sei3 fan6	5
+四個	sei3 go3	0
+四鄉	sei3 hoeng1	1
+四字	sei3 zi6	1
+惜	sek3	1
+石	sek6	1
+石基	sek6 gei1	1
+石碁	sek6 kei4	1
+石碁站	sek6 kei4 zaam6	1
+碩士	sek6 si6	2
+聲	seng1	2
+聲屌	seng1 diu2	1
+聲調	seng1 diu6	5
+尿	seoi1	1
+雖然	seoi1 jin4	1
+需要	seoi1 jiu3	3
+水	seoi2	1
+水貨	seoi2 fo3	1
+水勼油	seoi2 kau1 jau4	1
+水平	seoi2 ping4	1
+誰寫	seoi2 se2	1
+歲	seoi3	1
+垂髫	seoi4 tiu4	1
+睡吧	seoi6 baa6	3
+瑞典	seoi6 din2	1
+㨚	seon1	1
+囟門	seon2 mun4	1
+信	seon3	4
+訊飛	seon3 fei1	2
+瞬間	seon3 gaan1	1
+信息	seon3 sik1	3
+純粹	seon4 seoi5	1
+純淨	seon4 zing6	1
+順便	seon6 bin2	1
+蟀子	seot1 zi2	2
+思	si1	2
+詩	si1	2
+獅子	si1 zi2	1
+屎橋	si2 kiu2	2
+史奴比	si2 nou4 bei2	1
+史努比	si2 nou5 bei2	1
+試	si3	0
+試過	si3 gwo3	1
+試下	si3 haa5	1
+試一下	si3 jat1 haa5	1
+思源	si3 jyun4	1
+時	si4	2
+時間	si4 gaan1	4
+時候	si4 hau6	9
+時期	si4 kei4	1
+時哩沙啦	si4 li1 saa4 laa4	1
+市	si5	2
+市長	si5 zoeng2	1
+事	si6	12
+是	si6	71
+是啊	si6 aa1	4
+是不是	si6 bat1 si6	3
+是的	si6 dik1	2
+是的啊	si6 dik1 aa2	1
+是否	si6 fau2	2
+是否獨立	si6 fau2 duk6 lap6	1
+視覺	si6 gok3	1
+是可以	si6 ho2 ji3	1
+是一座	si6 jat1 zo6	0
+是有	si6 jau5	1
+是嗎	si6 maa1	3
+是喔	si6 o1	3
+是啥	si6 saa2	1
+是什麼	si6 sam6 mo1	7
+是這樣	si6 ze5 joeng6	1
+是在	si6 zoi6	1
+息	sik1	3
+色情	sik1 cing4	1
+蟋蟀	sik1 seot1	1
+食晏	sik6 aan3	1
+食嘢	sik6 je5	1
+食堂	sik6 tong4	1
+閃耀	sim2 jiu6	1
+閃爧	sim2 leng6	2
+單片	sim4 pin2	1
+先	sin1	11
+先得	sin1 dak1	1
+先至	sin1 zi3	1
+扇	sin3	1
+線	sin3	3
+線上	sin3 soeng6	2
+扇子	sin3 zi2	1
+倩	sin6	1
+星	sing1	1
+醒神	sing2 san4	2
+性	sing3	4
+成	sing4	10
+城堡	sing4 bou2	0
+成才	sing4 coi4	1
+城區	sing4 keoi1	0
+城區人	sing4 keoi1 jan4	1
+城內	sing4 noi6	1
+成世	sing4 sai3	1
+城市	sing4 si5	2
+成爲	sing4 wai4	2
+𤗈	sip3	1
+涉及	sip3 kap6	1
+竊	sit3	2
+舌	sit3	3
+竊格瓦拉	sit3 gaak3 ngaa5 laai1	1
+燒	siu1	1
+燒地球	siu1 dei6 kau4	1
+宵夜	siu1 je6	1
+消失	siu1 sat1	1
+小	siu2	5
+少	siu2	2
+少部分	siu2 bou6 fan1	1
+小清新	siu2 cing1 san1	1
+小格瓦拉	siu2 gaak3 ngaa5 laai1	1
+小雞	siu2 gai1	2
+小鏡	siu2 geng3	1
+少見	siu2 gin3	0
+小學	siu2 hok6	3
+小學堂	siu2 hok6 tong4	3
+小區	siu2 keoi1	3
+少量	siu2 loeng4	1
+小愛	siu2 oi3	1
+小朋友	siu2 pang4 jau5	1
+少少	siu2 siu2	2
+少數	siu2 sou3	1
+小說	siu2 syut3	1
+笑	siu3	2
+笑哭	siu3 huk1	1
+笑臉	siu3 lim5	1
+笑了	siu3 liu5	1
+笑咪咪	siu3 mi1 mi1	1
+少女	siu3 neoi5	1
+少年	siu3 nin4	2
+所有	so2 jau5	2
+所有人	so2 jau5 jan4	1
+所以	so2 ji5	9
+瑣碎	so2 seoi3	1
+瑣事	so2 si6	2
+傻叉	so4 caa1	2
+傻傻	so4 so4	1
+勺子	soek3 zi2	1
+相當	soeng1 dong1	1
+相當於	soeng1 dong1 jyu1	1
+相反	soeng1 faan2	3
+相關	soeng1 gwaan1	5
+相熟	soeng1 suk6	1
+相爭	soeng1 zang1	1
+想	soeng2	10
+想到	soeng2 dou3	1
+想法	soeng2 faat3	1
+想看	soeng2 hon3	1
+想好	soeng2 hou2	1
+想你	soeng2 nei5	1
+想念	soeng2 nim6	2
+想找	soeng2 zaau2	1
+常	soeng4	4
+常見	soeng4 gin3	1
+常用	soeng4 jung6	2
+上	soeng5	12
+上不去	soeng5 bat1 heoi3	1
+上去	soeng5 heoi3	4
+上海	soeng5 hoi2	1
+上嚟	soeng5 lai2	1
+上山	soeng5 saan1	2
+上身	soeng5 san1	1
+上線	soeng5 sin3	5
+上知乎	soeng5 zi1 fu4	1
+尚	soeng6	1
+上邊	soeng6 bin1	9
+上邊有	soeng6 bin1 jau5	1
+上便	soeng6 bin6	1
+上次	soeng6 ci3	1
+上傳	soeng6 cyun4	2
+上古	soeng6 gu2	7
+尚溢居	soeng6 jat6 geoi1	1
+上面	soeng6 min6	2
+上雜	soeng6 zaap6	1
+嗍氣	sok3 hei3	1
+桑拿	son1 naa4	1
+爽爽	song2 song2	0
+short-short哋	sot1 sot1 dei2	1
+騷	sou1	1
+臊孲	sou1 haa1	3
+蘇蝦	sou1 haa1	1
+數	sou2	2
+數操作	sou2 cou1 zok3	1
+數據源	sou2 geoi3 jyun4	1
+數據	sou3 geoi3	14
+數據庫	sou3 geoi3 fu3	3
+掃墓	sou3 mou6	2
+數字	sou3 zi6	2
+叔叔	suk1 suk1	2
+屬於	suk6 jyu1	1
+熟語	suk6 jyu5	1
+鬆緊	sung1 gan2	1
+鬆景苑	sung1 ging2 jyun2	1
+鬆骨	sung1 gwat1	1
+送	sung3	1
+送你	sung3 nei5	1
+㞞	sung4	1
+書	syu1	3
+書簽	syu1 cim1	1
+輸入	syu1 jap6	1
+輸入法	syu1 jap6 faat3	6
+書面	syu1 min2	1
+輸進	syu1 zeon3	2
+書籍	syu1 zik6	1
+樹	syu6	1
+宣傳	syun1 cyun4	1
+宣讀	syun1 duk6	1
+選	syun2	2
+選擇	syun2 zaak6	2
+算	syun3	1
+算罷啦	syun3 baa2 laa1	1
+算吧	syun3 baa6	1
+算不了	syun3 bat1 liu5	1
+算下來	syun3 haa5 loi4	1
+算係	syun3 hai6	1
+算算	syun3 syun3	0
+算算塞塞	syun3 syun3 sak1 sak1	1
+旋律	syun4 leot2	1
+說	syut3	5
+雪櫃	syut3 gwai6	1
+說略	syut3 loek6	1
+說明	syut3 ming4	4
+說說	syut3 syut3	1
+他	taa1	3
+它	taa1	1
+他的	taa1 dik1	0
+他覺得	taa1 gok3 dak1	1
+他們	taa1 mun4	4
+他者	taa1 ze2	1
+他自己	taa1 zi6 gei2	1
+太	taai3	6
+太大	taai3 daai6	1
+太多	taai3 do1	2
+太多人	taai3 do1 jan4	1
+太巧妙	taai3 haau2 miu6	1
+太好	taai3 hou2	1
+太容易	taai3 jung4 ji6	1
+太慢	taai3 maan6	1
+太子	taai3 zi2	3
+談	taam4	2
+談情	taam4 cing4	2
+談點	taam4 dim2	1
+談過	taam4 gwo3	1
+亶	taan2	1
+碳	taan3	1
+彈	taan4	1
+塌地	taap3 dei6	1
+達地	taat3 dei6	1
+睇	tai2	4
+睇到	tai2 dou2	2
+睇過	tai2 gwo3	1
+睇下	tai2 haa6	2
+體系	tai2 hai6	1
+體系化	tai2 hai6	2
+體育西路	tai2 juk6 sai1 lou6	1
+睇住	tai2 zyu6	1
+提	tai4	4
+提取	tai4 ceoi2	4
+題署	tai4 cyu5	2
+提到	tai4 dou2	1
+提供	tai4 gung1	4
+提議	tai4 ji5	1
+提醒	tai4 seng2	1
+提示	tai4 si6	3
+提升	tai4 sing1	1
+𧨾	tam3	3
+𧨾下	tam3 haa5	1
+嗿人	tam3 jan4	2
+氹人	tam3 jan4	1
+氹氹轉	tam4 tam2 zyun3	3
+凼凼轉	tam5 tam5 zyun2	2
+氹仔	tam5 zai2	1
+吞併	tan1 bing3	1
+吞㿺	tan1 pok1	2
+疼	tang4	1
+騰訊	tang4 seon3	2
+𠸊	tap1	3
+偷跑	tau1 paau2	1
+偷竊	tau1 sit3	1
+敨	tau2	1
+唞大氣	tau2 daai6 hei3	1
+敨大氣	tau2 daai6 hei6	1
+透明	tau3 ming4	1
+透明像	tau3 ming4 zoeng6	1
+頭刺	tau4 cek3	2
+頭赤	tau4 cek3	1
+頭嗒嗒	tau4 dap1 dap1	2
+頭髮	tau4 faat3	1
+頭箍	tau4 ku1	1
+頭盔	tau4 kwai1	2
+頭痛	tau4 tung3	2
+頭痛嘅	tau4 tung3 ge3	1
+頭暈	tau4 wan4	1
+踢開	tek3 hoi1	1
+廳	teng1	1
+聽	teng1	1
+聽診	teng1 can2	1
+聽過	teng1 gwo3	1
+聽你	teng1 nei5	1
+推	teoi1	1
+推廣	teoi1 gwong2	1
+推理	teoi1 lei5	1
+推送	teoi1 sung3	2
+退休	teoi3 jau1	1
+㖭	tim1	1
+添在	tim1 zoi6	0
+甜蜜	tim4 mat6	1
+天	tin1	1
+天才	tin1 coi4	1
+天跌落	tin1 dit3 lok6	1
+天高	tin1 gou1	1
+天下	tin1 haa6	1
+天氣	tin1 hei3	4
+天空	tin1 hung1	1
+天空裏	tin1 hung1 leoi5	3
+天蠍座	tin1 kit3 zo6	1
+天堂	tin1 tong4	4
+天津	tin1 zeon1	1
+天子	tin1 zi2	1
+田	tin4	1
+填補	tin4 bou2	1
+聽寫	ting1 se2	1
+聽說	ting1 syut3	2
+挺有	ting2 jau5	2
+停	ting4	2
+停車場	ting4 ce1 coeng4	1
+亭子	ting4 zi2	3
+挺	ting5	3
+挺喺度	ting5 hai2 dou6	1
+貼	tip3	1
+跌打	tit3 daa2	1
+鐵樹	tit3 syu6	1
+鐵說	tit3 syut3	1
+跳轉	tiu3 zyun2	2
+調低	tiu4 dai1	2
+調過	tiu4 gwo3	1
+條條揈	tiu4 tiu2 fing6	2
+陀螺	to4 lo4	1
+台	toi4	1
+檯	toi4	1
+臺	toi4	4
+湯老鴨	tong1 lou5 aap3	1
+躺下	tong2 haa6	0
+躺下了	tong2 haa6 liu5	1
+唐	tong4	2
+堂	tong4	1
+土	tou2	1
+討厭	tou2 jim3	1
+討論	tou2 leon4	4
+圖	tou4	2
+桃花	tou4 faa1	2
+圖片	tou4 pin2	1
+禿驢	tuk1 leoi4	1
+通	tung1	2
+通過	tung1 gwo3	5
+通話	tung1 waa6	1
+通知	tung1 zi1	1
+通志	tung1 zi3	1
+統計	tung2 gai3	1
+統一	tung2 jat1	1
+同	tung4	15
+同詞	tung4 ci4	1
+同牀	tung4 cong4	1
+同學	tung4 hok6	1
+同一個	tung4 jat1 go3	0
+同一個字	tung4 jat1 go3 zi6	1
+同意	tung4 ji3	1
+童謠	tung4 jiu4	5
+同源	tung4 jyun4	2
+同佢	tung4 keoi5	1
+銅鑼灣	tung4 lo4 waan1	1
+同樂	tung4 lok6	2
+同我	tung4 ngo5	2
+同時	tung4 si4	5
+屋	uk1	3
+屋檐	uk1 jim4	1
+屋簷	uk1 sim4	2
+哇	waa1	5
+華沙	waa4 saa1	1
+華	waa6	4
+話	waa6	8
+話那是	waa6 naa5 si6	1
+話嗮佢都係你老豆	waa6 saai3 keoi5 dou1 hai6 nei5 lou5 dau2	1
+話說	waa6 syut3	1
+懷舊	waai4 gau6	1
+懷疑	waai4 ji4	2
+畫	waak6	1
+劃分	waak6 fan1	1
+劃拳	waak6 kyun4	1
+或者	waak6 ze2	4
+彎曲	waan1 kuk1	1
+玩遊戲	waan2 jau4 hei3	1
+玩	waan4	3
+還	waan4	5
+玩過	waan4 gwo3	2
+還行	waan4 hang4	1
+還吃	waan4 hek3	1
+還好	waan4 hou2	0
+還有	waan4 jau5	6
+還有件	waan4 jau5 gin6	1
+還原	waan4 jyun4	1
+還沒	waan4 mut6	2
+還是	waan4 si6	10
+還在	waan4 zoi6	2
+橫	waang1	1
+橫縣	waang4 jyun6	4
+橫豎	waang4 syu6	1
+挖	waat3	1
+滑	waat6	1
+喂	wai3	1
+維基百科	wai4 gei1 baak3 fo1	1
+遺留	wai4 lau4	1
+爲乜	wai4 mat1	1
+爲我	wai4 ngo5	0
+爲我開始	wai4 ngo5 hoi1 ci2	1
+爲皮	wai4 pei2	1
+爲啥	wai4 saa1	2
+爲咗	wai4 zo2	1
+偉	wai5	1
+位	wai6	2
+爲	wai6	6
+爲什麼	wai6 sam6 mo1	3
+爲食貓	wai6 sik6 maau1	1
+溫度	wan1 dou6	1
+搵	wan2	3
+搵到	wan2 dou2	1
+搵嘅	wan2 ge2	1
+搵來講	wan2 lai4 gong2	1
+搵唔到	wan2 m4 dou2	1
+穩妥	wan2 to5	2
+雲	wan4	1
+勻巡	wan4 ceon4	2
+勻循	wan4 ceon4	1
+雲路	wan4 lou6	0
+雲路行	wan4 lou6 haang4	1
+允許	wan5 heoi2	1
+韻	wan6	2
+韻典網	wan6 din2 mong5	1
+混行	wan6 hang4	1
+運路	wan6 lou6	2
+運路行	wan6 lou6 hang4	1
+混亂	wan6 lyun6	1
+混淆	wan6 ngaau4	5
+屈氣	wat1 hei3	1
+鬱氣	wat1 hei3	1
+鶻突	wat6 dat6	1
+依哇鬼叫	wi1 waa1 gwai2 giu3	1
+域	wik6	1
+域外	wik6 ngoi6	2
+永不	wing5 bat1	0
+永不失去	wing5 bat1 sat1 heoi3	1
+永遠	wing5 jyun5	1
+永寧	wing5 ning4	0
+永寧區	wing5 ning4 keoi1	1
+窩	wo1	6
+窩蛋	wo1 daan6	1
+喎呵	wo1 ho2	1
+喎妥	wo3 to5	1
+和	wo4	26
+和你	wo4 nei5	1
+和尚	wo4 soeng2	1
+喎	wo5	5
+獲取	wok6 ceoi2	1
+獲知	wok6 zi1	1
+黃	wong4	2
+黃口大道	wong4 hau2 daai6 dou3	1
+皇后大道	wong4 hau6 daai6 dou6	1
+黃連	wong4 lin4	1
+王牌	wong4 paai2	6
+皇上	wong4 soeng6	1
+黃爽爽	wong4 song2 song2	1
+往後	wong5 hau6	1
+往右邊	wong5 jau6 bin1	1
+烏	wu1	1
+烏龜	wu1 gwai1	1
+烏杬	wu1 laam2	1
+烏欖	wu1 laam2	1
+烏哩單刀	wu1 li1 daan1 dou1	1
+烏喱馬叉	wu1 li1 maa1 caa1	1
+污哩馬查	wu1 li1 maa5 caa5	1
+烏搲	wu1 we2	1
+胡	wu4	1
+胡猜	wu4 caai1	1
+胡哩馬叉	wu4 li1 maa5 caa1	1
+互相	wu6 soeng1	1
+回	wui4	2
+回到	wui4 dou3	1
+回覆	wui4 fuk1	2
+回去	wui4 heoi3	2
+回憶	wui4 jik1	1
+回信	wui4 seon3	1
+回事	wui4 si6	1
+會	wui5	9
+會有	wui5 jau5	1
+會有影響	wui5 jau5 jing2 hoeng2	1
+會有什麼	wui5 jau5 sam6 mo1	1
+彙總	wui6 zung2	2
+援助	wun4 zo6	1
+換	wun6	3
+換行	wun6 hong4	1
+換了	wun6 liu5	1
+換成	wun6 sing4	1
+咋	zaa1	1
+抓	zaa1	1
+查	zaa1	1
+咋了	zaa1 liu5	1
+咋嘛	zaa1 maa3	1
+渣男	zaa1 naam4	1
+摣正嚟做	zaa1 zing1 lai4 zou6	1
+詐騙	zaa3 pin3	1
+齋飯	zaai1 faan6	1
+矺	zaak3	1
+砸	zaak3	1
+砸言	zaak3 jin4	1
+宅	zaak6	1
+澤	zaak6	1
+擇言	zaak6 jin4	2
+斬	zaam2	1
+斬料	zaam2 liu2	1
+眨眼	zaam2 ngaan5	1
+站	zaam6	1
+暫時	zaam6 si4	6
+暫停	zaam6 ting4	1
+贊助	zaan3 zo6	3
+爭	zaang1	1
+爭啲	zaang1 di1	1
+爭交	zaang1 gaau1	1
+䂻	zaang6	2
+䂻飽	zaang6 baau2	1
+砸	zaap3	3
+砸針	zaap3 zam1	1
+集	zaap6	5
+集叢	zaap6 cung4	1
+習慣	zaap6 gwaan3	2
+集中	zaap6 zung1	1
+找	zaau2	2
+找不到	zaau2 bat1 dou3	2
+仔	zai2	2
+濟	zai3	1
+瘈	zai3	1
+製作	zai3 zok3	1
+則	zak1	3
+側側膊	zak1 zak1 bok3	1
+鍼灸	zam1 gau3	1
+斟斟	zam1 zam1	1
+怎樣	zam2 joeng6	1
+怎麼	zam2 mo1	14
+怎麼回事	zam2 mo1 wui4 si6	1
+真	zan1	0
+真切	zan1 cit3	1
+真大	zan1 daai6	1
+真諦	zan1 dai3	1
+真的	zan1 dik1	8
+真的可以	zan1 dik1 ho2 ji3	2
+真的可以了	zan1 dik1 ho2 ji3 liu5	2
+真的可以嗎	zan1 dik1 ho2 ji5 maa1	4
+真的完美了	zan1 dik1 jyun4 mei5 liu5	1
+真的嗎	zan1 dik1 maa1	17
+真的是	zan1 dik1 si6	0
+真的是可以	zan1 dik1 si6 ho2 ji3	1
+真係	zan1 hai6	1
+真好	zan1 hou2	1
+真愛	zan1 oi3	1
+真實	zan1 sat6	2
+真實的人	zan1 sat6 dik1 jan4	1
+真是	zan1 si6	1
+真正	zan1 zing3	2
+陣	zan6	1
+陣間	zan6 gaan1	2
+掙	zang1	1
+曾	zang1	1
+增加	zang1 gaa1	4
+爭相	zang1 soeng1	1
+增值	zang1 zik6	1
+執	zap1	3
+執笠	zap1 lap1	1
+執正	zap1 zeng3	1
+質量	zat1 loeng6	1
+州	zau1	1
+週邊	zau1 bin1	1
+走	zau2	1
+走的	zau2 dik1	1
+走開	zau2 hoi1	1
+走遍	zau2 pin3	2
+走精面	zau2 zing1 min6	1
+就	zau6	28
+就不要緊	zau6 bat1 jiu3 gan2	1
+就差	zau6 caa1	1
+就得	zau6 dak1	6
+就得嘞	zau6 dak1 la3	1
+就係	zau6 hai6	3
+就行	zau6 hang4	1
+就可以	zau6 ho2 ji5	8
+就好	zau6 hou2	1
+就有	zau6 jau5	1
+就唔係	zau6 m4 hai6	1
+就唔選	zau6 m4 syun2	1
+就無物必要	zau6 mou4 mat6 bit1 jiu3	1
+就冇	zau6 mou5	1
+就我	zau6 ngo5	1
+就是	zau6 si6	17
+就先	zau6 sin1	1
+就算	zau6 syun3	2
+就算了	zau6 syun3 liu5	1
+就算是這樣	zau6 syun3 si6 ze5 joeng6	1
+就說	zau6 syut3	2
+啫	ze1	3
+嗟	ze1	1
+姐係話	ze1 hai6 waa6	2
+者	ze2	2
+這	ze3	8
+這輩子	ze3 bui3 zi2	1
+這本書	ze3 bun2 syu1	2
+這份	ze3 fan6	2
+這方面	ze3 fong1 min6	1
+這感覺	ze3 gam2 gok3	1
+這個	ze3 go3	23
+這也	ze3 jaa5	1
+這一切	ze3 jat1 cai3	1
+這樣	ze3 joeng6	11
+這樣啊	ze3 joeng6 aa1	2
+這樣打字	ze3 joeng6 daa2 zi6	1
+這樣的	ze3 joeng6 dik1	1
+這樣的話	ze3 joeng6 dik1 waa6	2
+這樣都可以了	ze3 joeng6 dou1 ho2 ji5 liu5	1
+這樣可以	ze3 joeng6 ho2 ji3	2
+這樣呢	ze3 joeng6 ne1	1
+這樣就	ze3 joeng6 zau6	1
+這裏	ze3 leoi5	3
+這兩個	ze3 loeng2 go3	1
+這兩天	ze3 loeng2 tin1	1
+這麼	ze3 mo1	5
+這麼大	ze3 mo1 daai6	1
+這麼多	ze3 mo1 do1	1
+這麼毒	ze3 mo1 duk6	1
+這麼貴	ze3 mo1 gwai3	1
+這麼晚	ze3 mo1 maan5	1
+這篇	ze3 pin1	1
+這三份	ze3 saam1 fan6	1
+這三個	ze3 saam1 go3	1
+這首	ze3 sau2	2
+這些	ze3 se1	5
+這集	ze3 zaap6	1
+這就	ze3 zau6	1
+這次	ze5 ci3	3
+這下	ze5 haa6	1
+這樣子	ze5 joeng6 zi2	0
+這樣子的方法	ze5 joeng6 zi2 dik1 fong1 faat3	1
+這麼快	ze5 mo1 faai3	2
+這是	ze5 si6	2
+這是哪	ze5 si6 naa4	1
+這種	ze5 zung2	1
+謝	ze6	1
+隻	zek3	3
+鄭	zeng6	2
+最	zeoi3	2
+最全面	zeoi3 cyun4 min6	2
+最多	zeoi3 do1	1
+最近	zeoi3 gan6	1
+最後	zeoi3 hau6	1
+最後一天	zeoi3 hau6 jat1 tin1	1
+最好	zeoi3 hou2	2
+最好的	zeoi3 hou2 dik1	0
+最屘	zeoi3 mei1	2
+最新	zeoi3 san1	1
+最新版	zeoi3 san1 baan2	1
+最疼	zeoi3 tang4	1
+最早	zeoi3 zou2	3
+敘事	zeoi6 si6	2
+準備	zeon2 bei6	3
+儘快	zeon2 faai3	1
+儘量	zeon2 loeng6	4
+準時	zeon2 si4	3
+進度	zeon3 dou6	1
+䆯	zeot1	1
+卒	zeot1	1
+黢	zeot1	1
+卒之	zeot1 zi1	3
+卒子	zeot1 zi2	1
+之	zi1	5
+知	zi1	4
+枝椏	zi1 aa1	1
+支持	zi1 ci4	1
+之前	zi1 cin4	5
+之得	zi1 dak1	1
+知道	zi1 dou3	6
+知乎	zi1 fu4	46
+支付寶	zi1 fu6 bou2	1
+之間	zi1 gaan1	2
+之後	zi1 hau6	2
+資源	zi1 jyun4	1
+之類	zi1 leoi2	3
+資料庫	zi1 liu2 fu3	1
+資料	zi1 liu6	16
+之嘛	zi1 maa3	1
+知網	zi1 mong5	5
+姿態	zi1 taai3	3
+只	zi2	5
+子	zi2	4
+只不過	zi2 bat1 gwo3	1
+只因	zi2 jan1	1
+只有	zi2 jau5	3
+只能	zi2 nang4	2
+衹能	zi2 nang4	2
+只能看	zi2 nang4 hon3	1
+只能說	zi2 nang4 syut3	1
+只能這麼說	zi2 nang4 ze3 mo1 syut3	1
+仔細	zi2 sai3	0
+仔細調查	zi2 sai3 diu6 caa4	1
+只是	zi2 si6	1
+指示	zi2 si6	0
+祇是	zi2 si6	1
+只是個	zi2 si6 go3	1
+指示性	zi2 si6 sing3	1
+祇是說	zi2 si6 syut3	1
+只知道	zi2 zi1 dou3	1
+志	zi3	2
+致	zi3	1
+至於	zi3 jyu1	2
+智慧	zi3 wai3	2
+置於	zi3 wu1	4
+字	zi6	65
+字表	zi6 biu2	6
+字詞	zi6 ci4	1
+字詞表	zi6 ci4 biu2	2
+字典	zi6 din2	11
+自定義	zi6 ding6 ji6	1
+自動	zi6 dung6	1
+字庫	zi6 fu3	2
+字符	zi6 fu4	1
+伺服器	zi6 fuk6 hei3	1
+自家	zi6 gaa1	1
+自己	zi6 gei2	6
+自古	zi6 gu2	1
+字海	zi6 hoi2	5
+自學	zi6 hok6	1
+字音	zi6 jam1	18
+字音表	zi6 jam1 biu2	1
+自然	zi6 jin4	1
+字形	zi6 jing4	8
+字頻	zi6 pan4	7
+字體	zi6 tai2	16
+即	zik1	2
+積分	zik1 fan1	1
+職工	zik1 gung1	1
+即係	zik1 hai6	1
+即可	zik1 ho2	1
+夕	zik6	1
+直程	zik6 cing4	1
+值得	zik6 dak1	1
+寂寞	zik6 mok6	4
+直頭	zik6 tau4	1
+直接	zik6 zip3	2
+尖	zim1	1
+佔領	zim3 ling5	1
+煎熬	zin1 ngou4	3
+剪哩羅	zin2 le1 lo4	1
+正呃	zing1 ak1	1
+精彩	zing1 coi2	1
+精簡	zing1 gaan2	2
+正因爲	zing1 jan1 wai4	1
+正嘢	zing1 je5	1
+精力	zing1 lik6	1
+正式	zing1 sik1	1
+整	zing2	5
+整理	zing2 lei5	5
+整理過	zing2 lei5 gwo1	1
+整條	zing2 tiu4	1
+正音	zing3 jam1	6
+正確	zing3 kok3	1
+正誤	zing3 ng6	1
+正則	zing3 zak1	3
+正字	zing3 zi6	1
+正在	zing3 zoi6	1
+剩低	zing6 dai1	2
+剩返	zing6 faan2	1
+剩下	zing6 haa6	1
+靜音	zing6 jam1	1
+接下來	zip3 haa6 loi4	1
+接受	zip3 sau6	0
+接受命運	zip3 sau6 ming6 wan6	1
+接觸	zip3 zuk1	1
+節	zit3	1
+哲學	zit3 hok6	0
+哲學書	zit3 hok6 syu1	1
+節目	zit3 muk6	1
+節奏	zit3 zau3	1
+朝	ziu1	1
+招引	ziu1 jan5	1
+招牌	ziu1 paai4	1
+焦頭爛額	ziu1 tau4 laan6 ngaak6	2
+照顧	ziu3 gu3	1
+噍	ziu6	1
+𡁻	ziu6	1
+咗	zo2	17
+左	zo2	2
+咗佢	zo2 keoi5	2
+左手	zo2 sau2	1
+啫啫	zoe1 zoe1	5
+脧脧	zoe1 zoe1	1
+啫啫雞	zoe1 zoe1 gai1	1
+勺	zoek3	2
+着衣	zoek3 ji1	1
+着	zoek6	2
+將	zoeng1	9
+張	zoeng1	4
+章	zoeng1	1
+張衛健	zoeng1 wai6 gin6	1
+將會	zoeng1 wui2	1
+蔣介石	zoeng2 gaai3 sek6	1
+長者	zoeng2 ze2	0
+長者陽	zoeng2 ze2 joeng4	1
+帳號	zoeng3 hou4	3
+像	zoeng6	5
+象拔	zoeng6 bat6	2
+再	zoi3	7
+再等	zoi3 dang2	1
+再多	zoi3 do1	0
+再加	zoi3 gaa1	2
+在	zoi6	4
+在意	zoi6 ji3	2
+在線	zoi6 sin3	9
+在他	zoi6 taa1	0
+在他時馬累	zoi6 taa1 si4 maa5 leoi5	1
+作	zok3	4
+作了	zok3 liu5	1
+作爲	zok3 wai4	1
+作者	zok3 ze2	4
+䁓	zong1	1
+莊	zong1	1
+租	zou1	1
+租戶	zou1 wu6	1
+早	zou2	2
+組	zou2	2
+早婚	zou2 fan1	1
+祖語	zou2 jyu5	6
+早期	zou2 kei4	2
+組成	zou2 sing4	1
+早上	zou2 soeng5	1
+組織	zou2 zik1	1
+做	zou6	4
+做過	zou6 gwo3	1
+做一天和尚，撞一天鐘	zou6 jat1 tin1 wo4 soeng2 zong6 jat1 tin1 zung1	1
+做嘢	zou6 je5	1
+做乜嘢	zou6 mat1 je5	1
+做事	zou6 si6	1
+做成	zou6 sing4	1
+做咗手腳	zou6 zo2 sau2 goek3	1
+足夠	zuk1 gau3	2
+俗	zuk6	1
+族	zuk6	1
+中	zung1	23
+中訪問量	zung1 fong2 man6 loeng6	1
+中間	zung1 gaan1	1
+中古	zung1 gu2	3
+中古音	zung1 gu2 jam1	1
+中國	zung1 gwok3	2
+中意	zung1 ji3	1
+鍾意	zung1 ji3	2
+中英	zung1 jing1	1
+中央	zung1 joeng1	1
+終於	zung1 jyu1	2
+鐘樓	zung1 lau4	1
+中文	zung1 man2	8
+縱橫	zung1 waang4	1
+總	zung2	1
+總共	zung2 gung6	2
+總算	zung2 syun3	1
+中大	zung3 daai6	1
+衆多	zung3 do1	2
+仲	zung6	5
+重	zung6	2
+重點	zung6 dim2	1
+重估	zung6 gu2	1
+仲有	zung6 jau5	5
+重有	zung6 jau5	3
+重要	zung6 jiu3	2
+仲唔	zung6 m4	0
+仲唔夠	zung6 m4 gau3	1
+重視	zung6 si6	1
+珠江	zyu1 gong1	1
+珠江賓館	zyu1 gong1 ban1 gun2	1
+主觀	zyu2 gun1	1
+主頁	zyu2 jip6	1
+主要	zyu2 jiu3	6
+主流	zyu2 lau4	1
+註冊	zyu3 caak3	2
+註冊過	zyu3 caak3 gwo1	1
+註釋	zyu3 sik1	3
+住	zyu6	2
+住過	zyu6 gwo3	1
+專登	zyun1 dang1	2
+專家	zyun1 gaa1	1
+專業	zyun1 jip6	2
+磚窯	zyun1 jiu4	1
+專門	zyun1 mun2	0
+專門放	zyun1 mun2 fong3	1
+轉	zyun2	5
+轉吓眼	zyun2 haa2 ngaan5	1
+轉成	zyun2 sing4	3
+轉軚	zyun2 taai5	1
+轉換	zyun2 wun6	5
+絶	zyut6	1
+絕對	zyut6 deoi3	1
+絕種	zyut6 zung2	1
