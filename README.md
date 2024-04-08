@@ -4,10 +4,9 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/leimaau/leimaau_jyutping.svg) ![GitHub](https://img.shields.io/github/license/leimaau/leimaau_jyutping.svg)
 
-> * 採用『香港語言學會粵語拼音方案』
-> * 聲調輸入 q平 v上 x去 （雙擊爲陽調）
-> * IPA版提供多種字形轉換和提示音爲IPA
-> * 提供六種反查方案，[`]普拼反查粵拼，[x]五筆畫反查粵拼，[v]倉頡五代反查粵拼，[r]五筆86反查粵拼，[xx]用普拼反查中古音，[xj]用粵拼反查中古音
+> * 採用香港語言學學會粵語拼音方案
+> * 提供聲調輸入 q平 v上 x去 （雙擊爲陽調）和多種字形轉換
+> * 提供四種反查方案，[`]普拼反查粵拼，[x]五筆畫反查粵拼，[v]倉頡五代反查粵拼，[r][粵語兩分](https://github.com/CanCLID/rime-loengfan)反查粵拼
 > * PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
 
 配方： ℞ **leimaau/leimaau_jyutping**

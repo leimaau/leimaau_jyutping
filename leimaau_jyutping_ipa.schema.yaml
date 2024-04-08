@@ -1,189 +1,65 @@
 # Rime schema
 # encoding: utf-8
 
+__include: leimaau_jyutping.schema:/
+
 schema:
   schema_id: leimaau_jyutping_ipa
   name: "狸貓粵拼(IPA)"
-  version: "2020.05.11"
+  version: "2024.04.08"
   author:
     - LeiMaau <leimaau@qq.com>
   description: |
-    採用『香港語言學會粵語拼音方案』
-    聲調輸入 q平 v上 x去 （雙擊爲陽調）
-    IPA版提供多種字形轉換和提示音爲IPA
-    提供六種反查方案，[`]普拼反查粵拼，[x]五筆畫反查粵拼，[v]倉頡五代反查粵拼，[r]五筆86反查粵拼，[xx]用普拼反查中古音，[xj]用粵拼反查中古音
+    採用香港語言學學會粵語拼音方案
+    提供聲調輸入 q平 v上 x去 （雙擊爲陽調）和多種字形轉換
+    提供四種反查方案，[`]普拼反查粵拼，[x]五筆畫反查粵拼，[v]倉頡五代反查粵拼，[r]粵語兩分反查粵拼
     PC上按Ctrl+Enter可將提示音上屏，按Ctrl+Shift+Enter可將候選項上屏
-    項目主頁 https://github.com/leimaau/leimaau_jyutping
-  dependencies:
-    - luna_pinyin
-    - stroke
-    - cangjie5
-    - wubi86
-    - zyenpheng
-
-switches:
-  - options: [simplification, noop, zh_hk, zh_tw, zh_jp]
-    reset: 0
-    states:
-      - 字形 → 大陸
-      - 字形 → 傳統〔不轉換〕
-      - 字形 → 香港
-      - 字形 → 臺灣
-      - 字形 → 日本
-  - name: emoji_cn
-    reset: 0
-    states: [ 〇, 😊 ]
-  - name: ascii_mode
-    reset: 0
-    states: [ 中文, 西文 ]
-  - name: full_shape
-    states: [ 半角, 全角 ]
-  - name: ascii_punct
-    states: [ 。，, ．， ]
-
-engine:
-  __include: leimaau_jyutping.schema:/engine
-  __patch:
-    filters:
-      - simplifier
-      - simplifier@zh_hk
-      - simplifier@zh_tw
-      - simplifier@zh_jp
-      - simplifier@emoji_cn
-      - uniquifier
-      - reverse_lookup_filter@reverse_lookup
-      - reverse_lookup_filter@zyenpheng_reverse_lookup
-
-speller:
-  __include: leimaau_jyutping.schema:/speller
-
-menu:
-  __include: leimaau_jyutping.schema:/menu
 
 translator:
   dictionary: leimaau_jyutping
   prism: leimaau_jyutping_ipa
-  spelling_hints: 5  # 標註拼音的字數，建議橫排顯示時設置爲1
+  spelling_hints: 8  # 標註拼音的字數，建議橫排顯示時設置爲1
   preedit_format:
-    - xform/(^|[ '])(m)+$/$1$2̩/                  # 唔m̩
-    - xform/(^|[ '])(ng)+$/$1$2̍/                # 五ŋ̍
-    - xform/([ptk])xx/$1˨/	                     # 熱jiːt̚˨
-    - xform/([ptk])x/$1˧/	                     # 咽jiːt̚˧
-    - xform/([ptk])q/$1˥/	                     # 一jɐt̚
-    - xform/qq/˨˩/                                # 
-    - xform/(^|[ '])q/$1ʔ/                       # 
-    - xform/q/˥/                                 # 
-    - xform/vv/˩˧/                                # 
-    - xform/v/˧˥/                                 # 
-    - xform/xx/˨/                                # 
-    - xform/x/˧/                                 # 
-    - xform/([PTK])$/$1]$2/	                     # 入jɐp̚
-    - xform/(^|[ '])([jy])u(ng)/$1jʊŋ/	         # 用jʊŋ
-    - xform/(^|[ '])(jy|[jy])u([t])/$1jYː$3]/    # 月jyːt̚
-    - xform/([dtlgkhzcsj])yu([t])/$1Yː$2]/	     # 奪tyːt̚
-    - xform/(^|[ '])([jy])u([k])/$1jʊ$3]/	     # 玉jʊk̚
-    - xform/(^|[ '])(jy)u/$1jYː/	             # 元jyːn
-    - xform/yu/Yː/	                             # 嫩nyːn
-    - xform/y([aeior])/j$1/	                     # 一yat/jɐt̚/
-    - xform/(aa|r)([iu])/Aː\U$2/	             # 嗎maː
-    - xform/a([iu])/ɐ\U$1/	                     # 米mɐi
-    - xform/(aa|r)([ptk])/Aː\U$2]/	             # 鈪aːk̚
-    - xform/a([ptk])/ɐ\U$1]/	                 # 呃ɐk̚
-    - xform/(aa|r)/Aː/	                         # 嗎maː
-    - xform/b/P/	                             # 吧paː
-    - xform/c/T͡sH/	                             # 差tsʰaː
-    - xform/d/T/	                             # 打taː
-    - xform/eu/ɛːU/	                             # 掉tɛːu
-    - xform/eoi/ɵY/	                             # 水sɵy
-    - xform/oei/ɵY/	                             # 容錯
-    - xform/oe([ptk])/œː$1]/	                 # 約jœːk̚
-    - xform/oe(ng)/œː$1/	                     # 容錯
-    - xform/oe([t])/ɵ$1]/	                     # 容錯
-    - xform/oe([n])/ɵ$1/	                     # 容錯
-    - xform/oe/œː/	                             # 張tsœːŋ
-    - xform/oi/ɔːI/	                             # 蓋kʰɔːi
-    - xform/eo(ng)/œːŋ/	                         # 容錯
-    - xform/eo([k])/œː$1]/	                     # 容錯
-    - xform/eo([t])/ɵ$1]/	                     # 率sɵt̚
-    - xform/eon/ɵn/	                             # 信sɵn
-    - xform/ou/OU/	                             # 無mou
-    - xform/u([k])/ʊ$1]/	                     # 六lʊk̚
-    - xform/ui/UːI/	                             # 回wuːi
-    - xform/iu/IːU/	                             # 小siːu
-    - xform/i(ng)/ɪN/	                         # 名mɪŋ
-    - xform/ik/ɪK]/	                             # 式sɪk̚
-    - xform/i([pt])/Iː$1]/	                     # 結kiːt̚
-    - xform/eo/ɵ/	                             # 去hɵy
-    - xform/a/ɐ/	                             # 粒nɐp̚
-    - xform/ei/EI/	                             # 欸ei
-    - xform/i/Iː/	                             # 是siː
-    - xform/e([ptk])/ɛː$1]/	                     # 壢lɛːk̚
-    - xform/e/ɛː/	                             # 寫sɛː
-    - xform/o([ptk])/ɔː$1]/	                     # 莫mɔːk̚
-    - xform/u([pt])/Uː$1]/	                     # 活wuːt̚
-    - xform/u(ng)/ʊN/	                         # 動tʊŋ
-    - xform/o/ɔː/	                             # 錯tsʰɔː
-    - xform/u/Uː/	                             # 故kuː
-    - xform/ng/N/	                             # 我ŋɔː
-    - xform/n/n/	                             # 你nei
-    - xform/kw/KWH/	                             # 群kʷʰɐn
-    - xform/gw/KW/	                             # 均kʷɐn
-    - xform/g/K/	                             # 急kɐp̚
-    - xform/(^|[ '])([ptk])/$1$2H/	             # 噴pʰɐn
-    - xform/w/w/	                             # 雲wɐn
-    - xform/j/j/	                             # 人jɐn
-    - xform/m/m/	                             # 美mei
-    - xform/l/l/	                             # 里lei
-    - xform/s/s/	                             # 死sei
-    - xform/z/T͡s/	                             # 這t͡sɛː
-    - "xlit|PmfTnNlKhHsʃjwWɐAEɛIɪɔOœɵUʊYː]|pmftnŋlkhʰsʃjwʷɐaeɛiɪɔoœɵuʊyː̚|"
+    - xform/ng/ŋ/
+    - xform/^| |'/,/
 
-luna_pinyin:
-  __include: leimaau_jyutping.schema:/luna_pinyin
+    - xform/(,|h)(m|ŋ)(qq?|xx?|vv?)?(?=$|,)/$1$2̍$3/
+    - xform/m̍/m̩/
 
-stroke:
-  __include: leimaau_jyutping.schema:/stroke
+    - xform/,y(ŋ|k)/,jʊ$1/
+    - xform/,y(n|t)/,jy$1/
+    - xform/,y/,j/
+  
+    - xform/([,qgkŋh]oe)t/$1d/
+    - xform/eo|oe/œ/
+    - xform/yu/y/
+    - xform/aa/r/
+    - xlit/aroe/ɐaɔɛ/
 
-cangjie5:
-  __include: leimaau_jyutping.schema:/cangjie5
-    
-wubi86:
-  __include: leimaau_jyutping.schema:/wubi86
-    
-reverse_lookup:
-  __include: leimaau_jyutping.schema:/reverse_lookup
+    - xform/ɔu/ou/
+    - xform/œ(n|t)/ɵ$1/
+    - xform/œ[iy]/ɵy̑/
+    - xform/ɛi/ei/
+    - xform/i(ŋ|k)/ɪ$1/
+    - xform/u(ŋ|k)/ʊ$1/
 
-puping_to_zyenpheng:
-  __include: leimaau_jyutping.schema:/puping_to_zyenpheng
+    - xform/a|ɔ|œ|ɛ|i|u|y(?!̑)/$&ː/
+    - xform/([ːɐoɵe][iu])ː/$1/
+    - xform/[ːɐoɵe][ptdk]/$&̚/
 
-jyutping_to_zyenpheng:
-  __include: leimaau_jyutping.schema:/jyutping_to_zyenpheng
+    - xform/,([ptc]|kw?)/$&ʰ/
+    - xform/,q/,ʔ/
+    - xform/[kg]w/kʷ/
+    - xform/c|z/t͡s/
+    - xlit/bdg/ptk/
 
-zyenpheng_reverse_lookup:
-  __include: leimaau_jyutping.schema:/zyenpheng_reverse_lookup
+    - xform/qq/˨˩/
+    - xform/xx/˨/
+    - xform/vv/˩˧/
+    - xform/q/˥/
+    - xform/x/˧/
+    - xform/v/˧˥/
 
-punctuator:
-  __include: leimaau_jyutping.schema:/punctuator
-
-key_binder:
-  __include: leimaau_jyutping.schema:/key_binder
-
-recognizer:
-  __include: leimaau_jyutping.schema:/recognizer
-
-zh_hk:
-  option_name: zh_hk
-  opencc_config: t2hk.json
-
-zh_tw:
-  option_name: zh_tw
-  opencc_config: t2tw.json
-
-zh_jp:
-  option_name: zh_jp
-  opencc_config: t2jp.json
-
-emoji_cn:
-  opencc_config: emoji.json
-  option_name: emoji_cn
-  tips: all
+    - xform/^,//
+    - xform/̑//
+    - xform/,/ /
