@@ -3,17 +3,13 @@
 
 patch:
   switches:
-    - options: [simplification, noop, zh_hk, zh_tw, zh_jp]
+    - options: [simplification, noop, zh_hk, zh_tw]
       reset: 0
       states:
         - 字形 → 大陸
         - 字形 → 傳統〔不轉換〕
         - 字形 → 香港
         - 字形 → 臺灣
-        - 字形 → 日本
-    - name: emoji_cn
-      reset: 0
-      states: [ 〇, 😊 ]
     - name: ascii_mode
       reset: 0
       states: [ 中文, 西文 ]
@@ -21,16 +17,17 @@ patch:
       states: [ 半角, 全角 ]
     - name: ascii_punct
       states: [ 。，, ．， ]
+    - name: emoji_cn
+      reset: 0
+      states: [ 〇, 😊 ]
   
   engine/filters:
     - simplifier
     - simplifier@zh_hk
     - simplifier@zh_tw
-    - simplifier@zh_jp
     - simplifier@emoji_cn
     - uniquifier
     - reverse_lookup_filter@reverse_lookup
-    - reverse_lookup_filter@zyenpheng_reverse_lookup
   
   key_binder/bindings:
     - {accept: semicolon, send: 2, when: has_menu} # 分號次選
@@ -49,10 +46,6 @@ patch:
   zh_tw:
     option_name: zh_tw
     opencc_config: t2tw.json
-  
-  zh_jp:
-    option_name: zh_jp
-    opencc_config: t2jp.json
   
   emoji_cn:
     opencc_config: emoji.json
